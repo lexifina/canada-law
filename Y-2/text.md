@@ -1,0 +1,277 @@
+Yukon Act
+
+R.S.C., 1985, c. Y-2
+
+An Act respecting the Yukon Territory
+
+[Repealed, 2002, c. 7, s. 280]
+
+## Short Title
+
+[Repealed, 2002, c. 7, s. 280]
+
+1 [Repealed, 2002, c. 7, s. 280]
+
+## Interpretation
+
+[Repealed, 2002, c. 7, s. 280]
+
+2 [Repealed, 2002, c. 7, s. 280]
+
+## PART I Government
+
+[Repealed, 2002, c. 7, s. 280]
+
+### Commissioner
+
+[Repealed, 2002, c. 7, s. 280]
+
+3 [Repealed, 2002, c. 7, s. 280]
+
+4 [Repealed, 2002, c. 7, s. 280]
+
+5 [Repealed, 2002, c. 7, s. 280]
+
+6 [Repealed, 2002, c. 7, s. 280]
+
+7 [Repealed, 2002, c. 7, s. 280]
+
+### Seat of Government
+
+[Repealed, 2002, c. 7, s. 280]
+
+8 [Repealed, 2002, c. 7, s. 280]
+
+### Council
+
+[Repealed, 2002, c. 7, s. 280]
+
+9 [Repealed, 2002, c. 7, s. 280]
+
+10 [Repealed, 2002, c. 7, s. 280]
+
+11 [Repealed, 2002, c. 7, s. 280]
+
+12 [Repealed, 2002, c. 7, s. 280]
+
+13 [Repealed, 2002, c. 7, s. 280]
+
+14 [Repealed, 2002, c. 7, s. 280]
+
+15 [Repealed, 2002, c. 7, s. 280]
+
+16 [Repealed, 2002, c. 7, s. 280]
+
+### Legislative Powers of Commissioner in Council
+
+[Repealed, 2002, c. 7, s. 280]
+
+17 [Repealed, 2002, c. 7, s. 280]
+
+17.1 [Repealed, 2002, c. 7, s. 280]
+
+18 [Repealed, 2002, c. 7, s. 280]
+
+19 [Repealed, 2002, c. 7, s. 280]
+
+20 [Repealed, 2002, c. 7, s. 280]
+
+21 [Repealed, 2002, c. 7, s. 280]
+
+22 [Repealed, 2002, c. 7, s. 280]
+
+### Restriction of Oil and Gas Interests in Certain Areas
+
+[Repealed, 2002, c. 7, s. 280]
+
+22.1 [Repealed, 2002, c. 7, s. 280]
+
+### Consistent Exercise of Powers
+
+[Repealed, 2002, c. 7, s. 280]
+
+22.2 [Repealed, 2002, c. 7, s. 280]
+
+### Laws Applicable to Territory
+
+[Repealed, 2002, c. 7, s. 280]
+
+23 [Repealed, 2002, c. 7, s. 280]
+
+### Yukon Consolidated Revenue Fund
+
+[Repealed, 2002, c. 7, s. 280]
+
+24 [Repealed, 2002, c. 7, s. 280]
+
+25 [Repealed, 2002, c. 7, s. 280]
+
+26 [Repealed, 2002, c. 7, s. 280]
+
+### Territorial Accounts
+
+[Repealed, 2002, c. 7, s. 280]
+
+27 [Repealed, 2002, c. 7, s. 280]
+
+28 [Repealed, 2002, c. 7, s. 280]
+
+29 [Repealed, 2002, c. 7, s. 280]
+
+30 [Repealed, 2002, c. 7, s. 280]
+
+31 [Repealed, 2002, c. 7, s. 280]
+
+## PART II Administration of Justice
+
+[Repealed, 2002, c. 7, s. 280]
+
+### Judicature
+
+[Repealed, 2002, c. 7, s. 280]
+
+32 [Repealed, 2002, c. 7, s. 280]
+
+33 [Repealed, 2002, c. 7, s. 280]
+
+### Supreme Court
+
+[Repealed, 2002, c. 7, s. 280]
+
+34 [Repealed, 2002, c. 7, s. 280]
+
+35 [Repealed, 2002, c. 7, s. 280]
+
+36 [Repealed, 2002, c. 7, s. 280]
+
+37 [Repealed, 2002, c. 7, s. 280]
+
+38 [Repealed, 2002, c. 7, s. 280]
+
+### Court of Appeal
+
+[Repealed, 2002, c. 7, s. 280]
+
+39 [Repealed, 2002, c. 7, s. 280]
+
+### Criminal Trials Held in the Northwest Territories or Nunavut
+
+[Repealed, 2002, c. 7, s. 280]
+
+40 [Repealed, 2002, c. 7, s. 280]
+
+### Police Magistrates
+
+[Repealed, 2002, c. 7, s. 280]
+
+41 [Repealed, 2002, c. 7, s. 280]
+
+### Justices of the Peace
+
+[Repealed, 2002, c. 7, s. 280]
+
+42 [Repealed, 2002, c. 7, s. 280]
+
+### Confinement of Prisoners
+
+[Repealed, 2002, c. 7, s. 280]
+
+43 [Repealed, 2002, c. 7, s. 280]
+
+44 [Repealed, 2002, c. 7, s. 280]
+
+45 [Repealed, 2002, c. 7, s. 280]
+
+### Repeal
+
+[Repealed, 2002, c. 7, s. 280]
+
+46 [Repealed, 2002, c. 7, s. 280]
+
+## PART II.1 Official Languages
+
+[Repealed, 2002, c. 7, s. 280]
+
+46.1 [Repealed, 2002, c. 7, s. 280]
+
+46.2 [Repealed, 2002, c. 7, s. 280]
+
+## PART III General
+
+[Repealed, 2002, c. 7, s. 280]
+
+### Lands
+
+[Repealed, 2002, c. 7, s. 280]
+
+47 [Repealed, 2002, c. 7, s. 280]
+
+47.1 [Repealed, 2002, c. 7, s. 280]
+
+47.2 [Repealed, 2002, c. 7, s. 280]
+
+### Reindeer
+
+[Repealed, 2002, c. 7, s. 280]
+
+48 [Repealed, 2002, c. 7, s. 280]
+
+49 [Repealed, 2002, c. 7, s. 280]
+
+50 [Repealed, 2002, c. 7, s. 280]
+
+51 [Repealed, 2002, c. 7, s. 280]
+
+### Intoxicants
+
+[Repealed, 2002, c. 7, s. 280]
+
+52 [Repealed, 2002, c. 7, s. 280]
+
+53 [Repealed, 2002, c. 7, s. 280]
+
+54 [Repealed, 2002, c. 7, s. 280]
+
+55 [Repealed, 2002, c. 7, s. 280]
+
+56 [Repealed, 2002, c. 7, s. 280]
+
+### Mentally Disordered Persons
+
+[Repealed, 2002, c. 7, s. 280]
+
+57 [Repealed, 2002, c. 7, s. 280]
+
+58 [Repealed, 2002, c. 7, s. 280]
+
+### Neglected Children
+
+[Repealed, 2002, c. 7, s. 280]
+
+59 [Repealed, 2002, c. 7, s. 280]
+
+### Cultural Sites and Property
+
+[Repealed, 2002, c. 7, s. 280]
+
+60 [Repealed, 2002, c. 7, s. 280]
+
+61 [Repealed, 2002, c. 7, s. 280]
+
+62 [Repealed, 2002, c. 7, s. 280]
+
+### Offence and Punishment
+
+[Repealed, 2002, c. 7, s. 280]
+
+63 [Repealed, 2002, c. 7, s. 280]
+
+64 [Repealed, 2002, c. 7, s. 280]
+
+## SCHEDULE 1 (Section 2) Description of Yukon Territory
+
+[Repealed, 2002, c. 7, s. 280]
+
+## SCHEDULE 2 (Section 2) Northern Limit of Adjoining Area
+
+[Repealed, 2002, c. 7, s. 280]
