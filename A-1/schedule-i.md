@@ -552,6 +552,10 @@
 
   - Commission de la fonction publique
 
+  - Public Service Staffing Tribunal
+
+  - Tribunal de la dotation de la fonction publique
+
   - Public Service Staff Relations Board
 
   - Commission des relations de travail dans la fonction publique
@@ -734,6 +738,6 @@ History:
 
 - SOR/2002-43, 71, 174, 291, 343
 
-- 2003, c. 7, s. 127
+- 2003, c. 7, s. 127, c. 22, s. 246
 
 - SOR/2003-148
