@@ -548,6 +548,10 @@
 
   - Bureau du Conseil privé
 
+  - Public Health Agency of Canada
+
+  - Agence de la santé publique du Canada
+
   - Public Service Commission
 
   - Commission de la fonction publique
@@ -748,4 +752,4 @@ History:
 
 - 2004, c. 7, s. 5, c. 11, ss. 23, 24
 
-- SOR/2004-24
+- SOR/2004-24, 207
