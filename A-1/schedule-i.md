@@ -388,6 +388,10 @@
 
   - Commission du droit du Canada
 
+  - Library and Archives of Canada
+
+  - Bibliothèque et Archives du Canada
+
   - Mackenzie Valley Environmental Impact Review Board
 
   - Office d’examen des répercussions environnementales de la vallée du Mackenzie
@@ -412,10 +416,6 @@
 
   - Administration portuaire de Nanaïmo
 
-  - National Archives of Canada
-
-  - Archives nationales du Canada
-
   - The National Battlefields Commission
 
   - Commission des champs de bataille nationaux
@@ -439,10 +439,6 @@
   - National Gallery of Canada
 
   - Musée des beaux-arts du Canada
-
-  - National Library
-
-  - Bibliothèque nationale
 
   - National Museum of Science and Technology
 
@@ -750,6 +746,6 @@ History:
 
 - SOR/2003-148, 423, 428, 435, 440
 
-- 2004, c. 7, s. 5
+- 2004, c. 7, s. 5, c. 11, ss. 23, 24
 
 - SOR/2004-24
