@@ -6,6 +6,8 @@ Aeronautics Act Loi sur l’aéronautique | subsections 4.8(1) and 6.5(5)
 
 Anti-Inflation Act, S.C. 1974-75-76, c. 75 Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14
 
+Assisted Human Reproduction Act Loi sur la procréation assistée | subsection 18(2)
+
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
 Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
@@ -139,3 +141,5 @@ History:
 - 2001, c. 9, s. 585, c. 25, s. 86, c. 41, s. 76
 
 - 2003, c. 7, s. 128
+
+- 2004, c. 2, s. 73
