@@ -58,13 +58,13 @@
 
   - Ministère des Ressources naturelles
 
+  - Department of Public Safety and Emergency Preparedness
+
+  - Ministère de la Sécurité publique et de la Protection civile
+
   - Department of Public Works and Government Services
 
   - Ministère des Travaux publics et des Services gouvernementaux
-
-  - Department of the Solicitor General
-
-  - Ministère du Solliciteur général
 
   - Department of Transport
 
@@ -753,3 +753,5 @@ History:
 - 2004, c. 7, s. 5, c. 11, ss. 23, 24
 
 - SOR/2004-24, 207
+
+- 2005, c. 10, ss. 9, 10
