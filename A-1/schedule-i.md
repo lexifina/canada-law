@@ -180,6 +180,10 @@
 
   - Agence canadienne d’évaluation environnementale
 
+  - Canadian Firearms Centre
+
+  - Centre canadien des armes à feu
+
   - Canadian Food Inspection Agency
 
   - Agence canadienne d’inspection des aliments
@@ -725,3 +729,5 @@ History:
 - 2002, c. 7, s. 78, c. 10, s. 176, c. 17, ss. 1, 14
 
 - SOR/2002-43, 71, 174, 291, 343
+
+- SOR/2003-148
