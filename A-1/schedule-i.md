@@ -660,10 +660,6 @@
 
   - Office des droits de surface du Yukon
 
-  - Yukon Territory Water Board
-
-  - Office des eaux du territoire du Yukon
-
 History:
 
 - R.S., 1985, c. A-1, Sch. I
@@ -726,6 +722,6 @@ History:
 
 - SOR/2001-200, 329
 
-- 2002, c. 10, s. 176, c. 17, ss. 1, 14
+- 2002, c. 7, s. 78, c. 10, s. 176, c. 17, ss. 1, 14
 
 - SOR/2002-43, 71, 174, 291, 343
