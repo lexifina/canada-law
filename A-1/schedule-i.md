@@ -660,6 +660,10 @@
 
   - Administration portuaire de Windsor
 
+  - Yukon Environmental and Socio-economic Assessment Board
+
+  - Office d’évaluation environnementale et socioéconomique du Yukon
+
   - Yukon Surface Rights Board
 
   - Office des droits de surface du Yukon
@@ -729,5 +733,7 @@ History:
 - 2002, c. 7, s. 78, c. 10, s. 176, c. 17, ss. 1, 14
 
 - SOR/2002-43, 71, 174, 291, 343
+
+- 2003, c. 7, s. 127
 
 - SOR/2003-148
