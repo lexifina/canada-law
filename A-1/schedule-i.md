@@ -148,6 +148,10 @@
 
   - Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers
 
+  - Canada School of Public Service
+
+  - École de la fonction publique du Canada
+
   - Canadian Advisory Council on the Status of Women
 
   - Conseil consultatif canadien de la situation de la femme
@@ -159,10 +163,6 @@
   - Canadian Artists and Producers Professional Relations Tribunal
 
   - Tribunal canadien des relations professionnelles artistes-producteurs
-
-  - Canadian Centre for Management Development
-
-  - Centre canadien de gestion
 
   - Canadian Centre for Occupational Health and Safety
 
@@ -271,10 +271,6 @@
   - Copyright Board
 
   - Commission du droit d’auteur
-
-  - Communication Canada
-
-  - Communication Canada
 
   - Correctional Service of Canada
 
@@ -754,6 +750,8 @@ History:
 
 - SOR/2002-43, 71, 174, 291, 343
 
-- 2003, c. 7, s. 127, c. 22, s. 246
+- 2003, c. 7, s. 127, c. 22, ss. 246, 251, 252
 
 - SOR/2003-148, 423, 428, 435, 440
+
+- SOR/2004-24
