@@ -304,10 +304,6 @@
 
   - Office de répartition des approvisionnements d’énergie
 
-  - Ethics Counsellor
-
-  - Conseiller en éthique
-
   - Farm Credit Canada
 
   - Financement agricole Canada
@@ -753,5 +749,7 @@ History:
 - 2003, c. 7, s. 127, c. 22, ss. 246, 251, 252
 
 - SOR/2003-148, 423, 428, 435, 440
+
+- 2004, c. 7, s. 5
 
 - SOR/2004-24
