@@ -1,0 +1,15 @@
+## SECOND SCHEDULE Portions of Mr. King’s Will
+
+- 13 For many years it has been my intention to bequeath Laurier House to the Government and people of Canada, in the belief that as the years pass, the citizens of Canada will take an increasing interest and pride in the preservation of a house occupied through many years by two of Canada’s Prime Ministers and reminiscent of an environment that was a part of their daily lives.
+
+- 14 It has been my hope that such a bequest might serve also to remind my fellow Canadians of the close association I enjoyed with Sir Wilfrid and Lady Laurier, and what I owed to their personal friendship; also to emphasize the unity of heart and mind among the Canadian people which Sir Wilfrid and I, throughout our years of office, sought to preserve in the administration of Canada’s national affairs.
+
+- 15 The maintenance of the residence as a place of historic interest and contemporary record of days that are gone would also serve the interests of the Canadian people in other ways. The residence might appropriately, I think, be given an immediate association with the Public Archives of Canada. Responsibility for its continued preservation, supervision and use might be placed upon the Dominion Archivist. Accommodation for scholars engaged on work of research in Ottawa is, at present, most inadequate both at the Archives and at the Library of Parliament. In the years of my occupancy of Laurier House, I have done most of my work in the library and adjoining rooms on the top floor. I should particularly welcome the continued use of this portion of the house for purposes of study and research. A direct association with the Archives would not only serve to emphasize the historic significance of the residence, but would help to ensure the interior being maintained much as it is, and would lead naturally to a more appropriate display of important documents and other objects of special interest. I should hope that the dining room and its furnishings, paintings, etc., would be retained much as they are.
+
+- 16 I therefore give, devise and bequeath to the Government of Canada in trust for the people of Canada the house situated at 335 Laurier Avenue East in the City of Ottawa, and all the contents of the said house except such papers, books, furnishings and other things for the disposal of which I have made provision otherwise in this my Will.
+
+- 17 I also give, devise and bequeath to the Government of Canada in trust for the people of Canada the sum of Two Hundred and Twenty-Five Thousand Dollars ($225,000), the interest thereon to be used to assist in the maintenance and care of the said house. The said sum of Two Hundred and Twenty-Five Thousand Dollars ($225,000), represents moneys which the Honourable Peter C. Larkin and other friends contributed, after the reconstruction and refurnishing of the residence was completed, to assist me in its upkeep throughout my life, and in meeting, to the end of my life, other personal and public needs, especially such needs as would arise in years of retirement.
+
+History:
+
+- 1951, c. 19, Second Sch
