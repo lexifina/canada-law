@@ -108,6 +108,10 @@
 
   - Banque de développement du Canada
 
+  - Canada Border Services Agency
+
+  - Agence des services frontaliers du Canada
+
   - Canada Council for the Arts
 
   - Conseil des Arts du Canada
@@ -279,6 +283,14 @@
   - Defence Construction (1951) Limited
 
   - Construction de défense (1951) Limitée
+
+  - Department of Human Resources and Skills Development
+
+  - Ministère des Ressources humaines et du Développement des compétences
+
+  - Department of International Trade
+
+  - Ministère du Commerce international
 
   - Director of Soldier Settlement
 
@@ -552,6 +564,10 @@
 
   - Commission de la fonction publique
 
+  - Public Service Human Resources Management Agency of Canada
+
+  - Agence de gestion des ressources humaines de la fonction publique du Canada
+
   - Public Service Staffing Tribunal
 
   - Tribunal de la dotation de la fonction publique
@@ -740,4 +756,4 @@ History:
 
 - 2003, c. 7, s. 127, c. 22, s. 246
 
-- SOR/2003-148
+- SOR/2003-148, 423, 428, 435, 440
