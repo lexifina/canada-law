@@ -560,13 +560,13 @@
 
   - Agence de gestion des ressources humaines de la fonction publique du Canada
 
+  - Public Service Labour Relations Board
+
+  - Commission des relations de travail dans la fonction publique
+
   - Public Service Staffing Tribunal
 
   - Tribunal de la dotation de la fonction publique
-
-  - Public Service Staff Relations Board
-
-  - Commission des relations de travail dans la fonction publique
 
   - Quebec Port Authority
 
@@ -746,7 +746,7 @@ History:
 
 - SOR/2002-43, 71, 174, 291, 343
 
-- 2003, c. 7, s. 127, c. 22, ss. 246, 251, 252
+- 2003, c. 7, s. 127, c. 22, ss. 88, 246, 251, 252
 
 - SOR/2003-148, 423, 428, 435, 440
 
