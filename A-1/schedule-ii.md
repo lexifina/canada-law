@@ -92,6 +92,8 @@ Proceeds of Crime (Money Laundering) and Terrorist Financing Act Loi sur le recy
 
 Railway Safety Act Loi sur la sécurité ferroviaire | subsection 39.2(1)
 
+Sex Offender Information Registration Act Loi sur l’enregistrement de renseignements sur les délinquants sexuels | subsections 9(3) and 16(4)
+
 Shipping Conferences Exemption Act, 1987 Loi dérogatoire de 1987 sur les conférences maritimes | section 11
 
 Softwood Lumber Products Export Charge Act Loi sur le droit à l’exportation de produits de bois d’oeuvre | section 20
@@ -142,4 +144,4 @@ History:
 
 - 2003, c. 7, s. 128
 
-- 2004, c. 2, s. 73, c. 15, s. 107
+- 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107
