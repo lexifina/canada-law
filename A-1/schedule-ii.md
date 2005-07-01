@@ -10,6 +10,8 @@ Assisted Human Reproduction Act Loi sur la procréation assistée | subsection 1
 
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
+Canada Education Savings Act Loi canadienne sur l’épargne-études | section 11
+
 Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
 
 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | sections 19 and 122
@@ -43,8 +45,6 @@ Criminal Records Act Loi sur le casier judiciaire | subsection 6(2) and section 
 Customs Act Loi sur les douanes | sections 107 and 107.1
 
 Defence Production Act Loi sur la production de défense | section 30
-
-Department of Human Resources Development Act Loi sur le ministère du Développement des ressources humaines | section 33.5
 
 Department of Industry Act Loi sur le ministère de l’Industrie | subsection 16(2)
 
@@ -144,4 +144,4 @@ History:
 
 - 2003, c. 7, s. 128
 
-- 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107
+- 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107, c. 26, ss. 15, 16
