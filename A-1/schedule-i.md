@@ -124,6 +124,10 @@
 
   - Société d’assurance-dépôts du Canada
 
+  - Canada Development Investment Corporation
+
+  - Corporation de développement des investissements du Canada
+
   - Canada Employment Insurance Commission
 
   - Commission de l’assurance-emploi du Canada
@@ -244,6 +248,10 @@
 
   - Commission canadienne des affaires polaires
 
+  - Canadian Race Relations Foundation
+
+  - Fondation canadienne des relations raciales
+
   - Canadian Radio-television and Telecommunications Commission
 
   - Conseil de la radiodiffusion et des télécommunications canadiennes
@@ -267,6 +275,14 @@
   - Canadian Transportation Agency
 
   - Office des transports du Canada
+
+  - Cape Breton Development Corporation
+
+  - Société de développement du Cap-Breton
+
+  - Cape Breton Growth Fund Corporation Corporation
+
+  - Fonds d’investissement du Cap-Breton
 
   - Copyright Board
 
@@ -303,6 +319,10 @@
   - Energy Supplies Allocation Board
 
   - Office de répartition des approvisionnements d’énergie
+
+  - Enterprise Cape Breton Corporation
+
+  - Société d’expansion du Cap-Breton
 
   - Farm Credit Canada
 
@@ -399,6 +419,10 @@
   - Mackenzie Valley Land and Water Board
 
   - Office des terres et des eaux de la vallée du Mackenzie
+
+  - Marine Atlantic Inc.
+
+  - Marine Atlantique S.C.C.
 
   - Merchant Seamen Compensation Board
 
@@ -512,9 +536,17 @@
 
   - Bureau du surintendant des institutions financières
 
+  - Old Port of Montreal Corporation Inc.
+
+  - Société du Vieux-Port de Montréal Inc.
+
   - Pacific Pilotage Authority
 
   - Administration de pilotage du Pacifique
+
+  - Parc Downsview Park Inc.
+
+  - Parc Downsview Park Inc.
 
   - Parks Canada Agency
 
@@ -572,9 +604,17 @@
 
   - Administration portuaire de Québec
 
+  - Queens Quay West Land Corporation
+
+  - Queens Quay West Land Corporation
+
   - Regional Development Incentives Board
 
   - Conseil des subventions au développement régional
+
+  - Ridley Terminals Inc.
+
+  - Ridley Terminals Inc.
 
   - Royal Canadian Mint
 
@@ -755,3 +795,5 @@ History:
 - SOR/2004-24, 207
 
 - 2005, c. 10, ss. 9, 10
+
+- SOR/2005–251
