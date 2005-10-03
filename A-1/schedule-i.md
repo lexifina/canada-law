@@ -128,6 +128,10 @@
 
   - Corporation de développement des investissements du Canada
 
+  - Canada Emission Reduction Incentives Agency
+
+  - Agence canadienne pour l’incitation à la réduction des émissions
+
   - Canada Employment Insurance Commission
 
   - Commission de l’assurance-emploi du Canada
@@ -794,6 +798,6 @@ History:
 
 - SOR/2004-24, 207
 
-- 2005, c. 10, ss. 9, 10
+- 2005, c. 10, ss. 9, 10, c. 30, s. 88
 
 - SOR/2005–251
