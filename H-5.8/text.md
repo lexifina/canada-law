@@ -1,0 +1,355 @@
+Department of Human Resources Development Act
+
+S.C. 1996, c. 11
+
+Assented to 1996-05-29
+
+An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts
+
+[Repealed, 2005, c. 34, s. 84]
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+## Short Title
+
+[Repealed, 2005, c. 34, s. 84]
+
+1 [Repealed, 2005, c. 34, s. 84]
+
+## Interpretation
+
+[Repealed, 2005, c. 34, s. 84]
+
+2 [Repealed, 2005, c. 34, s. 84]
+
+## PART I Department of Human Resources Development
+
+[Repealed, 2005, c. 34, s. 84]
+
+### Establishment
+
+[Repealed, 2005, c. 34, s. 84]
+
+3 [Repealed, 2005, c. 34, s. 84]
+
+4 [Repealed, 2005, c. 34, s. 84]
+
+5 [Repealed, 2005, c. 34, s. 84]
+
+### Powers, Duties and Functions of the Minister
+
+[Repealed, 2005, c. 34, s. 84]
+
+6 [Repealed, 2005, c. 34, s. 84]
+
+7 [Repealed, 2005, c. 34, s. 84]
+
+### Fees and Charges
+
+[Repealed, 2005, c. 34, s. 84]
+
+8 [Repealed, 2005, c. 34, s. 84]
+
+9 [Repealed, 2005, c. 34, s. 84]
+
+10 [Repealed, 2005, c. 34, s. 84]
+
+11 [Repealed, 2005, c. 34, s. 84]
+
+12 [Repealed, 2005, c. 34, s. 84]
+
+### Boards, Committees and Councils
+
+[Repealed, 2005, c. 34, s. 84]
+
+13 [Repealed, 2005, c. 34, s. 84]
+
+### National Council of Welfare
+
+[Repealed, 2005, c. 34, s. 84]
+
+14 [Repealed, 2005, c. 34, s. 84]
+
+15 [Repealed, 2005, c. 34, s. 84]
+
+16 [Repealed, 2005, c. 34, s. 84]
+
+17 [Repealed, 2005, c. 34, s. 84]
+
+18 [Repealed, 2005, c. 34, s. 84]
+
+19 [Repealed, 2005, c. 34, s. 84]
+
+### General Provisions
+
+[Repealed, 2005, c. 34, s. 84]
+
+20 [Repealed, 2005, c. 34, s. 84]
+
+21 [Repealed, 2005, c. 34, s. 84]
+
+22 [Repealed, 2005, c. 34, s. 84]
+
+## PART II Canada Employment Insurance Commission
+
+[Repealed, 2005, c. 34, s. 84]
+
+### Continuation of the Commission
+
+[Repealed, 2005, c. 34, s. 84]
+
+23 [Repealed, 2005, c. 34, s. 84]
+
+24 [Repealed, 2005, c. 34, s. 84]
+
+25 [Repealed, 2005, c. 34, s. 84]
+
+26 [Repealed, 2005, c. 34, s. 84]
+
+### Powers, Duties and Functions of the Commission
+
+[Repealed, 2005, c. 34, s. 84]
+
+27 [Repealed, 2005, c. 34, s. 84]
+
+28 [Repealed, 2005, c. 34, s. 84]
+
+29 [Repealed, 2005, c. 34, s. 84]
+
+### Organization and Operation of the Commission
+
+[Repealed, 2005, c. 34, s. 84]
+
+30 [Repealed, 2005, c. 34, s. 84]
+
+31 [Repealed, 2005, c. 34, s. 84]
+
+31.1 [Repealed, 2005, c. 34, s. 84]
+
+### Audit
+
+[Repealed, 2005, c. 34, s. 84]
+
+32 [Repealed, 2005, c. 34, s. 84]
+
+## PART III Assistance for Long-service Employees
+
+[Repealed, 2005, c. 34, s. 84]
+
+33 [Repealed, 2005, c. 34, s. 84]
+
+## PART III.1 [repealed, 2004, c. 26, s. 19]
+
+33.1 [Repealed, 2004, c. 26, s. 19]
+
+33.2 [Repealed, 2004, c. 26, s. 19]
+
+33.3 [Repealed, 2004, c. 26, s. 19]
+
+33.4 [Repealed, 2004, c. 26, s. 19]
+
+33.5 [Repealed, 2004, c. 26, s. 19]
+
+33.6 [Repealed, 2004, c. 26, s. 19]
+
+## PART IV Transitional, Related and Conditional Amendments, Repeals and Coming into Force
+
+[Repealed, 2005, c. 34, s. 84]
+
+### Transitional Provisions
+
+[Repealed, 2005, c. 34, s. 84]
+
+34 [Repealed, 2005, c. 34, s. 84]
+
+35 [Repealed, 2005, c. 34, s. 84]
+
+36 [Repealed, 2005, c. 34, s. 84]
+
+37 [Repealed, 2005, c. 34, s. 84]
+
+38 [Repealed, 2005, c. 34, s. 84]
+
+39 [Repealed, 2005, c. 34, s. 84]
+
+40 [Repealed, 2005, c. 34, s. 84]
+
+41 [Repealed, 2005, c. 34, s. 84]
+
+42 [Repealed, 2005, c. 34, s. 84]
+
+### Related Amendments
+
+[Repealed, 2005, c. 34, s. 84]
+
+#### Access to Information Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+43 to 46 [Repealed, 2005, c. 34, s. 84]
+
+#### Budget Implementation Act, 1995
+
+[Repealed, 2005, c. 34, s. 84]
+
+46.1 [Repealed, 2005, c. 34, s. 84]
+
+#### Canada Assistance Plan
+
+[Repealed, 2005, c. 34, s. 84]
+
+47 and 48 [Repealed, 2005, c. 34, s. 84]
+
+#### Canada Pension Plan
+
+[Repealed, 2005, c. 34, s. 84]
+
+49 [Repealed, 2005, c. 34, s. 84]
+
+#### Children’s Special Allowances Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+50 [Repealed, 2005, c. 34, s. 84]
+
+#### Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+51 to 53 [Repealed, 2005, c. 34, s. 84]
+
+#### Financial Administration Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+54 to 59 [Repealed, 2005, c. 34, s. 84]
+
+#### Hazardous Materials Information Review Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+60 [Repealed, 2005, c. 34, s. 84]
+
+#### Canadian Human Rights Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+61 [Repealed, 2005, c. 34, s. 84]
+
+#### Immigration Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+62 [Repealed, 2005, c. 34, s. 84]
+
+#### Income Tax Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+63 [Repealed, 2005, c. 34, s. 84]
+
+#### Labour Adjustment Benefits Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+64 [Repealed, 2005, c. 34, s. 84]
+
+#### Canada Labour Code
+
+[Repealed, 2005, c. 34, s. 84]
+
+65 to 68 [Repealed, 2005, c. 34, s. 84]
+
+#### Municipal Grants Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+69 and 70 [Repealed, 2005, c. 34, s. 84]
+
+#### National Training Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+71 to 75 [Repealed, 2005, c. 34, s. 84]
+
+#### Old Age Security Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+76 [Repealed, 2005, c. 34, s. 84]
+
+#### Privacy Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+77 to 80 [Repealed, 2005, c. 34, s. 84]
+
+#### Public Sector Compensation Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+81 to 83 [Repealed, 2005, c. 34, s. 84]
+
+#### Public Service Staff Relations Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+84 [Repealed, 2005, c. 34, s. 84]
+
+#### Public Service Superannuation Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+85 and 86 [Repealed, 2005, c. 34, s. 84]
+
+#### Salaries Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+87 [Repealed, 2005, c. 34, s. 84]
+
+#### Status of the Artist Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+88 [Repealed, 2005, c. 34, s. 84]
+
+#### Unemployment Insurance Act
+
+[Repealed, 2005, c. 34, s. 84]
+
+89 to 94 [Repealed, 2005, c. 34, s. 84]
+
+#### References
+
+[Repealed, 2005, c. 34, s. 84]
+
+95 [Repealed, 2005, c. 34, s. 84]
+
+96 [Repealed, 2005, c. 34, s. 84]
+
+97 [Repealed, 2005, c. 34, s. 84]
+
+98 [Repealed, 2005, c. 34, s. 84]
+
+99 [Repealed, 2005, c. 34, s. 84]
+
+100 [Repealed, 2005, c. 34, s. 84]
+
+### Conditional Amendments
+
+[Repealed, 2005, c. 34, s. 84]
+
+101 and 102 [Repealed, 2005, c. 34, s. 84]
+
+### Repeals
+
+[Repealed, 2005, c. 34, s. 84]
+
+103 to 106 [Repealed, 2005, c. 34, s. 84]
+
+### Coming into Force
+
+[Repealed, 2005, c. 34, s. 84]
+
+107 [Repealed, 2005, c. 34, s. 84]
