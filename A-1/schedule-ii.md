@@ -10,15 +10,13 @@ Assisted Human Reproduction Act Loi sur la procréation assistée | subsection 1
 
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
-Canada Education Savings Act Loi canadienne sur l’épargne-études | section 11
-
 Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
 
 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | sections 19 and 122
 
 Canada-Nova Scotia Oil and Gas Agreement Act, S.C. 1984, c. 29 Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, S.C. 1984, ch. 29 | section 53
 
-Canada Pension Plan Régime de pensions du Canada | section 104
+Canada Pension Plan Régime de pensions du Canada | subsection 104.01(1)
 
 Canada Petroleum Resources Act Loi fédérale sur les hydrocarbures | section 101
 
@@ -82,7 +80,7 @@ Motor Vehicle Fuel Consumption Standards Act Loi sur les normes de consommation 
 
 Nuclear Safety and Control Act Loi sur la sûreté et la réglementation nucléaires | paragraphs 44(1)(d) and 48(b)
 
-Old Age Security Act Loi sur la sécurité de la vieillesse | section 33
+Old Age Security Act Loi sur la sécurité de la vieillesse | subsection 33.01(1)
 
 Patent Act Loi sur les brevets | section 10, subsection 20(7), and sections 87 and 88
 
@@ -145,3 +143,5 @@ History:
 - 2003, c. 7, s. 128
 
 - 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107, c. 26, ss. 15, 16
+
+- 2005, c. 34, s. 83, c. 35, ss. 43, 44

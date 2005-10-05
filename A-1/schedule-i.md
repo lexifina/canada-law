@@ -34,9 +34,9 @@
 
   - Ministère de la Santé
 
-  - Department of Human Resources Development
+  - Department of Human Resources and Skills Development
 
-  - Ministère du Développement des ressources humaines
+  - Ministère des Ressources humaines et du Développement des compétences
 
   - Department of Indian Affairs and Northern Development
 
@@ -65,6 +65,10 @@
   - Department of Public Works and Government Services
 
   - Ministère des Travaux publics et des Services gouvernementaux
+
+  - Department of Social Development
+
+  - Ministère du Développement social
 
   - Department of Transport
 
@@ -299,10 +303,6 @@
   - Defence Construction (1951) Limited
 
   - Construction de défense (1951) Limitée
-
-  - Department of Human Resources and Skills Development
-
-  - Ministère des Ressources humaines et du Développement des compétences
 
   - Department of International Trade
 
@@ -798,6 +798,6 @@ History:
 
 - SOR/2004-24, 207
 
-- 2005, c. 10, ss. 9, 10, c. 30, s. 88
+- 2005, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42
 
 - SOR/2005–251
