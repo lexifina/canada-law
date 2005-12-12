@@ -120,10 +120,6 @@
 
   - Conseil des Arts du Canada
 
-  - Canada Customs and Revenue Agency
-
-  - Agence des douanes et du revenu du Canada
-
   - Canada Deposit Insurance Corporation
 
   - Société d’assurance-dépôts du Canada
@@ -159,6 +155,10 @@
   - Canada-Nova Scotia Offshore Petroleum Board
 
   - Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers
+
+  - Canada Revenue Agency
+
+  - Agence du revenu du Canada
 
   - Canada School of Public Service
 
@@ -798,6 +798,6 @@ History:
 
 - SOR/2004-24, 207
 
-- 2005, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42
+- 2005, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
 
 - SOR/2005–251
