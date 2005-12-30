@@ -1,0 +1,341 @@
+Public Service Employment Act
+
+R.S.C., 1985, c. P-33
+
+An Act respecting employment in the public service
+
+[Repealed, 2003, c. 22, s. 284]
+
+## Short Title
+
+[Repealed, 2003, c. 22, s. 284]
+
+1 [Repealed, 2003, c. 22, s. 284]
+
+## Interpretation
+
+[Repealed, 2003, c. 22, s. 284]
+
+2 [Repealed, 2003, c. 22, s. 284]
+
+## PART I Public Service Commission
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Commission Established
+
+[Repealed, 2003, c. 22, s. 284]
+
+3 [Repealed, 2003, c. 22, s. 284]
+
+3.1 [Repealed, 2003, c. 22, s. 284]
+
+4 [Repealed, 2003, c. 22, s. 284]
+
+4.1 [Repealed, 2003, c. 22, s. 284]
+
+4.2 [Repealed, 2003, c. 22, s. 284]
+
+4.3 [Repealed, 2003, c. 22, s. 284]
+
+4.4 [Repealed, 2003, c. 22, s. 284]
+
+### General Powers and Duties of Commission
+
+[Repealed, 2003, c. 22, s. 284]
+
+5 [Repealed, 2003, c. 22, s. 284]
+
+5.1 [Repealed, 2003, c. 22, s. 284]
+
+### Delegation of Authority
+
+[Repealed, 2003, c. 22, s. 284]
+
+6 [Repealed, 2003, c. 22, s. 284]
+
+6.1 [Repealed, 2003, c. 22, s. 284]
+
+### Records and Inquiries
+
+[Repealed, 2003, c. 22, s. 284]
+
+7 [Repealed, 2003, c. 22, s. 284]
+
+7.1 [Repealed, 2003, c. 22, s. 284]
+
+7.2 [Repealed, 2003, c. 22, s. 284]
+
+7.3 [Repealed, 2003, c. 22, s. 284]
+
+7.4 [Repealed, 2003, c. 22, s. 284]
+
+7.5 [Repealed, 2003, c. 22, s. 284]
+
+## PART II Appointment
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Authority to Appoint
+
+[Repealed, 2003, c. 22, s. 284]
+
+8 [Repealed, 2003, c. 22, s. 284]
+
+9 [Repealed, 2003, c. 22, s. 284]
+
+### Appointments
+
+[Repealed, 2003, c. 22, s. 284]
+
+10 [Repealed, 2003, c. 22, s. 284]
+
+11 [Repealed, 2003, c. 22, s. 284]
+
+### Standards and Criteria
+
+[Repealed, 2003, c. 22, s. 284]
+
+12 [Repealed, 2003, c. 22, s. 284]
+
+12.1 [Repealed, 2003, c. 22, s. 284]
+
+13 [Repealed, 2003, c. 22, s. 284]
+
+### Competitions
+
+[Repealed, 2003, c. 22, s. 284]
+
+14 [Repealed, 2003, c. 22, s. 284]
+
+15 [Repealed, 2003, c. 22, s. 284]
+
+16 [Repealed, 2003, c. 22, s. 284]
+
+17 [Repealed, 2003, c. 22, s. 284]
+
+18 [Repealed, 2003, c. 22, s. 284]
+
+19 [Repealed, 2003, c. 22, s. 284]
+
+20 [Repealed, 2003, c. 22, s. 284]
+
+### Appeals
+
+[Repealed, 2003, c. 22, s. 284]
+
+21 [Repealed, 2003, c. 22, s. 284]
+
+21.1 [Repealed, 2003, c. 22, s. 284]
+
+### Casual Employment
+
+[Repealed, 2003, c. 22, s. 284]
+
+21.2 [Repealed, 2003, c. 22, s. 284]
+
+## PART III Employment
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Tenure
+
+[Repealed, 2003, c. 22, s. 284]
+
+22 [Repealed, 2003, c. 22, s. 284]
+
+23 [Repealed, 2003, c. 22, s. 284]
+
+24 [Repealed, 2003, c. 22, s. 284]
+
+25 [Repealed, 2003, c. 22, s. 284]
+
+26 [Repealed, 2003, c. 22, s. 284]
+
+27 [Repealed, 1992, c. 54, s. 18]
+
+### Probation
+
+[Repealed, 2003, c. 22, s. 284]
+
+28 [Repealed, 2003, c. 22, s. 284]
+
+### Lay-Offs
+
+[Repealed, 2003, c. 22, s. 284]
+
+29 [Repealed, 2003, c. 22, s. 284]
+
+29.1 [Repealed, 2003, c. 22, s. 284]
+
+### Leave of Absence
+
+[Repealed, 2003, c. 22, s. 284]
+
+30 [Repealed, 2003, c. 22, s. 284]
+
+31 [Repealed, 2003, c. 22, s. 284]
+
+### Political Partisanship
+
+[Repealed, 2003, c. 22, s. 284]
+
+32 [Repealed, 2003, c. 22, s. 284]
+
+33 [Repealed, 2003, c. 22, s. 284]
+
+34 [Repealed, 2003, c. 22, s. 284]
+
+## PART III.1 Deployment
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Right to Deploy
+
+[Repealed, 2003, c. 22, s. 284]
+
+34.1 [Repealed, 2003, c. 22, s. 284]
+
+### Conditions
+
+[Repealed, 2003, c. 22, s. 284]
+
+34.2 [Repealed, 2003, c. 22, s. 284]
+
+### Recourse on Deployment
+
+[Repealed, 2003, c. 22, s. 284]
+
+34.3 [Repealed, 2003, c. 22, s. 284]
+
+34.4 [Repealed, 2003, c. 22, s. 284]
+
+34.5 [Repealed, 2003, c. 22, s. 284]
+
+### Provisions not Applicable
+
+[Repealed, 2003, c. 22, s. 284]
+
+34.6 [Repealed, 2003, c. 22, s. 284]
+
+## PART IV General
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Regulations
+
+[Repealed, 2003, c. 22, s. 284]
+
+35 [Repealed, 2003, c. 22, s. 284]
+
+36 [Repealed, 2003, c. 22, s. 284]
+
+37 [Repealed, 2003, c. 22, s. 284]
+
+37.1 [Repealed, 2003, c. 22, s. 284]
+
+37.2 [Repealed, 2003, c. 22, s. 284]
+
+### Block Transfers
+
+[Repealed, 2003, c. 22, s. 284]
+
+37.3 [Repealed, 2003, c. 22, s. 284]
+
+### Rate of Pay on Appointment
+
+[Repealed, 2003, c. 22, s. 284]
+
+38 [Repealed, 2003, c. 22, s. 284]
+
+### Ministers’ Staffs
+
+[Repealed, 2003, c. 22, s. 284]
+
+39 [Repealed, 2003, c. 22, s. 284]
+
+### Other Public Officials
+
+[Repealed, 2003, c. 22, s. 284]
+
+40 [Repealed, 2003, c. 22, s. 284]
+
+40.1 [Repealed, 2003, c. 22, s. 284]
+
+### Exclusions
+
+[Repealed, 2003, c. 22, s. 284]
+
+41 [Repealed, 2003, c. 22, s. 284]
+
+### Irregularities and Fraudulent Practices
+
+[Repealed, 2003, c. 22, s. 284]
+
+42 [Repealed, 2003, c. 22, s. 284]
+
+43 [Repealed, 2003, c. 22, s. 284]
+
+44 [Repealed, 2003, c. 22, s. 284]
+
+45 [Repealed, 2003, c. 22, s. 284]
+
+### Oaths
+
+[Repealed, 2003, c. 22, s. 284]
+
+46 [Repealed, 2003, c. 22, s. 284]
+
+### Report to Parliament
+
+[Repealed, 2003, c. 22, s. 284]
+
+47 [Repealed, 2003, c. 22, s. 284]
+
+47.1 [Repealed, 2003, c. 22, s. 284]
+
+### Application of Act
+
+[Repealed, 2003, c. 22, s. 284]
+
+48 [Repealed, 2003, c. 22, s. 284]
+
+## PART V Public Service Staffing Tribunal
+
+[Repealed, 2003, c. 22, s. 284]
+
+### Establishment
+
+[Repealed, 2003, c. 22, s. 284]
+
+49 [Repealed, 2003, c. 22, s. 284]
+
+50 [Repealed, 2003, c. 22, s. 284]
+
+51 [Repealed, 2003, c. 22, s. 284]
+
+52 [Repealed, 2003, c. 22, s. 284]
+
+53 [Repealed, 2003, c. 22, s. 284]
+
+54 [Repealed, 2003, c. 22, s. 284]
+
+55 [Repealed, 2003, c. 22, s. 284]
+
+56 [Repealed, 2003, c. 22, s. 284]
+
+## SCHEDULE I (Section 3) Oath or Solemn Affirmation of Office of Commissioner
+
+[Repealed, 2003, c. 22, s. 284]
+
+## SCHEDULE II (Section 16) Definitions
+
+[Repealed, 2003, c. 22, s. 284]
+
+## SCHEDULE III (Section 23) Oath or Solemn Affirmation of Office and Secrecy
+
+[Repealed, 2003, c. 22, s. 284]
+
+## SCHEDULE IV (Section 42) Summons to an Inquiry
+
+[Repealed, 2003, c. 22, s. 284]
