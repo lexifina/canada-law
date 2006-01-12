@@ -84,6 +84,10 @@
 
 - Other Government Institutions
 
+  - Assisted Human Reproduction Agency of Canada
+
+  - Agence canadienne de contrôle de la procréation assistée
+
   - Atlantic Canada Opportunities Agency
 
   - Agence de promotion économique du Canada atlantique
@@ -794,7 +798,7 @@ History:
 
 - SOR/2003-148, 423, 428, 435, 440
 
-- 2004, c. 7, s. 5, c. 11, ss. 23, 24
+- 2004, c. 2, s. 72, c. 7, s. 5, c. 11, ss. 23, 24
 
 - SOR/2004-24, 207
 
