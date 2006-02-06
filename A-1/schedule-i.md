@@ -66,10 +66,6 @@
 
   - Ministère des Travaux publics et des Services gouvernementaux
 
-  - Department of Social Development
-
-  - Ministère du Développement social
-
   - Department of Transport
 
   - Ministère des Transports
@@ -308,10 +304,6 @@
 
   - Construction de défense (1951) Limitée
 
-  - Department of International Trade
-
-  - Ministère du Commerce international
-
   - Director of Soldier Settlement
 
   - Directeur de l’établissement de soldats
@@ -539,6 +531,10 @@
   - Office of the Inspector General of the Canadian Security Intelligence Service
 
   - Bureau de l’Inspecteur général du service canadien du renseignement de sécurité
+
+  - Office of the Registrar of Lobbyists
+
+  - Bureau du directeur des lobbyistes
 
   - Office of the Superintendent of Financial Institutions
 
@@ -804,4 +800,6 @@ History:
 
 - 2005, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
 
-- SOR/2005–251
+- SOR/2005-251
+
+- SOR/2006-24, 28, 34
