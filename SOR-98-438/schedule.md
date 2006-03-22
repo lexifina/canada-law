@@ -1,0 +1,3 @@
+## SCHEDULE
+
+To Norman Lee McCowan, of the Town of Hay River in the Northwest Territories, Resource Management Officer, an employee of the Department of Indian Affairs and Northern Development, to lease, for a hunting and fishing cabin, the whole of a un-surveyed parcel of land of approximately 0.54 hectares located near km. 4.4, Highway No. 1, in the Northwest Territories, as said parcel is shown outlined in red on a sketch plan on file 33-1-12 in the Land and Water Management Division of the Department of Indian Affairs and Northern Development at Ottawa, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work them.
