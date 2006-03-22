@@ -1,0 +1,67 @@
+## SCHEDULE (Section 1)
+
+###### Modified Provisions
+
+###### Interpretation
+
+  - 1 (1) In this schedule, “Corporation” means The Jacques-Cartier and Champlain Bridges Inc.
+
+  - (2) Each section or subsection of this schedule is followed by the section or subsection number, in parentheses, of the corresponding provision of the St. Lawrence Seaway Authority Act (referred to in this schedule as “SLSAA”).
+
+###### Agent of Her Majesty
+
+- 2 Except as provided in section 4, the Corporation is for all purposes an agent of Her Majesty in right of Canada. (Subsection 3(2), SLSAA)
+
+###### Legal Proceedings
+
+- 3 Actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Corporation on behalf of Her Majesty, whether in its name or in the name of Her Majesty, may be brought or taken by or against the Corporation in the name of the Corporation in any court that would have jurisdiction if the Corporation were not an agent of Her Majesty. (Section 4, SLSAA)
+
+###### Officers and Employees
+
+- 4 The Corporation may employ such officers and employees for such purposes and on such terms and conditions as may be determined by it, and the officers and employees so employed are not officers or servants of Her Majesty. (Section 9, SLSAA)
+
+###### Fees
+
+  - 5 (1) The Corporation may, subject to section 6, fix fees to be charged by it with respect to
+
+    - (a) the use of any building, plant, property or facilities under its administration;
+
+    - (b) any service performed by it; and
+
+    - (c) pedestrians or vehicles entering, passing over or leaving a bridge or highway under its administration and passengers or goods carried in those vehicles. (Subsection 16(1), SLSAA)
+
+  - (2) The fees that may be charged may be for the use of any particular part of the bridges or other works administered by the Corporation, for the use of those bridges or works as a whole or for any particular service rendered by the Corporation. (Subsection 16(2), SLSAA)
+
+  - (3) A fee fixed or any amendment to it shall be filed with the Canadian Transportation Agency and becomes operative from the day of filing. (Subsection 16(3), SLSAA)
+
+  - (4) Any person interested may at any time file a complaint with the Canadian Transportation Agency that there is unjust discrimination in an existing fee and the Agency shall then consider the complaint and make a finding, which it shall report to the Corporation. (Subsection 16(4), SLSAA)
+
+  - (5) Section 40 of the Canada Transportation Act applies, with such modifications as the circumstances require, in respect of every report of the Canadian Transportation Agency under subsection (4) as if the report were a decision made under that Act. (Subsection 16(5), SLSAA)
+
+###### Fees to be Fair and Reasonable
+
+- 6 The fees that may be charged by the Corporation shall be fair and reasonable and designed to provide a revenue sufficient to defray the cost to it of its operations in carrying out the purposes for which it is incorporated, which costs shall include
+
+  - (a) payments in respect of the interest on amounts borrowed by it to carry out those purposes;
+
+  - (b) amounts sufficient to amortize the principal of those amounts over a period not exceeding 50 years; and
+
+  - (c) the cost of operating and maintaining the bridges and other works under its administration, including all its operating costs and such reserves as may be approved by the Minister. (Section 17, SLSAA)
+
+###### Retirement of Former Employees in Public Service
+
+  - 7 (1) If a person employed by the Corporation was a contributor under the Public Service Superannuation Act immediately prior to that employment, and that employment was entered into with the consent of the Minister of the department or branch of the Public Service in which the person was employed, the provisions that apply to that person on retirement from employment by the Corporation for a reason other than misconduct are as follows:
+
+    - (a) if before being employed by the Corporation the person was employed in a position to which the Public Service Employment Act applied, the person may be appointed to a position to which that Act applies of a class not lower than the class in which the person was so employed; and
+
+    - (b) if before being employed by the Corporation the person was employed in a position in the Public Service to which the Public Service Employment Act did not apply, the person may be appointed to a position in the public service of Canada to which that Act does not apply of a class not lower than the class in which the person was so employed. (Subsection 22(1), SLSAA)
+
+  - (2) The Government Employees Compensation Act applies to officers and servants of the Corporation and, notwithstanding section 4, for the purposes of that Act but not otherwise, those officers and servants shall be deemed to be employees in the service of Her Majesty. (Subsection 22(2), SLSAA)
+
+###### Contracts with Her Majesty
+
+- 8 Although the Corporation is an agent of Her Majesty, it may enter into contracts with Her Majesty. (Section 24, SLSAA)
+
+###### Auditor
+
+- 9 The Auditor General of Canada is the auditor of the Corporation. (Section 25, SLSAA)
