@@ -1,0 +1,13 @@
+Order Designating the Minister of Supply and Services as Appropriate Minister with Respect to the Defence Construction (1951) Ltd.
+
+SI/93-111
+
+FINANCIAL ADMINISTRATION ACT
+
+Registration 1993-07-14
+
+Order Designating the Minister of Supply and Services as Appropriate Minister with Respect to the Defence Construction (1951) Ltd.
+
+P.C. 1993-1457 1993-6-25
+
+His Excellency the Governor General in Council, on the recommendation of the Prime Minister, pursuant to paragraph (d) of the definition appropriate Minister in section 2 of the Financial Administration Act, and subparagraph (a)(ii) of the definition of appropriate Minister in subsection 83(1) of that Act, is pleased hereby to designate the Minister of Supply and Services, a member of the Queen’s Privy Council for Canada, as the appropriate Minister with respect to the Defence Construction (1951) Ltd. for the purposes of the Financial Administration Act.
