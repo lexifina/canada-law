@@ -518,7 +518,9 @@ COMMENCING at high-water mark on Cadboro Point (commonly called Ten-mile Point),
 
 ### PART X Northwest Territories
 
-1 [Repealed, SOR/2025-99, s. 4]
+1 Akimiski Island Bird Sanctuary
+
+All that parcel of land and land covered with water, crossed by the parallel of 53 degrees North latitude, situated in James Bay in the District of Keewatin in the Northwest Territories, and comprising that part of Akimiski Island lying to the east of the Meridian 81°30′ west Longitude, together with the foreshore, islands, shoals or rocks and the waters of James Bay lying within five miles of the line of ordinary high water of the said Akimiski Island and to the east of the said Meridian of west Longitude.
 
 2 Anderson River Delta Bird Sanctuary
 
@@ -536,7 +538,9 @@ In the Northwest Territories, in the District of Franklin and the waters of McCl
 
 All that part of the valley of the Thomsen River lying northerly of the widening of said River at approximate latitude 73°36′North and all that part of Castel Bay lying southerly of the northerly extremity of Mahogany Point, all according to map sheets 98 N.E., 88 N.W. and 88 N.E. dated 1956 and 88 S.W. and 88 S.E. dated 1957, of the National Topographic Series, scale 8 miles to 1 inch, and map sheet 98 S.W. and 98 S.E. dated 1957, of said Series, scale 1:500,000; said Sanctuary containing about 35,200 acres.
 
-5 [Repealed, SOR/2025-99, s. 5]
+5 Bylot Island Bird Sanctuary
+
+In the Northwest Territories, in the District of Franklin, the whole of Bylot Island and all waters and islands or parts of islands within two miles of the seaward ordinary highwater mark of Bylot Island.
 
 6 [Repealed, SOR/99-449, s. 2]
 
@@ -544,11 +548,27 @@ All that part of the valley of the Thomsen River lying northerly of the widening
 
 In the Northwest Territories, in the District of Mackenzie and the waters of Amundsen Gulf, the whole of the Cape Parry Bird Sanctuary, designated East Point, Central Point and West Point, according to an explanatory plan prepared in the office of the Surveyor General of Canada Lands and of record number 50646 in the Canada Lands Surveys Records at Ottawa, the bearings of said plan being referred to the meridian 124°40′ West, said Sanctuary containing together about 574 acres.
 
-8 [Repealed, SOR/2025-99, s. 6]
+8 Dewey Soper Bird Sanctuary
 
-9 [Repealed, SOR/2025-99, s. 6]
+All that portion of Baffin Island, in the Northwest Territories, more particularly described as follows:
 
-10 [Repealed, SOR/2025-99, s. 6]
+Commencing at an astronomical observation monument placed on the brink of a cliff and located at approximate latitude 65°31′ and approximate longitude 73°48′ ; THENCE, southerly and easterly along said brink of cliff to a point of latitude 65°19′ and of approximate longitude 73°02′; THENCE, due east to longitude 73°; THENCE, due north to latitude 66°10′; THENCE, due east to longitude 72°40′; THENCE, due north to the middle thread of the Koukdjuak River; THENCE, westerly along said middle thread to longitude 73°; THENCE on an azimuth of 315° to a point on a line on the seaward side of, conforming to the sinuosities of and five miles distant from the mean high tide water mark of Foxe Basin; THENCE, southwesterly, southeasterly and southwesterly along said line to the meridian passing through the point of commencement; THENCE, south along said meridian to the point of commencement; said portion containing by admeasurement 3, 150 square miles; approximately: all being described with reference to the latest appropriate map sheets of the National Topographic Series on a scale of eight miles to one inch, available on the 4th day of January, 1957.
+
+9 East Bay Bird Sanctuary
+
+All those portions of Southampton Island and the waters of Hudson Bay, in the District of Keewatin, in the Northwest Territories, said portions being more particularly described as follows:
+
+COMMENCING at the centre of the observation monument on Gore Point, said monument being a 15 foot triangular wood beacon; THENCE, northwesterly in a straight line to the most southerly extremity of a small unnamed island at latitude sixty-four degrees eight minutes and longitude eighty-one degrees thirty-four and one-half minutes; THENCE, due west to longitude eighty-two degrees thirty minutes; THENCE, due south to latitude sixty-four degrees four minutes; THENCE, southeasterly in a straight line to a point at latitude sixty-three degrees fifty minutes and longitude eighty-two degrees ten minutes; THENCE, northeasterly in a straight line to the point of commencement said portions containing together 450 square miles, approximately.
+
+All being described with reference to the latest appropriate map sheets of the National Topographic Series on a scale of 8 miles to 1 inch, available on the 2nd day of March, 1959.
+
+10 Harry Gibbons Bird Sanctuary
+
+All those portions of Southampton Island and the waters of Hudson Bay, in the District of Keewatin, in the Northwest Territories, said portions being more particularly described as follows:
+
+COMMENCING at a point at the mean low tide water mark of said Island at Manico Point on a due east-west line passing through the most westerly extremity of said Point; THENCE, due east to longitude eighty-five degrees thirty minutes; THENCE, due north to latitude sixty-four degrees; THENCE, due west to longitude eighty-six degrees; THENCE, due south to latitude sixty-three degrees fifty minutes; THENCE, due west to longitude eighty-six degrees twenty minutes; THENCE, due south to the mean low tide water mark of said Island; THENCE, easterly and southerly along the last-described water mark to the point of commencement, said portions containing together 575 square miles, approximately.
+
+All being described with reference to the latest appropriate map sheet of the National Topographic Series on a scale of 8 miles to 1 inch, available on the 2nd day of March, 1959.
 
 11 Kendall Island Bird Sanctuary
 
@@ -556,81 +576,37 @@ In the Northwest Territories, in the District of Mackenzie and in Mackenzie Bay,
 
 COMMENCING at the easternmost point in the shore of Kendall Island, THENCE, in a straight line to the westernmost point in said shore; THENCE, in a straight line to the easternmost point in the shore of Garry Island; THENCE, in a straight line to the westernmost point in the shore of an island situated at latitude 69°22′, longitude 135°35′, approximately; THENCE, in a straight line to the southernmost point in the shore of an island situated at latitude 69°18′, longitude 135°19′, approximately; THENCE, south to the middle thread of that channel of the Mackenzie River containing the last aforesaid island; THENCE, generally southeasterly along said middle thread to its junction with the middle thread of a northeasterly channel of said River at latitude 69°11′, longitude 135°04′, approximately; THENCE, northeasterly and northerly along the last aforesaid middle thread to the middle thread of a channel at latitude 69°15′, longitude 134°59′, approximately; THENCE, northwesterly, easterly and northerly along the last aforesaid middle thread to the divergence therefrom of the middle thread of a channel at latitude 69°22′, longitude 134°57′, approximately; THENCE, easterly and northeasterly along the last aforesaid middle thread to the divergence therefrom of the middle thread of a channel at latitude 69°24′30″, longitude 134°50′, approximately; THENCE, northwesterly and northerly along the last aforesaid middle thread to the mouth of said channel at latitude 69°27′, longitude 134°52′30″, approximately; THENCE, east to the easterly shore of the inlet of Mackenzie Bay entered by the last aforesaid channel; THENCE, northerly along said easterly shore to the northwesternmost point therein at latitude 69°29′, longitude 134°52′, approximately; THENCE, westerly in a straight line to the point of commencement; as said islands, channels, latitudes and longitudes are shown on sheets 107C/6, 107C/7, 107C/9 and 107C/11 of a Provisional Map produced by the Army Survey Establishment in 1958, scale 1:50,000, said sanctuary containing 234 square miles, approximately.
 
-12 [Repealed, SOR/2025-99, s. 7]
+12 McConnell River Bird Sanctuary
 
-13 [Repealed, SOR/2025-99, s. 7]
+In the Northwest Territories, in the District of Keewatin and the foreshore of Hudson Bay, in the vicinity of Eskimo Point, the whole of McConnell River Bird Sanctuary according to an explanatory plan prepared in the office of the Surveyor General of Canada Lands and of record number 50228 in the Canada Lands Surveys Records at Ottawa, the bearings of said plan being referred to meridian 94° West; said Sanctuary containing about 127 square miles.
 
-14 [Repealed, SOR/2025-99, s. 7]
+13 Prince Leopold Island Bird Sanctuary
 
-15 [Repealed, SOR/2025-99, s. 7]
+In the Northwest Territories, in the District of Franklin, all that parcel consisting of and being more particularly described as follows:
 
-### PART XI Quebec and Nunavut SOR/2025-99, s. 8
+The whole of Prince Leopold Island being designated in accordance with the Gazetteer of Canada for N.W.T., Ottawa 1980 and shown on combined National Topographic Series map 58E/3, 58E/2, 58D/15 and part of 58D/14 Prince Leopold Island, produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa; all the waters within five kilometres of the ordinary high water mark of said island; and the foreshore of said island and any rocks and islets above the ordinary low water mark of said waters; said parcel containing about 30,305 ha. (6,360 ha. land area; 23,945 ha. water area).
+
+14 Queen Maud Gulf Bird Sanctuary
+
+In the Northwest Territories, in the districts of Mackenzie, Keewatin and Franklin, and the waters of Queen Maud Gulf, the whole of Queen Maud Gulf Bird Sanctuary more particularly described as follows:
+
+COMMENCING at a point in the easterly shore of McLaughlin Bay at latitude 69°50′; THENCE, east along parallel of latitude 67°50′ to the westerly shore of Sherman Inlet; THENCE, southeasterly in a straight line to the northernmost point in the shore of the promontory east of the mouth of the Kaleet River at Latitude 67°41′ and longitude 97°09′; THENCE, southerly along the easterly banks of the Kaleet River and its widenings to latitude 66°20′; THENCE, west along parallel of latitude 66°20′ to the westerly bank of the Ellice River; THENCE, northerly along the westerly bank of the Ellice River and westerly bank of that tributary which flows into the Ellice River at latitude 66°48 1/2′ and longitude 104°38′ to longitude 105°30′; THENCE, due north to the northwesterly shore of Labyrinth Bay; THENCE, northerly and easterly along the shore of Labyrinth Bay to the southeasternmost point in the shore of Cape Roxborough; THENCE, southeasterly in a straight line to the northernmost point in the shore of Whitebear Point; THENCE, southeasterly in a straight line to the point of commencement; all being described with reference to map sheets 66 N.W. and 66 N.E. dated 1953, 76 N.W. and 76 N.E. dated 1954, 77 S.W. and 77 S.E. dated 1958, of the National Topographic Series, scale 8 miles to 1 inch, and map sheet 67 S.W. and 67 S.E. dated 1958, of said series, scale 1:500,000, said sanctuary containing about 24,240 square miles.
+
+15 Seymour Island Bird Sanctuary
+
+In the Northwest Territories, in the District of Franklin, the whole of Seymour Island and all waters and islands or parts of islands within two miles of the normal high tide water mark of Seymour Island.
+
+### PART XI Quebec and Northwest Territories
 
 Boatswain Bay Bird Sanctuary
 
 All and singular that certain parcel or tract of land and premises covered at high tide by the waters of Boatswain Bay, which is situated on the east side of James Bay between Rupert Bay and the mouth of the East-Main River and is bounded, on the side towards James Bay, by a straight line connecting the western extremity of Neck-of-land Point and the northern extremity of the mainland point at the southwest end of Boatswain Bay and north of Mount Sherrick, all as shown on Canadian Hydrographic Chart Number 5800, together with all waters overlying the area above described and all islands, shoals, and rocks in Boatswain Bay, and together with all lands, marshes, and inland waters situated in the District of Mistassini, Province of Quebec, within two miles of any part of Boatswain Bay at high tide.
 
-### PART XII Ontario and Nunavut SOR/2025-99, s. 9
+### PART XII Ontario and Northwest Territories
 
 Hannah Bay Bird Sanctuary
 
 All and singular that certain parcel or tract of land and premises lying and being within a boundary line beginning at the boundary of the Province of Ontario, at the extremity of East Point, at the east side of the mouth of Hannah Bay, at normal high tide, extending thence due westward to a point four miles due west of high tide mark at the extremity of East Point, thence due southward to a point due west of the north bank of the mouth of the Little Missisicabi River at normal high tide, thence easterly following the north bank of said River and continuing easterly on the north bank of the south branch of the Little Missisicabi River to the interprovincial boundary between the Province of Ontario and the Province of Quebec, thence northward along the said interprovincial boundary to a point due east of the extremity of East Point, at the east side of Hannah Bay, at normal high tide, thence due westward to the extremity of East Point, at the boundary of the Province of Ontario, at the east side of the mouth of Hannah Bay, at normal high tide, which is the point of beginning.
-
-### PART XIII Nunavut
-
-1 Akimiski Island Bird Sanctuary
-
-In Nunavut, in the Qikiqtaaluk Region, all that parcel of land and land covered by water, crossed by the parallel of latitude 53°N, situated in James Bay, and comprising that part of Akimiski Island lying to the east of the meridian 81°30′W, together with the foreshore, islands, shoals or rocks and the waters of James Bay lying within five miles of the line of ordinary high water mark of Akimiski Island and to the east of that meridian.
-
-2 Bylot Island Bird Sanctuary
-
-In Nunavut, in the Qikiqtaaluk Region, the whole of Bylot Island and all waters and islands or parts of islands within two miles of the ordinary high water mark of Bylot Island.
-
-3 Isulijarniq Bird Sanctuary
-
-In Nunavut, in the Qikiqtaaluk Region, all that portion of Baffin Island, more particularly described as follows:
-
-COMMENCING at an astronomical observation monument placed on the brink of a cliff and located at approximate latitude 65°31′ and approximate longitude 73°48′; THENCE, southerly and easterly along that brink of a cliff to a point at latitude 65°19′ and approximate longitude 73°02′; THENCE, due east to longitude 73°; THENCE, due north to latitude 66°10′; THENCE, due east to longitude 72°40′; THENCE, due north to the middle thread of the Koukdjuak River; THENCE, westerly along that middle thread to longitude 73°; THENCE on an azimuth of 315° to a point on a line on the seaward side of, conforming to the sinuosities of and five miles distant from the mean high water mark of Foxe Basin; THENCE, southwesterly, southeasterly and southwesterly along that mark to the meridian passing through the point of commencement; THENCE, southerly along that meridian to the point of commencement; that portion containing by admeasurement 3,150 square miles, approximately.
-
-All being described with reference to the latest appropriate map sheets of the National Topographic Series on a scale of eight miles to one inch, available on January 4, 1957.
-
-4 Qaqsauqtuuq Bird Sanctuary
-
-In Nunavut, in the Kivalliq Region, all those portions of Southampton Island and the waters of Hudson Bay more particularly described as follows:
-
-COMMENCING at the centre of the reference monument on Gore Point, that monument being a 15 foot triangular wood pyramid; THENCE, northwesterly in a straight line to the most southerly extremity of a small unnamed island at latitude 64°08′ and longitude 81°34′30″; THENCE, due west to longitude 82°30′; THENCE, due south to latitude 64°04′; THENCE, southeasterly in a straight line to a point at latitude 63°50′ and longitude 82°10′; THENCE, northeasterly in a straight line to the point of commencement, those portions containing together 450 square miles, approximately.
-
-All being described with reference to the latest appropriate map sheets of the National Topographic Series on a scale of eight miles to one inch, available on March 2, 1959.
-
-5 Ikkattuaq Bird Sanctuary
-
-In Nunavut, in the Kivalliq Region, all those portions of Southampton Island and the waters of Hudson Bay more particularly described as follows:
-
-COMMENCING at a point at the mean low water mark of Southampton Island at Manico Point on a due east-west line passing through the most westerly extremity of Manico Point; THENCE, due east to longitude 85°30′; THENCE, due north to latitude 64°; THENCE, due west to longitude 86°; THENCE, due south to latitude 63°50′; THENCE, due west to longitude 86°20′; THENCE, due south to the mean low water mark of Southampton Island; THENCE, easterly and southerly along the last-described water mark to the point of commencement; those portions containing together 575 square miles, approximately.
-
-All being described with reference to the latest appropriate map sheet of the National Topographic Series on a scale of eight miles to one inch, available on March 2, 1959.
-
-6 Kuugaarjuk Bird Sanctuary
-
-In Nunavut, in the Kivalliq Region and the foreshore of Hudson Bay, in the vicinity of the hamlet of Arviat, the whole of Kuugaarjuk Bird Sanctuary, formerly known as McConnell River Bird Sanctuary, according to an explanatory plan prepared in the office of the Surveyor General of Canada Lands and bearing record number 50228 in the Canada Lands Surveys Records at Ottawa, the bearings of that plan being referred to the meridian 94°W; that sanctuary containing about 127 square miles.
-
-7 Akpaqarvik Bird Sanctuary
-
-In Nunavut, in the Qikiqtaaluk Region, all that parcel more particularly described as follows:
-
-The whole of Prince Leopold Island being designated in accordance with the Gazetteer of Canada for Northwest Territories, Ottawa, 1980, and shown on combined National Topographic Series map 58E/3, 58E/2, 58D/15 and part of 58D/14 Prince Leopold Island, produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa; all the waters within five kilometres of the ordinary high water mark of Prince Leopold Island; and the foreshore of Prince Leopold Island and any rocks and islets above the ordinary low water mark of those waters; that parcel containing about 30,305 ha (6,360 ha of land area; 23,945 ha of water area).
-
-8 Ahiak Bird Sanctuary
-
-In Nunavut, in the Kitikmeot Region and the waters of Queen Maud Gulf, the whole of Ahiak Bird Sanctuary more particularly described as follows:
-
-COMMENCING at a point in the easterly shore of McLoughlin Bay at latitude 69°50′; THENCE, easterly along the parallel of latitude 67°50′ to the westerly shore of Sherman Inlet; THENCE, southeasterly in a straight line to the northernmost point in the shore of the promontory east of the mouth of the Kaleet River at latitude 67°41′ and longitude 97°09′; THENCE, southerly along the easterly bank of the Kaleet River and its widenings to latitude 66°20′; THENCE, westerly along the parallel of latitude 66°20′ to the westerly bank of the Kuunajuk River; THENCE, northerly along the westerly bank of the Kuunajuk River and the westerly bank of the tributary that flows into the Kuunajuk River at latitude 66°48′30″ and longitude 104°38′ to longitude 105°30′; THENCE, due north to the northwesterly shore of Labyrinth Bay; THENCE, northerly and easterly along the shore of Labyrinth Bay to the southeasternmost point in the shore of Cape Roxborough; THENCE, southeasterly in a straight line to the northernmost point in the shore of Whitebear Point; THENCE, southeasterly in a straight line to the point of commencement.
-
-All being described with reference to map sheets 66 N.W. and 66 N.E. dated 1953, 76 N.W. and 76 N.E. dated 1954 and 77 S.W. and 77 S.E. dated 1958 of the National Topographic Series, on a scale of eight miles to one inch and with reference to map sheet 67 S.W. and 67 S.E. dated 1958 of that series on a scale of 1:500,000; that sanctuary containing about 24,240 square miles.
-
-9 Naujavaat Bird Sanctuary
-
-In Nunavut, in the Qikiqtaaluk Region, the whole of Seymour Island and all waters and islands or parts of islands within two miles of the ordinary high water mark of Seymour Island.
 
 History:
 
@@ -651,17 +627,3 @@ History:
 - SOR/98-522, s. 1
 
 - SOR/99-449, ss. 1, 2
-
-- SOR/2025-99, s. 4
-
-- SOR/2025-99, s. 5
-
-- SOR/2025-99, s. 6
-
-- SOR/2025-99, s. 7
-
-- SOR/2025-99, s. 8
-
-- SOR/2025-99, s. 9
-
-- SOR/2025-99, s. 10
