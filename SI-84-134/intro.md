@@ -1,0 +1,83 @@
+Designating the Judges of Her Majesty’s Court of Queen’s Bench for Manitoba to Exercise all the Functions and Powers of a Judge Under the Act
+
+SI/84-134
+
+CANADA ELECTIONS ACT
+
+Registration 1984-07-25
+
+Designating the Judges of Her Majesty’s Court of Queen’s Bench for Manitoba to Exercise all the Functions and Powers of a Judge Under the Act
+
+CANADA
+
+I, Donald James Johnston, Minister of Justice, by virtue of the authority vested in me under subparagraph (g)(iii) of the definition judge in subsection 2(1) of the Canada Elections Act, do hereby designate the following judges of Her Majesty’s Court of Queen’s Bench for Manitoba to exercise all the functions and powers conferred upon a judge by the Canada Elections Act:
+
+- Chief Justice Archibald Stewart Dewar and in the Trial Division,
+
+- Mr. Justice James Edward Wilson
+
+- Mr. Justice Walter Scott Wright
+
+- Mr. Justice Peter Scott Morse
+
+- Mr. Justice Benjamin Hewak
+
+- Mr. Justice Guy Joseph Kroft
+
+- Mr. Justice John Ambrose Scollin
+
+- Mr. Justice Vern Simonsen
+
+- Mr. Justice Kenneth R. Hanssen
+
+- Mr. Justice Michel Alfonse Monnin
+
+- Mr. Justice Gordon Jacob Barkman
+
+- Mr. Justice Lorne Paterson Ferg
+
+- Mr. Justice Armand Dureault
+
+- Mr. Justice Patrick David Ferg
+
+- Mr. Justice Wallace Darichuk
+
+- Mr. Justice Gerald Oliver Jewers
+
+- Mr. Justice George Hepworth Lockwood
+
+- Mr. Justice Daniel Patrick Kennedy
+
+- Mr. Justice Clive Miller
+
+- Madam Justice Caddie Ruth Krindle
+
+- Mr. Justice James Gordon Smith
+
+- Mr. Justice Sidney Irwin Schwartz
+
+- Mr. Justice Theodore Myron Glowacki
+
+- and Mr. Justice Bernard Raymond Coleman, a supernumerary judge of the Trial Division
+
+and in the Family Division,
+
+- Associate Chief Justice Alvin Chown Hamilton
+
+- Madam Justice Bonnie Merilyn Helper
+
+- Madam Justice Claudia Myrna Bowman
+
+- Mr. Justice Robert Maxwell Carr
+
+- Mr. Justice Gilbert Raymond Goodman
+
+- Mr. Justice Joseph A. Mullally
+
+and this document shall be evidence of their authority so to act.
+
+Ottawa, July 9, 1984
+
+DONALD JAMES JOHNSTON
+
+Minister of Justice
