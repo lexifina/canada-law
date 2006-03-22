@@ -1,0 +1,25 @@
+Order Approving the Exclusion by the Public Service Commission, from the Operation of the Public Service Employment Act, of all Persons Appointed for a Specified Period on or after April 1, 1995 for the Purpose of Being Employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services Groups in Connection with Data Collection and Data Processing for the 1996 Census of Population, During the Period Beginning on April 1, 1995 and ending on March 31, 1997
+
+SOR/95-153a
+
+PUBLIC SERVICE EMPLOYMENT ACT
+
+Registration 1995-03-21
+
+Order Approving the Exclusion by the Public Service Commission, from the Operation of the Public Service Employment Act, of all Persons Appointed for a Specified Period on or after April 1, 1995 for the Purpose of Being Employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services Groups in Connection with Data Collection and Data Processing for the 1996 Census of Population, During the Period Beginning on April 1, 1995 and ending on March 31, 1997
+
+P.C. 1995-466 1995-3-21
+
+Whereas the Public Service Commission has decided that it is not practicable nor in the best interests of the Public Service to apply the provisions of the Public Service Employment Act to all persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997;
+
+Whereas the Public Service Commission is of the opinion that it is desirable to make the annexed Regulations respecting the employment of persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997;
+
+Whereas the Public Service Commission has decided, pursuant to subsection 41(1) of the Public Service Employment Act, to exclude from the operation of the Public Service Employment Act all persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997;
+
+And Whereas the Public Service Commission recommends, pursuant to subsection 37(1) of the Public Service Employment Act, that the Governor in Council make the annexed Regulations respecting the employment of persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997;
+
+Therefore, His Excellency the Governor General in Council,
+
+- (a) on the recommendation of the Minister of Communications, is pleased hereby, pursuant to subsection 41(1) of the Public Service Employment Act, to make the annexed Order approving the exclusion by the Public Service Commission, from the operation of the Public Service Employment Act, of all persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997; and
+
+- (b) on the recommendation of the Minister of Communications and the Public Service Commission, is pleased hereby, pursuant to subsection 37(1) of the Public Service Employment Act, to make the annexed Regulations respecting the employment of persons appointed for a specified period on or after April 1, 1995 for the purpose of being employed by Statistics Canada in the Clerical and Regulatory, Programme Administration, Administrative Services, Information Services and General Services groups in connection with data collection and data processing for the 1996 Census of Population, during the period beginning on April 1, 1995 and ending on March 31, 1997.
