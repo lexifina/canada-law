@@ -1,0 +1,3 @@
+## SCHEDULE
+
+Kenneth James McGilvray, of the Town of Wetaskiwin in the Province of Alberta, Peace Officer, a member of the Royal Canadian Mounted Police, to acquire by assignment from the current lessee the whole of a parcel of land situated on the southerly shore of Schaefer Lakes in Quad numbered 75 D/3 in the Northwest Territories, as said parcel is shown outlined in red on a sketch plan on file 33-1-12 in the Land Management Division of the Department of Indian Affairs and Northern Development at Ottawa, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work the same.
