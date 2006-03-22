@@ -1,0 +1,47 @@
+Proclamation Giving Notice of Coming into Force Canada-Austria Convention Respecting Taxes on Income and Capital
+
+SI/81-27
+
+CANADA-AUSTRIA INCOME TAX CONVENTION ACT, 1980AGREEMENTS AND CONVENTIONS
+
+Registration 1981-03-11
+
+Proclamation Giving Notice of Coming into Force Canada-Austria Convention Respecting Taxes on Income and Capital
+
+ED SCHREYER
+
+[L.S.]
+
+Canada
+
+ELIZABETH THE SECOND, by the Grace of God of the United Kingdom, Canada and Her other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.
+
+To All to Whom these Presents shall come or whom the same may in anyway concern,
+
+Greeting:
+
+ROGER TASSÉ
+
+Deputy Attorney General
+
+A Proclamation
+
+Whereas in and by section 6 of the Canada-Austria Income Tax Convention Act, 1980, assented to on December 17, 1980, being Part II of chapter 44 of the Statutes of Canada, 1980-81, it is provided that notice of the day the Convention between Canada and the Republic of Austria for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital, set out in Schedule II to the said Act, comes into force shall be given by proclamation of the Governor in Council published in the Canada Gazette;
+
+And Whereas Article XXIX of the Convention provides that it shall enter into force 60 days after the exchange of the instruments of ratification;
+
+And Whereas the exchange of instruments of ratification took place at Ottawa on December 19, 1980 and accordingly the Convention will enter into force on February 17, 1981.
+
+Now Know You that We, by and with the advice of Our Privy Council for Canada, do by this Our Proclamation give notice that the said Convention between Canada and the Republic of Austria for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital will come into force on February 17, 1981.
+
+Of All Which Our Loving Subjects and all others whom these Presents may concern are hereby required to take notice and to govern themselves accordingly.
+
+In Testimony Whereof, We have caused these Our Letters to be made Patent and the Great Seal of Canada to be hereunto affixed. Witness: Our Right Trusty and Well-beloved Edward Richard Schreyer, Chancellor and Principal Companion of Our Order of Canada, Chancellor and Commander of Our Order of Military Merit upon whom We have conferred Our Canadian Forces’ Decoration, Governor General and Commander-in-Chief of Canada.
+
+At Our Government House, in Our City of Ottawa, this sixteenth day of February in the year of Our Lord one thousand nine hundred and eighty-one and in the thirtieth year of Our Reign.
+
+By Command,
+
+D.E. BOND
+
+Deputy Registrar General of Canada
