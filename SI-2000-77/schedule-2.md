@@ -1,0 +1,3 @@
+## SCHEDULE 2 (Section 2) Tracts of Lands Withdrawn from Disposal (Dogrib Settlement Agreement, North Slave Region, N.W.T.)
+
+In the Northwest Territories, all those parcels of land shown outlined in red, excluding those parcels shown hatched in red, on the National Topographic Series Maps, numbered and lettered 85J, 85K, 85M, 85N, 85O, 86A, 86B, 86C, 86D, 86E and 86F, labelled “LAND WITHDRAWAL” and dated on the label 00/05/08, in the custody of the Head of Lands Transactions in the Land, Water and Forest Management Division of the Department of Indian Affairs and Northern Development at Ottawa and copies of which have been deposited with the Manager of the Land Administration Office, Department of Indian Affairs and Northern Development at Yellowknife.
