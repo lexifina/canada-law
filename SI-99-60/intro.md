@@ -1,0 +1,13 @@
+Reservation to the Crown Waiver Order (Port Radium, N.W.T.)
+
+SI/99-60
+
+TERRITORIAL LANDS ACT
+
+Registration 1999-06-23
+
+Reservation to the Crown Waiver Order (Port Radium, N.W.T.)
+
+P.C. 1999-1069 1999-6-10
+
+His Excellency the Governor General in Council, on the recommendation of the Minister of Indian Affairs and Northern Development, pursuant to paragraph 13(b) of the Territorial Lands Act, hereby orders that any portion of the lands described in the schedule hereto lying within 30.48 metres (100 feet) of the ordinary high water mark along the shore line of Echo Bay, an inlet of Great Bear Lake, in the former Settlement of Port Radium in the Northwest Territories, be included in the grant of the said lands.
