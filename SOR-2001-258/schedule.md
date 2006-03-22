@@ -1,0 +1,3 @@
+## SCHEDULE
+
+Mary-Ann Doering, of the City of Yellowknife, in the Northwest Territories, an employee with the Legal Surveys Division, Department of Natural Resources, has applied to lease with the option to purchase, for seasonal recreational purposes, a parcel of land located in the Madeline Lake Cottage Subdivision, in Quad 85 J/9, in the Northwest Territories, as outlined in red on a sketch plan on file 33-1-12 in the Land and Water Management Division of the Department of Indian Affairs and Northern Development at Ottawa, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work them.
