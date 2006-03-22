@@ -4,4 +4,4 @@ C.R.C., c. 478
 
 CUSTOMS ACTEXCISE ACT
 
-Special Services Regulations
+Regulations Respecting Special Customs and Excise Services
