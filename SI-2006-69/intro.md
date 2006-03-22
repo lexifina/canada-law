@@ -1,0 +1,13 @@
+Reservation to the Crown Waiver Order (Hay River, N.W.T.)
+
+SI/2006-69
+
+TERRITORIAL LANDS ACT
+
+Registration 2006-05-17
+
+Reservation to the Crown Waiver Order (Hay River, N.W.T.)
+
+P.C. 2006-246 2006-4-28
+
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Indian Affairs and Northern Development, pursuant to paragraph 13(b) of the Territorial Lands Act, hereby orders that any portion of the lands described in the annexed schedule lying within 30.48 m (100 feet) of the ordinary high water mark along the shoreline of Hay River, in the Northwest Territories, be included in the grant of those lands.
