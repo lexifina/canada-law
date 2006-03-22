@@ -1,0 +1,15 @@
+Order Transferring to the Minister of Energy, Mines and Resources, the Powers, Duties and Functions of the Minister of Industry, Science and Technology under Sections 9 and 15 of the Department of Industry, Science and Technology Act Respecting the Hibernia Development Project
+
+SI/93-52
+
+PUBLIC SERVICE REARRANGEMENT AND TRANSFER OF DUTIES ACT
+
+Registration 1993-04-07
+
+Order Transferring to the Minister of Energy, Mines and Resources, the Powers, Duties and Functions of the Minister of Industry, Science and Technology under Sections 9 and 15 of the Department of Industry, Science and Technology Act Respecting the Hibernia Development Project
+
+P.C. 1993-557 1993-3-24
+
+His Excellency the Governor General in Council, on the recommendation of the Prime Minister, pursuant to section 2 of the Public Service Rearrangement and Transfer of Duties Act, is pleased hereby to transfer to the Minister of Energy, Mines and Resources, for the purposes of the Hibernia Development Project, as described in the Hibernia Development Plan approved by the Canada-Newfoundland Offshore Petroleum Board Decision 86.01, as amended by Decision 90.01, the powers, duties and functions of the Minister of Industry, Science and Technology under sections 9 and 15 of the Department of Industry, Science and Technology Act* to develop a project of special assistance in respect of the Hibernia Development Project and to implement the project through loan agreements with the owners of the Hibernia Development Project.
+
+- *S.C. 1990, c. 1
