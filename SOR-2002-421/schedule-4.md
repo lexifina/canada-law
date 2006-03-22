@@ -1,4 +1,4 @@
-## SCHEDULE 4 (Section 23, paragraph 25(b) and section 26)
+## SCHEDULE 4 (Sections 23, 25 and 26)
 
 PART 1
 
@@ -32,13 +32,11 @@ Chaplaincy
 
 Support
 
-Cadet Organizations Administration and Training Service (COATS)
+Officer Cadets — Unassigned
+
+Cadet Instructor Cadre
 
 Canadian Rangers
-
-Officers — Unassigned
-
-Officer Cadets — Unassigned
 
 TOTAL NUMBER
 
@@ -82,16 +80,6 @@ Music
 
 Logistical Support
 
-Senior Appointments
-
-Cadet Organizations Administration and Training Service (COATS)
-
 Canadian Rangers
 
-Primary Reserve General Service for Non-Commissioned Members
-
 TOTAL NUMBER
-
-History:
-
-- SOR/2021-201, s. 8
