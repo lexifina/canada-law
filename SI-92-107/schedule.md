@@ -1,0 +1,75 @@
+## SCHEDULE
+
+Last Mountain Lake
+
+- 1
+
+- Last Mountain Lake Unit
+
+- Being all those parcels of land more particularly described under Firstly to Thirdly as follows:
+
+- Firstly, all those parcels of land in townships 27 and 28, ranges 23 and 24, west of the second meridian, in the Province of Saskatchewan which are shown as parcels A-Z (both inclusive), AA, BB, CC, DD and EE according to a plan signed by Walter T. Volohatuke, Saskatchewan Land Surveyor, registered in the Saskatoon Land Titles Office as No. 91-S-25402 and in the Humboldt Land Titles Office as No. 91-H-06231, said parcels containing 9,416.9 hectares (23,269.7 acres) more or less.
+
+- Secondly, certificate of title No. 90-H-10071 registered November 15, 1990. The southwest quarter of section 8, township 27, range 23, west of the second meridian, Saskatchewan.
+
+- Except: The most southerly 5.03 metres (16.50 feet) in perpendicular width throughout. Mines and minerals excepted by instrument AY5988.
+
+- Thirdly, certificate of title No. 90-H-10070 registered November 15, 1990. The southwest quarter of section 5, township 27, range 23, west of the second meridian, Saskatchewan as shown on Township Plan dated December 2, 1903.
+
+- Except: 0.17 hectare (0.42 acre) for roadway on Plan 71-H-08678. Mines and minerals excepted by instrument U3435. Said parcels Firstly to Thirdly containing together about 9,547.47 hectares (23,592.28 acres).
+
+- 2
+
+- Saline Creek Unit
+
+- Being all those parcels of land more particularly described under Firstly to Thirdly as follows:
+
+- Firstly, certificate of title No. 90-H-08591 registered September 26, 1990. The northeast and southeast quarters of section 4, township 29, range 23, west of the second meridian, Saskatchewan.
+
+- Except: 0.22 hectare (0.55 acre) for roadway on Plan P5396. Minerals in the Crown.
+
+- Secondly, certificate of title No. 68-H-03222 registered May 30, 1968. The southeast quarter of section 2 in township 29, in range 23, west of the second meridian, Saskatchewan. Minerals in the Crown.
+
+- Thirdly, certificate of title No. 68-H-03222A registered May 30, 1968. The southeast and southwest quarters of section 3 in township 29, in range 23 west of the second meridian, Saskatchewan.
+
+- Except: All mines and minerals, as the said mines and minerals were reserved by Transfer registered as No. 60-H-05892 as to the southeast quarter, and AT3465 as to the southwest quarter.
+
+- Said parcels Firstly to Thirdly containing together about 324 hectares (800 acres).
+
+- 3
+
+- West Unit
+
+- Being all those parcels of land more particularly described under Firstly and Secondly as follows:
+
+- Firstly, certificate of title No. 67-S-08372 registered April 21, 1967. The south half of section 26, township 28, range 24, west of the second meridian, Saskatchewan. Minerals excepted and subject to the reservations and conditions in respect thereto as contained in Transfer No. 67-S-08372.
+
+- Secondly, certificate of title No. 67-S-08371 registered April 21, 1967. The northeast quarter of section 26, township 28, range 24, west of the second meridian, Saskatchewan. Minerals in the Crown.
+
+- Said parcels containing together about 194 hectares (480 acres).
+
+- 4
+
+- East Unit
+
+- Being all those parcels of land more particularly described under Firstly to Thirdly as follows:
+
+- Firstly, certificate of title No. 77-03562 registered April 21, 1977. The whole of section 23, in township 28, in range 23, west of the second meridian, Saskatchewan.
+
+- Excepting Firstly: Out of the northeast quarter 0.53 hectare (1.31 acres) more or less, and out of the northwest quarter, 0.41 hectare (1.02 acres) more or less, both taken for a roadway as shown on Plan No. 70-H-05056.
+
+- Excepting Secondly: All mines and minerals, as the said mines and minerals were reserved by Transfer registered as No. 77-H-03562 as to the northwest and southwest quarters. Minerals in the Crown as to the northeast and southeast quarters.
+
+- Secondly, certificate of title No. 67-H-03829 registered June 13, 1967. The southwest quarter of section 35, in township 28, in range 23, west of the second meridian, Saskatchewan.
+
+- Except: Out of the southwest quarter all mines and minerals as the said mines and minerals were reserved by Transfer registered as No. C-4782 (115-29).
+
+- Thirdly, certificate of title No. 77-H-03562A registered April 21, 1977. The northwest and southwest quarters of section 26, in township 28, in range 23, west of the second meridian, Saskatchewan.
+
+- Excepting Firstly: 1.36 hectares (3.35 acres) more or less, out of the southwest quarter, taken for a roadway as shown on plan No. 70-H-05056.
+
+- Excepting Secondly: All mines and minerals as the said mines and minerals were reserved by Transfer registered as No. 77-H-03562 as to the northwest and southwest quarters. Said parcels Firstly to Thirdly containing together about 453 hectares (1,120 acres).
+
+History:
+
+- SOR/94-684, Sch. I, Pt. II, s. 3
