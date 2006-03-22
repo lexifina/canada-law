@@ -1,0 +1,15 @@
+Income Tax Remission Order (Canada Pension Plan)
+
+SI/95-21
+
+FINANCIAL ADMINISTRATION ACT
+
+Registration 1995-02-22
+
+Income Tax Remission Order (Canada Pension Plan)
+
+P.C. 1995-201 1995-2-7
+
+His Excellency the Governor General in Council, considering that the collection of the tax is unjust, on the recommendation of the Minister of National Revenue, pursuant to subsection 23(2)* of the Financial Administration Act, is pleased hereby to remit the net total of the taxes payable under Parts I and I.1 of the Income Tax Act for the 1987 to 1995 taxation years that, without regard to sections 122.2 and 122.4 to 122.64 thereof as they read at any time, would not be payable by a taxpayer if the part of any amount received by the taxpayer after 1987 and before 1996 by reason of section 63.1 of the Canada Pension Plan that was payable for a month in a year preceding the year in which it was received had been received in that preceding year, and all relevant penalties and interest.
+
+- *S.C. 1991, c. 24, s. 7(2)
