@@ -1,0 +1,3 @@
+## SCHEDULE
+
+To Roselle Marie Scott, of the City of Yellowknife in the Northwest Territories, a Postal Clerk employee of the Canada Post Corporation, to lease, for a seasonal dwelling, the whole of Lot Numbered 1015, on the southerly shore of Prelude Lake, in Quad 85 I/12, in the Northwest Territories, as said Lot is shown on plan of survey of Record Number 65767, in the Canada Lands Surveys Record at Ottawa, a copy of which is filed in the Land Titles Office for the Northwest Territories Land Registration District at Yellowknife, under number 1316, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work them.
