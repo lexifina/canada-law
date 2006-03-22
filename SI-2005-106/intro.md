@@ -1,0 +1,15 @@
+Republic of Cameroon Remission Order
+
+SI/2005-106
+
+FINANCIAL ADMINISTRATION ACT
+
+Registration 2005-10-27
+
+Republic of Cameroon Remission Order
+
+P.C. 2005-1892 2005-10-27
+
+Her Excellency the Governor General in Council, considering that it is in the public interest to do so, on the recommendation of the Minister of Finance, the Minister for International Trade and the Treasury Board, pursuant to subsection 23(2.1)a of the Financial Administration Act, hereby remits to the Republic of Cameroon the amount of 1,630,000 (US$). The amount represents the amount of principal and interest payments owing to the Government of Canada on a loan made through the Canada Account and to be forgiven by the Government of Canada under the Canadian Debt Initiative and the terms of the Paris Club debt restructuring agreement concluded between that republic and the Paris Club in January 2001.
+
+- aS.C. 1991, c. 24, s.7(2)
