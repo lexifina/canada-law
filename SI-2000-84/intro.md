@@ -1,0 +1,51 @@
+Proclamation Declaring October 31st of each year to be “National UNICEF Day”
+
+SI/2000-84
+
+OTHER THAN STATUTORY AUTHORITY
+
+Registration 2000-09-27
+
+Proclamation Declaring October 31st of each year to be “National UNICEF Day”
+
+ADRIENNE CLARKSON
+
+[L.S.]
+
+Canada
+
+Elizabeth the Second, by the Grace of God of the United Kingdom, Canada and Her other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.
+
+To All To Whom these Presents shall come or whom the same may in any way concern,
+
+Greeting:
+
+MORRIS ROSENBERG
+
+Deputy Attorney General
+
+A Proclamation
+
+Whereas the orange UNICEF Box has become inextricably associated with Halloween, on October 31st, in Canada;
+
+Whereas UNICEF, guided by the nearly universally ratified Convention on the Rights of the Child, focusses on ensuring the survival and well-being of the world’s deprived children, as well as improving all children’s quality of life and hope for the future;
+
+Whereas the naming of October 31st as National UNICEF Day in Canada, in perpetuity, by the Government of Canada would endorse the reality of an ongoing Canadian tradition, which is led and funded by the whole of the population of Canada;
+
+Whereas the participation of Canadians in the annual UNICEF Box campaign underscores the importance that Canadians place on defending the rights of children and the rule of law;
+
+And whereas, by Order in Council P.C. 2000-1179 of July 27, 2000, the Governor in Council has directed that a proclamation do issue declaring October 31st of each year to be National UNICEF Day;
+
+Now Know You that We, by and with the advice of our Privy Council for Canada, do by this Our Proclamation declare October 31st of each year to be National UNICEF Day.
+
+Of All Which Our Loving Subjects and all others whom these Presents may concern are hereby required to take notice and to govern themselves accordingly.
+
+In Testimony Whereof, We have caused these Our Letters to be made Patent and the Great Seal of Canada to be hereunto affixed. Witness: Our Right Trusty and Well-beloved Adrienne Clarkson, Chancellor and Principal Companion of Our Order of Canada, Chancellor and Commander of Our Order of Military Merit, Governor General and Commander-in-Chief of Canada.
+
+At Our Government House, in Our City of Ottawa, this sixth day of September in the year of Our Lord two thousand and in the forty-ninth year of Our Reign.
+
+By Command,
+
+V. PETER HARDER
+
+Deputy Registrar General of Canada
