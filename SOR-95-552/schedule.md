@@ -1,0 +1,3 @@
+## SCHEDULE
+
+To Frank Albert Tsetso, of the Village of Fort Simpson in the Northwest Territories, Peace Officer, a member of the Royal Canadian Mounted Police, to lease, for a trapper’s cabin, the whole of a parcel of land situated on the northerly shore of Cli Lake, at approximately 61°59′ North Latitude and 123°17′ West Longitude, in Quad numbered 95 G/14 in the Northwest Territories, as said parcel is shown outlined in red on a sketch plan on file 33-1-12 in the Land Management Division of the Department of Indian Affairs and Northern Development at Ottawa, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work them.
