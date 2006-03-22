@@ -1,0 +1,11 @@
+## SCHEDULE I (Section 2)
+
+GRAPHIC IS NOT DISPLAYED, SEE SOR/96-405, S. 1
+
+History:
+
+- SOR/92-509, s. 2
+
+- SOR/94-190, s. 1
+
+- SOR/96-405, s. 1
