@@ -1,0 +1,31 @@
+Proclamation Announcing the Appointment of the Governor General
+
+SI/2005-91
+
+OTHER THAN STATUTORY AUTHORITY
+
+Registration 2005-10-19
+
+Proclamation Announcing the Appointment of the Governor General
+
+By Her Excellency the Right Honourable Michaëlle Jean, Chancellor and Principal Companion of the Order of Canada, Chancellor and Commander of the Order of Military Merit, Chancellor and Commander of the Order of Merit of the Police Forces, Governor General and Commander-in-Chief of Canada.
+
+TO All to Whom these Presents shall come,
+
+Greeting:
+
+A Proclamation
+
+Whereas Her Majesty Queen Elizabeth the Second, by Commission under the Great Seal of Canada bearing date the tenth day of September, in the year of Our Lord two thousand and five, was graciously pleased to appoint me to be, during the Royal Pleasure, Governor General and Commander-in-Chief in and over Canada, and further, in and by that Commission, authorized, empowered and commanded me to exercise and perform all and singular the powers and directions contained in Letters Patent under the Great Seal of Canada, bearing date the eighth day of September in the year of Our Lord one thousand nine hundred and forty-seven constituting the Office of Governor General and Commander-in- Chief in and over Canada and in any other Letters Patent adding to, amending or substituted for the same.
+
+And whereas, in accordance with these Letters Patent, I have caused the Commission under the Great Seal of Canada appointing me to be, during the Royal Pleasure, Governor General and Commander-in-Chief in and over Canada to be read and published with all due solemnity in the presence of the Chief Justice or other Judge of the Supreme Court of Canada and of Members of the Queen’s Privy Council for Canada, and have taken the Oaths prescribed by those Letters Patent.
+
+Now, Therefore, know you that I have thought fit to issue this proclamation in order to make known Her Majesty’s appointment and to make known that I have entered upon the duties of the Office of Governor General and Commander-in-Chief in and over Canada.
+
+And I Do Hereby require and command that all and singular Her Majesty’s Officers and Ministers in Canada do continue in the execution of their several and respective offices, places and employments, and that Her Majesty’s loving subjects and all others whom these Presents may concern do take notice and govern themselves accordingly.
+
+Given under my Hand and Seal of Office at Ottawa, this twenty-seventh day of September in the year of Our Lord two thousand and five and in the fifty-fourth year of Her Majesty’s Reign.
+
+MICHAËLLE JEAN
+
+Privy Seal
