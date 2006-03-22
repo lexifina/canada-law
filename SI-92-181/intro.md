@@ -1,0 +1,23 @@
+Issuance of Writs of Referendum Authorization Order
+
+SI/92-181
+
+REFERENDUM ACT
+
+Registration 1992-10-07
+
+Issuance of Writs of Referendum Authorization Order
+
+P.C. 1992-2046 1992-9-17
+
+Whereas, pursuant to subsection 3(1) of the Referendum Act, a proclamation has been issued directing that the opinion of the electors of the provinces of Ontario, Nova Scotia, New Brunswick, Manitoba, British Columbia, Prince Edward Island, Saskatchewan, Alberta, Newfoundland, the Yukon Territory and the Northwest Territories be obtained at a referendum by putting to the electors the following question:
+
+“Do you agree that the Constitution of Canada should be renewed on the basis of the agreement reached on August 28, 1992?
+
+YESNO”
+
+Therefore, His Excellency the Governor General in Council, on the recommendation of the Prime Minister, is pleased hereby,
+
+- (a) pursuant to subsection 6(2) of the Referendum Act, to determine that the writs of referendum issued pursuant to subsection 6(1) of that Act shall be dated September 17, 1992; and
+
+- (b) pursuant to subsection 6(3) of that Act, to determine that the polling day at the referendum shall be October 26, 1992.
