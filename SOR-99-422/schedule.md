@@ -1,0 +1,3 @@
+## SCHEDULE
+
+To Wayne Angus Keefe, of the Town of Hay River in the Northwest Territories, a Telecom Manager employee with the Department of Fisheries and Oceans, to lease, for recreational purposes, a 90 metres by 60 metres un-surveyed parcel of land of approximately 0.54 hectares in size, near km36 on Highway No.1, in the Northwest Territories, situated at 60°14′21″ north latitude and 116°34′39″ west longitude, said parcel is shown on NTS Map Sheet No. 85 C/2, saving and excepting therefrom and reserving thereout all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous and the right to work them.
