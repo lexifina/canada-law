@@ -1,0 +1,13 @@
+Order Transferring Certain Portions of the Operations Branch of the Canadian Food Inspection Agency to the Canada Border Services Agency
+
+SI/2003-217
+
+PUBLIC SERVICE REARRANGEMENT AND TRANSFER OF DUTIES ACT
+
+Registration 2003-12-31
+
+Order Transferring Certain Portions of the Operations Branch of the Canadian Food Inspection Agency to the Canada Border Services Agency
+
+P.C. 2003-2065 2003-12-12
+
+Her Excellency the Governor General in Council, on the recommendation of the Prime Minister, pursuant to paragraph 2(a) of the Public Service Rearrangement and Transfer of Duties Act, hereby transfers to the Canada Border Services Agency, effective December 12, 2003, the control and supervision of the portions of the public service within the Operations Branch of the Canadian Food Inspection Agency that provide passenger and initial import inspection services performed at airports and other Canadian border points other than import service centres.
