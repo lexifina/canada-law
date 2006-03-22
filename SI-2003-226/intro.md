@@ -1,0 +1,13 @@
+Order Transferring from the Minister of Canadian Heritage to the Minister of the Environment the Control and Supervision of the Parks Canada Agency
+
+SI/2003-226
+
+PUBLIC SERVICE REARRANGEMENT AND TRANSFER OF DUTIES ACT
+
+Registration 2003-12-31
+
+Order Transferring from the Minister of Canadian Heritage to the Minister of the Environment the Control and Supervision of the Parks Canada Agency
+
+P.C. 2003-2081 2003-12-12
+
+Her Excellency the Governor General in Council, on the recommendation of the Prime Minister, pursuant to paragraph 2(a) of the Public Service Rearrangement and Transfer of Duties Act, hereby transfers from the Minister of Canadian Heritage to the Minister of the Environment the control and supervision of that portion of the public service known as the Parks Canada Agency, effective December 12, 2003.
