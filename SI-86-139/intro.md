@@ -1,0 +1,13 @@
+Minister of Agriculture Authority to Prescribe Fees Order
+
+SI/86-139
+
+FINANCIAL ADMINISTRATION ACT
+
+Registration 1986-08-06
+
+Minister of Agriculture Authority to Prescribe Fees Order
+
+P.C. 1986-1648 1986-7-23
+
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Agriculture and the Treasury Board, pursuant to paragraph 13(b) of the Financial Administration Act, is pleased hereby to revoke the Minister of Agriculture Authority to Prescribe Fees Order made by Order in Council P.C. 1985-2271 of 24th July, 1985 and to authorize the Minister of Agriculture to prescribe by order the fee to be paid by the owner of a pet to have the pet vaccinated against rabies by an employee of the Department of Agriculture.
