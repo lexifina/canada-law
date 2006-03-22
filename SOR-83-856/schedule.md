@@ -1,0 +1,3 @@
+## SCHEDULE (Section 2)
+
+All that parcel of unsurveyed land adjoining the easterly boundary of Lot numbered 925, Group numbered 964, in the City of Yellowknife in the Northwest Territories, as said lot is shown on a plan of survey of record number 57843 in the Canada Lands Surveys Records at Ottawa, a copy of which is filed in the Land Titles Office for the Northwest Territories Land Registration District at Yellowknife under number 796; as said parcel is shown outlined in red on a sketch plan of record on file 18-1-61 in the Land Management Division of the Department of Indian Affairs and Northern Development at Ottawa, said parcel containing approximately 0.36 hectares (0.94 acres), more or less.
