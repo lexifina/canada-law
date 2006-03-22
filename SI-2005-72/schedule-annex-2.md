@@ -1,0 +1,5 @@
+## ANNEX 2 Statement Setting Out the Reasons for Not Adding Porsild’s Bryum, Peary Caribou and Barren-Ground Caribou (Dolphin and Union Population) to the List
+
+The Nunavut Government and the Nunavut Wildlife Management Board (the NWMB) have both raised concerns about the consultations that have taken place. Under paragraph 34(4)(b) of the Species at Risk Act (the Act), the Minister of the Environment must consult with wildlife management boards if a species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species. As well, the NWMB and the Nunavut Government have raised concerns regarding the inclusion of community and aboriginal knowledge in the assessment of those species. They are not being added to the List at this time in order to allow further consultation with the NWMB and the Nunavut Government so as to determine how their concerns can be addressed
+
+At a future date, the Minister may reconsider the matter after those consultations on the Porsild’s bryum, Peary caribou and barren-ground caribou (Dolphin and Union population) have been completed.
