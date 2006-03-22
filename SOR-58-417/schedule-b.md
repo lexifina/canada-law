@@ -1,0 +1,11 @@
+## SCHEDULE B
+
+CLASS OF RECIPIENT | COLUMN I | COLUMN II | COLUMN III
+
+Employee | $2,000.00 | $3,000.00 | $640.00
+
+Widow | 1,000.00 | 1,500.00 | 320.00
+
+Child | 200.00 | 200.00 | 64.00
+
+Orphan | 400.00 | 600.00 | 128.00
