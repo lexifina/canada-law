@@ -344,6 +344,18 @@
 
   - Centre d’analyse des opérations et déclarations financières du Canada
 
+  - First Nations Financial Management Board
+
+  - Conseil de gestion financière des premières nations
+
+  - First Nations Statistical Institute
+
+  - Institut de la statistique des premières nations
+
+  - First Nations Tax Commission
+
+  - Commission de la fiscalité des premières nations
+
   - Fraser River Port Authority
 
   - Administration portuaire du fleuve Fraser
@@ -798,7 +810,7 @@ History:
 
 - SOR/2004-24, 207
 
-- 2005, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
+- 2005, c. 9, s. 147, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
 
 - SOR/2005-251
 

@@ -60,6 +60,8 @@ Excise Tax Act Loi sur la taxe d’accise | section 295
 
 Family Allowances Act Loi sur les allocations familiales | section 18
 
+First Nations Fiscal and Statistical Management Act Loi sur la gestion financière et statistique des premières nations | section 108
+
 Hazardous Products Act Loi sur les produits dangereux | section 12
 
 Canadian Human Rights Act Loi canadienne sur les droits de la personne | subsection 47(3)
@@ -144,4 +146,4 @@ History:
 
 - 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107, c. 26, ss. 15, 16
 
-- 2005, c. 34, s. 83, c. 35, ss. 43, 44
+- 2005, c. 9, s. 148, c. 34, s. 83, c. 35, ss. 43, 44
