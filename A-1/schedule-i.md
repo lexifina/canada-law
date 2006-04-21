@@ -596,6 +596,10 @@
 
   - Bureau du Conseil privé
 
+  - Public Appointments Commission Secretariat
+
+  - Secrétariat de la Commission des nominations publiques
+
   - Public Health Agency of Canada
 
   - Agence de la santé publique du Canada
@@ -814,4 +818,4 @@ History:
 
 - SOR/2005-251
 
-- SOR/2006-24, 28, 34
+- SOR/2006-24, 28, 34, 70
