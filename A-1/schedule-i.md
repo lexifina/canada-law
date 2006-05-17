@@ -196,10 +196,6 @@
 
   - Agence canadienne d’évaluation environnementale
 
-  - Canadian Firearms Centre
-
-  - Centre canadien des armes à feu
-
   - Canadian Food Inspection Agency
 
   - Agence canadienne d’inspection des aliments
@@ -818,4 +814,4 @@ History:
 
 - SOR/2005-251
 
-- SOR/2006-24, 28, 34, 70
+- SOR/2006-24, 28, 34, 70, 99
