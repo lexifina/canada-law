@@ -524,6 +524,10 @@
 
   - Bureau de privatisation et des affaires réglementaires
 
+  - Office of the Administrator of the Ship-source Oil Pollution Fund
+
+  - Bureau de l’administrateur de la Caisse d’indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires
+
   - Office of the Comptroller General
 
   - Bureau du contrôleur général
@@ -814,4 +818,4 @@ History:
 
 - SOR/2005-251
 
-- SOR/2006-24, 28, 34, 70, 99
+- SOR/2006-24, 28, 34, 70, 99, 217
