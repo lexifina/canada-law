@@ -292,6 +292,10 @@
 
   - Commission du droit d’auteur
 
+  - Corporation for the Mitigation of Mackenzie Gas Project Impacts
+
+  - Société d’atténuation des répercussions du projet gazier Mackenzie
+
   - Correctional Service of Canada
 
   - Service correctionnel du Canada
@@ -817,5 +821,7 @@ History:
 - 2005, c. 9, s. 147, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
 
 - SOR/2005-251
+
+- 2006, c. 4, s. 210
 
 - SOR/2006-24, 28, 34, 70, 99, 217
