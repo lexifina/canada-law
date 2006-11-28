@@ -1,0 +1,27 @@
+PROSPECTUS EXEMPTIONS (INSURANCE HOLDING COMPANIES) REGULATIONS
+
+SOR/2001-418
+
+INSURANCE COMPANIES ACT
+
+Registration 2001-10-04
+
+PROSPECTUS EXEMPTIONS (INSURANCE HOLDING COMPANIES) REGULATIONS
+
+P.C. 2001-1789 2001-10-4
+
+[Repealed, SOR/2006-320, s. 6]
+
+## Interpretation
+
+1 [Repealed, SOR/2006-320, s. 6]
+
+## Exemptions
+
+2 [Repealed, SOR/2006-320, s. 6]
+
+3 [Repealed, SOR/2006-320, s. 6]
+
+## Coming into Force
+
+4.* [Repealed, SOR/2006-320, s. 6]
