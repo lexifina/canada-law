@@ -1,0 +1,29 @@
+PROSPECTUS (INSURANCE COMPANIES AND INSURANCE HOLDING COMPANIES) REGULATIONS
+
+SOR/2001-413
+
+INSURANCE COMPANIES ACT
+
+Registration 2001-10-04
+
+PROSPECTUS (INSURANCE COMPANIES AND INSURANCE HOLDING COMPANIES) REGULATIONS
+
+P.C. 2001-1784 2001-10-4
+
+[Repealed, SOR/2006-320, s. 5]
+
+## Form and Content
+
+1 [Repealed, SOR/2006-320, s. 5]
+
+## Distribution
+
+2 [Repealed, SOR/2006-320, s. 5]
+
+## Repeal
+
+3 [Repealed, SOR/2006-320, s. 5]
+
+## Coming into Force
+
+4.* [Repealed, SOR/2006-320, s. 5]
