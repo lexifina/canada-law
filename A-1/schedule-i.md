@@ -544,6 +544,10 @@
 
   - Bureau de l’enquêteur correctionnel du Canada
 
+  - Office of the Director of Public Prosecutions
+
+  - Bureau du directeur des poursuites pénales
+
   - Office of the Inspector General of the Canadian Security Intelligence Service
 
   - Bureau de l’Inspecteur général du service canadien du renseignement de sécurité
@@ -822,6 +826,6 @@ History:
 
 - SOR/2005-251
 
-- 2006, c. 4, s. 210
+- 2006, c. 4, s. 210, c. 9, s. 129
 
 - SOR/2006-24, 28, 34, 70, 99, 217
