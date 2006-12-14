@@ -96,7 +96,7 @@ Sex Offender Information Registration Act Loi sur l’enregistrement de renseign
 
 Shipping Conferences Exemption Act, 1987 Loi dérogatoire de 1987 sur les conférences maritimes | section 11
 
-Softwood Lumber Products Export Charge Act Loi sur le droit à l’exportation de produits de bois d’oeuvre | section 20
+Softwood Lumber Products Export Charge Act, 2006 Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre | section 84
 
 Special Import Measures Act Loi sur les mesures spéciales d’importation | section 84
 
@@ -147,3 +147,5 @@ History:
 - 2004, c. 2, s. 73, c. 10, s. 22, c. 15, s. 107, c. 26, ss. 15, 16
 
 - 2005, c. 9, s. 148, c. 34, s. 83, c. 35, ss. 43, 44
+
+- 2006, c. 13, ss. 118, 119
