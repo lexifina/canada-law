@@ -58,6 +58,8 @@ Energy Supplies Emergency Act Loi d’urgence sur les approvisionnements d’én
 
 Excise Tax Act Loi sur la taxe d’accise | section 295
 
+Export Development Act Loi sur le développement des exportations | section 24.3
+
 Family Allowances Act Loi sur les allocations familiales | section 18
 
 First Nations Fiscal and Statistical Management Act Loi sur la gestion financière et statistique des premières nations | section 108
@@ -148,4 +150,4 @@ History:
 
 - 2005, c. 9, s. 148, c. 34, s. 83, c. 35, ss. 43, 44
 
-- 2006, c. 13, ss. 118, 119
+- 2006, c. 9, s. 172, c. 13, ss. 118, 119
