@@ -80,6 +80,10 @@
 
 - Other Government Institutions
 
+  - Asia-Pacific Foundation of Canada
+
+  - Fondation Asie-Pacifique du Canada
+
   - Assisted Human Reproduction Agency of Canada
 
   - Agence canadienne de contrôle de la procréation assistée
@@ -136,6 +140,14 @@
 
   - Commission de l’assurance-emploi du Canada
 
+  - Canada Foundation for Innovation
+
+  - Fondation canadienne pour l’innovation
+
+  - Canada Foundation for Sustainable Development Technology
+
+  - Fondation du Canada pour l’appui technologique au développement durable
+
   - Canada Industrial Relations Board
 
   - Conseil canadien des relations industrielles
@@ -143,6 +155,10 @@
   - Canada Lands Company Limited
 
   - Société immobilière du Canada limitée
+
+  - Canada Millennium Scholarship Foundation
+
+  - Fondation canadienne des bourses d’études du millénaire
 
   - Canada Mortgage and Housing Corporation
 
@@ -279,6 +295,10 @@
   - Canadian Transportation Agency
 
   - Office des transports du Canada
+
+  - Canadian Wheat Board
+
+  - Commission canadienne du blé
 
   - Cape Breton Development Corporation
 
@@ -532,6 +552,18 @@
 
   - Bureau de l’administrateur de la Caisse d’indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires
 
+  - Office of the Auditor General of Canada
+
+  - Bureau du vérificateur général du Canada
+
+  - Office of the Chief Electoral Officer
+
+  - Bureau du directeur général des élections
+
+  - Office of the Commissioner of Official Languages
+
+  - Commissariat aux langues officielles
+
   - Office of the Comptroller General
 
   - Bureau du contrôleur général
@@ -548,9 +580,17 @@
 
   - Bureau du directeur des poursuites pénales
 
+  - Office of the Information Commissioner
+
+  - Commissariat à l’information
+
   - Office of the Inspector General of the Canadian Security Intelligence Service
 
   - Bureau de l’Inspecteur général du service canadien du renseignement de sécurité
+
+  - Office of the Privacy Commissioner
+
+  - Commissariat à la protection de la vie privée
 
   - Office of the Registrar of Lobbyists
 
@@ -587,6 +627,10 @@
   - Petroleum Compensation Board
 
   - Office des indemnisations pétrolières
+
+  - The Pierre Elliott Trudeau Foundation
+
+  - La Fondation Pierre-Elliott-Trudeau
 
   - Port Alberni Port Authority
 
@@ -826,6 +870,6 @@ History:
 
 - SOR/2005-251
 
-- 2006, c. 4, s. 210, c. 9, s. 129
+- 2006, c. 4, s. 210, c. 9, ss. 129, 165 to 171
 
 - SOR/2006-24, 28, 34, 70, 99, 217
