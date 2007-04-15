@@ -592,6 +592,10 @@
 
   - Commissariat à la protection de la vie privée
 
+  - Office of the Public Sector Integrity Commissioner
+
+  - Commissariat à l’intégrité du secteur public
+
   - Office of the Registrar of Lobbyists
 
   - Bureau du directeur des lobbyistes
@@ -683,6 +687,10 @@
   - Regional Development Incentives Board
 
   - Conseil des subventions au développement régional
+
+  - Registry of the Public Servants Disclosure Protection Tribunal
+
+  - Greffe du Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles
 
   - Ridley Terminals Inc.
 
@@ -866,10 +874,10 @@ History:
 
 - SOR/2004-24, 207
 
-- 2005, c. 9, s. 147, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138
+- 2005, c. 9, s. 147, c. 10, ss. 9, 10, c. 30, s. 88, c. 34, ss. 58 to 60, c. 35, s. 42, c. 38, s. 138, c. 46, s. 55.1
 
 - SOR/2005-251
 
-- 2006, c. 4, s. 210, c. 9, ss. 129, 165 to 171
+- 2006, c. 4, s. 210, c. 9, ss. 129, 165 to 171, 221
 
 - SOR/2006-24, 28, 34, 70, 99, 217
