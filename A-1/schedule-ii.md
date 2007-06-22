@@ -58,6 +58,8 @@ Energy Monitoring Act Loi sur la surveillance du secteur énergétique | section
 
 Energy Supplies Emergency Act Loi d’urgence sur les approvisionnements d’énergie | section 40.1
 
+Excise Act, 2001 Loi de 2001 sur l’accise | section 211
+
 Excise Tax Act Loi sur la taxe d’accise | section 295
 
 Export Development Act Loi sur le développement des exportations | section 24.3
@@ -153,3 +155,5 @@ History:
 - 2005, c. 9, s. 148, c. 34, s. 83, c. 35, ss. 43, 44
 
 - 2006, c. 9, ss. 172, 172.01, c. 13, ss. 118, 119
+
+- 2007, c. 18, s. 134
