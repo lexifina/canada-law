@@ -92,45 +92,17 @@
 
   - Agence de promotion économique du Canada atlantique
 
-  - Atlantic Pilotage Authority
-
-  - Administration de pilotage de l’Atlantique
-
-  - Bank of Canada
-
-  - Banque du Canada
-
   - Belledune Port Authority
 
   - Administration portuaire de Belledune
-
-  - Blue Water Bridge Authority
-
-  - Administration du pont Blue Water
 
   - British Columbia Treaty Commission
 
   - Commission des traités de la Colombie-Britannique
 
-  - Business Development Bank of Canada
-
-  - Banque de développement du Canada
-
   - Canada Border Services Agency
 
   - Agence des services frontaliers du Canada
-
-  - Canada Council for the Arts
-
-  - Conseil des Arts du Canada
-
-  - Canada Deposit Insurance Corporation
-
-  - Société d’assurance-dépôts du Canada
-
-  - Canada Development Investment Corporation
-
-  - Corporation de développement des investissements du Canada
 
   - Canada Emission Reduction Incentives Agency
 
@@ -152,17 +124,9 @@
 
   - Conseil canadien des relations industrielles
 
-  - Canada Lands Company Limited
-
-  - Société immobilière du Canada limitée
-
   - Canada Millennium Scholarship Foundation
 
   - Fondation canadienne des bourses d’études du millénaire
-
-  - Canada Mortgage and Housing Corporation
-
-  - Société canadienne d’hypothèques et de logement
 
   - Canada-Newfoundland Offshore Petroleum Board
 
@@ -184,10 +148,6 @@
 
   - Conseil consultatif canadien de la situation de la femme
 
-  - Canadian Air Transport Security Authority
-
-  - Administration canadienne de la sûreté du transport aérien
-
   - Canadian Artists and Producers Professional Relations Tribunal
 
   - Tribunal canadien des relations professionnelles artistes-producteurs
@@ -196,17 +156,9 @@
 
   - Centre canadien d’hygiène et de sécurité au travail
 
-  - Canadian Commercial Corporation
-
-  - Corporation commerciale canadienne
-
   - Canadian Cultural Property Export Review Board
 
   - Commission canadienne d’examen des exportations de biens culturels
-
-  - Canadian Dairy Commission
-
-  - Commission canadienne du lait
 
   - Canadian Environmental Assessment Agency
 
@@ -252,14 +204,6 @@
 
   - Tribunal canadien du commerce extérieur
 
-  - Canadian Museum of Civilization
-
-  - Musée canadien des civilisations
-
-  - Canadian Museum of Nature
-
-  - Musée canadien de la nature
-
   - Canadian Nuclear Safety Commission
 
   - Commission canadienne de sûreté nucléaire
@@ -267,10 +211,6 @@
   - Canadian Polar Commission
 
   - Commission canadienne des affaires polaires
-
-  - Canadian Race Relations Foundation
-
-  - Fondation canadienne des relations raciales
 
   - Canadian Radio-television and Telecommunications Commission
 
@@ -284,10 +224,6 @@
 
   - Agence spatiale canadienne
 
-  - Canadian Tourism Commission
-
-  - Commission canadienne du tourisme
-
   - Canadian Transportation Accident Investigation and Safety Board
 
   - Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports
@@ -300,14 +236,6 @@
 
   - Commission canadienne du blé
 
-  - Cape Breton Development Corporation
-
-  - Société de développement du Cap-Breton
-
-  - Cape Breton Growth Fund Corporation Corporation
-
-  - Fonds d’investissement du Cap-Breton
-
   - Copyright Board
 
   - Commission du droit d’auteur
@@ -319,10 +247,6 @@
   - Correctional Service of Canada
 
   - Service correctionnel du Canada
-
-  - Defence Construction (1951) Limited
-
-  - Construction de défense (1951) Limitée
 
   - Director of Soldier Settlement
 
@@ -339,18 +263,6 @@
   - Energy Supplies Allocation Board
 
   - Office de répartition des approvisionnements d’énergie
-
-  - Enterprise Cape Breton Corporation
-
-  - Société d’expansion du Cap-Breton
-
-  - Farm Credit Canada
-
-  - Financement agricole Canada
-
-  - The Federal Bridge Corporation Limited
-
-  - La Société des ponts fédéraux Limitée
 
   - Federal-Provincial Relations Office
 
@@ -380,17 +292,9 @@
 
   - Administration portuaire du fleuve Fraser
 
-  - Freshwater Fish Marketing Corporation
-
-  - Office de commercialisation du poisson d’eau douce
-
   - Grain Transportation Agency Administrator
 
   - Administrateur de l’Office du transport du grain
-
-  - Great Lakes Pilotage Authority
-
-  - Administration de pilotage des Grands Lacs
 
   - Gwich’in Land and Water Board
 
@@ -424,18 +328,6 @@
 
   - Centre international des droits de la personne et du développement démocratique
 
-  - International Development Research Centre
-
-  - Centre de recherches pour le développement international
-
-  - The Jacques-Cartier and Champlain Bridges Inc.
-
-  - Les Ponts Jacques-Cartier et Champlain Inc.
-
-  - Laurentian Pilotage Authority
-
-  - Administration de pilotage des Laurentides
-
   - Law Commission of Canada
 
   - Commission du droit du Canada
@@ -451,10 +343,6 @@
   - Mackenzie Valley Land and Water Board
 
   - Office des terres et des eaux de la vallée du Mackenzie
-
-  - Marine Atlantic Inc.
-
-  - Marine Atlantique S.C.C.
 
   - Merchant Seamen Compensation Board
 
@@ -476,10 +364,6 @@
 
   - Commission des champs de bataille nationaux
 
-  - National Capital Commission
-
-  - Commission de la capitale nationale
-
   - National Energy Board
 
   - Office national de l’énergie
@@ -491,14 +375,6 @@
   - National Film Board
 
   - Office national du film
-
-  - National Gallery of Canada
-
-  - Musée des beaux-arts du Canada
-
-  - National Museum of Science and Technology
-
-  - Musée national des sciences et de la technologie
 
   - National Parole Board
 
@@ -604,18 +480,6 @@
 
   - Bureau du surintendant des institutions financières
 
-  - Old Port of Montreal Corporation Inc.
-
-  - Société du Vieux-Port de Montréal Inc.
-
-  - Pacific Pilotage Authority
-
-  - Administration de pilotage du Pacifique
-
-  - Parc Downsview Park Inc.
-
-  - Parc Downsview Park Inc.
-
   - Parks Canada Agency
 
   - Agence Parcs Canada
@@ -680,10 +544,6 @@
 
   - Administration portuaire de Québec
 
-  - Queens Quay West Land Corporation
-
-  - Queens Quay West Land Corporation
-
   - Regional Development Incentives Board
 
   - Conseil des subventions au développement régional
@@ -691,14 +551,6 @@
   - Registry of the Public Servants Disclosure Protection Tribunal
 
   - Greffe du Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles
-
-  - Ridley Terminals Inc.
-
-  - Ridley Terminals Inc.
-
-  - Royal Canadian Mint
-
-  - Monnaie royale canadienne
 
   - Royal Canadian Mounted Police
 
@@ -728,10 +580,6 @@
 
   - Administration portuaire de Saint-Jean
 
-  - The Seaway International Bridge Corporation, Ltd.
-
-  - La Corporation du Pont international de la voie maritime, Ltée
-
   - Security Intelligence Review Committee
 
   - Comité de surveillance des activités de renseignement de sécurité
@@ -744,10 +592,6 @@
 
   - Conseil de recherches en sciences humaines
 
-  - Standards Council of Canada
-
-  - Conseil canadien des normes
-
   - Statistics Canada
 
   - Statistique Canada
@@ -759,10 +603,6 @@
   - St. John’s Port Authority
 
   - Administration portuaire de St. John’s
-
-  - Telefilm Canada
-
-  - Téléfilm Canada
 
   - Thunder Bay Port Authority
 
@@ -878,6 +718,6 @@ History:
 
 - SOR/2005-251
 
-- 2006, c. 4, s. 210, c. 9, ss. 129, 165 to 171, 221
+- 2006, c. 4, s. 210, c. 9, ss. 129, 164 to 171, 221
 
 - SOR/2006-24, 28, 34, 70, 99, 217
