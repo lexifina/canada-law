@@ -268,6 +268,10 @@
 
   - Secrétariat des relations fédérales-provinciales
 
+  - Federal Public Service Health Care Plan Administration Authority
+
+  - Administration du Régime de soins de santé de la fonction publiquefédérale
+
   - Financial Consumer Agency of Canada
 
   - Agence de la consommation en matière financière du Canada
@@ -721,3 +725,5 @@ History:
 - 2006, c. 4, s. 210, c. 9, ss. 129, 164 to 171, 221
 
 - SOR/2006-24, 28, 34, 70, 99, 217
+
+- SOR/2007-215
