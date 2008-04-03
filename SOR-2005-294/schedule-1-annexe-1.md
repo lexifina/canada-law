@@ -1,0 +1,3 @@
+## SCHEDULE 1/ANNEXE 1 (Subsection 1(3) and paragraph 3(a)/paragraphe 1(3) et alinéa 3a))
+
+EASTPORT — DUCK ISLAND MARINE PROTECTED AREA/ZONE DE PROTECTION MARINE D’EASTPORT — ÎLE DUCK
