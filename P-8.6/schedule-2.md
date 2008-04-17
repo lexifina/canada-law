@@ -8,8 +8,12 @@ Item | Act of Parliament | Provisions
 
 1 | Federal Real Property and Federal Immovables Act | Sections 3, 5 to 7, 11 and 16
 
+2 | Canada Labour Code | Subsection 254(1)
+
 History:
 
 - 2000, c. 5, Sch. 2
 
-- SOR/2004-309, s. 1.
+- SOR/2004-309, s. 1
+
+- SOR/2008-114
