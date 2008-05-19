@@ -1,0 +1,19 @@
+Name use (Foreign Banks) Regulations
+
+SOR/2008-156
+
+BANK ACT
+
+Registration 2008-05-15
+
+Name use (Foreign Banks) Regulations
+
+P.C. 2008-936 2008-5-15
+
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance, pursuant to section 978a and subsection 983(18)b of the Bank Actc, hereby makes the annexed Name Use (Foreign Banks) Regulations.
+
+- aS.C. 2005, c. 54, s. 135
+
+- bS.C. 2007, c. 6, s. 129(8)
+
+- cS.C. 1991, c. 46
