@@ -328,6 +328,10 @@
 
   - Commission de l’immigration et du statut de réfugié
 
+  - Indian Residential Schools Truth and Reconciliation Commission Secretariat
+
+  - Secrétariat de la Commission de vérité et de réconciliation relative aux pensionnats indiens
+
   - International Centre for Human Rights and Democratic Development
 
   - Centre international des droits de la personne et du développement démocratique
@@ -415,10 +419,6 @@
   - Nunavut Water Board
 
   - Office des eaux du Nunavut
-
-  - Office of Indian Residential Schools Resolution of Canada
-
-  - Bureau du Canada sur le règlement des questions des pensionnats autochtones
 
   - Office of Infrastructure of Canada
 
@@ -727,3 +727,5 @@ History:
 - SOR/2006-24, 28, 34, 70, 99, 217
 
 - SOR/2007-215
+
+- SOR/2008-130, 135
