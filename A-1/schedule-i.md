@@ -440,6 +440,10 @@
 
   - Bureau du directeur général des élections
 
+  - Office of the Commissioner of Lobbying
+
+  - Commissariat au lobbying
+
   - Office of the Commissioner of Official Languages
 
   - Commissariat aux langues officielles
@@ -475,10 +479,6 @@
   - Office of the Public Sector Integrity Commissioner
 
   - Commissariat à l’intégrité du secteur public
-
-  - Office of the Registrar of Lobbyists
-
-  - Bureau du directeur des lobbyistes
 
   - Office of the Superintendent of Financial Institutions
 
@@ -722,7 +722,7 @@ History:
 
 - SOR/2005-251
 
-- 2006, c. 4, s. 210, c. 9, ss. 129, 164 to 171, 221
+- 2006, c. 4, s. 210, c. 9, ss. 90, 91, 129, 164 to 171, 221
 
 - SOR/2006-24, 28, 34, 70, 99, 217
 
