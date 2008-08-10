@@ -204,6 +204,10 @@
 
   - Tribunal canadien du commerce extérieur
 
+  - Canadian Museum for Human Rights
+
+  - Musée canadien des droits de la personne
+
   - Canadian Nuclear Safety Commission
 
   - Commission canadienne de sûreté nucléaire
@@ -727,5 +731,7 @@ History:
 - SOR/2006-24, 28, 34, 70, 99, 217
 
 - SOR/2007-215
+
+- 2008, c. 9, s. 6
 
 - SOR/2008-130, 135
