@@ -1,0 +1,349 @@
+Specific Claims Resolution Act
+
+S.C. 2003, c. 23
+
+Assented to 2003-11-07
+
+An Act to establish the Canadian Centre for the Independent Resolution of First Nations Specific Claims to provide for the filing, negotiation and resolution of specific claims and to make related amendments to other Acts
+
+[Repealed, 2008, c. 22, s. 52]
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+## Short Title
+
+[Repealed, 2008, c. 22, s. 52]
+
+1 [Repealed, 2008, c. 22, s. 52]
+
+## Interpretation
+
+[Repealed, 2008, c. 22, s. 52]
+
+2 [Repealed, 2008, c. 22, s. 52]
+
+## Purpose
+
+[Repealed, 2008, c. 22, s. 52]
+
+3 [Repealed, 2008, c. 22, s. 52]
+
+## PART 1 Canadian Centre for the Independent Resolution of First Nations Specific Claims
+
+[Repealed, 2008, c. 22, s. 52]
+
+### Establishment, Composition and Functions
+
+[Repealed, 2008, c. 22, s. 52]
+
+4 [Repealed, 2008, c. 22, s. 52]
+
+5 [Repealed, 2008, c. 22, s. 52]
+
+6 [Repealed, 2008, c. 22, s. 52]
+
+### Chief Executive Officer
+
+[Repealed, 2008, c. 22, s. 52]
+
+7 [Repealed, 2008, c. 22, s. 52]
+
+8 [Repealed, 2008, c. 22, s. 52]
+
+9 [Repealed, 2008, c. 22, s. 52]
+
+### Personnel Management
+
+[Repealed, 2008, c. 22, s. 52]
+
+10 [Repealed, 2008, c. 22, s. 52]
+
+11 [Repealed, 2008, c. 22, s. 52]
+
+12 [Repealed, 2008, c. 22, s. 52]
+
+13 [Repealed, 2008, c. 22, s. 52]
+
+14 [Repealed, 2008, c. 22, s. 52]
+
+15 [Repealed, 2008, c. 22, s. 52]
+
+### General Provisions
+
+[Repealed, 2008, c. 22, s. 52]
+
+16 [Repealed, 2008, c. 22, s. 52]
+
+17 [Repealed, 2008, c. 22, s. 52]
+
+18 [Repealed, 2008, c. 22, s. 52]
+
+19 [Repealed, 2008, c. 22, s. 52]
+
+## PART 2 Commission
+
+[Repealed, 2008, c. 22, s. 52]
+
+### Composition and Role
+
+[Repealed, 2008, c. 22, s. 52]
+
+#### Composition
+
+[Repealed, 2008, c. 22, s. 52]
+
+20 [Repealed, 2008, c. 22, s. 52]
+
+#### Remuneration
+
+[Repealed, 2008, c. 22, s. 52]
+
+21 [Repealed, 2008, c. 22, s. 52]
+
+#### Management
+
+[Repealed, 2008, c. 22, s. 52]
+
+22 [Repealed, 2008, c. 22, s. 52]
+
+#### Functions, Powers and Duties
+
+[Repealed, 2008, c. 22, s. 52]
+
+23 [Repealed, 2008, c. 22, s. 52]
+
+24 [Repealed, 2008, c. 22, s. 52]
+
+#### Restriction
+
+[Repealed, 2008, c. 22, s. 52]
+
+25 [Repealed, 2008, c. 22, s. 52]
+
+### Process Relating to Specific Claims
+
+[Repealed, 2008, c. 22, s. 52]
+
+#### Filing of Claims
+
+[Repealed, 2008, c. 22, s. 52]
+
+26 [Repealed, 2008, c. 22, s. 52]
+
+27 [Repealed, 2008, c. 22, s. 52]
+
+#### Preparatory Meetings
+
+[Repealed, 2008, c. 22, s. 52]
+
+28 [Repealed, 2008, c. 22, s. 52]
+
+29 [Repealed, 2008, c. 22, s. 52]
+
+30 [Repealed, 2008, c. 22, s. 52]
+
+#### Validity of Claims
+
+[Repealed, 2008, c. 22, s. 52]
+
+31 [Repealed, 2008, c. 22, s. 52]
+
+32 [Repealed, 2008, c. 22, s. 52]
+
+#### Compensation
+
+[Repealed, 2008, c. 22, s. 52]
+
+33 [Repealed, 2008, c. 22, s. 52]
+
+34 [Repealed, 2008, c. 22, s. 52]
+
+35 [Repealed, 2008, c. 22, s. 52]
+
+#### General
+
+[Repealed, 2008, c. 22, s. 52]
+
+36 [Repealed, 2008, c. 22, s. 52]
+
+37 [Repealed, 2008, c. 22, s. 52]
+
+38 [Repealed, 2008, c. 22, s. 52]
+
+39 [Repealed, 2008, c. 22, s. 52]
+
+40 [Repealed, 2008, c. 22, s. 52]
+
+## PART 3 Tribunal
+
+[Repealed, 2008, c. 22, s. 52]
+
+### Composition and Role
+
+[Repealed, 2008, c. 22, s. 52]
+
+#### Composition
+
+[Repealed, 2008, c. 22, s. 52]
+
+41 [Repealed, 2008, c. 22, s. 52]
+
+#### Remuneration
+
+[Repealed, 2008, c. 22, s. 52]
+
+42 [Repealed, 2008, c. 22, s. 52]
+
+#### Management
+
+[Repealed, 2008, c. 22, s. 52]
+
+43 [Repealed, 2008, c. 22, s. 52]
+
+#### Functions, Powers and Duties
+
+[Repealed, 2008, c. 22, s. 52]
+
+44 [Repealed, 2008, c. 22, s. 52]
+
+45 [Repealed, 2008, c. 22, s. 52]
+
+46 [Repealed, 2008, c. 22, s. 52]
+
+### Panels, Hearings and Decisions
+
+[Repealed, 2008, c. 22, s. 52]
+
+47 [Repealed, 2008, c. 22, s. 52]
+
+48 [Repealed, 2008, c. 22, s. 52]
+
+49 [Repealed, 2008, c. 22, s. 52]
+
+50 [Repealed, 2008, c. 22, s. 52]
+
+51 [Repealed, 2008, c. 22, s. 52]
+
+52 [Repealed, 2008, c. 22, s. 52]
+
+53 [Repealed, 2008, c. 22, s. 52]
+
+54 [Repealed, 2008, c. 22, s. 52]
+
+55 [Repealed, 2008, c. 22, s. 52]
+
+56 [Repealed, 2008, c. 22, s. 52]
+
+57 [Repealed, 2008, c. 22, s. 52]
+
+58 [Repealed, 2008, c. 22, s. 52]
+
+59 [Repealed, 2008, c. 22, s. 52]
+
+60 [Repealed, 2008, c. 22, s. 52]
+
+61 [Repealed, 2008, c. 22, s. 52]
+
+62 [Repealed, 2008, c. 22, s. 52]
+
+63 [Repealed, 2008, c. 22, s. 52]
+
+64 [Repealed, 2008, c. 22, s. 52]
+
+65 [Repealed, 2008, c. 22, s. 52]
+
+66 [Repealed, 2008, c. 22, s. 52]
+
+67 [Repealed, 2008, c. 22, s. 52]
+
+68 [Repealed, 2008, c. 22, s. 52]
+
+69 [Repealed, 2008, c. 22, s. 52]
+
+70 [Repealed, 2008, c. 22, s. 52]
+
+71 [Repealed, 2008, c. 22, s. 52]
+
+72 [Repealed, 2008, c. 22, s. 52]
+
+73 [Repealed, 2008, c. 22, s. 52]
+
+## PART 4 General
+
+[Repealed, 2008, c. 22, s. 52]
+
+74 [Repealed, 2008, c. 22, s. 52]
+
+75 [Repealed, 2008, c. 22, s. 52]
+
+76 [Repealed, 2008, c. 22, s. 52]
+
+76.1 [Repealed, 2008, c. 22, s. 52]
+
+76.2 [Repealed, 2008, c. 22, s. 52]
+
+77 [Repealed, 2008, c. 22, s. 52]
+
+## PART 5 Transitional Provision, Consequential Amendments, Coordinating Amendment and Coming into Force
+
+[Repealed, 2008, c. 22, s. 52]
+
+### Transitional Provision
+
+[Repealed, 2008, c. 22, s. 52]
+
+77.1 [Repealed, 2008, c. 22, s. 52]
+
+### Consequential Amendments
+
+[Repealed, 2008, c. 22, s. 52]
+
+#### Access to Information Act
+
+[Repealed, 2008, c. 22, s. 52]
+
+78 [Repealed, 2008, c. 22, s. 52]
+
+79 [Repealed, 2008, c. 22, s. 52]
+
+#### Financial Administration Act
+
+[Repealed, 2008, c. 22, s. 52]
+
+80 [Repealed, 2008, c. 22, s. 52]
+
+80.1 [Repealed, 2008, c. 22, s. 52]
+
+#### Privacy Act
+
+[Repealed, 2008, c. 22, s. 52]
+
+81 [Repealed, 2008, c. 22, s. 52]
+
+#### Public Service Staff Relations Act [Repealed, 2003, c. 22, s. 278]
+
+[Repealed, 2008, c. 22, s. 52]
+
+82 [Repealed, 2003, c. 22, s. 278]
+
+#### Public Service Superannuation Act
+
+[Repealed, 2008, c. 22, s. 52]
+
+83 [Repealed, 2008, c. 22, s. 52]
+
+### Coordinating Amendment
+
+[Repealed, 2008, c. 22, s. 52]
+
+84 [Repealed, 2008, c. 22, s. 52]
+
+### Coming into Force
+
+[Repealed, 2008, c. 22, s. 52]
+
+85 [Repealed, 2008, c. 22, s. 52]
+
+## SCHEDULE (Section 2 and paragraphs 26(2)(c) and 77(a))
+
+[Repealed, 2008, c. 22, s. 52]
