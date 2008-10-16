@@ -106,6 +106,8 @@ Softwood Lumber Products Export Charge Act, 2006 Loi de 2006 sur les droits d’
 
 Special Import Measures Act Loi sur les mesures spéciales d’importation | section 84
 
+Specific Claims Tribunal Act Loi sur le Tribunal des revendications particulières | subsections 27(2) and 38(2)
+
 Statistics Act Loi sur la statistique | section 17
 
 Telecommunications Act Loi sur les télécommunications | subsections 39(2) and 70(4)
@@ -157,3 +159,5 @@ History:
 - 2006, c. 9, ss. 172, 172.01, c. 13, ss. 118, 119
 
 - 2007, c. 18, s. 134
+
+- 2008, c. 22, s. 45

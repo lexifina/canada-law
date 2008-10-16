@@ -600,6 +600,10 @@
 
   - Conseil de recherches en sciences humaines
 
+  - Specific Claims Tribunal
+
+  - Tribunal des revendications particulières
+
   - Statistics Canada
 
   - Statistique Canada
@@ -732,6 +736,6 @@ History:
 
 - SOR/2007-215
 
-- 2008, c. 9, s. 6
+- 2008, c. 9, s. 6, c. 22, s. 44
 
 - SOR/2008-130, 135
