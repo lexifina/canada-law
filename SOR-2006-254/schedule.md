@@ -4,7 +4,7 @@
 
 This is the question to be put to the eligible voters:
 
-Do you approve of the oil and gas code and financial code developed by [insert the name of the First Nation] and the transfer to [insert the name of the First Nation] of the management and regulation of oil and gas exploration and exploitation in the reserve lands of [insert the name of the First Nation]?
+Do you approve of the oil and gas code and financial code developed by [insert the name of the first nation] and the transfer to [insert the name of the first nation] of the management and regulation of oil and gas exploration and exploitation in the reserve lands of [insert the name of the first nation]?
 
 Yes ☐No ☐
 
@@ -12,7 +12,7 @@ Yes ☐No ☐
 
 This is the question to be put to the eligible voters:
 
-Do you approve of the financial code of [insert the name of the First Nation], dated [insert the date of the financial code], and the payment to the [insert the name of the First Nation], in accordance with the financial code, of all moneys held today, and all moneys to be collected or received in future, by Her Majesty for the use and benefit of the [insert the name of the First Nation]?
+Do you approve of the financial code of [insert the name of the first nation], dated [insert the date of the financial code], and the payment to the [insert the name of the first nation], in accordance with the financial code, of all moneys held today, and all moneys to be collected or received in future, by Her Majesty for the use and benefit of the [insert the name of the first nation]?
 
 Yes ☐No ☐
 
@@ -22,12 +22,8 @@ This is the question to be put to the eligible voters:
 
 Do you approve of both
 
-- (a) the oil and gas code and the financial code dated [insert the date of the financial code], developed by [insert the name of the First Nation], and the transfer to [insert the name of the First Nation] of the management and regulation of oil and gas exploration and exploitation in the reserve lands of [insert the name of the First Nation], and
+- (a) the oil and gas code and the financial code dated [insert the date of the financial code], developed by [insert the name of the first nation], and the transfer to [insert the name of the first nation] of the management and regulation of oil and gas exploration and exploitation in the reserve lands of [insert the name of the first nation], and
 
-- (b) the financial code dated [insert the date of the financial code] developed by [insert the name of the First Nation] and the payment to the [insert the name of the First Nation], in accordance with that financial code, of all moneys held today, and all moneys to be collected or received in future, by Her Majesty for the use and benefit of the [insert the name of the First Nation]?
+- (b) the financial code dated [insert the date of the financial code] developed by [insert the name of the first nation] and the payment to the [insert the name of the first nation], in accordance with that financial code, of all moneys held today, and all moneys to be collected or received in future, by Her Majesty for the use and benefit of the [insert the name of the first nation]?
 
 Yes ☐No ☐
-
-History:
-
-- SOR/2024-279, s. 5(E)
