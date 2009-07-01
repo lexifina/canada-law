@@ -332,6 +332,10 @@
 
   - Commission de l’immigration et du statut de réfugié
 
+  - Indian Residential Schools Truth and Reconciliation Commission
+
+  - Commission de vérité et de réconciliation relative aux pensionnats indiens
+
   - Indian Residential Schools Truth and Reconciliation Commission Secretariat
 
   - Secrétariat de la Commission de vérité et de réconciliation relative aux pensionnats indiens
@@ -739,3 +743,5 @@ History:
 - 2008, c. 9, s. 6, c. 22, s. 44
 
 - SOR/2008-130, 135
+
+- SOR/2009-174
