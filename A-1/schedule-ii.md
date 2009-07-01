@@ -10,6 +10,8 @@ Assisted Human Reproduction Act Loi sur la procréation assistée | subsection 1
 
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
+Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1)
+
 Canada Elections Act Loi électorale du Canada | section 540
 
 Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
@@ -161,3 +163,5 @@ History:
 - 2007, c. 18, s. 134
 
 - 2008, c. 22, s. 45
+
+- 2009, c. 2, s. 255
