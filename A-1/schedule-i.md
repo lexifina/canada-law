@@ -268,6 +268,10 @@
 
   - Office de répartition des approvisionnements d’énergie
 
+  - Federal Economic Development Agency for Southern Ontario
+
+  - Agence fédérale de développement économique pour le Sud de l’Ontario
+
   - Federal-Provincial Relations Office
 
   - Secrétariat des relations fédérales-provinciales
@@ -744,4 +748,4 @@ History:
 
 - SOR/2008-130, 135
 
-- SOR/2009-174
+- SOR/2009-174, 243
