@@ -208,6 +208,10 @@
 
   - Musée canadien des droits de la personne
 
+  - Canadian Northern Economic Development Agency
+
+  - Agence canadienne de développement économique du Nord
+
   - Canadian Nuclear Safety Commission
 
   - Commission canadienne de sûreté nucléaire
@@ -748,4 +752,4 @@ History:
 
 - SOR/2008-130, 135
 
-- SOR/2009-174, 243
+- SOR/2009-174, 243, 248
