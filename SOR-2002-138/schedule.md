@@ -50,8 +50,12 @@ Commencing at the Northwest corner of the Southwest Quarter of Section Thirty (3
 
 Those areas lying within the outer limits of lands affected by these Regulations, as those limits are more particularly described in Part 7, and which are shown on Department of Public Works and Government Services Canada Moose Jaw Airport Zoning Plan No. E.3054, dated August 1997 as:
 
-- (a) 1:40 approach surfaces;
+- (a) 1:50 approach surfaces;
 
 - (b) 1:60 approach surfaces; and
 
-- (c) transitional surfaces on Sheet Numbers 12, 20, 24, 25, 26, 32, 33, and 40.
+- (c) transitional surfaces on Sheet Numbers 12, 19, 20, 24, 25, 26, 32, 33 and 40.
+
+History:
+
+- SOR/2009-77, s. 1
