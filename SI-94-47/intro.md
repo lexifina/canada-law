@@ -1,4 +1,4 @@
-Treaty Land Entitlement (Saskatchewan) Remission Order
+Order Respecting the Remission of the Goods and Services Tax Paid or Payable by Certain Indian Bands in Respect of Land Purchased Pursuant to Certain Treaty Land Entitlement Agreements
 
 SI/94-47
 
@@ -6,7 +6,7 @@ FINANCIAL ADMINISTRATION ACT
 
 Registration 1994-05-04
 
-Treaty Land Entitlement (Saskatchewan) Remission Order
+Order Respecting the Remission of the Goods and Services Tax Paid or Payable by Certain Indian Bands in Respect of Land Purchased Pursuant to Certain Treaty Land Entitlement Agreements
 
 P.C. 1994-585 1994-4-14
 
