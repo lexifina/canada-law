@@ -1,0 +1,37 @@
+Beef Cattle Research, Market Development and Promotion Levies Order
+
+SOR/2005-103
+
+FARM PRODUCTS AGENCIES ACT
+
+Registration 2005-04-14
+
+Beef Cattle Research, Market Development and Promotion Levies Order
+
+[Repealed, SOR/2010-158, s. 12]
+
+1 [Repealed, SOR/2010-158, s. 12]
+
+2 [Repealed, SOR/2010-158, s. 12]
+
+3 [Repealed, SOR/2010-158, s. 12]
+
+4 [Repealed, SOR/2010-158, s. 12]
+
+5 [Repealed, SOR/2010-158, s. 12]
+
+6 [Repealed, SOR/2010-158, s. 12]
+
+7 [Repealed, SOR/2010-158, s. 12]
+
+8 [Repealed, SOR/2010-158, s. 12]
+
+9 [Repealed, SOR/2010-158, s. 12]
+
+10 [Repealed, SOR/2010-158, s. 12]
+
+11 [Repealed, SOR/2010-158, s. 12]
+
+12 [Repealed, SOR/2010-158, s. 12]
+
+[Repealed, SOR/2010-158, s. 12]
