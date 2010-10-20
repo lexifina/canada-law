@@ -124,10 +124,6 @@
 
   - Conseil canadien des relations industrielles
 
-  - Canada Millennium Scholarship Foundation
-
-  - Fondation canadienne des bourses d’études du millénaire
-
   - Canada-Newfoundland Offshore Petroleum Board
 
   - Office Canada — Terre-Neuve des hydrocarbures extracôtiers
@@ -748,7 +744,7 @@ History:
 
 - SOR/2007-215
 
-- 2008, c. 9, s. 6, c. 22, s. 44
+- 2008, c. 9, s. 6, c. 22, s. 44, c. 28, s. 98
 
 - SOR/2008-130, 135
 
