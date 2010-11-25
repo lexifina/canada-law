@@ -204,6 +204,10 @@
 
   - Musée canadien des droits de la personne
 
+  - Canadian Museum of Immigration at Pier 21
+
+  - Musée canadien de l’immigration du Quai 21
+
   - Canadian Northern Economic Development Agency
 
   - Agence canadienne de développement économique du Nord
@@ -749,3 +753,5 @@ History:
 - SOR/2008-130, 135
 
 - SOR/2009-174, 243, 248
+
+- 2010, c. 7, s. 6
