@@ -40,7 +40,7 @@
 
 - Marginal note: Limit of application
 
-- 8 The Environmental Assessment Act (R.S.O. 1990, c. E.18) and its regulations apply only in circumstances where the Impact Assessment Act does not apply.
+- 8 The Act and its regulations apply only in circumstances where the Canadian Environmental Assessment Act does not apply.
 
 ### PART 4 Adaptations to the Environmental Protection Act and Regulations
 
@@ -79,7 +79,3 @@
 - Marginal note: Land registry office
 
 - 15 In subsections 103(2) and (5), a reference to “the proper land registry office” shall be read as a reference to “the Reserve Land Register or Surrendered and Designated Lands Register, maintained by the Department of Indian Affairs and Northern Development”.
-
-History:
-
-- SOR/2023-250, s. 2
