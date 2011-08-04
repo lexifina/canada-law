@@ -608,6 +608,10 @@
 
   - Administration portuaire de Sept-Îles
 
+  - Shared Services Canada
+
+  - Services partagés Canada
+
   - Social Sciences and Humanities Research Council
 
   - Conseil de recherches en sciences humaines
@@ -755,3 +759,5 @@ History:
 - SOR/2009-174, 243, 248
 
 - 2010, c. 7, s. 6
+
+- SOR/2011-162
