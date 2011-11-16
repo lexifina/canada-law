@@ -244,6 +244,10 @@
 
   - Commission canadienne du blé
 
+  - Communications Security Establishment
+
+  - Centre de la sécurité des télécommunications
+
   - Copyright Board
 
   - Commission du droit d’auteur
@@ -760,4 +764,4 @@ History:
 
 - 2010, c. 7, s. 6
 
-- SOR/2011-162
+- SOR/2011-162, 258
