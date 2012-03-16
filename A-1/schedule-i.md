@@ -552,10 +552,6 @@
 
   - Commission de la fonction publique
 
-  - Public Service Human Resources Management Agency of Canada
-
-  - Agence de gestion des ressources humaines de la fonction publique du Canada
-
   - Public Service Labour Relations Board
 
   - Commission des relations de travail dans la fonction publique
@@ -762,6 +758,6 @@ History:
 
 - SOR/2009-174, 243, 248
 
-- 2010, c. 7, s. 6
+- 2010, c. 7, s. 6, c. 12, s. 1674
 
 - SOR/2011-162, 258
