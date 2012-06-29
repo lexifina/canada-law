@@ -488,10 +488,6 @@
 
   - Commissariat à l’information
 
-  - Office of the Inspector General of the Canadian Security Intelligence Service
-
-  - Bureau de l’Inspecteur général du service canadien du renseignement de sécurité
-
   - Office of the Privacy Commissioner
 
   - Commissariat à la protection de la vie privée
@@ -539,10 +535,6 @@
   - Privy Council Office
 
   - Bureau du Conseil privé
-
-  - Public Appointments Commission Secretariat
-
-  - Secrétariat de la Commission des nominations publiques
 
   - Public Health Agency of Canada
 
@@ -761,3 +753,5 @@ History:
 - 2010, c. 7, s. 6, c. 12, s. 1674
 
 - SOR/2011-162, 258
+
+- 2012, c. 19, ss. 385, 469
