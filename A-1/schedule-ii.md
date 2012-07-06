@@ -26,7 +26,7 @@ Canada Petroleum Resources Act Loi fédérale sur les hydrocarbures | section 10
 
 Canada Transportation Act Loi sur les transports au Canada | subsection 51(1) and section 167
 
-Canadian Environmental Assessment Act Loi canadienne sur l’évaluation environnementale | subsection 35(4)
+Canadian Environmental Assessment Act, 2012 Loi canadienne sur l’évaluation environnementale (2012) | subsections 45(4) and (5)
 
 Canadian International Trade Tribunal Act Loi sur le Tribunal canadien du commerce extérieur | sections 45 and 49
 
@@ -165,3 +165,5 @@ History:
 - 2008, c. 22, s. 45
 
 - 2009, c. 2, s. 255
+
+- 2012, c. 19, ss. 55, 56
