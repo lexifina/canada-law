@@ -352,10 +352,6 @@
 
   - Secrétariat de la Commission de vérité et de réconciliation relative aux pensionnats indiens
 
-  - International Centre for Human Rights and Democratic Development
-
-  - Centre international des droits de la personne et du développement démocratique
-
   - Law Commission of Canada
 
   - Commission du droit du Canada
@@ -754,4 +750,4 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 19, ss. 385, 469
+- 2012, c. 19, ss. 385, 469, 501
