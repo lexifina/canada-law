@@ -1,0 +1,125 @@
+Prairie Grain Advance Payments Act
+
+R.S.C., 1985, c. P-18
+
+An Act to provide for advance payments for Prairie grain prior to delivery thereof
+
+[Repealed, 2011, c. 25, s. 37]
+
+## Short Title
+
+[Repealed, 2011, c. 25, s. 37]
+
+1 [Repealed, 2011, c. 25, s. 37]
+
+## Interpretation
+
+[Repealed, 2011, c. 25, s. 37]
+
+2 [Repealed, 2011, c. 25, s. 37]
+
+## Advance Payments for Threshed Grain
+
+[Repealed, 2011, c. 25, s. 37]
+
+### Authority to make Advance Payments
+
+[Repealed, 2011, c. 25, s. 37]
+
+3 [Repealed, 2011, c. 25, s. 37]
+
+3.1 [Repealed, 2011, c. 25, s. 37]
+
+### Application
+
+[Repealed, 2011, c. 25, s. 37]
+
+4 [Repealed, 2011, c. 25, s. 37]
+
+### Undertaking
+
+[Repealed, 2011, c. 25, s. 37]
+
+5 [Repealed, 2011, c. 25, s. 37]
+
+### Joint Producers
+
+[Repealed, 2011, c. 25, s. 37]
+
+6 [Repealed, 2011, c. 25, s. 37]
+
+### Amount of Advance Payment
+
+[Repealed, 2011, c. 25, s. 37]
+
+7 [Repealed, 2011, c. 25, s. 37]
+
+8 [Repealed, R.S., 1985, c. 2 (3rd Supp.), s. 7]
+
+### Emergency Advance Payments respecting Damp or Tough Grain
+
+[Repealed, 2011, c. 25, s. 37]
+
+9 [Repealed, 2011, c. 25, s. 37]
+
+### Emergency Advance Payments for Unthreshed Grain
+
+[Repealed, 2011, c. 25, s. 37]
+
+10 [Repealed, 2011, c. 25, s. 37]
+
+11 [Repealed, 2011, c. 25, s. 37]
+
+### Endorsement in Permit Book
+
+[Repealed, 2011, c. 25, s. 37]
+
+12 [Repealed, 2011, c. 25, s. 37]
+
+### Powers of Board
+
+[Repealed, 2011, c. 25, s. 37]
+
+13 [Repealed, 2011, c. 25, s. 37]
+
+### Lien for Advance Payments
+
+[Repealed, 2011, c. 25, s. 37]
+
+14 [Repealed, 2011, c. 25, s. 37]
+
+## Deliveries of Grain
+
+[Repealed, 2011, c. 25, s. 37]
+
+15 [Repealed, 2011, c. 25, s. 37]
+
+16 [Repealed, 2011, c. 25, s. 37]
+
+## Default in Undertaking
+
+[Repealed, 2011, c. 25, s. 37]
+
+17 [Repealed, 2011, c. 25, s. 37]
+
+18 [Repealed, 2011, c. 25, s. 37]
+
+19 [Repealed, 2011, c. 25, s. 37]
+
+20 [Repealed, 2011, c. 25, s. 37]
+
+21 [Repealed, 2011, c. 25, s. 37]
+
+## General
+
+[Repealed, 2011, c. 25, s. 37]
+
+22 [Repealed, 2011, c. 25, s. 37]
+
+23 [Repealed, 2011, c. 25, s. 37]
+
+24 [Repealed, 2011, c. 25, s. 37]
+
+25 [Repealed, 2011, c. 25, s. 37]
+
+26 [Repealed, 2011, c. 25, s. 37]
