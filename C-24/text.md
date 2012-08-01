@@ -1,0 +1,447 @@
+Canadian Wheat Board Act
+
+R.S.C., 1985, c. C-24
+
+An Act to provide for the constitution and powers of The Canadian Wheat Board
+
+[Repealed, 2011, c. 25, s. 39]
+
+## Short Title
+
+[Repealed, 2011, c. 25, s. 39]
+
+1 [Repealed, 2011, c. 25, s. 39]
+
+## Interpretation
+
+[Repealed, 2011, c. 25, s. 39]
+
+2 [Repealed, 2011, c. 25, s. 39]
+
+## Her Majesty
+
+[Repealed, 2011, c. 25, s. 39]
+
+2.1 [Repealed, 2011, c. 25, s. 39]
+
+## PART I The Canadian Wheat Board
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Continuation of the Corporation
+
+[Repealed, 2011, c. 25, s. 39]
+
+3 [Repealed, 2011, c. 25, s. 39]
+
+### Board of Directors
+
+[Repealed, 2011, c. 25, s. 39]
+
+3.01 [Repealed, 2011, c. 25, s. 39]
+
+3.02 [Repealed, 2011, c. 25, s. 39]
+
+3.03 [Repealed, 2011, c. 25, s. 39]
+
+3.04 [Repealed, 2011, c. 25, s. 39]
+
+3.05 [Repealed, 2011, c. 25, s. 39]
+
+3.06 [Repealed, 2011, c. 25, s. 6]
+
+3.07 [Repealed, 2011, c. 25, s. 6]
+
+3.08 [Repealed, 2011, c. 25, s. 6]
+
+### President
+
+[Repealed, 2011, c. 25, s. 39]
+
+3.09 [Repealed, 2011, c. 25, s. 39]
+
+3.1 [Repealed, 2011, c. 25, s. 39]
+
+3.11 [Repealed, 2011, c. 25, s. 39]
+
+### Directors and Officers
+
+[Repealed, 2011, c. 25, s. 39]
+
+3.12 [Repealed, 2011, c. 25, s. 39]
+
+3.13 [Repealed, 2011, c. 25, s. 39]
+
+### Object and Powers
+
+[Repealed, 2011, c. 25, s. 39]
+
+4 [Repealed, 2011, c. 25, s. 39]
+
+5 [Repealed, 2011, c. 25, s. 39]
+
+6 [Repealed, 2011, c. 25, s. 39]
+
+### Pricing, Profits and Losses
+
+[Repealed, 2011, c. 25, s. 39]
+
+7 [Repealed, 2011, c. 25, s. 39]
+
+### Investment of Moneys
+
+[Repealed, 2011, c. 25, s. 39]
+
+8 [Repealed, 2011, c. 25, s. 39]
+
+### Accounts and Reports
+
+[Repealed, 2011, c. 25, s. 39]
+
+9 [Repealed, 2011, c. 25, s. 39]
+
+### Pension Fund and Group Insurance
+
+[Repealed, 2011, c. 25, s. 39]
+
+10 [Repealed, 2011, c. 25, s. 39]
+
+11 [Repealed, 2011, c. 25, s. 39]
+
+12 [Repealed, 2011, c. 25, s. 39]
+
+13 to 17 [Repealed, 1998, c. 17, s. 9]
+
+### Directions by Governor in Council
+
+[Repealed, 2011, c. 25, s. 39]
+
+18 [Repealed, 2011, c. 25, s. 39]
+
+18.1 [Repealed, 2011, c. 25, s. 39]
+
+### Plans, Borrowings and Guarantees
+
+[Repealed, 2011, c. 25, s. 39]
+
+19 [Repealed, 2011, c. 25, s. 39]
+
+### Operation of Elevators
+
+[Repealed, 2011, c. 25, s. 39]
+
+The following provision is not in force.
+
+20 [Repealed, 2011, c. 25, s. 39]
+
+The following provision is not in force.
+
+21 [Repealed, 2011, c. 25, s. 39]
+
+The following provision is not in force.
+
+22 [Repealed, 2011, c. 25, s. 39]
+
+## PART II Control of Elevators and Railways
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Application
+
+[Repealed, 2011, c. 25, s. 39]
+
+23 [Repealed, 2011, c. 25, s. 39]
+
+### Delivery of Grain
+
+[Repealed, 2011, c. 25, s. 39]
+
+24 [Repealed, 2011, c. 25, s. 39]
+
+25 [Repealed, 2011, c. 25, s. 39]
+
+25.1 [Repealed, 2011, c. 25, s. 39]
+
+### Permit Books
+
+[Repealed, 2011, c. 25, s. 39]
+
+26 [Repealed, 2011, c. 25, s. 39]
+
+27 [Repealed, 2011, c. 25, s. 39]
+
+### Administration
+
+[Repealed, 2011, c. 25, s. 39]
+
+28 [Repealed, 2011, c. 25, s. 39]
+
+29 [Repealed, 2011, c. 25, s. 39]
+
+30 [Repealed, 2011, c. 25, s. 39]
+
+## PART III Interprovincial and Export Marketing of Wheat by the Corporation
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Interpretation
+
+[Repealed, 2011, c. 25, s. 39]
+
+31 [Repealed, 2011, c. 25, s. 39]
+
+### Purchase of Wheat and Initial Payment
+
+[Repealed, 2011, c. 25, s. 39]
+
+32 [Repealed, 2011, c. 25, s. 39]
+
+### Payment of Balance and Interim Payments
+
+[Repealed, 2011, c. 25, s. 39]
+
+33 [Repealed, 2011, c. 25, s. 39]
+
+33.01 [Repealed, 2011, c. 25, s. 39]
+
+### Deductions for Research
+
+[Repealed, 2011, c. 25, s. 39]
+
+33.1 [Repealed, 2011, c. 25, s. 39]
+
+33.2 [Repealed, 2011, c. 25, s. 39]
+
+33.3 [Repealed, 2011, c. 25, s. 39]
+
+33.4 [Repealed, 2011, c. 25, s. 39]
+
+33.5 [Repealed, 2011, c. 25, s. 39]
+
+### Quality Characteristics within Grades
+
+[Repealed, 2011, c. 25, s. 39]
+
+34 [Repealed, 2011, c. 25, s. 39]
+
+35 [Repealed, 2011, c. 25, s. 39]
+
+### Separate Accounts
+
+[Repealed, 2011, c. 25, s. 39]
+
+36 [Repealed, 2011, c. 25, s. 39]
+
+### Regulations and Authorizations respecting Certificates and Accounts
+
+[Repealed, 2011, c. 25, s. 39]
+
+37 [Repealed, 2011, c. 25, s. 39]
+
+38 [Repealed, 2011, c. 25, s. 39]
+
+39 [Repealed, 2011, c. 25, s. 39]
+
+### Cash Purchases of Wheat
+
+[Repealed, 2011, c. 25, s. 39]
+
+39.1 [Repealed, 2011, c. 25, s. 39]
+
+### Regulations
+
+[Repealed, 2011, c. 25, s. 39]
+
+40 [Repealed, 2011, c. 25, s. 39]
+
+41 [Repealed, 2011, c. 25, s. 39]
+
+42 [Repealed, 2011, c. 25, s. 39]
+
+43 [Repealed, 2011, c. 25, s. 39]
+
+44 [Repealed, 2011, c. 25, s. 39]
+
+## PART IV Regulation of Interprovincial and Export Trade in Wheat
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Prohibited Activities
+
+[Repealed, 2011, c. 25, s. 39]
+
+45 [Repealed, 2011, c. 25, s. 39]
+
+### Regulations
+
+[Repealed, 2011, c. 25, s. 39]
+
+46 [Repealed, 2011, c. 25, s. 39]
+
+## PART V Other Grains
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Application of Parts III and IV
+
+[Repealed, 2011, c. 25, s. 39]
+
+47 [Repealed, 2011, c. 25, s. 39]
+
+47.1 [Repealed, 2011, c. 25, s. 39]
+
+## PART VI Marketing Plans
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Interpretation
+
+[Repealed, 2011, c. 25, s. 39]
+
+48 [Repealed, 2011, c. 25, s. 39]
+
+### Establishment of Marketing Plans
+
+[Repealed, 2011, c. 25, s. 39]
+
+49 [Repealed, 2011, c. 25, s. 39]
+
+50 [Repealed, 2011, c. 25, s. 39]
+
+51 [Repealed, 2011, c. 25, s. 39]
+
+52 [Repealed, 2011, c. 25, s. 39]
+
+### Initial Payment Guarantee
+
+[Repealed, 2011, c. 25, s. 39]
+
+53 [Repealed, 2011, c. 25, s. 39]
+
+### Review and Audit
+
+[Repealed, 2011, c. 25, s. 39]
+
+54 [Repealed, 2011, c. 25, s. 39]
+
+### Endorsement of Permit Books
+
+[Repealed, 2011, c. 25, s. 39]
+
+55 [Repealed, 2011, c. 25, s. 39]
+
+### Inspectors
+
+[Repealed, 2011, c. 25, s. 39]
+
+56 [Repealed, 2011, c. 25, s. 39]
+
+57 [Repealed, 2011, c. 25, s. 39]
+
+58 [Repealed, 2011, c. 25, s. 39]
+
+### Regulations
+
+[Repealed, 2011, c. 25, s. 39]
+
+59 [Repealed, 2011, c. 25, s. 39]
+
+### Prohibited Activities
+
+[Repealed, 2011, c. 25, s. 39]
+
+60 [Repealed, 2011, c. 25, s. 39]
+
+## PART VII General
+
+[Repealed, 2011, c. 25, s. 39]
+
+### Regulations
+
+[Repealed, 2011, c. 25, s. 39]
+
+61 [Repealed, 2011, c. 25, s. 39]
+
+### Implementation of the North American Free Trade Agreement
+
+[Repealed, 2011, c. 25, s. 39]
+
+61.1 [Repealed, 2011, c. 25, s. 39]
+
+### Borrowing by Agents
+
+[Repealed, 2011, c. 25, s. 39]
+
+62 [Repealed, 2011, c. 25, s. 39]
+
+63 [Repealed, 2011, c. 25, s. 39]
+
+### Permit Books
+
+[Repealed, 2011, c. 25, s. 39]
+
+64 [Repealed, 2011, c. 25, s. 39]
+
+65 [Repealed, 2011, c. 25, s. 39]
+
+### Delivery in Contravention of Act
+
+[Repealed, 2011, c. 25, s. 39]
+
+66 [Repealed, 2011, c. 25, s. 39]
+
+### Social Insurance Number
+
+[Repealed, 2011, c. 25, s. 39]
+
+67 [Repealed, 2011, c. 25, s. 39]
+
+### Offences and Punishment
+
+[Repealed, 2011, c. 25, s. 39]
+
+68 [Repealed, 2011, c. 25, s. 39]
+
+69 [Repealed, 2011, c. 25, s. 39]
+
+### Evidence
+
+[Repealed, 2011, c. 25, s. 39]
+
+70 [Repealed, 2011, c. 25, s. 39]
+
+### Summary Procedures
+
+[Repealed, 2011, c. 25, s. 39]
+
+71 [Repealed, 2011, c. 25, s. 39]
+
+72 [Repealed, 2011, c. 25, s. 39]
+
+73 [Repealed, 2011, c. 25, s. 39]
+
+74 [Repealed, 2011, c. 25, s. 39]
+
+75 [Repealed, 2011, c. 25, s. 39]
+
+### Declaration
+
+[Repealed, 2011, c. 25, s. 39]
+
+76 [Repealed, 2011, c. 25, s. 39]
+
+### Review by Minister
+
+[Repealed, 2011, c. 25, s. 39]
+
+76.1 [Repealed, 2011, c. 25, s. 39]
+
+## Coming into Force
+
+[Repealed, 2011, c. 25, s. 39]
+
+77 [Repealed, 2011, c. 25, s. 39]
+
+## SCHEDULE / ANNEXE (Section 76 / article 76)
+
+[Repealed, 2011, c. 25, s. 39]
