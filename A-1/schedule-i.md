@@ -84,10 +84,6 @@
 
   - Fondation Asie-Pacifique du Canada
 
-  - Assisted Human Reproduction Agency of Canada
-
-  - Agence canadienne de contrôle de la procréation assistée
-
   - Atlantic Canada Opportunities Agency
 
   - Agence de promotion économique du Canada atlantique
@@ -750,4 +746,4 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 19, ss. 385, 469, 501
+- 2012, c. 19, ss. 385, 469, 501, 746

@@ -6,8 +6,6 @@ Aeronautics Act Loi sur l’aéronautique | subsections 4.79(1) and 6.5(5)
 
 Anti-Inflation Act, S.C. 1974-75-76, c. 75 Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14
 
-Assisted Human Reproduction Act Loi sur la procréation assistée | subsection 18(2)
-
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
 Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1)
@@ -166,4 +164,4 @@ History:
 
 - 2009, c. 2, s. 255
 
-- 2012, c. 19, ss. 55, 56
+- 2012, c. 19, ss. 55, 56, 747
