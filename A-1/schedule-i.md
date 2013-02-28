@@ -396,10 +396,6 @@
 
   - Office national du film
 
-  - National Parole Board
-
-  - Commission nationale des libérations conditionnelles
-
   - National Research Council of Canada
 
   - Conseil national de recherches du Canada
@@ -495,6 +491,10 @@
   - Parks Canada Agency
 
   - Agence Parcs Canada
+
+  - Parole Board of Canada
+
+  - Commission des libérations conditionnelles du Canada
 
   - Patented Medicine Prices Review Board
 
@@ -746,4 +746,4 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 19, ss. 385, 469, 501, 746
+- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 746
