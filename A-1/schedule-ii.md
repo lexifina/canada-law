@@ -18,8 +18,6 @@ Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 
 
 Canada-Nova Scotia Oil and Gas Agreement Act, S.C. 1984, c. 29 Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, S.C. 1984, ch. 29 | section 53
 
-Canada Pension Plan Régime de pensions du Canada | subsection 104.01(1)
-
 Canada Petroleum Resources Act Loi fédérale sur les hydrocarbures | section 101
 
 Canada Transportation Act Loi sur les transports au Canada | subsection 51(1) and section 167
@@ -87,8 +85,6 @@ Marine Transportation Security Act Loi sur la sûreté du transport maritime | s
 Motor Vehicle Fuel Consumption Standards Act Loi sur les normes de consommation de carburant des véhicules automobiles | subsection 27(1)
 
 Nuclear Safety and Control Act Loi sur la sûreté et la réglementation nucléaires | paragraphs 44(1)(d) and 48(b)
-
-Old Age Security Act Loi sur la sécurité de la vieillesse | subsection 33.01(1)
 
 Patent Act Loi sur les brevets | section 10, subsection 20(7), and sections 87 and 88
 
@@ -164,4 +160,4 @@ History:
 
 - 2009, c. 2, s. 255
 
-- 2012, c. 19, ss. 55, 56, 747
+- 2012, c. 19, ss. 55, 56, 300, 301, 747
