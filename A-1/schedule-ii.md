@@ -64,8 +64,6 @@ Export Development Act Loi sur le développement des exportations | section 24.3
 
 Family Allowances Act Loi sur les allocations familiales | section 18
 
-First Nations Fiscal and Statistical Management Act Loi sur la gestion financière et statistique des premières nations | section 108
-
 Hazardous Products Act Loi sur les produits dangereux | section 12
 
 Canadian Human Rights Act Loi canadienne sur les droits de la personne | subsection 47(3)
@@ -160,4 +158,4 @@ History:
 
 - 2009, c. 2, s. 255
 
-- 2012, c. 19, ss. 55, 56, 300, 301, 747
+- 2012, c. 19, ss. 55, 56, 300, 301, 675, 747
