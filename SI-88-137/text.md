@@ -1,0 +1,11 @@
+SI/88-137
+
+HAZARDOUS MATERIALS INFORMATION REVIEW ACT
+
+Registration 1988-09-28
+
+P.C. 1988-2030 1988-9-15
+
+[Repealed, 2012, c. 31, s. 297]
+
+[Repealed, 2012, c. 31, s. 297]
