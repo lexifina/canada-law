@@ -140,10 +140,6 @@
 
   - Conseil consultatif canadien de la situation de la femme
 
-  - Canadian Artists and Producers Professional Relations Tribunal
-
-  - Tribunal canadien des relations professionnelles artistes-producteurs
-
   - Canadian Centre for Occupational Health and Safety
 
   - Centre canadien d’hygiène et de sécurité au travail
@@ -296,10 +292,6 @@
 
   - Conseil de gestion financière des premières nations
 
-  - First Nations Statistical Institute
-
-  - Institut de la statistique des premières nations
-
   - First Nations Tax Commission
 
   - Commission de la fiscalité des premières nations
@@ -327,10 +319,6 @@
   - Hamilton Port Authority
 
   - Administration portuaire de Hamilton
-
-  - Hazardous Materials Information Review Commission
-
-  - Conseil de contrôle des renseignements relatifs aux matières dangereuses
 
   - Historic Sites and Monuments Board of Canada
 
@@ -399,10 +387,6 @@
   - National Research Council of Canada
 
   - Conseil national de recherches du Canada
-
-  - National Round Table on the Environment and the Economy
-
-  - Table ronde nationale sur l’environnement et l’économie
 
   - Natural Sciences and Engineering Research Council
 
@@ -746,4 +730,4 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 746
+- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, s. 290
