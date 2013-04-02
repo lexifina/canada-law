@@ -1,0 +1,149 @@
+Sanikiluaq Airport Zoning Regulations
+
+SOR/2012-92
+
+AERONAUTICS ACT
+
+Registration 2012-05-04
+
+Sanikiluaq Airport Zoning Regulations
+
+P.C. 2012-604 2012-5-3
+
+Whereas, pursuant to subsection 5.5(1)a of the Aeronautics Actb, a notice of the proposed Sanikiluaq Airport Zoning Regulations was published in two successive issues of the Nunatsiaq News on February 10 and February 17, 2012, a copy of the proposed Regulations, substantially in the annexed form, was published in two successive issues of the Canada Gazette, Part I, on March 19 and March 26, 2011, and a reasonable opportunity was thereby afforded to interested persons to make representations to the Minister of Transport with respect to the proposed Regulations;
+
+- aR.S., c. 33 (1st Supp.), s. 1
+
+- bR.S., c. A-2
+
+Whereas a purpose of the proposed Regulations is to prevent lands adjacent to or in the vicinity of Sanikiluaq Airport from being used or developed in a manner that is, in the opinion of the Minister of Transport, incompatible with the safe operation of an airport or aircraft;
+
+And whereas a purpose of the proposed Regulations is to prevent lands adjacent to or in the vicinity of facilities used to provide services relating to aeronautics from being used or developed in a manner that would, in the opinion of the Minister of Transport, cause interference with signals or communications to and from aircraft or to and from those facilities;
+
+Therefore, His Excellency the Governor General in Council, on the recommendation of the Minister of Transport, pursuant to paragraphs 5.4(2)(b)a and (c)a of the Aeronautics Actb, hereby makes the annexed Sanikiluaq Airport Zoning Regulations.
+
+## Interpretation
+
+Marginal note: Definitions
+
+1 The following definitions apply in these Regulations.
+
+- airport means the Sanikiluaq Airport, in the vicinity of Sanikiluaq, in Nunavut. (aéroport)
+
+- airport reference point means the point described in Part 1 of the schedule. (point de référence de l’aéroport)
+
+- approach surface means an imaginary inclined surface that extends upward and outward from each end of the strip surface and that is described in Part 2 of the schedule. (surface d’approche)
+
+- outer surface means the imaginary surface that is located above and in the immediate vicinity of the airport and that is described in Part 3 of the schedule. (surface extérieure)
+
+- strip surface means the imaginary surface that is associated with the airport runway and that is described in Part 4 of the schedule. (surface de bande)
+
+- transitional surface means an imaginary inclined surface that extends upward and outward from the lateral limits of the strip surface and its approach surfaces and that is described in Part 5 of the schedule. (surface de transition)
+
+- zoning plan means Plan No. E 3300, prepared by the Department of Public Works and Government Services and dated December 1, 2008. (plan de zonage)
+
+## Application
+
+Marginal note: Lands near airport
+
+2 These Regulations apply in respect of all lands that are adjacent to or in the vicinity of the airport within the limit described in Part 6 of the schedule. For greater certainty, the lands include lands under water and public road allowances.
+
+## Building Restrictions
+
+Marginal note: Prohibition — maximum height
+
+3 A person must not place, erect or construct, or permit another person to place, erect or construct, on any of the lands, a building, structure or object, or an addition to an existing building, structure or object, any part of which would penetrate any of the following surfaces:
+
+- (a) an approach surface;
+
+- (b) the outer surface; or
+
+- (c) a transitional surface.
+
+## Interference with Communication
+
+Marginal note: Prohibition — interference
+
+4 A person must not use or develop, or permit another person to use or develop, any of the lands that are under the outer surface in a manner that causes interference with any signal or communication to and from an aircraft or to and from any facility used to provide services relating to aeronautics.
+
+## Natural Growth
+
+Marginal note: Prohibition — maximum height
+
+5 A person must not permit any object of natural growth that is on any of the lands to grow in such a manner as to penetrate any of the following surfaces:
+
+- (a) an approach surface;
+
+- (b) the outer surface; or
+
+- (c) a transitional surface.
+
+## Wildlife Hazard
+
+Marginal note: Prohibition — activities or uses
+
+- 6 (1) A person must not use or permit another person to use any of the lands for activities or uses that attract wildlife — particularly birds — that may create a hazard for aviation safety.
+
+- Marginal note: Exception
+
+- (2) Despite subsection (1), a person may use or permit another person to use any of the lands as a site for an open water storage reservoir for a period of 48 hours or less.
+
+## Coming into Force
+
+Marginal note: Requirements — s. 5.6(2) of Aeronautics Act
+
+*7. These Regulations come into force on the day on which the requirements prescribed in subsection 5.6(2) of the Aeronautics Act are met.
+
+- *[Note: Regulations in force April 2, 2013.]
+
+## SCHEDULE (Sections 1 and 2)
+
+In this schedule, all grid coordinates are in metres (m) and refer to the 1983 North American Datum, Zone 17, Universal Transverse Mercator (UTM) projection. Grid coordinates have been computed using a combined average scale factor of 0.9997355.
+
+In this schedule, all elevation values are in metres (m) and are based on the Canadian Geodetic Vertical Datum (CGVD28).
+
+### PART 1 Airport Reference Point
+
+The airport reference point, as shown on the zoning plan, is the geometric centre of the runway thresholds, at grid coordinates 6 267 209.582 N, 607 612.360 E (latitude 56°32′13″ N, longitude 79°15′00″ W). It is located on the centre line of the strip surface at a distance of 640.175 m from the end of the strip surface associated with runway 09-27, and its assigned elevation is 25.43 m above sea level.
+
+### PART 2 Approach Surfaces
+
+The approach surfaces, as shown on the zoning plan, are described as follows:
+
+(a) an imaginary inclined surface abutting the end of the strip surface associated with runway approach 09 and ascending, from an assigned elevation of 31.12 m above sea level, at a ratio of 1 m measured vertically to 25 m measured horizontally, to an imaginary horizontal line drawn at right angles to the projected centre line of the strip surface and distant 2 500 m measured horizontally from the end of the strip surface; the outer ends of the imaginary horizontal line being 295 m from the projected centre line and 100 m above the assigned elevation at the end of the strip surface associated with runway approach 09; and
+
+(b) an imaginary inclined surface abutting the end of the strip surface associated with runway approach 27 and ascending, from an assigned elevation of 32.35 m above sea level, at a ratio of 1 m measured vertically to 30 m measured horizontally, to an imaginary horizontal line drawn at right angles to the projected centre line of the strip surface and distant 2 500 m measured horizontally from the end of the strip surface; the outer ends of the imaginary horizontal line being 295 m from the projected centre line and 83.33 m above the assigned elevation at the end of the strip surface associated with runway approach 27.
+
+The elevation of an approach surface at any point is equal to the elevation of the nearest point on the centre line of that approach surface. The elevation of an approach surface centre line is calculated from the elevation of the abutting end of the strip surface, and increases at the constant ratios set out in this Part.
+
+### PART 3 Outer Surface
+
+The outer surface, as shown on the zoning plan, is an imaginary surface extending outward from the airport reference point to a radius of 4 000 m. It is situated at a constant elevation of 45 m above the airport reference point, but at 9 m above the ground when that elevation would place the outer surface at less than 9 m above the ground.
+
+### PART 4 Strip Surface
+
+The elevation of a strip surface at any point is equal to the elevation of the nearest point on the centre line of that strip surface. The elevation of the strip surface centre line between the strip surface end and the closest strip surface threshold is equal to the elevation of the strip surface end. The strip surface centre line between the strip surface thresholds is divided into segments, each of which has a slope that increases or decreases at the constant ratio set out in Column 7 of the table to this Part. The elevation of any point along a segment is calculated using the data set out in that table.
+
+The strip surface, as shown on the zoning plan, is an imaginary rectangular surface described as follows:
+
+the strip surface associated with runway 09-27 is 90 m in total width, being 45 m on either side of the centre line of the runway. The strip surface commences 60 m to the southwest of threshold 09 and ends 60 m to the northeast of threshold 27, having a total length of 1 280.35 m. The 09 end of the strip surface has an assigned elevation of 31.12 m and the 27 end of the strip surface has an assigned elevation of 32.35 m. The azimuth of the centre line of runway 09-27 is N 68°35′53″ E. Threshold 09 has grid coordinates of 6 266 997.93 N and 607 072.34 E, and threshold 27 has grid coordinates of 6 627 421.24 N and 608 152.38 E.
+
+Data for Calculating Elevation Between Thresholds Along Centre Line of Runway 09-27
+
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7
+
+Segment | Starting point of segment | Assigned elevation of starting point (m) | End point of segment | Distance between starting and end points of segment (m) | Assigned elevation of end point (m) | Constant ratio for calculating elevation of any point along segment
+
+1 | Threshold 09 | 31.12 | Intermediate point A | 580.175 | 25.43 | -1 : 101.9640
+
+2 | Intermediate point A | 25.43 | Threshold 27 | 580.175 | 32.35 | +1 : 83.8403
+
+### PART 5 Transitional Surfaces
+
+Each transitional surface, as shown on the zoning plan, is an imaginary inclined surface ascending at a ratio of 1 m measured vertically to 7 m measured horizontally at right angles to the centre line and projected centre line of the strip surface, extending upward and outward from the lateral limits of the strip surface and its approach surfaces to the intersection with the outer surface.
+
+The elevation of a point on the lower edge of a transitional surface abutting a strip surface is equal to the elevation of the nearest point on the centre line of the abutting strip surface. The elevation of a point on the lower edge of a transitional surface abutting an approach surface is equal to the elevation of the nearest point on the centre line of the abutting approach surface.
+
+### PART 6 Limit of Area Containing Lands to Which These Regulations Apply
+
+The limit of the area containing the lands to which these Regulations apply is defined by a circle with a radius of 4 000 m centred on the airport reference point, as shown on the zoning plan.
