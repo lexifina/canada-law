@@ -332,10 +332,6 @@
 
   - Commission de vérité et de réconciliation relative aux pensionnats indiens
 
-  - Indian Residential Schools Truth and Reconciliation Commission Secretariat
-
-  - Secrétariat de la Commission de vérité et de réconciliation relative aux pensionnats indiens
-
   - Law Commission of Canada
 
   - Commission du droit du Canada
