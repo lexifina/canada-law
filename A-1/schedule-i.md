@@ -160,10 +160,6 @@
 
   - Forces canadiennes
 
-  - Canadian Forces Grievance Board
-
-  - Comité des griefs des Forces canadiennes
-
   - Canadian Government Specifications Board
 
   - Office des normes du gouvernement canadien
@@ -352,6 +348,10 @@
 
   - Commission d’indemnisation des marins marchands
 
+  - Military Grievances External Review Committee
+
+  - Comité externe d’examen des griefs militaires
+
   - Military Police Complaints Commission
 
   - Commission d’examen des plaintes concernant la police militaire
@@ -395,6 +395,10 @@
   - North Fraser Port Authority
 
   - Administration portuaire du North-Fraser
+
+  - Northwest Territories Surface Rights Board
+
+  - Office des droits de surface des Territoires du Nord-Ouest
 
   - Northwest Territories Water Board
 
@@ -727,3 +731,5 @@ History:
 - SOR/2011-162, 258
 
 - 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, s. 290
+
+- 2013, c. 14, s. 17, c. 24, ss. 115, 116
