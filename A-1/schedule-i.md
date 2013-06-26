@@ -26,9 +26,9 @@
 
   - Ministère des Pêches et des Océans
 
-  - Department of Foreign Affairs and International Trade
+  - Department of Foreign Affairs, Trade and Development
 
-  - Ministère des Affaires étrangères et du Commerce international
+  - Ministère des Affaires étrangères, du Commerce et du Développement
 
   - Department of Health
 
@@ -179,10 +179,6 @@
   - Canadian Institutes of Health Research
 
   - Instituts de recherche en santé du Canada
-
-  - Canadian International Development Agency
-
-  - Agence canadienne de développement international
 
   - Canadian International Trade Tribunal
 
@@ -732,4 +728,4 @@ History:
 
 - 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, s. 290
 
-- 2013, c. 14, s. 17, c. 24, ss. 115, 116
+- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177
