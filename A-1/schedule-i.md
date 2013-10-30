@@ -340,10 +340,6 @@
 
   - Office des terres et des eaux de la vallée du Mackenzie
 
-  - Merchant Seamen Compensation Board
-
-  - Commission d’indemnisation des marins marchands
-
   - Military Grievances External Review Committee
 
   - Comité externe d’examen des griefs militaires
@@ -726,6 +722,6 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, s. 290
+- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
 - 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177
