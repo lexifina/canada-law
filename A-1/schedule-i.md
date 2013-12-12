@@ -14,6 +14,10 @@
 
   - Ministère de la Citoyenneté et de l’Immigration
 
+  - Department of Employment and Social Development
+
+  - Ministère de l’Emploi et du Développement social
+
   - Department of the Environment
 
   - Ministère de l’Environnement
@@ -33,10 +37,6 @@
   - Department of Health
 
   - Ministère de la Santé
-
-  - Department of Human Resources and Skills Development
-
-  - Ministère des Ressources humaines et du Développement des compétences
 
   - Department of Indian Affairs and Northern Development
 
@@ -235,10 +235,6 @@
   - Copyright Board
 
   - Commission du droit d’auteur
-
-  - Corporation for the Mitigation of Mackenzie Gas Project Impacts
-
-  - Société d’atténuation des répercussions du projet gazier Mackenzie
 
   - Correctional Service of Canada
 
@@ -724,4 +720,4 @@ History:
 
 - 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
-- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177
+- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283
