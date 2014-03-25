@@ -460,6 +460,10 @@
 
   - Bureau du surintendant des institutions financières
 
+  - Oshawa Port Authority
+
+  - Administration portuaire d’Oshawa
+
   - Parks Canada Agency
 
   - Agence Parcs Canada
@@ -604,6 +608,10 @@
 
   - Administration portuaire de Trois-Rivières
 
+  - Vancouver Fraser Port Authority
+
+  - Administration portuaire de Vancouver Fraser
+
   - Vancouver Port Authority
 
   - Administration portuaire de Vancouver
@@ -721,3 +729,5 @@ History:
 - 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
 - 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283
+
+- SOR/2014-66
