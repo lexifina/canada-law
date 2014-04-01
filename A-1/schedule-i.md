@@ -384,14 +384,6 @@
 
   - Administration portuaire du North-Fraser
 
-  - Northwest Territories Surface Rights Board
-
-  - Office des droits de surface des Territoires du Nord-Ouest
-
-  - Northwest Territories Water Board
-
-  - Office des eaux des Territoires du Nord-Ouest
-
   - Nunavut Surface Rights Tribunal
 
   - Tribunal des droits de surface du Nunavut
@@ -475,10 +467,6 @@
   - Patented Medicine Prices Review Board
 
   - Conseil d’examen du prix des médicaments brevetés
-
-  - Pension Appeals Board
-
-  - Commission d’appel des pensions
 
   - Petroleum Compensation Board
 
@@ -726,8 +714,10 @@ History:
 
 - SOR/2011-162, 258
 
-- 2012, c. 1, s. 160, c. 19, ss. 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
+- 2012, c. 1, s. 160, c. 19, ss. 271, 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
 - 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283
+
+- 2014, c. 2, s. 3
 
 - SOR/2014-66
