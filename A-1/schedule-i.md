@@ -80,6 +80,10 @@
 
 - Other Government Institutions
 
+  - Administrative Tribunals Support Service of Canada
+
+  - Service canadien d’appui aux tribunaux administratifs
+
   - Asia-Pacific Foundation of Canada
 
   - Fondation Asie-Pacifique du Canada
@@ -116,10 +120,6 @@
 
   - Fondation du Canada pour l’appui technologique au développement durable
 
-  - Canada Industrial Relations Board
-
-  - Conseil canadien des relations industrielles
-
   - Canada-Newfoundland Offshore Petroleum Board
 
   - Office Canada — Terre-Neuve des hydrocarbures extracôtiers
@@ -143,10 +143,6 @@
   - Canadian Centre for Occupational Health and Safety
 
   - Centre canadien d’hygiène et de sécurité au travail
-
-  - Canadian Cultural Property Export Review Board
-
-  - Commission canadienne d’examen des exportations de biens culturels
 
   - Canadian Environmental Assessment Agency
 
@@ -172,17 +168,9 @@
 
   - Commission canadienne des droits de la personne
 
-  - Canadian Human Rights Tribunal
-
-  - Tribunal canadien des droits de la personne
-
   - Canadian Institutes of Health Research
 
   - Instituts de recherche en santé du Canada
-
-  - Canadian International Trade Tribunal
-
-  - Tribunal canadien du commerce extérieur
 
   - Canadian Museum for Human Rights
 
@@ -500,14 +488,6 @@
 
   - Commission de la fonction publique
 
-  - Public Service Labour Relations Board
-
-  - Commission des relations de travail dans la fonction publique
-
-  - Public Service Staffing Tribunal
-
-  - Tribunal de la dotation de la fonction publique
-
   - Quebec Port Authority
 
   - Administration portuaire de Québec
@@ -515,10 +495,6 @@
   - Regional Development Incentives Board
 
   - Conseil des subventions au développement régional
-
-  - Registry of the Public Servants Disclosure Protection Tribunal
-
-  - Greffe du Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles
 
   - Royal Canadian Mounted Police
 
@@ -563,10 +539,6 @@
   - Social Sciences and Humanities Research Council
 
   - Conseil de recherches en sciences humaines
-
-  - Specific Claims Tribunal
-
-  - Tribunal des revendications particulières
 
   - Statistics Canada
 
@@ -716,8 +688,8 @@ History:
 
 - 2012, c. 1, s. 160, c. 19, ss. 271, 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
-- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283
+- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
 
-- 2014, c. 2, s. 3
+- 2014, c. 2, s. 3, c. 20, ss. 382 to 388
 
 - SOR/2014-66
