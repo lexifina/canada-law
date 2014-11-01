@@ -110,6 +110,8 @@ Trade-marks Act Loi sur les marques de commerce | subsection 50(6)
 
 Transportation of Dangerous Goods Act, 1992 Loi de 1992 sur le transport des marchandises dangereuses | subsection 24(4)
 
+Witness Protection Program Act Loi sur le Programme de protection des témoins | section 11
+
 Yukon Environmental and Socio-economic Assessment Act Loi sur l’évaluation environnementale et socioéconomique au Yukon | paragraph 121(a)
 
 Yukon Quartz Mining Act Loi sur l’extraction du quartz dans le Yukon | subsection 100(16)
@@ -159,3 +161,5 @@ History:
 - 2009, c. 2, s. 255
 
 - 2012, c. 19, ss. 55, 56, 300, 301, 675, 747
+
+- 2013, c. 29, s. 22
