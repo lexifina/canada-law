@@ -12,6 +12,8 @@ Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dép
 
 Canada Elections Act Loi électorale du Canada | section 540
 
+Canada Labour Code Code canadien du travail | subsection 144(3)
+
 Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
 
 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | sections 19 and 122
@@ -23,6 +25,8 @@ Canada Petroleum Resources Act Loi fédérale sur les hydrocarbures | section 10
 Canada Transportation Act Loi sur les transports au Canada | subsection 51(1) and section 167
 
 Canadian Environmental Assessment Act, 2012 Loi canadienne sur l’évaluation environnementale (2012) | subsections 45(4) and (5)
+
+Canadian Human Rights Act Loi canadienne sur les droits de la personne | subsection 47(3)
 
 Canadian International Trade Tribunal Act Loi sur le Tribunal canadien du commerce extérieur | sections 45 and 49
 
@@ -66,15 +70,11 @@ Family Allowances Act Loi sur les allocations familiales | section 18
 
 Hazardous Products Act Loi sur les produits dangereux | section 12
 
-Canadian Human Rights Act Loi canadienne sur les droits de la personne | subsection 47(3)
-
 Income Tax Act Loi de l’impôt sur le revenu | section 241
 
 Industrial Research and Development Incentives Act, R.S.C. 1970, c. I-10 Loi stimulant la recherche et le développement scientifiques, S.R.C. 1970, ch. I-10 | section 13
 
 Investment Canada Act Loi sur Investissement Canada | section 36
-
-Canada Labour Code Code canadien du travail | subsection 144(3)
 
 Mackenzie Valley Resource Management Act Loi sur la gestion des ressources de la vallée du Mackenzie | paragraph 30(1)(b)
 
@@ -91,6 +91,8 @@ Petroleum Incentives Program Act Loi sur le programme d’encouragement du secte
 Proceeds of Crime (Money Laundering) and Terrorist Financing Act Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes | paragraphs 55(1)(a), (d) and (e)
 
 Railway Safety Act Loi sur la sécurité ferroviaire | subsection 39.2(1)
+
+Royal Canadian Mounted Police Act Loi sur la Gendarmerie royale du Canada | subsection 45.47(1)
 
 Sex Offender Information Registration Act Loi sur l’enregistrement de renseignements sur les délinquants sexuels | subsections 9(3) and 16(4)
 
@@ -162,4 +164,4 @@ History:
 
 - 2012, c. 19, ss. 55, 56, 300, 301, 675, 747
 
-- 2013, c. 29, s. 22
+- 2013, c. 18, s. 44, c. 29, s. 22

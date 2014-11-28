@@ -216,6 +216,10 @@
 
   - Commission canadienne du blé
 
+  - Civilian Review and Complaints Commission for the Royal Canadian Mounted Police
+
+  - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
+
   - Communications Security Establishment
 
   - Centre de la sécurité des télécommunications
@@ -504,10 +508,6 @@
 
   - Comité externe d’examen de la Gendarmerie royale du Canada
 
-  - Royal Canadian Mounted Police Public Complaints Commission
-
-  - Commission des plaintes du public contre la Gendarmerie royale du Canada
-
   - Saguenay Port Authority
 
   - Administration portuaire du Saguenay
@@ -688,7 +688,7 @@ History:
 
 - 2012, c. 1, s. 160, c. 19, ss. 271, 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
-- 2013, c. 14, s. 17, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
+- 2013, c. 14, s. 17, c. 18, ss. 42, 43, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
 
 - 2014, c. 2, s. 3, c. 20, ss. 382 to 388
 
