@@ -14,9 +14,9 @@ Canada Elections Act Loi électorale du Canada | section 540
 
 Canada Labour Code Code canadien du travail | subsection 144(3)
 
-Canada-Newfoundland Atlantic Accord Implementation Act, S.C. 1987, c. 3 Loi de mise en œuvre de l’Accord atlantique Canada — Terre-Neuve, S.C. 1987, ch. 3 | section 119
+Canada–Newfoundland and Labrador Atlantic Accord Implementation Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador | section 119 and subsection 205.086(1)
 
-Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | sections 19 and 122
+Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | section 122 and subsection 210.087(1)
 
 Canada-Nova Scotia Oil and Gas Agreement Act, S.C. 1984, c. 29 Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, S.C. 1984, ch. 29 | section 53
 
@@ -165,3 +165,5 @@ History:
 - 2012, c. 19, ss. 55, 56, 300, 301, 675, 747
 
 - 2013, c. 18, s. 44, c. 29, s. 22
+
+- 2014, c. 13, ss. 98 to 100
