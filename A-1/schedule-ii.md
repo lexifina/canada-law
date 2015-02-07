@@ -2,7 +2,7 @@
 
 Act | Provision
 
-Aeronautics Act Loi sur l’aéronautique | subsections 4.79(1) and 6.5(5)
+Aeronautics Act Loi sur l’aéronautique | subsections 4.79(1), 6.5(5), 22(2) and 24.2(4)
 
 Anti-Inflation Act, S.C. 1974-75-76, c. 75 Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14
 
@@ -166,4 +166,4 @@ History:
 
 - 2013, c. 18, s. 44, c. 29, s. 22
 
-- 2014, c. 13, ss. 98 to 100
+- 2014, c. 13, ss. 98 to 100, c. 29, s. 21
