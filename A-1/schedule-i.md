@@ -276,14 +276,6 @@
 
   - Commission de la fiscalité des premières nations
 
-  - Fraser River Port Authority
-
-  - Administration portuaire du fleuve Fraser
-
-  - Grain Transportation Agency Administrator
-
-  - Administrateur de l’Office du transport du grain
-
   - Gwich’in Land and Water Board
 
   - Office gwich’in des terres et des eaux
@@ -371,10 +363,6 @@
   - Northern Pipeline Agency
 
   - Administration du pipe-line du Nord
-
-  - North Fraser Port Authority
-
-  - Administration portuaire du North-Fraser
 
   - Nunavut Surface Rights Tribunal
 
@@ -572,10 +560,6 @@
 
   - Administration portuaire de Vancouver Fraser
 
-  - Vancouver Port Authority
-
-  - Administration portuaire de Vancouver
-
   - Veterans Review and Appeal Board
 
   - Tribunal des anciens combattants (révision et appel)
@@ -693,3 +677,5 @@ History:
 - 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 382 to 388
 
 - SOR/2014-66
+
+- 2015, c. 3, s. 2
