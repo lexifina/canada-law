@@ -14,12 +14,6 @@ Whereas on April 1, 2012 the Government of Canada established a rule that each i
 
 Whereas the one-for-one rule must not compromise public health, public safety or the Canadian economy;
 
-Whereas the Government of Canada recognizes the importance of being transparent with regard to the implementation of the one-for-one rule;
-
-And whereas the Government of Canada recognizes the importance of facilitating, in a transparent manner, the design, modification or administration of regulatory regimes to encourage innovation, competitiveness or economic growth while protecting public health and safety and the environment;
-
-- 2015, c. 12, Preamble
-
-- 2026, c. 3, s. 203
+And whereas the Government of Canada recognizes the importance of being transparent with regard to the implementation of the one-for-one rule;
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
