@@ -32,7 +32,7 @@ Canadian International Trade Tribunal Act Loi sur le Tribunal canadien du commer
 
 Canadian Ownership and Control Determination Act Loi sur la détermination de la participation et du contrôle canadiens | section 17
 
-Canadian Security Intelligence Service Act Loi sur le Service canadien du renseignement de sécurité | section 18
+Canadian Security Intelligence Service Act Loi sur le Service canadien du renseignement de sécurité | sections 18 and 18.1
 
 Canadian Transportation Accident Investigation and Safety Board Act Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports | subsections 28(2) and 31(4)
 
@@ -167,3 +167,5 @@ History:
 - 2013, c. 18, s. 44, c. 29, s. 22
 
 - 2014, c. 13, ss. 98 to 100, c. 29, s. 21
+
+- 2015, c. 9, s. 13
