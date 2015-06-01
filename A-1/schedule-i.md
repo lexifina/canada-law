@@ -164,6 +164,10 @@
 
   - Commission canadienne des grains
 
+  - Canadian High Arctic Research Station
+
+  - Station canadienne de recherche dans l’Extrême-Arctique
+
   - Canadian Human Rights Commission
 
   - Commission canadienne des droits de la personne
@@ -187,10 +191,6 @@
   - Canadian Nuclear Safety Commission
 
   - Commission canadienne de sûreté nucléaire
-
-  - Canadian Polar Commission
-
-  - Commission canadienne des affaires polaires
 
   - Canadian Radio-television and Telecommunications Commission
 
@@ -674,7 +674,7 @@ History:
 
 - 2013, c. 14, s. 17, c. 18, ss. 42, 43, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
 
-- 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 382 to 388
+- 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 382 to 388, c. 39, ss. 157, 158
 
 - SOR/2014-66
 
