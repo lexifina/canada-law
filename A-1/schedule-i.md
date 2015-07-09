@@ -364,6 +364,14 @@
 
   - Administration du pipe-line du Nord
 
+  - Nunavut Impact Review Board
+
+  - Commission du Nunavut chargée de l’examen des répercussions
+
+  - Nunavut Planning Commission
+
+  - Commission d’aménagement du Nunavut
+
   - Nunavut Surface Rights Tribunal
 
   - Tribunal des droits de surface du Nunavut
@@ -672,7 +680,7 @@ History:
 
 - 2012, c. 1, s. 160, c. 19, ss. 271, 385, 469, 501, 571, 586, 674, 746, c. 31, ss. 261, 290
 
-- 2013, c. 14, s. 17, c. 18, ss. 42, 43, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
+- 2013, c. 14, ss. 3, 17, c. 18, ss. 42, 43, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
 
 - 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 382 to 388, c. 39, ss. 157, 158
 
