@@ -212,10 +212,6 @@
 
   - Office des transports du Canada
 
-  - Canadian Wheat Board
-
-  - Commission canadienne du blé
-
   - Civilian Review and Complaints Commission for the Royal Canadian Mounted Police
 
   - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
@@ -675,6 +671,8 @@ History:
 - SOR/2009-174, 243, 248
 
 - 2010, c. 7, s. 6, c. 12, s. 1674
+
+- 2011, c. 25, s. 58
 
 - SOR/2011-162, 258
 
