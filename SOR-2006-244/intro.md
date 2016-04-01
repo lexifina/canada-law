@@ -1,4 +1,4 @@
-Debt Reserve Fund Replenishment Regulations
+Debt Reserve Funds Replenishment Regulations
 
 SOR/2006-244
 
@@ -6,7 +6,7 @@ FIRST NATIONS FISCAL AND STATISTICAL MANAGEMENT ACT
 
 Registration 2006-10-05
 
-Debt Reserve Fund Replenishment Regulations
+Debt Reserve Funds Replenishment Regulations
 
 P.C. 2006-1079 2006-10-5
 
