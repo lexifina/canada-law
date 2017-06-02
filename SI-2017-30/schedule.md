@@ -1,0 +1,173 @@
+## SCHEDULE
+
+### Extirpated Species
+
+- Amphibians
+
+  - Salamander, Eastern Tiger (Ambystoma tigrinum) Carolinian population
+
+  - Salamandre tigrée de l’Est population carolinienne
+
+### Endangered Species
+
+- Amphibians
+
+  - Salamander, Eastern Tiger (Ambystoma tigrinum) Prairie population
+
+  - Salamandre tigrée de l’Est population des Prairies
+
+  - Salamander, Western Tiger (Ambystoma mavortium) Southern Mountain population
+
+  - Salamandre tigrée de l’Ouest population des montagnes du Sud
+
+- Reptiles
+
+  - Massasauga (Sistrurus catenatus) Carolinian population
+
+  - Massasauga population carolinienne
+
+- Arthropods
+
+  - Clubtail, Riverine (Stylurus amnicola) Great Lakes Plains population
+
+  - Gomphe riverain population des plaines des Grands Lacs
+
+  - Skipper, Dakota (Hesperia dacotae)
+
+  - Hespérie du Dakota
+
+- Plants
+
+  - Braya, Fernald’s (Braya fernaldii)
+
+  - Braya de Fernald
+
+  - Braya, Hairy (Braya pilosa)
+
+  - Braya poilu
+
+  - Draba, Yukon (Draba yukonensis)
+
+  - Drave du Yukon
+
+  - Gentian, Plymouth (Sabatia kennedyana)
+
+  - Sabatie de Kennedy
+
+  - Goldenrod, Showy (Solidago speciosa) Great Lakes Plains population
+
+  - Verge d’or voyante population des plaines des Grands Lacs
+
+  - Lewisia, Tweedy’s (Lewisiopsis tweedyi)
+
+  - Léwisie de Tweedy
+
+### Threatened Species
+
+- Mammals
+
+  - Prairie Dog, Black-tailed (Cynomys ludovicianus)
+
+  - Chien de prairie
+
+- Amphibians
+
+  - Frog, Rocky Mountain Tailed (Ascaphus montanus)
+
+  - Grenouille-à-queue des Rocheuses
+
+- Reptiles
+
+  - Massasauga (Sistrurus catenatus) Great Lakes/St. Lawrence population
+
+  - Massasauga population des Grands Lacs et du Saint-Laurent
+
+- Arthropods
+
+  - Tiger Beetle, Gibson’s Big Sand (Cicindela formosa gibsoni)
+
+  - Cicindèle à grandes taches de Gibson
+
+- Plants
+
+  - Goldenrod, Showy (Solidago speciosa) Boreal population
+
+  - Verge d’or voyante population boréale
+
+  - Locoweed, Hare-footed (Oxytropis lagopus)
+
+  - Oxytrope patte-de-lièvre
+
+  - Pepperbush, Sweet (Clethra alnifolia)
+
+  - Clèthre à feuilles d’aulne
+
+- Lichens
+
+  - Waterfan, Eastern (Peltigera hydrothyria)
+
+  - Peltigère éventail d’eau de l’Est
+
+### Special Concern
+
+- Mammals
+
+  - Badger taxus subspecies, American (Taxidea taxus taxus)
+
+  - Blaireau d’Amérique de la sous-espèce taxus
+
+- Amphibians
+
+  - Salamander, Wandering (Aneides vagrans)
+
+  - Salamandre errante
+
+  - Salamander, Western Tiger (Ambystoma mavortium) Prairie/Boreal population
+
+  - Salamandre tigrée de l’Ouest population boréale et des Prairies
+
+- Reptiles
+
+  - Turtle, Eastern Musk (Sternotherus odoratus)
+
+  - Tortue musquée
+
+- Molluscs
+
+  - Slug, Haida Gwaii (Staala gwaii)
+
+  - Limace de Haida Gwaii
+
+- Arthropods
+
+  - Grasshopper, Greenish-white (Hypochlora alba)
+
+  - Criquet de l’armoise
+
+  - Metalmark, Mormon (Apodemia mormo) Prairie population
+
+  - Mormon population des Prairies
+
+  - Spider, Georgia Basin Bog (Gnaphosa snohomish)
+
+  - Gnaphose de Snohomish
+
+- Plants
+
+  - Aster, Crooked-stem (Symphyotrichum prenanthoides)
+
+  - Aster fausse-prenanthe
+
+  - Aster, Nahanni (Symphyotrichum nahanniense)
+
+  - Aster de la Nahanni
+
+  - Pennywort, Water (Hydrocotyle umbellata)
+
+  - Hydrocotyle à ombelle
+
+- Lichens
+
+  - Waterfan, Western (Peltigera gowardii)
+
+  - Peltigère éventail d’eau de l’Ouest
