@@ -1,4 +1,4 @@
-## SCHEDULE 1 (Section 2)
+## SCHEDULE (Section 2) Administrative Tribunals
 
 - Canada Industrial Relations Board
 
@@ -19,10 +19,6 @@
 - Competition Tribunal
 
 - Tribunal de la concurrence
-
-- Environmental Protection Tribunal of Canada
-
-- Tribunal de la protection de l’environnement du Canada
 
 - Federal Public Sector Labour Relations and Employment Board
 
@@ -53,9 +49,3 @@ History:
 - 2014, c. 20, ss. 376 “Sch.”, 481
 
 - 2017, c. 9, s. 57
-
-- 2026, c. 3, s. 505
-
-- 2026, c. 3, s. 506
-
-- 2026, c. 3, s. 522
