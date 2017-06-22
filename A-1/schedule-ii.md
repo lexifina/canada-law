@@ -12,6 +12,8 @@ Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dép
 
 Canada Elections Act Loi électorale du Canada | section 540
 
+Canada Infrastructure Bank Act Loi sur la Banque de l’infrastructure du Canada | section 28
+
 Canada Labour Code Code canadien du travail | subsection 144(3)
 
 Canada–Newfoundland and Labrador Atlantic Accord Implementation Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador | section 119 and subsection 205.086(1)
@@ -169,3 +171,5 @@ History:
 - 2014, c. 13, ss. 98 to 100, c. 29, s. 21
 
 - 2015, c. 9, s. 13
+
+- 2017, c. 20, s. 404
