@@ -86,6 +86,8 @@ Motor Vehicle Fuel Consumption Standards Act Loi sur les normes de consommation 
 
 Nuclear Safety and Control Act Loi sur la sûreté et la réglementation nucléaires | paragraphs 44(1)(d) and 48(b)
 
+Parliament of Canada Act Loi sur le Parlement du Canada | subsection 79.21(9)
+
 Patent Act Loi sur les brevets | section 10, subsection 20(7), and sections 87 and 88
 
 Petroleum Incentives Program Act Loi sur le programme d’encouragement du secteur pétrolier | section 17
@@ -172,4 +174,4 @@ History:
 
 - 2015, c. 9, s. 13
 
-- 2017, c. 20, s. 404
+- 2017, c. 20, ss. 157, 404
