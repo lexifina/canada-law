@@ -516,6 +516,10 @@
 
   - Administration portuaire de Saint-Jean
 
+  - Secretariat of the National Security and Intelligence Committee of Parliamentarians
+
+  - Secrétariat du Comité des parlementaires sur la sécurité nationale et le renseignement
+
   - Security Intelligence Review Committee
 
   - Comité de surveillance des activités de renseignement de sécurité
@@ -685,3 +689,5 @@ History:
 - SOR/2014-66
 
 - 2015, c. 3, s. 2
+
+- 2017, c. 15, s. 36
