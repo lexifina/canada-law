@@ -228,6 +228,10 @@
 
   - Service correctionnel du Canada
 
+  - Department of Indigenous Services Canada
+
+  - Ministère des Services aux Autochtones Canada
+
   - Director of Soldier Settlement
 
   - Directeur de l’établissement de soldats
@@ -691,3 +695,5 @@ History:
 - 2015, c. 3, s. 2
 
 - 2017, c. 15, s. 36
+
+- SOR/2017-257
