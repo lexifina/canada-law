@@ -388,6 +388,10 @@
 
   - Bureau de privatisation et des affaires réglementaires
 
+  - Office of the Administrator of the Fund for Railway Accidents Involving Designated Goods
+
+  - Bureau de l’administrateur de la Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées
+
   - Office of the Administrator of the Ship-source Oil Pollution Fund
 
   - Bureau de l’administrateur de la Caisse d’indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires
@@ -697,3 +701,5 @@ History:
 - 2017, c. 15, s. 36
 
 - SOR/2017-257
+
+- SOR/2018-23
