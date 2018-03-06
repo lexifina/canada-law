@@ -52,7 +52,7 @@ Defence Production Act Loi sur la production de défense | section 30
 
 Department of Industry Act Loi sur le ministère de l’Industrie | subsection 16(2)
 
-DNA Identification Act Loi sur l’identification par les empreintes génétiques | subsection 6(7)
+DNA Identification Act Loi sur l’identification par les empreintes génétiques | section 6.6
 
 Energy Administration Act Loi sur l’administration de l’énergie | section 98
 
@@ -170,7 +170,7 @@ History:
 
 - 2013, c. 18, s. 44, c. 29, s. 22
 
-- 2014, c. 13, ss. 98 to 100, c. 29, s. 21
+- 2014, c. 13, ss. 98 to 100, c. 29, s. 21, c. 39, s. 247
 
 - 2015, c. 9, s. 13
 
