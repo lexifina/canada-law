@@ -304,6 +304,10 @@
 
   - Commission de vérité et de réconciliation relative aux pensionnats indiens
 
+  - Invest in Canada Hub
+
+  - Investir au Canada
+
   - Law Commission of Canada
 
   - Commission du droit du Canada
@@ -698,7 +702,7 @@ History:
 
 - 2015, c. 3, s. 2
 
-- 2017, c. 15, s. 36
+- 2017, c. 15, s. 36, c. 20, s. 444
 
 - SOR/2017-257
 
