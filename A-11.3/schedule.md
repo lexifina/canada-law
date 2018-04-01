@@ -64,13 +64,13 @@
 
 - Nation des Munsees-Delawares
 
-- Netmizaaggamig Nishnaabeg
-
-- Netmizaaggamig Nishnaabeg
-
 - Nipissing First Nation
 
 - Première Nation Nipissing
+
+- Pic Mobert First Nation
+
+- Première Nation Pic Mobert
 
 - Sheshegwaning First Nation
 
@@ -91,11 +91,3 @@
 - Zhiibaahaasing First Nation
 
 - Première Nation Zhiibaahaasing
-
-History:
-
-- 2017, c. 32, Sch.
-
-- SOR/2024-278, s. 1
-
-- SOR/2024-278, s. 2
