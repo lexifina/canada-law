@@ -70,6 +70,8 @@ Export Development Act Loi sur le développement des exportations | section 24.3
 
 Family Allowances Act Loi sur les allocations familiales | section 18
 
+Greenhouse Gas Pollution Pricing Act Loi sur la tarification de la pollution causée par les gaz à effet de serre | section 107 and subsection 255(3)
+
 Hazardous Products Act Loi sur les produits dangereux | section 12
 
 Income Tax Act Loi de l’impôt sur le revenu | section 241
@@ -175,3 +177,5 @@ History:
 - 2015, c. 9, s. 13
 
 - 2017, c. 20, ss. 157, 404
+
+- 2018, c. 12, s. 188
