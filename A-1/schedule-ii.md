@@ -92,6 +92,8 @@ Parliament of Canada Act Loi sur le Parlement du Canada | subsection 79.21(9)
 
 Patent Act Loi sur les brevets | section 10, subsection 20(7), and sections 87 and 88
 
+Personal Information Protection and Electronic Documents Act Loi sur la protection des renseignements personnels et les documents électroniques | subsection 20(1.1)
+
 Petroleum Incentives Program Act Loi sur le programme d’encouragement du secteur pétrolier | section 17
 
 Proceeds of Crime (Money Laundering) and Terrorist Financing Act Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes | paragraphs 55(1)(a), (d) and (e)
@@ -174,7 +176,7 @@ History:
 
 - 2014, c. 13, ss. 98 to 100, c. 29, s. 21, c. 39, s. 247
 
-- 2015, c. 9, s. 13
+- 2015, c. 9, s. 13, c. 32, s. 25
 
 - 2017, c. 20, ss. 157, 404
 
