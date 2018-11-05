@@ -76,6 +76,8 @@ Hazardous Products Act Loi sur les produits dangereux | section 12
 
 Income Tax Act Loi de l’impôt sur le revenu | section 241
 
+Industrial Design Act Loi sur les dessins industriels | subsections 8.3(2) and (5)
+
 Industrial Research and Development Incentives Act, R.S.C. 1970, c. I-10 Loi stimulant la recherche et le développement scientifiques, S.R.C. 1970, ch. I-10 | section 13
 
 Investment Canada Act Loi sur Investissement Canada | section 36
@@ -174,7 +176,7 @@ History:
 
 - 2013, c. 18, s. 44, c. 29, s. 22
 
-- 2014, c. 13, ss. 98 to 100, c. 29, s. 21, c. 39, s. 247
+- 2014, c. 13, ss. 98 to 100, c. 29, s. 21, c. 39, ss. 113, 247
 
 - 2015, c. 9, s. 13, c. 32, s. 25
 
