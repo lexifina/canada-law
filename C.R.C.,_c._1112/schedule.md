@@ -268,18 +268,6 @@ Lévis Forts National Historic Site of Canada comprising the following described
 
 In the Province of Québec; in the County of Lévis; in the City of Lauzon; all that parcel of land as shown on plan 66456 in the Canada Lands Surveys Records at Ottawa, containing 4.5 hectares, more or less.
 
-Grosse Île and the Irish Memorial National Historic Site of Canada comprising the following described area:
-
-in the province of Quebec;
-
-in the registration division of Montmagny;
-
-of the official cadastre of the parish of Saint-Antoine-de-l’Isle-aux-Grues;
-
-all those parcels shown as Lots 151-1 to 151-10, 151-11-1 and 151-11-2 according to the Official Plan and Book of Reference of the Official Cadastre of the parish of Saint-Antoine-de-l’Isle-aux-Grues; said lots were surveyed by Normand Parent, Q.L.S. under minutes 2995 and 3153, recorded in the Canada Lands and Surveys Records at Ottawa as 74283 and 74284;
-
-said parcels forming the whole of Grosse Île extending to the average low tide mark and containing together about 250 hectares.
-
 ### New Brunswick
 
 Boishébert National Historic Site of Canadacomprising the following described area:
@@ -615,5 +603,3 @@ History:
 - SOR/2017-273, s. 1
 
 - SOR/2018-250, s. 1
-
-- SOR/2026-175, s. 2
