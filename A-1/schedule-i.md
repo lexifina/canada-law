@@ -2,6 +2,10 @@
 
 - Departments and Ministries of State
 
+  - Department for Women and Gender Equality
+
+  - Ministère des Femmes et de l’Égalité des genres
+
   - Department of Agriculture and Agri-Food
 
   - Ministère de l’Agriculture et de l’Agroalimentaire
@@ -216,6 +220,10 @@
 
   - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
 
+  - College of Patent Agents and Trade-mark Agents
+
+  - Collège des agents de brevets et des agents de marques de commerce
+
   - Communications Security Establishment
 
   - Centre de la sécurité des télécommunications
@@ -419,10 +427,6 @@
   - Office of the Comptroller General
 
   - Bureau du contrôleur général
-
-  - Office of the Co-ordinator, Status of Women
-
-  - Bureau de la coordonnatrice de la situation de la femme
 
   - Office of the Correctional Investigator of Canada
 
@@ -705,5 +709,7 @@ History:
 - 2017, c. 15, s. 36, c. 20, s. 444
 
 - SOR/2017-257
+
+- 2018, c. 27, ss. 248, 663, 664
 
 - SOR/2018-23
