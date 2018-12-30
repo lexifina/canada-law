@@ -1,3 +1,3 @@
-## SCHEDULE 5
+## SCHEDULE 5 (Paragraphs 47(3)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]

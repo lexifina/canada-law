@@ -1,3 +1,3 @@
-## SCHEDULE 13
+## SCHEDULE 13 (Paragraphs 47(11)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]

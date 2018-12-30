@@ -1,3 +1,3 @@
-## SCHEDULE 4
+## SCHEDULE 4 (Paragraphs 47(2)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]

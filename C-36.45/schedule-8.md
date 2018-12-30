@@ -1,3 +1,3 @@
-## SCHEDULE 8
+## SCHEDULE 8 (Paragraphs 47(6)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]

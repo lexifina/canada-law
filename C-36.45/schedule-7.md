@@ -1,3 +1,3 @@
-## SCHEDULE 7
+## SCHEDULE 7 (Paragraphs 47(5)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]

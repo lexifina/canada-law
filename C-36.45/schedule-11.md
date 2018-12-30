@@ -1,3 +1,3 @@
-## SCHEDULE 11
+## SCHEDULE 11 (Paragraphs 47(9)(c) and (e))
 
-[Repealed, 2026, c. 7, s. 22]
+[Amendment]
