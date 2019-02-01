@@ -200,11 +200,11 @@ Item | Activity | Specific Exception
 
 4 | Construction, modification, decommissioning or abandonment of, or other activity in relation to, a watercourse crossing, other than one that is a bridge or is across navigable water | Other than for placer mining, the construction, modification, decommissioning or abandonment of, or other activity in relation to, a watercourse crossing — other than one that is a bridge or is across navigable water — of a watercourse that is, at the point of the crossing, less than 5 m wide at its ordinary high-water mark
 
-5 | Construction, installation, operation, modification, decommissioning or abandonment of a work as defined in section 2 of the Canadian Navigable Waters Act — other than a bridge — that is in, on, over, under or through navigable water
+5 | Construction, installation, operation, modification, decommissioning or abandonment of a work within the meaning of section 3 of the Navigable Waters Protection Act — other than a bridge — that is on, over, under or through navigable water
 
-6 | Repairing, securing, moving, removing, dismantling, destroying or doing any other thing with respect to an obstruction, potential obstruction, wreck, vessel, part of a vessel or other thing under section 15, 15.1, 15.2 or 16 of the Canadian Navigable Waters Act
+6 | Removal or destruction of a wreck, vessel or other thing pursuant to section 16 of the Navigable Waters Protection Act
 
-7 | Repairing, securing, moving, removing, dismantling, destroying, disposing of or taking possession of a vessel, wreck, dilapidated vessel, their contents, or other thing under section 36, 37 or 38 of the Wrecked, Abandoned or Hazardous Vessels Act
+7 | Removal of a vessel or other thing pursuant to section 20 of the Navigable Waters Protection Act
 
 8 | Watercourse training — such as that for the purpose of erosion control or that which is by means of a channel or bank alteration, artificial accretion, spur, culvert or dock — but not including the diversion of a watercourse | (1) Other than for placer mining, watercourse training, other than a diversion, of an intermittent watercourse (2) Other than for placer mining, watercourse training, other than a diversion, of a watercourse that is, at the point of training, less than 5 m wide at its ordinary high-water mark (3) Other than for placer mining, watercourse training that involves the removal or placement of less than 100 m3 of material and does not change the cross-sectional area of the watercourse at the point of removal or placement
 
@@ -375,5 +375,3 @@ History:
 - SOR/2019-40, s. 4(F)
 
 - SOR/2019-40, s. 5(E)
-
-- SOR/2021-27, s. 1
