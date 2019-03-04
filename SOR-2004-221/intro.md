@@ -1,4 +1,4 @@
-Regulations Implementing the United Nations Resolutions on Iraq
+United Nations Iraq Regulations
 
 SOR/2004-221
 
@@ -6,7 +6,7 @@ UNITED NATIONS ACT
 
 Registration 2004-10-19
 
-Regulations Implementing the United Nations Resolutions on Iraq
+United Nations Iraq Regulations
 
 P.C. 2004-1176 2004-10-19
 
