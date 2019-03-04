@@ -6,7 +6,7 @@
 
 - 2
 
-- [Repealed, SOR/2023-64, s. 1]
+- Joseph Msika (date of birth: December 6, 1923)
 
 - 3
 
@@ -18,7 +18,7 @@
 
 - 5
 
-- [Repealed, SOR/2023-64, s. 1]
+- Aeneas Soko Chigwedere (date of birth: November 25, 1939)
 
 - 6
 
@@ -30,7 +30,7 @@
 
 - 8
 
-- [Repealed, SOR/2023-64, s. 1]
+- Edward Chindori-Chininga (date of birth: March 14, 1955)
 
 - 9
 
@@ -42,19 +42,19 @@
 
 - 11
 
-- [Repealed, SOR/2023-64, s. 1]
+- Nicholas Goche (date of birth: August 1, 1946)
 
 - 12
 
-- [Repealed, SOR/2023-64, s. 1]
+- Rugare Aleck Ngidi Gumbo (date of birth: March 8, 1940)
 
 - 13
 
-- [Repealed, SOR/2023-64, s. 1]
+- Tichaona Joseph Benjamin Jokonya (date of birth: December 27, 1938)
 
 - 14
 
-- [Repealed, SOR/2023-64, s. 1]
+- Christopher Tichaona Kuruneri (date of birth: April 4, 1949)
 
 - 15
 
@@ -62,11 +62,11 @@
 
 - 16
 
-- [Repealed, SOR/2023-64, s. 1]
+- Elliot Tapfumanei Manyika (date of birth: July 30, 1955)
 
 - 17
 
-- [Repealed, SOR/2023-64, s. 1]
+- Amos Bernard Muvenga Midzi (date of birth: July 4, 1952)
 
 - 18
 
@@ -78,7 +78,7 @@
 
 - 20
 
-- [Repealed, SOR/2023-64, s. 1]
+- Jonathan Nathaniel Moyo (date of birth: January 12, 1957)
 
 - 21
 
@@ -90,7 +90,7 @@
 
 - 23
 
-- [Repealed, SOR/2023-64, s. 1]
+- Olivia Nyembezi Muchena (date of birth: August 18, 1946)
 
 - 24
 
@@ -98,11 +98,11 @@
 
 - 25
 
-- [Repealed, SOR/2023-64, s. 1]
+- Stan Isaak Gorerazvo Mudenge (date of birth: December 17, 1941)
 
 - 26
 
-- [Repealed, SOR/2023-64, s. 1]
+- Samuel Creighton Mumbengegwi (date of birth: October 23, 1942)
 
 - 27
 
@@ -118,11 +118,11 @@
 
 - 30
 
-- [Repealed, SOR/2023-64, s. 1]
+- Didymus Noel Edwin Mutasa (date of birth: July 27, 1935)
 
 - 31
 
-- [Repealed, SOR/2023-64, s. 1]
+- Munacho Thomas Alvar Mutezo (date of birth: February 14, 1954)
 
 - 32
 
@@ -130,11 +130,11 @@
 
 - 33
 
-- [Repealed, SOR/2023-64, s. 1]
+- Sikhanyiso Duke Ndlovu (date of birth: May 4, 1937)
 
 - 34
 
-- [Repealed, SOR/2023-64, s. 1]
+- Sylvester Robert Nguni (date of birth: August 4, 1955)
 
 - 35
 
@@ -158,15 +158,15 @@
 
 - 40
 
-- [Repealed, SOR/2023-64, s. 1]
+- Webster Kotiwani Shamu (date of birth: June 6, 1945)
 
 - 41
 
-- [Repealed, SOR/2023-64, s. 1]
+- Samuel Udenge
 
 - 42
 
-- [Repealed, SOR/2023-64, s. 1]
+- David Chapfika (date of birth: April 7, 1957)
 
 - 43
 
@@ -186,7 +186,7 @@
 
 - 47
 
-- [Repealed, SOR/2023-64, s. 1]
+- Aguy Georgias
 
 - 48
 
@@ -202,7 +202,7 @@
 
 - 51
 
-- [Repealed, SOR/2023-64, s. 1]
+- Shuvai Ben Mahofa (date of birth: April 4, 1941)
 
 - 52
 
@@ -214,7 +214,7 @@
 
 - 54
 
-- [Repealed, SOR/2023-64, s. 1]
+- Joel Biggie Matiza (date of birth: August 17, 1960)
 
 - 55
 
@@ -226,11 +226,11 @@
 
 - 57
 
-- [Repealed, SOR/2023-64, s. 1]
+- Melusi Mike Matshiya
 
 - 58
 
-- [Repealed, SOR/2023-64, s. 1]
+- Partson Mbiriri
 
 - 59
 
@@ -238,7 +238,7 @@
 
 - 60
 
-- [Repealed, SOR/2023-64, s. 1]
+- Edwin Muguti (date of birth: May 2, 1964)
 
 - 61
 
@@ -250,7 +250,7 @@
 
 - 63
 
-- [Repealed, SOR/2023-64, s. 1]
+- Walter Mzembi
 
 - 64
 
@@ -262,7 +262,7 @@
 
 - 66
 
-- [Repealed, SOR/2023-64, s. 1]
+- Tinos Rusere (date of birth: May 10, 1945)
 
 - 67
 
@@ -270,7 +270,7 @@
 
 - 68
 
-- [Repealed, SOR/2023-64, s. 1]
+- Isaiah Masvayamwando Shumba (date of birth: January 3, 1949)
 
 - 69
 
@@ -278,11 +278,11 @@
 
 - 70
 
-- [Repealed, SOR/2023-64, s. 1]
+- Timothy Stamps (date of birth: October 15, 1936)
 
 - 71
 
-- [Repealed, SOR/2023-64, s. 1]
+- Patrick Zhuwao (date of birth: May 23, 1967)
 
 - 72
 
@@ -310,11 +310,11 @@
 
 - 78
 
-- [Repealed, SOR/2023-64, s. 1]
+- Miriai Chiremba
 
 - 79
 
-- [Repealed, SOR/2023-64, s. 1]
+- Pirirayi Deketeke
 
 - 80
 
@@ -338,15 +338,15 @@
 
 - 85
 
-- [Repealed, SOR/2023-64, s. 1]
+- Justin Mutasa
 
 - 86
 
-- [Repealed, SOR/2023-64, s. 1]
+- Herbert Nkala
 
 - 87
 
-- [Repealed, SOR/2023-64, s. 1]
+- Brig. Gen. Douglas Nyikayaramba
 
 - 88
 
@@ -354,7 +354,7 @@
 
 - 89
 
-- [Repealed, SOR/2023-64, s. 1]
+- Fred Zindi
 
 - 90
 
@@ -366,31 +366,31 @@
 
 - 92
 
-- [Repealed, SOR/2023-64, s. 1]
+- Victoria Chitepo (date of birth: March 27, 1928)
 
 - 93
 
-- [Repealed, SOR/2023-64, s. 1]
+- Dumiso Dabengwa (date of birth: December 6, 1939)
 
 - 94
 
-- [Repealed, SOR/2023-64, s. 1]
+- Sobuza Gula-Ndebele (date of birth: August 12, 1954)
 
 - 95
 
-- [Repealed, SOR/2023-64, s. 1]
+- Richard Hove (date of birth: September 23, 1939)
 
 - 96
 
-- [Repealed, SOR/2023-64, s. 1]
+- Munyaradzi Huni
 
 - 97
 
-- [Repealed, SOR/2023-64, s. 1]
+- Kumbirai Kangai (date of birth: February 17, 1938)
 
 - 98
 
-- [Repealed, SOR/2023-64, s. 1]
+- Thenjiwe Lesabe (date of birth: January 5, 1933)
 
 - 99
 
@@ -406,7 +406,7 @@
 
 - 102
 
-- [Repealed, SOR/2023-64, s. 1]
+- Dzikamai Mavhaire
 
 - 103
 
@@ -414,27 +414,27 @@
 
 - 104
 
-- [Repealed, SOR/2023-64, s. 1]
+- Headman Moyo
 
 - 105
 
-- [Repealed, SOR/2023-64, s. 1]
+- Musa Moyo
 
 - 106
 
-- [Repealed, SOR/2023-64, s. 1]
+- Simon Khaya Moyo (date of birth: October 1, 1945)
 
 - 107
 
-- [Repealed, SOR/2023-64, s. 1]
+- Leo Mugabe (date of birth: August 28, 1962)
 
 - 108
 
-- [Repealed, SOR/2023-64, s. 1]
+- Sabina Mugabe (date of birth: October 14, 1934)
 
 - 109
 
-- [Repealed, SOR/2023-64, s. 1]
+- Solomon Tapfumaneyi Ruzambo Mujuru (date of birth: May 1, 1949)
 
 - 110
 
@@ -442,15 +442,15 @@
 
 - 111
 
-- [Repealed, SOR/2023-64, s. 1]
+- Naison Ndlovu (date of birth: October 22, 1930)
 
 - 112
 
-- [Repealed, SOR/2023-64, s. 1]
+- Richard Ndlovu (date of birth: June 26, 1942)
 
 - 113
 
-- [Repealed, SOR/2023-64, s. 1]
+- John Landa Nkomo (date of birth: August 22, 1934)
 
 - 114
 
@@ -462,7 +462,7 @@
 
 - 116
 
-- [Repealed, SOR/2023-64, s. 1]
+- Khantibhal Patel (date of birth: October 28, 1928)
 
 - 117
 
@@ -470,27 +470,27 @@
 
 - 118
 
-- [Repealed, SOR/2023-64, s. 1]
+- Stanley Sakupwanya (date of birth: circa 1945)
 
 - 119
 
-- [Repealed, SOR/2023-64, s. 1]
+- Eunice Sandi
 
 - 120
 
-- [Repealed, SOR/2023-64, s. 1]
+- Tendai Savanhu (date of birth: March 21, 1968)
 
 - 121
 
-- [Repealed, SOR/2023-64, s. 1]
+- Nathan Marwirakuwa Shamuyarira (date of birth: September 29, 1928)
 
 - 122
 
-- [Repealed, SOR/2023-64, s. 1]
+- Absolom Sikhosana
 
 - 123
 
-- [Repealed, SOR/2023-64, s. 1]
+- Solomon Chirume Tawengwa (date of birth: June 15, 1940)
 
 - 124
 
@@ -498,11 +498,11 @@
 
 - 125
 
-- [Repealed, SOR/2023-64, s. 1]
+- Charles Utete (date of birth: October 30, 1938)
 
 - 126
 
-- [Repealed, SOR/2023-64, s. 1]
+- Vitalis Zvinavashe (date of birth: September 27, 1943)
 
 - 127
 
@@ -514,7 +514,7 @@
 
 - 129
 
-- [Repealed, SOR/2023-64, s. 1]
+- Wayne Bvudzijena
 
 - 130
 
@@ -534,7 +534,7 @@
 
 - 134
 
-- [Repealed, SOR/2023-64, s. 1]
+- Barbara Mandizha (date of birth: October 24, 1959)
 
 - 135
 
@@ -542,15 +542,15 @@
 
 - 136
 
-- [Repealed, SOR/2023-64, s. 1]
+- Innocent Matibiri (date of birth: October 9, 1968)
 
 - 137
 
-- [Repealed, SOR/2023-64, s. 1]
+- Bothwell Mugariri
 
 - 138
 
-- [Repealed, SOR/2023-64, s. 1]
+- Munyaradzi Musariri
 
 - 139
 
@@ -558,11 +558,11 @@
 
 - 140
 
-- [Repealed, SOR/2023-64, s. 1]
+- Perence Shiri (date of birth: November 1, 1955)
 
 - 141
 
-- [Repealed, SOR/2023-64, s. 1]
+- Levy Sibanda
 
 - 142
 
@@ -570,15 +570,15 @@
 
 - 143
 
-- [Repealed, SOR/2023-64, s. 1]
+- Innocent Tonderai Matibiri
 
 - 144
 
-- [Repealed, SOR/2023-64, s. 1]
+- Edmore Veterai
 
 - 145
 
-- [Repealed, SOR/2023-64, s. 1]
+- Paradzai Zimondi (date of birth: March 4, 1947)
 
 - 146
 
@@ -586,31 +586,31 @@
 
 - 147
 
-- [Repealed, SOR/2023-64, s. 1]
+- Joyce Kazembe
 
 - 148
 
-- [Repealed, SOR/2023-64, s. 1]
+- Lovemore Sekeramayi
 
 - 149
 
-- [Repealed, SOR/2023-64, s. 1]
+- Abina Chapfika (date of birth: August 23, 1961)
 
 - 150
 
-- [Repealed, SOR/2023-64, s. 1]
+- Monica Chinamasa (date of birth: 1950)
 
 - 151
 
-- [Repealed, SOR/2023-64, s. 1]
+- Gamuchirai Chinamasa (date of birth: November 11, 1991)
 
 - 152
 
-- [Repealed, SOR/2023-64, s. 1]
+- Jocelyn Chiwenga
 
 - 153
 
-- [Repealed, SOR/2023-64, s. 1]
+- Ever Chombo (date of birth: September 20, 1956)
 
 - 154
 
@@ -618,15 +618,15 @@
 
 - 155
 
-- [Repealed, SOR/2023-64, s. 1]
+- Hellin Mushanyuri Gono (date of birth: May 6, 1962)
 
 - 156
 
-- [Repealed, SOR/2023-64, s. 1]
+- Natasha Muchinguri (date of birth: 1994)
 
 - 157
 
-- [Repealed, SOR/2023-64, s. 1]
+- Tanya Muchinguri (date of birth: 1989)
 
 - 158
 
@@ -634,23 +634,23 @@
 
 - 159
 
-- [Repealed, SOR/2023-64, s. 1]
+- Rose Jaele Ndlovu (date of birth: September 27, 1939)
 
 - 160
 
-- [Repealed, SOR/2023-64, s. 1]
+- Georgina Ngwenya Nkomo (date of birth: August 4, 1966)
 
 - 161
 
-- [Repealed, SOR/2023-64, s. 1]
+- Louise S. Nkomo/aka Louise Sehulle Nhema (date of birth: August 25, 1964)
 
 - 162
 
-- [Repealed, SOR/2023-64, s. 1]
+- Peter Baka Nyoni (date of birth: January 10, 1950)
 
 - 163
 
-- [Repealed, SOR/2023-64, s. 1]
+- Tsitsi Chihrui Sekeramayi (date of birth: 1944)
 
 - 164
 
@@ -666,23 +666,23 @@
 
 - 167
 
-- [Repealed, SOR/2023-64, s. 1]
+- Ray Joseph Kaukonde (date of birth: March 4, 1963)
 
 - 168
 
-- [Repealed, SOR/2023-64, s. 1]
+- David John Mafa
 
 - 169
 
-- [Repealed, SOR/2023-64, s. 1]
+- Sekesai Makwavarara
 
 - 170
 
-- [Repealed, SOR/2023-64, s. 1]
+- Ephraim Sango Masawi
 
 - 171
 
-- [Repealed, SOR/2023-64, s. 1]
+- Angeline Masuku (date of birth: October 14, 1936)
 
 - 172
 
@@ -690,7 +690,7 @@
 
 - 173
 
-- [Repealed, SOR/2023-64, s. 1]
+- Thokozile Mathuthu
 
 - 174
 
@@ -698,11 +698,11 @@
 
 - 175
 
-- [Repealed, SOR/2023-64, s. 1]
+- Cephas George Msipa (date of birth: July 7, 1931)
 
 - 176
 
-- [Repealed, SOR/2023-64, s. 1]
+- Nelson Tapera Crispin Samkange
 
 - 177
 
@@ -710,20 +710,16 @@
 
 - 178
 
-- [Repealed, SOR/2023-64, s. 1]
+- Rudo Grace Charamba (date of birth: June 20, 1964)
 
 - 179
 
-- [Repealed, SOR/2023-64, s. 1]
+- Ijeoma Dabengwa (date of birth: October 27, 1971)
 
 - 180
 
-- [Repealed, SOR/2023-64, s. 1]
+- Ruth Chipo Murerwa (date of birth: July 27, 1947)
 
 - 181
 
-- [Repealed, SOR/2023-64, s. 1]
-
-History:
-
-- SOR/2023-64, s. 1
+- Beauty Lily Zhuwao (date of birth: January 10, 1965)
