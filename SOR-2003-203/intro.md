@@ -1,4 +1,4 @@
-Regulations Respecting the Possession of Tobacco, Cannabis or Vaping Products That Are Not Stamped
+Regulations Respecting the Possession of Tobacco Products or Cannabis Products That Are Not Stamped
 
 SOR/2003-203
 
@@ -6,7 +6,7 @@ EXCISE ACT, 2001
 
 Registration 2003-06-05
 
-Regulations Respecting the Possession of Tobacco, Cannabis or Vaping Products That Are Not Stamped
+Regulations Respecting the Possession of Tobacco Products or Cannabis Products That Are Not Stamped
 
 P.C. 2003-857 2003-6-5
 
