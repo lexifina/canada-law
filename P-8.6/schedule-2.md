@@ -10,6 +10,8 @@ Item | Act of Parliament | Provisions
 
 2 | Canada Labour Code | Subsection 254(1)
 
+3 | Canada Lands Surveys Act | Subsection 3(2)
+
 History:
 
 - 2000, c. 5, Sch. 2
@@ -17,3 +19,5 @@ History:
 - SOR/2004-309, s. 1
 
 - SOR/2008-114
+
+- SOR/2019-84, s. 1
