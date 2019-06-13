@@ -2,17 +2,15 @@
 
 - Province of Ontario
 
-  - Kapuskasing — Timmins — Mushkegowuk
+  - Algoma — Manitoulin — Kapuskasing
 
-  - Kenora — Kiiwetinoong
-
-  - Sault Ste. Marie — Algoma
-
-  - Sudbury East — Manitoulin — Nickel Belt
+  - Kenora
 
   - Thunder Bay — Rainy River
 
   - Thunder Bay — Superior North
+
+  - Timmins — James Bay
 
 - Province of Quebec
 
@@ -20,19 +18,23 @@
 
   - Abitibi — Témiscamingue
 
-  - Côte-Nord — Kawawachikamach — Nitassinan
+  - Manicouagan
 
 - Province of Manitoba
 
   - Churchill — Keewatinook Aski
 
-  - Riding Mountain
+  - Dauphin — Swan River — Neepawa
+
+  - Selkirk — Interlake — Eastman
 
 - Province of British Columbia
 
-  - Cariboo—Prince George—Omineca
+  - Cariboo — Prince George
 
-  - Kamloops — Thompson — Nicola
+  - Kamloops — Thompson — Cariboo
+
+  - Mission — Matsqui — Fraser Canyon
 
   - North Island — Powell River
 
@@ -42,7 +44,9 @@
 
 - Province of Saskatchewan
 
-  - Battlefords — Lloydminster — Meadow Lake
+  - Battlefords — Lloydminster
+
+  - Carlton Trail — Eagle Creek
 
   - Desnethé — Missinippi — Churchill River
 
@@ -54,9 +58,11 @@
 
   - Fort McMurray — Cold Lake
 
-  - Grande Prairie
+  - Grande Prairie — Mackenzie
 
   - Lakeland
+
+  - Medicine Hat — Cardston — Warner
 
   - Peace River — Westlock
 
@@ -64,7 +70,9 @@
 
 - Province of Newfoundland and Labrador
 
-  - Coast of Bays—Central—Notre Dame
+  - Bonavista — Burin — Trinity
+
+  - Coast of Bays — Central — Notre Dame
 
   - Labrador
 
@@ -84,7 +92,7 @@
 
 [Note: Names of electoral districts may change before Schedule 3 is officially amended. For the most up-to-date list, see the Schedule 3 profile page on Elections Canada’s website at this link:
 
-https://www.elections.ca/content.aspx?section=res&dir=loi%2Ffel%2Fs3&document=index&lang=e ]
+http://www.elections.ca/content2.aspx?section=can&dir=cand/becom/s3&document=index&lang=e ]
 
 History:
 
@@ -97,9 +105,3 @@ History:
 - Canada Gazette Part I, Extra Volume 149, No. 2
 
 - 2018, c. 31, s. 376
-
-- Canada Gazette Part I, Extra Volume 159, No. 4
-
-- 2026, c. 20, s. 88.1
-
-- 2026, c. 20, s. 88.2
