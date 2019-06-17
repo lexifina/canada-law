@@ -118,7 +118,7 @@ Statistics Act Loi sur la statistique | section 17
 
 Telecommunications Act Loi sur les télécommunications | subsections 39(2) and 70(4)
 
-Trade-marks Act Loi sur les marques de commerce | subsection 50(6)
+Trademarks Act Loi sur les marques de commerce | subsection 50(6)
 
 Transportation of Dangerous Goods Act, 1992 Loi de 1992 sur le transport des marchandises dangereuses | subsection 24(4)
 
@@ -176,7 +176,7 @@ History:
 
 - 2013, c. 18, s. 44, c. 29, s. 22
 
-- 2014, c. 13, ss. 98 to 100, c. 29, s. 21, c. 39, ss. 113, 247
+- 2014, c. 13, ss. 98 to 100, c. 20, s. 366, c. 29, s. 21, c. 39, ss. 113, 247
 
 - 2015, c. 9, s. 13, c. 32, s. 25
 

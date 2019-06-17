@@ -220,7 +220,7 @@
 
   - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
 
-  - College of Patent Agents and Trade-mark Agents
+  - College of Patent Agents and Trademark Agents
 
   - Collège des agents de brevets et des agents de marques de commerce
 
@@ -700,7 +700,7 @@ History:
 
 - 2013, c. 14, ss. 3, 17, c. 18, ss. 42, 43, c. 24, ss. 115, 116, c. 33, ss. 175 to 177, c. 40, ss. 221, 222, 283, 446
 
-- 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 382 to 388, c. 39, ss. 157, 158
+- 2014, c. 2, s. 3, c. 13, ss. 96, 97, c. 20, ss. 366(A), 382 to 388, c. 39, ss. 157, 158
 
 - SOR/2014-66
 
