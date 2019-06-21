@@ -2,7 +2,7 @@
 
 ### For Measurement of Length
 
-- 1 The national standard for length in Canada realized, through the use of any device, in compliance with the definition metre adopted by the 26e Conférence générale des poids et mesures as reported in the Comptes rendus de la 26e Conférence générale des poids et mesures published by the Bureau international des poids et mesures, and determined by the National Research Council of Canada under subparagraph 5(1)(c)(iv) of the National Research Council Act.
+- 1 The national standard for length in Canada realized, through the use of any device, in compliance with the definition mètre passed by the 17e Conférence Générale des Poids et Mesures as reported in the Comptes rendus de la 17e Conférence Générale des Poids et Mesures (1983) published by the International Bureau of Weights and Measures, and determined by the National Research Council of Canada pursuant to subparagraph 5(1)(c)(iv) of the National Research Council Act.
 
 ### For Measurement of Mass or Weight
 
@@ -27,8 +27,6 @@ Item | Standard Number | Description
 2 | [Repealed, SOR/2009-80]
 
 3 | VS767_1203 | Thermistor sensor, manufactured by Thermometrics having serial number 1203; and Black Stack thermometer module, manufactured by Hart Scientific having serial number A13108
-
-4 | VS1163_4749 | Precision temperature scanner, Model 1586A, manufactured by Fluke Calibration, having serial number 48175028; and Platinum Resistance Thermometer, Model 5626, manufactured by Fluke Calibration, having serial number 4749
 
 ### For Measurement of Electricity
 
@@ -64,8 +62,6 @@ Item | Standard Number | Description
 
 15 | EL-1949 | Electronically Compensated Current Transformer, manufactured by the National Research Council of Canada, having serial number ECCT-2010-002
 
-16 | EL-1963 | Single-phase Electricity Reference Standard, Radian Xytronic Model RX-23-PQ, manufactured by Radian Research Inc., having serial number 710590
-
 ### For Measurement of Gas
 
 Item | Standard Number | Description
@@ -95,9 +91,3 @@ History:
 - SOR/2009-80
 
 - SOR/2017-80, s. 3
-
-- SOR/2021-84, s. 1
-
-- SOR/2021-84, s. 2
-
-- SOR/2021-84, s. 3
