@@ -1,0 +1,11 @@
+## SCHEDULE (Section 2)
+
+Column 1 | Column 2 | Column 3
+
+Item | Company | Amount ($) | Transaction Number (B3-3 Form)
+
+1 | Cantak Corporation | 365,145.42 1,546,459.58 1,651,907.62 804,001.53 | 17848827194872 17848827614654 17848828821247 17848828869529
+
+2 | Sumitomo Canada Limited | 2,210,632.37 | 13060803906758
+
+3 | Trans Mountain Pipeline L.P. | 1,126,815.55 1,113,269.60 84,760.71 | 17848828521131 17848828590475 17848828821258
