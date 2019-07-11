@@ -140,6 +140,10 @@
 
   - École de la fonction publique du Canada
 
+  - Canadian Accessibility Standards Development Organization
+
+  - Organisation canadienne d’élaboration de normes d’accessibilité
+
   - Canadian Advisory Council on the Status of Women
 
   - Conseil consultatif canadien de la situation de la femme
@@ -713,3 +717,5 @@ History:
 - 2018, c. 27, ss. 248, 663, 664
 
 - SOR/2018-23
+
+- 2019, c. 10, s. 200
