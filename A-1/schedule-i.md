@@ -376,6 +376,10 @@
 
   - Conseil de recherches en sciences naturelles et en génie
 
+  - National Security and Intelligence Review Agency Secretariat
+
+  - Secrétariat de l’Office de surveillance des activités en matière de sécurité nationale et de renseignement
+
   - Northern Pipeline Agency
 
   - Administration du pipe-line du Nord
@@ -443,6 +447,10 @@
   - Office of the Information Commissioner
 
   - Commissariat à l’information
+
+  - Office of the Intelligence Commissioner
+
+  - Bureau du commissaire au renseignement
 
   - Office of the Privacy Commissioner
 
@@ -539,10 +547,6 @@
   - Secretariat of the National Security and Intelligence Committee of Parliamentarians
 
   - Secrétariat du Comité des parlementaires sur la sécurité nationale et le renseignement
-
-  - Security Intelligence Review Committee
-
-  - Comité de surveillance des activités de renseignement de sécurité
 
   - Sept-Îles Port Authority
 
@@ -719,3 +723,9 @@ History:
 - SOR/2018-23
 
 - 2019, c. 10, s. 200
+
+- 2019, c. 13, s. 18
+
+- 2019, c. 13, s. 19
+
+- 2019, c. 13, s. 60
