@@ -26,9 +26,9 @@
 
 - Loi sur l’Accord définitif nisga’a
 
-- shíshálh Nation Self-Government Act
+- Sechelt Indian Band Self-Government Act
 
-- Loi sur l’autonomie gouvernementale de la Nation shishalhe
+- Loi sur l’autonomie gouvernementale de la bande indienne sechelte
 
 - Tla’amin Final Agreement Act
 
@@ -105,5 +105,3 @@ History:
 - 2014, c. 11, s. 26
 
 - 2018, c. 4, s. 133
-
-- 2022, c. 9, s. 46
