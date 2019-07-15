@@ -18,6 +18,10 @@
 
   - Ministère de la Citoyenneté et de l’Immigration
 
+  - Department of Crown-Indigenous Relations and Northern Affairs
+
+  - Ministère des Relations Couronne-Autochtones et des Affaires du Nord
+
   - Department of Employment and Social Development
 
   - Ministère de l’Emploi et du Développement social
@@ -42,9 +46,9 @@
 
   - Ministère de la Santé
 
-  - Department of Indian Affairs and Northern Development
+  - Department of Indigenous Services
 
-  - Ministère des Affaires indiennes et du Nord canadien
+  - Ministère des Services aux Autochtones
 
   - Department of Industry
 
@@ -239,10 +243,6 @@
   - Correctional Service of Canada
 
   - Service correctionnel du Canada
-
-  - Department of Indigenous Services Canada
-
-  - Ministère des Services aux Autochtones Canada
 
   - Director of Soldier Settlement
 
@@ -729,3 +729,9 @@ History:
 - 2019, c. 13, s. 19
 
 - 2019, c. 13, s. 60
+
+- 2019, c. 29, s. 347
+
+- 2019, c. 29, s. 348
+
+- 2019, c. 29, s. 349
