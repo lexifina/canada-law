@@ -1,4 +1,4 @@
-## SCHEDULE 1 (Sections 2 and 21, subsection 29(1), sections 30 and 31, paragraph 35(1)(d) and subsections 108(2), 110(1) and 227(1)) International Conventions, Protocols and Resolutions — Minister of Transport
+## SCHEDULE 1 (Sections 2 and 21, subsection 29(1), sections 30 and 31, paragraph 35(1)(d) and subsections 108(2), 110(1) and 227(1)) International Conventions and Protocols — Minister of Transport
 
 - 1
 
@@ -149,5 +149,3 @@ History:
 - SOR/2009-154
 
 - SOR/2019-136, s. 1
-
-- 2023, c. 26, s. 421
