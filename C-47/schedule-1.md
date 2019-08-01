@@ -6,13 +6,13 @@
 
     - (i) section 151 (sexual interference with a person under 16),
 
-    - (ii) section 152 (invitation to a person under 16 to sexual touching or exposure),
+    - (ii) section 152 (invitation to a person under 16 to sexual touching),
 
     - (iii) section 153 (sexual exploitation of a person 16 or more but under 18),
 
     - (iv) subsection 160(3) (bestiality in the presence of a person under 16 or inciting a person under 16 to commit bestiality),
 
-    - (v) section 163.1 (child sexual abuse and exploitation material),
+    - (v) section 163.1 (child pornography),
 
     - (vi) section 170 (parent or guardian procuring sexual activity),
 
@@ -153,9 +153,3 @@ History:
 - 2014, c. 25, s. 35
 
 - 2018, c. 29, s. 76
-
-- 2024, c. 23, s. 12
-
-- 2026, c. 19, s. 94
-
-- 2026, c. 19, s. 95(F)
