@@ -38,10 +38,6 @@
 
 - École de la fonction publique du Canada
 
-- Canada Water Agency
-
-- Agence canadienne de l’eau
-
 - Canadian Advisory Council on the Status of Women
 
 - Conseil consultatif canadien de la situation de la femme
@@ -141,14 +137,6 @@
 - Full-time commissioners, Chief Executive Officer and employees of the Canadian Energy Regulator
 
 - Commissaires à temps plein, président-directeur général et personnel de la Régie canadienne de l’énergie
-
-- Full-time commissioners of the Miscarriage of Justice Review Commission and the Commission’s employees
-
-- Commissaires à temps plein et personnel de la Commission d’examen des erreurs du système judiciaire
-
-- Full-time members of the Environmental Protection Tribunal of Canada
-
-- Membres à temps plein du Tribunal de la protection de l’environnement du Canada
 
 - Impact Assessment Agency of Canada
 
@@ -319,10 +307,6 @@
 - Federal Public Sector Labour Relations and Employment Board
 
 - Commission des relations de travail et de l’emploi dans le secteur public fédéral
-
-- Foreign Influence Transparency Commissioner
-
-- Commissaire à la transparence en matière d’influence étrangère
 
 - Governor General’s Secretary and Office of the Governor General’s Secretary
 
@@ -1083,11 +1067,3 @@ History:
 - SOR/2019-301, s. 1
 
 - SOR/2019-301, s. 2
-
-- 2024, c. 15, s. 215
-
-- 2024, c. 16, s. 114
-
-- 2024, c. 33, s. 18
-
-- 2026, c. 3, s. 526
