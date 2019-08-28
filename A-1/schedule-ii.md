@@ -26,11 +26,13 @@ Canada Petroleum Resources Act Loi fédérale sur les hydrocarbures | section 10
 
 Canada Transportation Act Loi sur les transports au Canada | subsection 51(1) and section 167
 
-Canadian Environmental Assessment Act, 2012 Loi canadienne sur l’évaluation environnementale (2012) | subsections 45(4) and (5)
+Canadian Energy Regulator Act Loi sur la Régie canadienne de l’énergie | subsections 58(1) and (2), 113(2) and 114(4)
 
 Canadian Human Rights Act Loi canadienne sur les droits de la personne | subsection 47(3)
 
 Canadian International Trade Tribunal Act Loi sur le Tribunal canadien du commerce extérieur | sections 45 and 49
+
+Canadian Navigable Waters Act Loi sur les eaux navigables canadiennes | subsections 26.2(1) and (2)
 
 Canadian Ownership and Control Determination Act Loi sur la détermination de la participation et du contrôle canadiens | section 17
 
@@ -75,6 +77,8 @@ Fisheries Act Loi sur les pêches | subsections 61.2(1) and (2)
 Greenhouse Gas Pollution Pricing Act Loi sur la tarification de la pollution causée par les gaz à effet de serre | section 107 and subsection 255(3)
 
 Hazardous Products Act Loi sur les produits dangereux | section 12
+
+Impact Assessment Act Loi sur l’évaluation d’impact | section 30, subsections 53(4) and (5), section 57 and subsections 119(1) and (2) and 141(4)
 
 Income Tax Act Loi de l’impôt sur le revenu | section 241
 
@@ -185,3 +189,11 @@ History:
 - 2018, c. 12, s. 188
 
 - 2019, c. 14, s. 54
+
+- 2019, c. 28, s. 83
+
+- 2019, c. 28, s. 84
+
+- 2019, c. 28, s. 85
+
+- 2019, c. 28, s. 86

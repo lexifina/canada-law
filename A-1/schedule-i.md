@@ -156,9 +156,9 @@
 
   - Centre canadien d’hygiène et de sécurité au travail
 
-  - Canadian Environmental Assessment Agency
+  - Canadian Energy Regulator
 
-  - Agence canadienne d’évaluation environnementale
+  - Régie canadienne de l’énergie
 
   - Canadian Food Inspection Agency
 
@@ -312,6 +312,10 @@
 
   - Commission de l’immigration et du statut de réfugié
 
+  - Impact Assessment Agency of Canada
+
+  - Agence canadienne d’évaluation d’impact
+
   - Indian Residential Schools Truth and Reconciliation Commission
 
   - Commission de vérité et de réconciliation relative aux pensionnats indiens
@@ -355,10 +359,6 @@
   - The National Battlefields Commission
 
   - Commission des champs de bataille nationaux
-
-  - National Energy Board
-
-  - Office national de l’énergie
 
   - National Farm Products Council
 
@@ -729,6 +729,10 @@ History:
 - 2019, c. 13, s. 19
 
 - 2019, c. 13, s. 60
+
+- 2019, c. 28, s. 81
+
+- 2019, c. 28, s. 82
 
 - 2019, c. 29, s. 347
 
