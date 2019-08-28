@@ -46,10 +46,6 @@
 
   - Ministère de la Santé
 
-  - Department of Housing, Infrastructure and Communities
-
-  - Ministère du Logement, de l’Infrastructure et des Collectivités
-
   - Department of Indigenous Services
 
   - Ministère des Services aux Autochtones
@@ -132,13 +128,13 @@
 
   - Fondation du Canada pour l’appui technologique au développement durable
 
-  - Canada–Newfoundland and Labrador Offshore Energy Regulator
+  - Canada–Newfoundland and Labrador Offshore Petroleum Board
 
-  - Régie Canada — Terre-Neuve-et-Labrador de l’énergie extracôtière
+  - Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers
 
-  - Canada–Nova Scotia Offshore Energy Regulator
+  - Canada-Nova Scotia Offshore Petroleum Board
 
-  - Régie Canada — Nouvelle-Écosse de l’énergie extracôtière
+  - Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers
 
   - Canada Revenue Agency
 
@@ -148,13 +144,13 @@
 
   - École de la fonction publique du Canada
 
-  - Canada Water Agency
-
-  - Agence canadienne de l’eau
-
   - Canadian Accessibility Standards Development Organization
 
   - Organisation canadienne d’élaboration de normes d’accessibilité
+
+  - Canadian Advisory Council on the Status of Women
+
+  - Conseil consultatif canadien de la situation de la femme
 
   - Canadian Centre for Occupational Health and Safety
 
@@ -167,6 +163,10 @@
   - Canadian Food Inspection Agency
 
   - Agence canadienne d’inspection des aliments
+
+  - Canadian Government Specifications Board
+
+  - Office des normes du gouvernement canadien
 
   - Canadian Grain Commission
 
@@ -224,10 +224,6 @@
 
   - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
 
-  - College of Immigration and Citizenship Consultants
-
-  - Collège des consultants en immigration et en citoyenneté
-
   - College of Patent Agents and Trademark Agents
 
   - Collège des agents de brevets et des agents de marques de commerce
@@ -260,13 +256,13 @@
 
   - Office de répartition des approvisionnements d’énergie
 
-  - Federal Economic Development Agency for Northern Ontario
-
-  - Agence fédérale de développement économique pour le Nord de l’Ontario
-
   - Federal Economic Development Agency for Southern Ontario
 
   - Agence fédérale de développement économique pour le Sud de l’Ontario
+
+  - Federal-Provincial Relations Office
+
+  - Secrétariat des relations fédérales-provinciales
 
   - Federal Public Service Health Care Plan Administration Authority
 
@@ -284,10 +280,6 @@
 
   - Conseil de gestion financière des premières nations
 
-  - First Nations Infrastructure Institute
-
-  - Institut des infrastructures des premières nations
-
   - First Nations Tax Commission
 
   - Commission de la fiscalité des premières nations
@@ -304,9 +296,9 @@
 
   - Administration portuaire de Halifax
 
-  - Hamilton-Oshawa Port Authority
+  - Hamilton Port Authority
 
-  - Administration portuaire Hamilton-Oshawa
+  - Administration portuaire de Hamilton
 
   - Historic Sites and Monuments Board of Canada
 
@@ -319,6 +311,10 @@
   - Impact Assessment Agency of Canada
 
   - Agence canadienne d’évaluation d’impact
+
+  - Indian Residential Schools Truth and Reconciliation Commission
+
+  - Commission de vérité et de réconciliation relative aux pensionnats indiens
 
   - Invest in Canada Hub
 
@@ -347,10 +343,6 @@
   - Military Police Complaints Commission
 
   - Commission d’examen des plaintes concernant la police militaire
-
-  - Miscarriage of Justice Review Commission
-
-  - Commission d’examen des erreurs du système judiciaire
 
   - Montreal Port Authority
 
@@ -404,6 +396,14 @@
 
   - Office des eaux du Nunavut
 
+  - Office of Infrastructure of Canada
+
+  - Bureau de l’infrastructure du Canada
+
+  - Office of Privatization and Regulatory Affairs
+
+  - Bureau de privatisation et des affaires réglementaires
+
   - Office of the Administrator of the Fund for Railway Accidents Involving Designated Goods
 
   - Bureau de l’administrateur de la Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées
@@ -427,6 +427,10 @@
   - Office of the Commissioner of Official Languages
 
   - Commissariat aux langues officielles
+
+  - Office of the Comptroller General
+
+  - Bureau du contrôleur général
 
   - Office of the Correctional Investigator of Canada
 
@@ -456,9 +460,9 @@
 
   - Bureau du surintendant des institutions financières
 
-  - Pacific Economic Development Agency of Canada
+  - Oshawa Port Authority
 
-  - Agence de développement économique du Pacifique Canada
+  - Administration portuaire d’Oshawa
 
   - Parks Canada Agency
 
@@ -472,6 +476,10 @@
 
   - Conseil d’examen du prix des médicaments brevetés
 
+  - Petroleum Compensation Board
+
+  - Office des indemnisations pétrolières
+
   - The Pierre Elliott Trudeau Foundation
 
   - La Fondation Pierre-Elliott-Trudeau
@@ -479,6 +487,10 @@
   - Port Alberni Port Authority
 
   - Administration portuaire de Port-Alberni
+
+  - Prairie Farm Rehabilitation Administration
+
+  - Administration du rétablissement agricole des Prairies
 
   - Prince Rupert Port Authority
 
@@ -718,30 +730,8 @@ History:
 
 - 2019, c. 28, s. 144
 
-- 2019, c. 29, s. 299
-
 - 2019, c. 29, s. 359
 
 - 2019, c. 29, s. 360
 
 - 2019, c. 29, s. 361
-
-- SOR/2021-189, s. 1
-
-- SOR/2021-194, s. 1
-
-- 2023, c. 16, s. 59
-
-- 2024, c. 15, s. 214
-
-- 2024, c. 15, s. 334
-
-- 2024, c. 15, s. 335
-
-- 2024, c. 20, s. 215
-
-- 2024, c. 20, s. 217
-
-- 2024, c. 33, s. 17
-
-- SOR/2024-185, s. 1
