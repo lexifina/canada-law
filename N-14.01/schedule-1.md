@@ -1260,7 +1260,7 @@ In the Province of Ontario;
 
 In the counties of Leeds and Frontenac;
 
-All those parcels of land being more particularly described under Firstly to Twenty-secondly as follows:
+All those parcels of land being more particularly described under Firstly to Twelfthly as follows:
 
 Firstly
 
@@ -1470,69 +1470,9 @@ That part of Lot 8 on Registered Plan 120, now re-subdivided and described as Bl
 
 Those parts of Lot 8 on Registered Plan 120, shown as Parts 1 to 7 inclusive on Plan 28R-6405 deposited in said office, a copy of which is recorded as 73164 in said records, containing together about 33 hectares;
 
-Those parts of Lot 8 on Registered Plan 120, shown as Parts 1, 2 and 3 on Plan 28R-7831 deposited in said office, containing together about 6.2 hectares.
+Those parts of Lot 8 on Registered Plan 120, shown as Parts 1, 2 and 3 on Plan 28R-7831 deposited in said office, containing together about 6.2 hectares;
 
-Thirteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcels 1 and 2 as shown on Plan 110034 in the Canada Lands Surveys Records at Ottawa, being part of Lot 6, Concession 1, Geographic Township of Lansdowne, containing about 13.34 hectares (0.133 square kilometres).
-
-Fourteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcel 1 as shown on Plan 109998 in the Canada Lands Surveys Records at Ottawa, being part of Lot 7, Concession 1, Geographic Township of Lansdowne, containing about 0.114 hectares (0.001 square kilometres).
-
-Fifteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcel 1 as shown on Plan 110033 in the Canada Lands Surveys Records at Ottawa, being part of Lots 8 and 9, Concession 1, Geographic Township of Lansdowne, containing about 77.0 hectares (0.77 square kilometres).
-
-Sixteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcel 1 as shown on Plan 110035 in the Canada Lands Surveys Records at Ottawa, being part of Lots 11 and 12, Concession 1, Geographic Township of Lansdowne, containing about 67.9 hectares (0.679 square kilometres).
-
-Seventeenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcel 3 as shown on Plan 96394 in the Canada Lands Surveys Records at Ottawa, being part of Lots 13 and 14, Concession 1, Geographic Township of Lansdowne, containing about 193.995 hectares (1.94 square kilometres).
-
-Eighteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcels 1 and 2 as shown on Plan 107903 in the Canada Lands Surveys Records at Ottawa, being part of Lots 3 to 7, Broken Front Concession, Geographic Township of Escott, containing about 52.56 hectares (0.526 square kilometres).
-
-Nineteenthly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcels 1 and 2 as shown on Plan 107904 in the Canada Lands Surveys Records at Ottawa, being part of Lots 8 to 10, Broken Front Concession, Geographic Township of Escott, containing about 20.19 hectares (0.202 square kilometres).
-
-Twentiethly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcels 1 to 3 as shown on Plan 107905 in the Canada Lands Surveys Records at Ottawa, being part of Lot 21, Broken Front Concession, and part of Lots 20 and 21, Concession 1, Geographic Township of Escott, containing about 7.36 hectares (0.074 square kilometres).
-
-Twenty-firstly
-
-In the municipality of the Township of Leeds and the Thousand Islands;
-
-Parcel 1 as shown on Plan 107906 in the Canada Lands Surveys Records at Ottawa, being part of Lots 23 and 24, Concession 1, Geographic Township of Escott, containing about 4.39 hectares (0.044 square kilometres).
-
-Twenty-secondly
-
-In the municipality of the Township of Front of Yonge;
-
-Parcels 1 to 10 as shown on Plan 95615 in the Canada Lands Surveys Records at Ottawa, being part of Lots 9 to 22 and 24 to 26, Broken Front Concession, and part of Lots 5 to 15, Concession 1, Geographic Township of Yonge, containing about 589.7 hectares (5.897 square kilometres).
-
-The whole from Firstly to Twenty-secondly containing about 1856.149 hectares (18.561 square kilometres).
+The whole from Firstly to Twelfthly containing about 829.6 hectares (8.30 square kilometres).
 
 ### (2) Point Pelee National Park of Canada
 
@@ -2767,5 +2707,3 @@ History:
 - 2015, c. 3, ss. 20, 22, c. 40, s. 2
 
 - 2017, c. 10, ss. 5, 6(F), c. 26, ss. 34(F), 35, 36 to 38(F)
-
-- SOR/2022-244, s. 1
