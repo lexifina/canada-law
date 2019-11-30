@@ -42,7 +42,7 @@
 
   - (e) section 151 (sexual interference);
 
-  - (f) section 152 (invitation to sexual touching or exposure);
+  - (f) section 152 (invitation to sexual touching);
 
   - (g) section 153 (sexual exploitation);
 
@@ -54,7 +54,7 @@
 
   - (j) section 160 (bestiality, compelling, in presence of or by child);
 
-  - (j.1) section 163.1 (child sexual abuse and exploitation material);
+  - (j.1) section 163.1 (child pornography);
 
   - (k) section 170 (parent or guardian procuring sexual activity by child);
 
@@ -271,9 +271,3 @@ History:
 - 2019, c. 13, s. 158
 
 - 2019, c. 25, s. 395
-
-- 2024, c. 23, s. 12
-
-- 2026, c. 19, s. 94
-
-- 2026, c. 19, s. 95(F)
