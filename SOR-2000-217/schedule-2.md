@@ -98,12 +98,8 @@ Specified Name | Chemical Name
 
 46 | Zolpidem | N,N,6-trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide
 
-47 | Carisoprodol | 2-((carbamoyloxy)methyl)-2-methylpentyl isopropylcarbamate
-
 History:
 
 - SOR/2003-38, s. 4
 
 - SOR/2017-12, s. 11
-
-- SOR/2025-222, s. 2
