@@ -20,12 +20,10 @@ Item | Regulations | Provision
 
 2 | Migratory Bird Sanctuary Regulations | 3(2)(b) and 10(1)
 
-3 | Migratory Birds Regulations, 2022 | 5(1)(a), (b) and (c)
+3 | Migratory Birds Regulations | 5(1) and 6(a)
 
 History:
 
 - 2015, c. 4, s. 28
 
 - 2019, c. 14, s. 55
-
-- SOR/2022-108, s. 1
