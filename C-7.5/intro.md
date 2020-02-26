@@ -1,10 +1,10 @@
-Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act
+Canada–Newfoundland and Labrador Atlantic Accord Implementation Act
 
 S.C. 1987, c. 3
 
 Assented to 1987-03-25
 
-An Act to implement an agreement between the Government of Canada and the Government of Newfoundland and Labrador on offshore petroleum resource management and revenue sharing, to provide for the joint management of offshore renewable energy by those Governments and to make related and consequential amendments
+An Act to implement an agreement between the Government of Canada and the Government of Newfoundland and Labrador on offshore petroleum resource management and revenue sharing and to make related and consequential amendments
 
 Preamble
 
