@@ -1,4 +1,4 @@
-## SCHEDULE 1 (Subparagraph 3(2)(a)(ii), subsection 5(1), subparagraph 19(1)(a)(i), paragraph 20(e) and sections 20.1 and 33.1)
+## SCHEDULE 1 (Subsections 3(2), 5(1) and 19(1) and sections 20, 20.1 and 33.1)
 
 - Bank Act
 
@@ -33,11 +33,3 @@ History:
 - 2012, c. 5, s. 221
 
 - 2018, c. 27, s. 350
-
-- 2024, c. 17, s. 225
-
-- 2024, c. 17, s. 226
-
-- 2026, c. 3, s. 242
-
-- 2026, c. 3, s. 243
