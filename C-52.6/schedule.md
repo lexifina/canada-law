@@ -14,8 +14,6 @@ Costa Rica | CCRFTA | Costa Rica Tariff rates of customs duty under the Customs 
 
 CPTPP country | CPTPP | CPTPP tariff rates of customs duty under the Customs Tariff
 
-CUKTCA beneficiary | CUKTCA | United Kingdom Tariff rates of customs duty under the Customs Tariff
-
 CUSMA country | CUSMA | United States Tariff or Mexico Tariff rates of customs duty under the Customs Tariff
 
 EFTA State | CEFTA | Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the Customs Tariff
@@ -30,11 +28,13 @@ Jordan | CJFTA | Jordan Tariff rates of customs duty under the Customs Tariff
 
 Korea | CKFTA | Korea Tariff rates of customs duty under the Customs Tariff
 
+NAFTA country | NAFTA | United States Tariff, Mexico Tariff or Mexico–United States Tariff rates of customs duty under the Customs Tariff
+
 Panama | CPAFTA | Panama Tariff rates of customs duty under the Customs Tariff
 
 Peru | CPFTA | Peru Tariff rates of customs duty under the Customs Tariff
 
-Ukraine | CUFTA or, as applicable CUFTA 2017 | Ukraine Tariff rates of customs duty under the Customs Tariff
+Ukraine | CUFTA | Ukraine Tariff rates of customs duty under the Customs Tariff
 
 PART 2
 
@@ -62,6 +62,8 @@ CPTPP | paragraph 12 of Article 3.27 of the Trans-Pacific Partnership Agreement 
 
 CUSMA | paragraph 17 of Article 5.9
 
+NAFTA | Article 514
+
 PART 3
 
 Column 1 | Column 2
@@ -84,11 +86,13 @@ Jordan | paragraph 10 of Article 6-2 of CJFTA
 
 Korea | paragraph 1 of Article 4.10 of CKFTA
 
+NAFTA country | paragraph 1 of Article 509 of NAFTA
+
 Panama | paragraph 10 of Article 5.02 of CPAFTA
 
 Peru | paragraph 1 of Article 419 of CPFTA
 
-Ukraine | Article 4.8 of CUFTA or, as applicable, CUFTA 2017
+Ukraine | Article 4.8 of CUFTA
 
 PART 4
 
@@ -101,8 +105,6 @@ Colombia | CCOFTA
 Costa Rica | CCRFTA
 
 CPTPP country | CPTPP
-
-CUKTCA beneficiary | CUKTCA
 
 CUSMA country | CUSMA
 
@@ -120,7 +122,7 @@ Panama | CPAFTA
 
 Peru | CPFTA
 
-Ukraine | CUFTA or, as applicable, CUFTA 2017
+Ukraine | CUFTA
 
 PART 5
 
@@ -152,11 +154,9 @@ CPTPP | Chapters 3 to 5 of the Trans-Pacific Partnership Agreement as incorporat
 
 CUFTA | Chapters 3 and 4
 
-CUFTA 2017 | Chapters 3 and 4
-
-CUKTCA | Protocol on Rules of Origin and Origin Procedures of CETA as incorporated by reference in CUKTCA
-
 CUSMA | Chapters 4 to 7
+
+NAFTA | Chapters Three and Five
 
 History:
 
@@ -170,34 +170,12 @@ History:
 
 - 2018, c. 23, ss. 27 to 30
 
-- 2020, c. 1, s. 128
-
 - 2020, c. 1, s. 129
 
-- 2020, c. 1, s. 130
-
 - 2020, c. 1, s. 131
-
-- 2020, c. 1, s. 132
 
 - 2020, c. 1, s. 133
 
 - 2020, c. 1, s. 134
 
-- 2020, c. 1, s. 135
-
 - 2020, c. 1, s. 136
-
-- 2021, c. 1, s. 27
-
-- 2021, c. 1, s. 28
-
-- 2021, c. 1, s. 29
-
-- 2024, c. 3, s. 23
-
-- 2024, c. 3, s. 24
-
-- 2024, c. 3, s. 25
-
-- 2024, c. 3, s. 26
