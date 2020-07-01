@@ -14,8 +14,6 @@ CETA | Tables C.3 and C.4 of Annex 5-A to Annex 5 of the Protocol on Rules of Or
 
 CHFTA | Section 1 of Annex 3.1
 
-CUKTCA | Tables C.3 and C.4 of Annex 5-A to Annex 5 of the Protocol on Rules of Origin and Origin Procedures of CETA, as incorporated by reference in CUKTCA
-
 CUSMA | Section C of Annex 6-A
 
 History:
@@ -25,5 +23,3 @@ History:
 - 2020, c. 1, s. 49
 
 - 2020, c. 1, s. 50
-
-- 2021, c. 1, s. 18
