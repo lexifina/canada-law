@@ -4,8 +4,6 @@ Column 1 | Column 2
 
 Country or Territory | Tariff
 
-CUKTCA beneficiary | United Kingdom Tariff in the List of Tariff Provisions set out in the schedule to the Customs Tariff
-
 EU country or other CETA beneficiary | Canada–European Union Tariff in the List of Tariff Provisions set out in the schedule to the Customs Tariff
 
 Honduras | Honduras Tariff in the List of Tariff Provisions set out in the schedule to the Customs Tariff
@@ -25,5 +23,3 @@ History:
 - 2017, c. 6, ss. 30, 31, c. 8, s. 19
 
 - 2019, c. 6, s. 8
-
-- 2021, c. 1, s. 22
