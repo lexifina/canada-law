@@ -22,7 +22,7 @@
 
 - 6
 
-- Pest control products within the meaning of subsection 2(1) of the Pest Control Products Act, except treated articles within the meaning of subsection 1(1) of the Pest Control Products Regulations.
+- Pest control products within the meaning of subsection 2(1) of the Pest Control Products Act.
 
 - 7
 
@@ -89,5 +89,3 @@ History:
 - 2010, c. 21, Sch. 1
 
 - 2018, c. 9, s. 76, c. 16, s. 186
-
-- SOR/2024-218, s. 1
