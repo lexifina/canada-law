@@ -24,10 +24,4 @@
 
 - 9 | Split wings (2 joints) | 175
 
-- 10 | Boneless breasts with drumettes | 350
-
 - 2 If further processed products, other than mechanically separated meat and meat processed by advanced meat recovery systems, are derived from the products listed in section 1, the chicken meat component qualifies for the calculation of the live weight equivalent.
-
-History:
-
-- SOR/2024-223, s. 1
