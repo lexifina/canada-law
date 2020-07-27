@@ -1,4 +1,4 @@
-## SCHEDULE III (Subsections 38(1), (4) ,(5) , (7) and (8), 55(2), 72(1) and 75(3)) Allowances
+## SCHEDULE III (Sections 38, 72 and 75) Allowances
 
 Yearly Rate in Dollars
 
@@ -23,5 +23,3 @@ History:
 - 1990, c. 43, s. 31
 
 - 2000, c. 12, ss. 234, 235
-
-- 2026, c. 3, s. 369

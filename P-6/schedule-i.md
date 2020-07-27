@@ -1,4 +1,4 @@
-## SCHEDULE I (Subsection 3(1), paragraphs 21(1)(a) and (2)(a), subsections 21(5), 34(6) and (7), paragraph 34(12)(a), section 41, subsections 42(3) and (5), 45(2), (2.1), (3), (3.01) and (3.1), 48(5), 49(1) and (2), 50(1) and 55(2), sections 70 and 71, subsections 71.1(1) and 71.2(2), paragraph 72(1)(a), section 74, subsection 75(3) and section 78) Scale of Pensions for Disability
+## SCHEDULE I (Section 21) Scale of Pensions for Disability
 
 Monthly Rate in Dollars
 
@@ -27,5 +27,3 @@ History:
 - R.S., 1985, c. 37 (3rd Supp.), s. 17
 
 - 2000, c. 12, s. 236
-
-- 2026, c. 3, s. 367
