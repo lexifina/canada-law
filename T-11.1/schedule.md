@@ -14,7 +14,7 @@ Canada Business Corporations Act Loi canadienne sur les sociétés par actions |
 
 Canada Cooperatives Act Loi canadienne sur les coopératives | subsections 50(1), 52(1) and 247(1), section 251 and subsection 252(1) of the Act
 
-Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador et sur la gestion de l’énergie renouvelable extracôtière | subsections 31(2), 35(3), 39(1), 69(2) and 188(1) and (2), section 202.1, paragraphs 205.013(q) and 205.019(1)(p) and subsections 205.04(1), 205.041(3), 205.042(1) and (2), 205.044(3), 205.046(4), 205.059(5), 205.06(2) and (9), 205.063(2), 205.071(1), 205.098(3) and 205.1(2) of the Act
+Canada–Newfoundland and Labrador Atlantic Accord Implementation Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador | subsections 31(2), 35(3), 39(1), 69(2) and 188(1) and (2), section 202.1, paragraphs 205.013(q) and 205.019(1)(p) and subsections 205.04(1), 205.041(3), 205.042(1) and (2), 205.044(3), 205.046(4), 205.059(5), 205.06(2) and (9), 205.063(2), 205.071(1), 205.098(3) and 205.1(2) of the Act
 
 Canada Not-for-profit Corporations Act Loi canadienne sur les organisations à but non lucratif | subsections 160(1), 162(1), 172(1), 175(1) and 176(1) of the Act
 
@@ -65,9 +65,3 @@ Nunavut Mining Regulations Règlement sur l’exploitation minière au Nunavut |
 On Board Trains Occupational Health and Safety Regulations Règlement sur la santé et la sécurité au travail (trains) | subsection 12.7(3) of the Regulations
 
 Royal Canadian Mounted Police Pension Continuation Regulations Règlement sur la continuation des pensions de la Gendarmerie royale du Canada | paragraph 9(b), subsection 10(2), sections 13 and 16 and subsection 21(3) of the Regulations
-
-History:
-
-- 2020, c. 11, s. 11 “Sch.”
-
-- 2024, c. 20, s. 214
