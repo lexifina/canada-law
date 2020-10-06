@@ -18,7 +18,7 @@
 
 - Birds
 
-  - Prairie-Chicken, Greater (Tympanuchus cupido pinnatus)
+  - Prairie-Chicken, Greater (Tympanuchus cupido)
 
   - Tétras des prairies
 
@@ -36,11 +36,11 @@
 
   - Gophersnake, Pacific (Pituophis catenifer catenifer)
 
-  - Couleuvre gaufre du Pacifique
+  - Couleuvre à nez mince du Pacifique
 
   - Lizard, Pygmy Short-horned (Phrynosoma douglasii)
 
-  - Lézard à petites cornes mineur
+  - Iguane pygmée à cornes courtes
 
   - Rattlesnake, Timber (Crotalus horridus)
 
@@ -50,7 +50,7 @@
 
   - Tortue boîte de l’Est
 
-  - Turtle, Northwestern Pond (Actinemys marmorata)
+  - Turtle, Pacific Pond (Actinemys marmorata)
 
   - Tortue de l’Ouest
 
@@ -66,7 +66,7 @@
 
 - Molluscs
 
-  - Puget Oregonian (Cryptomastix devia)
+  - Snail, Puget Oregonian (Cryptomastix devia)
 
   - Escargot du Puget
 
@@ -76,7 +76,7 @@
 
 - Arthropods
 
-  - Blue, Karner (Plebejus samuelis)
+  - Blue, Karner (Lycaeides melissa samuelis)
 
   - Bleu mélissa
 
@@ -132,9 +132,13 @@
 
   - Pipistrelle de l’Est
 
-  - Caribou (Rangifer tarandus) Atlantic — Gaspésie population
+  - Caribou, Peary (Rangifer tarandus pearyi)
 
-  - Caribou population de la Gaspésie — Atlantique
+  - Caribou de Peary
+
+  - Caribou, Woodland (Rangifer tarandus caribou) Atlantic — Gaspésie population
+
+  - Caribou des bois population de la Gaspésie — Atlantique
 
   - Kangaroo Rat, Ord’s (Dipodomys ordii)
 
@@ -234,21 +238,13 @@
 
   - Mouette blanche
 
-  - Knot rufa subspecies, Red (Calidris canutus rufa) Southeastern United States / Gulf of Mexico / Caribbean wintering population
+  - Knot rufa subspecies, Red (Calidris canutus rufa)
 
-  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans le sud-est des États-Unis, le golfe du Mexique et les Caraïbes
+  - Bécasseau maubèche de la sous-espèce rufa
 
-  - Knot rufa subspecies, Red (Calidris canutus rufa) Tierra del Fuego and Patagonia wintering population
-
-  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans la Terre de Feu et en Patagonie
-
-  - Lark, Streaked Horned (Eremophila alpestris strigata)
+  - Lark strigata subspecies, Horned (Eremophila alpestris strigata)
 
   - Alouette hausse-col de la sous-espèce strigata
-
-  - Longspur, Chestnut-collared (Calcarius ornatus)
-
-  - Plectrophane à ventre noir
 
   - Owl, Barn (Tyto alba) Eastern population
 
@@ -290,11 +286,11 @@
 
   - Puffin à pieds roses
 
-  - Shrike Eastern subspecies, Loggerhead (Lanius ludovicianus ssp.)
+  - Shrike migrans subspecies, Loggerhead (Lanius ludovicianus migrans)
 
-  - Pie-grièche migratrice de la sous-espèce de l’Est
+  - Pie-grièche migratrice de la sous-espèce migrans
 
-  - Sparrow, Coastal Vesper (Pooecetes gramineus affinis)
+  - Sparrow affinis subspecies, Vesper (Pooecetes gramineus affinis)
 
   - Bruant vespéral de la sous-espèce affinis
 
@@ -318,7 +314,7 @@
 
   - Paruline azurée
 
-  - Warbler, Kirtland’s (Setophaga kirtlandii)
+  - Warbler, Kirtland’s (Dendroica kirtlandii)
 
   - Paruline de Kirtland
 
@@ -326,23 +322,11 @@
 
   - Paruline orangée
 
-  - Woodpecker, Red-headed (Melanerpes erythrocephalus)
-
-  - Pic à tête rouge
-
-  - Woodpecker, White-headed (Dryobates albolarvatus)
+  - Woodpecker, White-headed (Picoides albolarvatus)
 
   - Pic à tête blanche
 
 - Amphibians
-
-  - Ambystoma, Unisexual (Ambystoma laterale - texanum) Small-mouthed Salamander dependent population
-
-  - Ambystoma unisexué, population dépendante de la salamandre à petite bouche
-
-  - Ambystoma, Unisexual (Ambystoma laterale - (2) jeffersonianum) Jefferson Salamander dependent population
-
-  - Ambystoma unisexué, population dépendante de la salamandre de Jefferson
 
   - Frog, Blanchard’s Cricket (Acris blanchardi)
 
@@ -350,15 +334,11 @@
 
   - Frog, Northern Leopard (Lithobates pipiens) Rocky Mountain population
 
-  - Grenouille léopard du Nord population des Rocheuses
+  - Grenouille léopard population des Rocheuses
 
   - Frog, Oregon Spotted (Rana pretiosa)
 
   - Grenouille maculée de l’Oregon
-
-  - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Appalachian population
-
-  - Salamandre sombre des montagnes population des Appalaches
 
   - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Carolinian population
 
@@ -378,7 +358,7 @@
 
   - Salamander, Small-mouthed (Ambystoma texanum)
 
-  - Salamandre à petite bouche
+  - Salamandre à nez court
 
   - Salamander, Western Tiger (Ambystoma mavortium) Southern Mountain population
 
@@ -390,9 +370,21 @@
 
 - Reptiles
 
+  - Foxsnake, Eastern (Pantherophis gloydi) Carolinian population
+
+  - Couleuvre fauve de l’Est population carolinienne
+
+  - Foxsnake, Eastern (Pantherophis gloydi) Great Lakes / St. Lawrence population
+
+  - Couleuvre fauve de l’Est population des Grands Lacs et du Saint-Laurent
+
   - Gartersnake, Butler’s (Thamnophis butleri)
 
   - Couleuvre à petite tête
+
+  - Lizard, Greater Short-horned (Phrynosoma hernandesi)
+
+  - Grand iguane à petites cornes
 
   - Massasauga (Sistrurus catenatus) Carolinian population
 
@@ -412,7 +404,7 @@
 
   - Ratsnake, Gray (Pantherophis spiloides) Carolinian population
 
-  - Couleuvre ratière grise population carolinienne
+  - Couleuvre obscure population carolinienne
 
   - Sea Turtle, Leatherback (Dermochelys coriacea) Atlantic population
 
@@ -426,9 +418,13 @@
 
   - Tortue caouanne
 
-  - Skink, Common Five-lined (Plestiodon fasciatus) Carolinian population
+  - Skink, Five-lined (Plestiodon fasciatus) Carolinian population
 
-  - Scinque pentaligne commun population carolinienne
+  - Scinque pentaligne population carolinienne
+
+  - Skink, Prairie (Plestiodon septentrionalis)
+
+  - Scinque des Prairies
 
   - Snake, Sharp-tailed (Contia tenuis)
 
@@ -438,10 +434,6 @@
 
   - Tortue molle à épines
 
-  - Turtle, Blanding’s (Emydoidea blandingii) Great Lakes / St. Lawrence population
-
-  - Tortue mouchetée population des Grands Lacs et du Saint-Laurent
-
   - Turtle, Blanding’s (Emydoidea blandingii) Nova Scotia population
 
   - Tortue mouchetée population de la Nouvelle-Écosse
@@ -449,6 +441,10 @@
   - Turtle, Spotted (Clemmys guttata)
 
   - Tortue ponctuée
+
+  - Turtle, Western Painted (Chrysemys picta bellii) Pacific Coast population
+
+  - Tortue peinte de l’Ouest, population de la côte du Pacifique
 
 - Fish
 
@@ -610,10 +606,6 @@
 
   - Escargot-forestier de Townsend
 
-  - Globe, Toothed (Mesodon zaletus)
-
-  - Gobelet dentelé
-
   - Globelet, Proud (Patera pennsylvanica)
 
   - Patère de Pennsylvanie
@@ -650,10 +642,6 @@
 
   - Épioblasme ventrue
 
-  - Shagreen (Inflectarius inflectus)
-
-  - Escargot galuchat
-
   - Snail, Banff Springs (Physella johnsoni)
 
   - Physe des fontaines de Banff
@@ -662,19 +650,15 @@
 
   - Épioblasme tricorne
 
-  - Tigersnail, Eastern Banded (Anguispira kochi kochi)
-
-  - Escargot-tigre à bandes de l’Est
-
-  - Whitelip, Striped (Webbhelix multilineata)
-
-  - Polyspire rayé
-
 - Arthropods
 
   - Blue, Island (Plebejus saepiolus insulanus)
 
   - Bleu insulaire
+
+  - Borer, Aweme (Papaipema aweme)
+
+  - Perce-tige d’Aweme
 
   - Borer, Hoptree (Prays atomocella)
 
@@ -708,6 +692,10 @@
 
   - Gomphe riverain population des plaines des Grands Lacs
 
+  - Clubtail, Skillet (Gomphus ventricosus)
+
+  - Gomphe ventru
+
   - Crawling Water Beetle, Hungerford’s (Brychius hungerfordi)
 
   - Haliplide de Hungerford
@@ -723,14 +711,6 @@
   - Duskywing, Eastern Persius (Erynnis persius persius)
 
   - Hespérie Persius de l’Est
-
-  - Duskywing, Mottled (Erynnis martialis) Boreal population
-
-  - Hespérie tachetée population boréale
-
-  - Duskywing, Mottled (Erynnis martialis) Great Lakes Plains population
-
-  - Hespérie tachetée population des plaines des Grands Lacs
 
   - Efferia, Okanagan (Efferia okanagana)
 
@@ -756,17 +736,13 @@
 
   - Porte-queue demi-lune
 
-  - Lady Beetle, Nine-spotted (Coccinella novemnotata)
-
-  - Coccinelle à neuf points
-
   - Metalmark, Mormon (Apodemia mormo) Southern Mountain population
 
   - Mormon population des montagnes du Sud
 
-  - Monarch (Danaus plexippus)
+  - Moth, Dusky Dune (Copablepharon longipenne)
 
-  - Monarque
+  - Noctuelle sombre des dunes
 
   - Moth, Edwards’ Beach (Anarta edwardsii)
 
@@ -779,14 +755,6 @@
   - Moth, Non-pollinating Yucca (Tegeticula corruptrix)
 
   - Teigne tricheuse du yucca
-
-  - Moth, Nuttall’s Sheep (Hemileuca nuttalli)
-
-  - Hémileucin de Nuttall
-
-  - Moth, Reversed Haploa (Haploa reversa)
-
-  - Haploa inversé
 
   - Moth, Sand-verbena (Copablepharon fuscum)
 
@@ -808,17 +776,13 @@
 
   - Hespérie de Poweshiek
 
-  - Skipper, Oregon Branded (Hesperia colorado oregonia)
-
-  - Hespérie du Colorado
-
   - Skipper, Ottoe (Hesperia ottoe)
 
   - Hespérie Ottoé
 
-  - Sun Moth, False-foxglove (Pyrrhia aurantiago)
+  - Tiger Beetle, Cobblestone (Cicindela marginipennis)
 
-  - Héliotin orangé
+  - Cicindèle des galets
 
   - Tiger Beetle, Northern Barrens (Cicindela patruela)
 
@@ -914,7 +878,7 @@
 
   - Silène de Spalding
 
-  - Catchfly, Coastal Scouler’s (Silene scouleri ssp. grandis)
+  - Catchfly, Coastal Scouler’s (Silene scouleri grandis)
 
   - Grand silène de Scouler
 
@@ -954,9 +918,13 @@
 
   - Adiante cheveux-de-Vénus
 
-  - Foxglove, Downy Yellow False (Aureolaria virginica)
+  - Fringed-orchid, Eastern Prairie (Platanthera leucophaea)
 
-  - Gérardie de Virginie
+  - Platanthère blanchâtre de l’Est
+
+  - Fringed-orchid, Western Prairie (Platanthera praeclara)
+
+  - Platanthère blanchâtre de l’Ouest
 
   - Gentian, Plymouth (Sabatia kennedyana)
 
@@ -974,10 +942,6 @@
 
   - Téphrosie de Virginie
 
-  - Goldenrod, Gillman’s (Solidago gillmanii)
-
-  - Verge d’or de Gillman
-
   - Goldenrod, Showy (Solidago speciosa) Great Lakes Plains population
 
   - Verge d’or voyante population des plaines des Grands Lacs
@@ -989,10 +953,6 @@
   - Grass, Forked Three-awned (Aristida basiramea)
 
   - Aristide à rameaux basilaires
-
-  - Hesperochiron, Dwarf (Hesperochiron pumilus)
-
-  - Hespérochiron nain
 
   - Ironweed, Fascicled (Vernonia fasciculata)
 
@@ -1050,17 +1010,9 @@
 
   - Mûrier rouge
 
-  - Orchid, Eastern Prairie Fringed (Platanthera leucophaea)
-
-  - Platanthère blanchâtre de l’Est
-
   - Orchid, Phantom (Cephalanthera austiniae)
 
   - Céphalanthère d’Austin
-
-  - Orchid, Western Prairie Fringed (Platanthera praeclara)
-
-  - Platanthère blanchâtre de l’Ouest
 
   - Owl-clover, Bearded (Triphysaria versicolor)
 
@@ -1082,10 +1034,6 @@
 
   - Castilléjie dorée
 
-  - Paintbrush, Hairy (Castilleja tenuis)
-
-  - Castilléjie grêle
-
   - Phacelia, Branched (Phacelia ramosissima)
 
   - Phacélie rameuse
@@ -1102,7 +1050,7 @@
 
   - Isotrie verticillée
 
-  - Pogonia, Nodding (Triphora trianthophoros)
+  - Pogonia, Nodding (Triphora trianthophora)
 
   - Triphore penché
 
@@ -1112,7 +1060,7 @@
 
   - Pondweed, Ogden’s (Potamogeton ogdenii)
 
-  - Potamot d’Ogden
+  - Potamot de Ogden
 
   - Popcornflower, Fragrant (Plagiobothrys figuratus)
 
@@ -1122,17 +1070,9 @@
 
   - Antennaire stolonifère
 
-  - Quillwort, Columbia (Isœtes minima)
-
-  - Isoète du Columbia
-
   - Quillwort, Engelmann’s (Isoetes engelmannii)
 
   - Isoète d’Engelmann
-
-  - Rockcress, Quebec (Boechera quebecensis)
-
-  - Arabette du Québec
 
   - Rush, Kellogg’s (Juncus kelloggii)
 
@@ -1214,10 +1154,6 @@
 
   - Tritéléia de Howell
 
-  - Valerian, Hairy (Valeriana edulis ssp. ciliata)
-
-  - Valériane ciliée
-
   - Violet, Bird’s-foot (Viola pedata)
 
   - Violette pédalée
@@ -1229,6 +1165,10 @@
   - Willow, Barrens (Salix jejuna)
 
   - Saule des landes
+
+  - Wintergreen, Spotted (Chimaphila maculata)
+
+  - Chimaphile maculée
 
   - Wood-poppy (Stylophorum diphyllum)
 
@@ -1252,13 +1192,13 @@
 
   - Érioderme boréal population de l’Atlantique
 
-  - Lichen, Golden-eye (Teloschistes chrysophthalmus) Great Lakes population
-
-  - Téloschiste ocellé, population des Grands Lacs
-
   - Lichen, Pale-bellied Frost (Physconia subpallida)
 
   - Physconie pâle
+
+  - Lichen, Seaside Centipede (Heterodermia sitchensis)
+
+  - Hétérodermie maritime
 
   - Lichen, Vole Ears (Erioderma mollissimum)
 
@@ -1266,25 +1206,9 @@
 
 - Mosses
 
-  - Beard-moss, Drooping-leaved (Oxystegus recurvifolius)
-
-  - Trichostome à feuilles recourbées
-
   - Cord-moss, Rusty (Entosthodon rubiginosus)
 
   - Entosthodon rouilleux
-
-  - Moss, Acuteleaf Small Limestone (Seligeria acutifolia)
-
-  - Séligérie à feuilles aiguës
-
-  - Moss, Carey’s Small Limestone (Seligeria careyana)
-
-  - Séligérie de Carey
-
-  - Moss, Dalton’s (Daltonia splachnoides)
-
-  - Daltonie faux-splachne
 
   - Moss, Margined Streamside (Scouleria marginata)
 
@@ -1298,7 +1222,7 @@
 
   - Fissident appauvri
 
-  - Moss, Rigid Apple (Bartramia aprica)
+  - Moss, Rigid Apple (Bartramia stricta)
 
   - Bartramie à feuilles dressées
 
@@ -1310,9 +1234,9 @@
 
   - Fabronie naine
 
-  - Yoke-moss, Slender (Zygodon gracilis)
+  - Moss, Spoon-leaved (Bryoandersonia illecebra)
 
-  - Houppe gracile
+  - Andersonie charmante
 
 ## PART 3 Threatened Species
 
@@ -1326,13 +1250,9 @@
 
   - Bison des bois
 
-  - Caribou, Peary (Rangifer tarandus pearyi)
+  - Caribou, Woodland (Rangifer tarandus caribou) Boreal population
 
-  - Caribou de Peary
-
-  - Caribou (Rangifer tarandus) Boreal population
-
-  - Caribou population boréale
+  - Caribou des bois population boréale
 
   - Caribou, Woodland (Rangifer tarandus caribou) Southern Mountain population
 
@@ -1349,6 +1269,10 @@
   - Fox, Swift (Vulpes velox)
 
   - Renard véloce
+
+  - Marten, American (Martes americana atrata) Newfoundland population
+
+  - Martre d’Amérique population de Terre-Neuve
 
   - Prairie Dog, Black-tailed (Cynomys ludovicianus)
 
@@ -1374,10 +1298,6 @@
 
   - Épaulard population migratrice du Pacifique Nord-Est
 
-  - Wolf, Eastern (Canis sp. cf. lycaon)
-
-  - Loup de l’Est
-
 - Birds
 
   - Albatross, Short-tailed (Phoebastria albatrus)
@@ -1388,6 +1308,10 @@
 
   - Petit Blongios
 
+  - Bobolink (Dolichonyx oryzivorus)
+
+  - Goglu des prés
+
   - Bunting, Lark (Calamospiza melanocorys)
 
   - Bruant noir et blanc
@@ -1395,6 +1319,10 @@
   - Crossbill percna subspecies, Red (Loxia curvirostra percna)
 
   - Bec-croisé des sapins de la sous-espèce percna
+
+  - Flycatcher, Olive-sided (Contopus cooperi)
+
+  - Moucherolle à côtés olive
 
   - Goshawk laingi subspecies, Northern (Accipiter gentilis laingi)
 
@@ -1404,9 +1332,17 @@
 
   - Mouette rosée
 
-  - Knot roselaari subspecies, Red (Calidris canutus roselaari)
+  - Hawk, Ferruginous (Buteo regalis)
 
-  - Bécasseau maubèche de la sous-espèce roselaari
+  - Buse rouilleuse
+
+  - Knot roselaari type, Red (Calidris canutus roselaari type)
+
+  - Bécasseau maubèche du type roselaari
+
+  - Longspur, Chestnut-collared (Calcarius ornatus)
+
+  - Bruant à ventre noir
 
   - Longspur, McCown’s (Rhynchophanes mccownii)
 
@@ -1420,6 +1356,10 @@
 
   - Guillemot marbré
 
+  - Nighthawk, Common (Chordeiles minor)
+
+  - Engoulevent d’Amérique
+
   - Owl, Barn (Tyto alba) Western population
 
   - Effraie des clochers population de l’Ouest
@@ -1427,10 +1367,6 @@
   - Owl brooksi subspecies, Northern Saw-whet (Aegolius acadicus brooksi)
 
   - Petite Nyctale de la sous-espèce brooksi
-
-  - Owl, Short-eared (Asio flammeus)
-
-  - Hibou des marais
 
   - Pipit, Sprague’s (Anthus spragueii)
 
@@ -1444,13 +1380,17 @@
 
   - Petit-duc des montagnes de la sous-espèce macfarlanei
 
-  - Shrike Prairie subspecies, Loggerhead (Lanius ludovicianus excubitorides)
+  - Shrike excubitorides subspecies, Loggerhead (Lanius ludovicianus excubitorides)
 
-  - Pie-grièche migratrice de la sous-espèce des Prairies
+  - Pie-grièche migratrice de la sous-espèce excubitorides
 
   - Swallow, Bank (Riparia riparia)
 
   - Hirondelle de rivage
+
+  - Swallow, Barn (Hirundo rustica)
+
+  - Hirondelle rustique
 
   - Swift, Chimney (Chaetura pelagica)
 
@@ -1464,6 +1404,10 @@
 
   - Grive des bois
 
+  - Warbler, Canada (Wilsonia canadensis)
+
+  - Paruline du Canada
+
   - Warbler, Golden-winged (Vermivora chrysoptera)
 
   - Paruline à ailes dorées
@@ -1472,9 +1416,17 @@
 
   - Paruline hochequeue
 
+  - Whip-poor-will (Caprimulgus vociferus)
+
+  - Engoulevent bois-pourri
+
   - Woodpecker, Lewis’s (Melanerpes lewis)
 
   - Pic de Lewis
+
+  - Woodpecker, Red-headed (Melanerpes erythrocephalus)
+
+  - Pic à tête rouge
 
 - Amphibians
 
@@ -1486,9 +1438,13 @@
 
   - Rainette faux-grillon de l’Ouest population des Grands Lacs / Saint-Laurent et du Bouclier canadien
 
+  - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Great Lakes – St. Lawrence population
+
+  - Salamandre sombre des montagnes population des Grands Lacs et du Saint-Laurent
+
   - Salamander, Coastal Giant (Dicamptodon tenebrosus)
 
-  - Grande salamandre du Nord
+  - Grande salamandre
 
   - Salamander, Spring (Gyrinophilus porphyriticus) Adirondack / Appalachian population
 
@@ -1496,17 +1452,9 @@
 
   - Spadefoot, Great Basin (Spea intermontana)
 
-  - Crapaud pied-bêche du Grand Bassin
+  - Crapaud du Grand Bassin
 
 - Reptiles
-
-  - Foxsnake, Eastern (Pantherophis vulpinus) Carolinian population
-
-  - Couleuvre fauve de l’Est population carolinienne
-
-  - Foxsnake, Eastern (Pantherophis vulpinus) Great Lakes / St. Lawrence population
-
-  - Couleuvre fauve de l’Est population des Grands Lacs et du Saint-Laurent
 
   - Gophersnake, Great Basin (Pituophis catenifer deserticola)
 
@@ -1520,13 +1468,9 @@
 
   - Couleuvre agile à ventre jaune de l’Est
 
-  - Racer, Western Yellow-bellied (Coluber constrictor mormon)
+  - Ratsnake, Gray (Pantherophis spiloides) Great Lakes/St. Lawrence population
 
-  - Couleuvre agile à ventre jaune de l’Ouest
-
-  - Ratsnake, Gray (Pantherophis spiloides) Great Lakes / St. Lawrence population
-
-  - Couleuvre ratière grise population des Grands Lacs et du Saint-Laurent
+  - Couleuvre obscure population des Grands Lacs et du Saint-Laurent
 
   - Rattlesnake, Western (Crotalus oreganos)
 
@@ -1538,11 +1482,11 @@
 
   - Snake, Eastern Hog-nosed (Heterodon platirhinos)
 
-  - Couleuvre à groin de l’Est
+  - Couleuvre à nez plat
 
-  - Turtle, Western Painted (Chrysemys picta bellii) Pacific Coast population
+  - Turtle, Blanding’s (Emydoidea blandingii) Great Lakes / St. Lawrence population
 
-  - Tortue peinte de l’Ouest, population de la côte du Pacifique
+  - Tortue mouchetée population des Grands Lacs et du Saint-Laurent
 
   - Turtle, Wood (Glyptemys insculpta)
 
@@ -1628,10 +1572,6 @@
 
   - Limace-sauteuse dromadaire
 
-  - Mantleslug, Carolina (Philomycus carolinianus)
-
-  - Limace à manteau de la Caroline
-
   - Mapleleaf (Quadrula quadrula) Saskatchewan – Nelson Rivers population
 
   - Mulette feuille d’érable population de la rivière Saskatchewan et du fleuve Nelson
@@ -1646,25 +1586,13 @@
 
 - Arthropods
 
-  - Bumble Bee occidentalis subspecies, Western (Bombus occidentalis occidentalis)
-
-  - Bourdon de l’Ouest de la sous-espèce occidentalis
-
   - Flower Moth, Verna’s (Schinia verna)
 
   - Héliotin de Verna
 
-  - Grasshopper, Lake Huron (Trimerotropis huroniana)
+  - Skipper, Dun (Euphyes vestris) Western population
 
-  - Criquet du lac Huron
-
-  - Moth, Dusky Dune (Copablepharon longipenne)
-
-  - Noctuelle sombre des dunes
-
-  - Skipper vestris subspecies, Dun (Euphyes vestris vestris)
-
-  - Hespérie rurale de la sous-espèce vestris
+  - Hespérie rurale population de l’Ouest
 
   - Sweat Bee, Sable Island (Lasioglossum sablense)
 
@@ -1684,9 +1612,9 @@
 
   - Arnica de Griscom
 
-  - Ash, Blue (Fraxinus quadrangulata)
+  - Aster, Anticosti (Symphyotrichum anticostense)
 
-  - Frêne bleu
+  - Aster d’Anticosti
 
   - Aster, Gulf of St. Lawrence (Symphyotrichum laurentianum)
 
@@ -1724,6 +1652,10 @@
 
   - Cryptanthe minuscule
 
+  - Daisy, Lakeside (Hymenoxys herbacea)
+
+  - Hyménoxys herbacé
+
   - Deerberry (Vaccinium stamineum)
 
   - Airelle à longues étamines
@@ -1740,17 +1672,17 @@
 
   - Polystic des rochers
 
-  - Foxglove, Fern-leaved Yellow False (Aureolaria pedicularia)
+  - Gentian, Victorin’s (Gentianopsis virgata ssp. victorinii)
 
-  - Gérardie fausse-pédiculaire
-
-  - Foxglove, Smooth Yellow False (Aureolaria flava)
-
-  - Gérardie jaune
+  - Gentiane de Victorin
 
   - Goldenrod, Showy (Solidago speciosa) Boreal population
 
   - Verge d’or voyante population boréale
+
+  - Goldenseal (Hydrastis canadensis)
+
+  - Hydraste du Canada
 
   - Goosefoot, Smooth (Chenopodium subglabrum)
 
@@ -1788,17 +1720,13 @@
 
   - Azolle du Mexique
 
-  - Mouse-ear-cress, Slender (Crucihimalaya virgata)
+  - Mouse-ear-cress, Slender (Halimolobos virgata)
 
-  - Arabette mince
+  - Halimolobos mince
 
   - Paintbrush, Cliff (Castilleja rupicola)
 
   - Castilléjie des rochers
-
-  - Pea, Silky Beach (Lathyrus littoralis)
-
-  - Gesse littorale
 
   - Pepperbush, Sweet (Clethra alnifolia)
 
@@ -1815,6 +1743,10 @@
   - Quillwort, Bolander’s (Isoetes bolanderi)
 
   - Isoète de Bolander
+
+  - Rue-anemone, False (Enemion biternatum)
+
+  - Isopyre à feuilles biternées
 
   - Sanicle, Bear’s-foot (Sanicula arctopoides)
 
@@ -1852,15 +1784,15 @@
 
   - Saule à bractées vertes
 
-  - Wintergreen, Spotted (Chimaphila maculata)
-
-  - Chimaphile maculée
-
   - Woodsia, Blunt-lobed (Woodsia obtusa)
 
   - Woodsie à lobes arrondis
 
 - Lichens
+
+  - Bone, Seaside (Hypogymnia heterophylla)
+
+  - Hypogymnie maritime
 
   - Lichen, Black-foam (Anzia colpodes)
 
@@ -1869,18 +1801,6 @@
   - Lichen, Crumpled Tarpaper (Collema coniophilum)
 
   - Collème bâche
-
-  - Lichen, Seaside Bone (Hypogymnia heterophylla)
-
-  - Hypogymnie maritime
-
-  - Lichen, Seaside Centipede (Heterodermia sitchensis)
-
-  - Hétérodermie maritime
-
-  - Lichen, Smoker’s Lung (Lobaria retigera)
-
-  - Lobaire réticulée
 
   - Lichen, Wrinkled Shingle (Pannaria lurida)
 
@@ -1892,7 +1812,7 @@
 
 - Mosses
 
-  - Bryum, Porsild’s (Haplodontium macrocarpum)
+  - Bryum, Porsild’s (Mielichhoferia macrocarpa)
 
   - Bryum de Porsild
 
@@ -1903,10 +1823,6 @@
   - Moss, Haller’s Apple (Bartramia halleriana)
 
   - Bartramie de Haller
-
-  - Moss, Spoon-leaved (Bryoandersonia illecebra)
-
-  - Andersonie charmante
 
 ## PART 4 Special Concern
 
@@ -1936,10 +1852,6 @@
 
   - Caribou de la toundra population Dolphin-et-Union
 
-  - Caribou (Rangifer tarandus) Newfoundland population
-
-  - Caribou, population de Terre-Neuve
-
   - Caribou, Woodland (Rangifer tarandus caribou) Northern Mountain population
 
   - Caribou des bois population des montagnes du Nord
@@ -1947,10 +1859,6 @@
   - Cottontail nuttallii subspecies, Nuttall’s (Sylvilagus nuttallii nuttallii)
 
   - Lapin de Nuttall de la sous-espèce nuttallii
-
-  - Marten, American (Martes americana atrata) Newfoundland population
-
-  - Martre d’Amérique population de Terre-Neuve
 
   - Mole, Eastern (Scalopus aquaticus)
 
@@ -2000,6 +1908,10 @@
 
   - Baleine à bec de Sowerby
 
+  - Wolf, Eastern (Canis lupus lycaon)
+
+  - Loup de l’Est
+
   - Wolverine (Gulo gulo)
 
   - Carcajou
@@ -2018,10 +1930,6 @@
 
   - Quiscale rouilleux
 
-  - Bobolink (Dolichonyx oryzivorus)
-
-  - Goglu des prés
-
   - Curlew, Long-billed (Numenius americanus)
 
   - Courlis à long bec
@@ -2030,13 +1938,13 @@
 
   - Arlequin plongeur population de l’Est
 
+  - Falcon anatum/tundrius, Peregrine (Falco peregrinus anatum/tundrius)
+
+  - Faucon pèlerin anatum/tundrius
+
   - Falcon pealei subspecies, Peregrine (Falco peregrinus pealei)
 
   - Faucon pèlerin de la sous-espèce pealei
-
-  - Flycatcher, Olive-sided (Contopus cooperi)
-
-  - Moucherolle à côtés olive
 
   - Goldeneye, Barrow’s (Bucephala islandica) Eastern population
 
@@ -2054,25 +1962,25 @@
 
   - Gros-bec errant
 
-  - Hawk, Ferruginous (Buteo regalis)
+  - Heron fannini subspecies, Great Blue (Ardea herodias fannini)
 
-  - Buse rouilleuse
+  - Grand héron de la sous-espèce fannini
 
-  - Knot rufa subspecies, Red (Calidris canutus rufa) Northeastern South America wintering population
+  - Knot islandica subspecies, Red (Calidris canutus islandica)
 
-  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans le nord-est de l’Amérique du Sud
+  - Bécasseau maubèche de la sous-espèce islandica
 
   - Murrelet, Ancient (Synthliboramphus antiquus)
 
   - Guillemot à cou blanc
 
-  - Nighthawk, Common (Chordeiles minor)
-
-  - Engoulevent d’Amérique
-
   - Owl, Flammulated (Otus flammeolus)
 
   - Petit-duc nain
+
+  - Owl, Short-eared (Asio flammeus)
+
+  - Hibou des marais
 
   - Phalarope, Red-necked (Phalaropus lobatus)
 
@@ -2094,10 +2002,6 @@
 
   - Bruant de Baird
 
-  - Sparrow, Harris’s (Zonotrichia querula)
-
-  - Bruant à face noire
-
   - Sparrow pratensis subspecies, Grasshopper (Ammodramus savannarum pratensis)
 
   - Bruant sauterelle de la sous-espèce de l’Est
@@ -2105,18 +2009,6 @@
   - Sparrow princeps subspecies, Savannah (Passerculus sandwichensis princeps)
 
   - Bruant des prés de la sous-espèce princeps
-
-  - Swallow, Barn (Hirundo rustica)
-
-  - Hirondelle rustique
-
-  - Warbler, Canada (Cardellina canadensis)
-
-  - Paruline du Canada
-
-  - Whip-poor-will, Eastern (Antrostomus vociferus)
-
-  - Engoulevent bois-pourri
 
   - Wood-pewee, Eastern (Contopus virens)
 
@@ -2128,13 +2020,13 @@
 
   - Grenouille-à-queue côtière
 
-  - Frog, Northern Leopard (Lithobates pipiens) Western Boreal / Prairie populations
+  - Frog, Northern Leopard (Lithobates pipiens) Western Boreal/Prairie populations
 
-  - Grenouille léopard du Nord populations des Prairies et de l’ouest de la zone boréale
+  - Grenouille léopard populations des Prairies et de l’ouest de la zone boréale
 
-  - Frog, Northern Red-legged (Rana aurora)
+  - Frog, Red-legged (Rana aurora)
 
-  - Grenouille à pattes rouges du Nord
+  - Grenouille à pattes rouges
 
   - Salamander, Coeur d’Alene (Plethodon idahoensis)
 
@@ -2162,21 +2054,17 @@
 
 - Reptiles
 
-  - Boa, Northern Rubber (Charina bottae)
+  - Boa, Rubber (Charina bottae)
 
-  - Boa caoutchouc du Nord
+  - Boa caoutchouc
 
-  - Bullsnake (Pituophis catenifer sayi)
-
-  - Couleuvre gaufre de Say
-
-  - Lizard, Greater Short-horned (Phrynosoma hernandesi)
-
-  - Lézard à petites cornes majeur
-
-  - Milksnake, Eastern (Lampropeltis triangulum)
+  - Milksnake (Lampropeltis triangulum)
 
   - Couleuvre tachetée
+
+  - Racer, Western Yellow-bellied (Coluber constrictor mormon)
+
+  - Couleuvre agile à ventre jaune de l’Ouest
 
   - Rattlesnake, Prairie (Crotalus viridis)
 
@@ -2186,33 +2074,17 @@
 
   - Couleuvre mince population des Grands Lacs
 
-  - Skink, Common Five-lined (Plestiodon fasciatus) Great Lakes / St. Lawrence population
+  - Skink, Five-lined (Plestiodon fasciatus) Great Lakes/St. Lawrence population
 
-  - Scinque pentaligne commun population des Grands Lacs et du Saint-Laurent
-
-  - Skink, Prairie (Plestiodon septentrionalis)
-
-  - Scinque des Prairies
+  - Scinque pentaligne population des Grands Lacs et du Saint-Laurent
 
   - Skink, Western (Plestiodon skiltonianus)
 
   - Scinque de l’Ouest
 
-  - Snake, Plains Hog-nosed (Heterodon nasicus)
-
-  - Couleuvre à groin des plaines
-
   - Turtle, Eastern Musk (Sternotherus odoratus)
 
   - Tortue musquée
-
-  - Turtle, Eastern Painted (Chrysemys picta picta)
-
-  - Tortue peinte de l’Est
-
-  - Turtle, Midland Painted (Chrysemys picta marginata)
-
-  - Tortue peinte du Centre
 
   - Turtle, Northern Map (Graptemys geographica)
 
@@ -2430,31 +2302,15 @@
 
   - Limace gainée
 
-  - Vertigo, Threaded (Vertigo rowellii)
+  - Vertigo, Threaded (Nearctula sp.)
 
   - Vertigo à crêtes fines
 
 - Arthropods
 
-  - Admiral, Weidemeyer’s (Limenitis weidemeyerii)
-
-  - Amiral de Weidemeyer
-
-  - Bumble Bee, American (Bombus pensylvanicus)
-
-  - Bourdon américain
-
-  - Bumble Bee mckayi subspecies, Western (Bombus occidentalis mckayi)
-
-  - Bourdon de l’Ouest de la sous-espèce mckayi
-
   - Bumble Bee, Yellow-banded (Bombus terricola)
 
   - Bourdon terricole
-
-  - Clubtail, Skillet (Gomphurus ventricosus)
-
-  - Gomphe ventru
 
   - Dancer, Vivid (Argia vivida)
 
@@ -2464,33 +2320,21 @@
 
   - Criquet de l’armoise
 
-  - Grasshopper, Magdalen Islands (Melanoplus madeleineae)
-
-  - Criquet des Îles-de-la-Madeleine
-
-  - Lady Beetle, Transverse (Coccinella transversoguttata)
-
-  - Coccinelle à bandes transverses
-
-  - Leafhopper, Red-tailed (Aflexia rubranura) Great Lakes Plains population
-
-  - Cicadelle à queue rouge population des plaines des Grands Lacs
-
-  - Leafhopper, Red-tailed (Aflexia rubranura) Prairie population
-
-  - Cicadelle à queue rouge population des Prairies
-
   - Metalmark, Mormon (Apodemia mormo) Prairie population
 
   - Mormon population des Prairies
 
-  - Moth, Manitoba Oakworm (Anisota manitobensis)
+  - Monarch (Danaus plexippus)
 
-  - Anisote du Manitoba
+  - Monarque
 
   - Moth, Pale Yellow Dune (Copablepharon grandis)
 
   - Noctuelle jaune pâle des dunes
+
+  - Skipper, Sonora (Polites sonora)
+
+  - Hespérie du Sonora
 
   - Snaketail, Pygmy (Ophiogomphus howei)
 
@@ -2504,19 +2348,15 @@
 
   - Mouche tachinide des dunes
 
-  - Tiger Beetle, Cobblestone (Cicindela marginipennis)
+  - Weidemeyer’s Admiral (Limenitis weidemeyerii)
 
-  - Cicindèle des galets
-
-  - Wasp, Yellow Scarab Hunter (Dielis pilipes)
-
-  - Scolie dorée
+  - Amiral de Weidemeyer
 
 - Plants
 
-  - Aster, Anticosti (Symphyotrichum anticostense)
+  - Ash, Blue (Fraxinus quadrangulata)
 
-  - Aster d’Anticosti
+  - Frêne bleu
 
   - Aster, Crooked-stem (Symphyotrichum prenanthoides)
 
@@ -2542,29 +2382,13 @@
 
   - Buchloé faux-dactyle
 
-  - Bulrush, Long’s (Scirpus longii)
-
-  - Scirpe de Long
-
-  - Daisy, Lakeside (Tetraneuris herbacea)
-
-  - Hyménoxys herbacé
-
-  - Draba, Puvirnituq Mountain (Draba puvirnituqii)
-
-  - Drave des monts de Puvirnituq
-
-  - Fern, American Hart’s-tongue (Asplenium scolopendrium var. americanum)
+  - Fern, American Hart’s-tongue (Asplenium scolopendrium)
 
   - Scolopendre d’Amérique
 
   - Fern, Coastal Wood (Dryopteris arguta)
 
   - Dryoptéride côtière
-
-  - Gentian, Victorin’s (Gentianopsis virgata ssp. victorinii)
-
-  - Gentiane de Victorin
 
   - Goldencrest (Lophiola aurea)
 
@@ -2577,10 +2401,6 @@
   - Goldenrod, Riddell’s (Solidago riddellii)
 
   - Verge d’or de Riddell
-
-  - Goldenseal (Hydrastis canadensis)
-
-  - Hydraste du Canada
 
   - Hairgrass, Mackenzie (Deschampsia mackenzieana)
 
@@ -2646,10 +2466,6 @@
 
   - Ketmie des marais
 
-  - Rue-anemone, Eastern False (Enemion biternatum)
-
-  - Isopyre à feuilles biternées
-
   - Rush, New Jersey (Juncus caesariensis)
 
   - Jonc du New Jersey
@@ -2674,7 +2490,7 @@
 
   - Chardon de Pitcher
 
-  - Thrift, Athabasca (Armeria maritima ssp. interior)
+  - Thrift, Athabasca (Armeria maritima interior)
 
   - Arméria de l’Athabasca
 
@@ -2682,11 +2498,7 @@
 
   - Cicutaire de Victorin
 
-  - Wild Buckwheat, Yukon (Eriogonum flavum var. aquilinum)
-
-  - Ériogone du Nord
-
-  - Willow, Blanket-leaved (Salix silicicola)
+  - Willow, Felt-leaf (Salix silicicola)
 
   - Saule silicicole
 
@@ -2702,7 +2514,7 @@
 
   - Psilocarphe nain, population des Prairies
 
-  - Yarrow, Large-headed Woolly (Achillea millefolium var. megacephala)
+  - Yarrow, Large-headed Woolly (Achillea millefolium var. megacephalum)
 
   - Achillée à gros capitules
 
@@ -2726,9 +2538,9 @@
 
 - Lichens
 
-  - Glass-whiskers, Frosted (Sclerophora peronella) Atlantic population
+  - Glass-whiskers, Frosted (Sclerophora peronella) Nova Scotia population
 
-  - Sclérophore givré population de l’Atlantique
+  - Sclérophore givré population de la Nouvelle-Écosse
 
   - Jellyskin, Flooded (Leptogium rivulare)
 
@@ -2745,10 +2557,6 @@
   - Lichen, Cryptic Paw (Nephroma occultum)
 
   - Néphrome cryptique
-
-  - Lichen, Golden-eye (Teloschistes chrysophthalmus) Prairie / Boreal population
-
-  - Téloschiste ocellé, population boréale et des Prairies
 
   - Lichen, Oldgrowth Specklebelly (Pseudocyphellaria rainierensis)
 
@@ -2879,309 +2687,3 @@ History:
 - SOR/2020-219, s. 1
 
 - SOR/2020-219, s. 2
-
-- SOR/2021-87, s. 1
-
-- SOR/2021-87, s. 2
-
-- SOR/2021-87, s. 3
-
-- SOR/2021-87, s. 4
-
-- SOR/2021-87, s. 5
-
-- SOR/2021-87, s. 6
-
-- SOR/2021-87, s. 7
-
-- SOR/2021-87, s. 8
-
-- SOR/2021-87, s. 9
-
-- SOR/2021-87, s. 10
-
-- SOR/2021-87, s. 11
-
-- SOR/2021-87, s. 12
-
-- SOR/2021-87, s. 13
-
-- SOR/2021-87, s. 14
-
-- SOR/2021-205, s. 1
-
-- SOR/2021-205, s. 2
-
-- SOR/2021-205, s. 3
-
-- SOR/2021-205, s. 4
-
-- SOR/2021-205, s. 5
-
-- SOR/2021-205, s. 6
-
-- SOR/2021-205, s. 7
-
-- SOR/2021-205, s. 8
-
-- SOR/2021-205, s. 9
-
-- SOR/2021-205, s. 10
-
-- SOR/2021-205, s. 11
-
-- SOR/2021-205, s. 12
-
-- SOR/2021-205, s. 13
-
-- SOR/2021-205, s. 14
-
-- SOR/2021-205, s. 15
-
-- SOR/2021-205, s. 16
-
-- SOR/2021-205, s. 17
-
-- SOR/2022-14, s. 1
-
-- SOR/2022-14, s. 2
-
-- SOR/2022-14, s. 3
-
-- SOR/2022-14, s. 4
-
-- SOR/2022-14, s. 5
-
-- SOR/2022-14, s. 6
-
-- SOR/2022-14, s. 7
-
-- SOR/2022-14, s. 8
-
-- SOR/2022-14, s. 9
-
-- SOR/2022-14, s. 10
-
-- SOR/2022-14, s. 11
-
-- SOR/2022-14, s. 12
-
-- SOR/2022-14, s. 13(F)
-
-- SOR/2022-14, s. 14(F)
-
-- SOR/2022-14, s. 15
-
-- SOR/2022-14, s. 16
-
-- SOR/2022-14, s. 17
-
-- SOR/2022-14, s. 18
-
-- SOR/2022-14, s. 19
-
-- SOR/2022-14, s. 20
-
-- SOR/2022-14, s. 21
-
-- SOR/2022-14, s. 22
-
-- SOR/2022-14, s. 23
-
-- SOR/2022-14, s. 24
-
-- SOR/2022-14, s. 25
-
-- SOR/2022-14, s. 26
-
-- SOR/2022-14, s. 27
-
-- SOR/2022-14, s. 28
-
-- SOR/2022-14, s. 29
-
-- SOR/2022-14, s. 30
-
-- SOR/2022-14, s. 31
-
-- SOR/2022-14, s. 32
-
-- SOR/2022-14, s. 33
-
-- SOR/2022-14, s. 34
-
-- SOR/2022-14, s. 35
-
-- SOR/2022-14, s. 36
-
-- SOR/2022-14, s. 37
-
-- SOR/2022-14, s. 38
-
-- SOR/2022-14, s. 39
-
-- SOR/2022-14, s. 40
-
-- SOR/2022-14, s. 41
-
-- SOR/2022-14, s. 42
-
-- SOR/2023-16, s. 1
-
-- SOR/2023-16, s. 2
-
-- SOR/2023-16, s. 3
-
-- SOR/2023-16, s. 4
-
-- SOR/2023-16, s. 5
-
-- SOR/2023-16, s. 6
-
-- SOR/2023-16, s. 7
-
-- SOR/2023-16, s. 8
-
-- SOR/2023-16, s. 9
-
-- SOR/2023-16, s. 10
-
-- SOR/2023-16, s. 11
-
-- SOR/2023-17, s. 1
-
-- SOR/2023-17, s. 2
-
-- SOR/2023-17, s. 3
-
-- SOR/2023-17, s. 4
-
-- SOR/2023-17, s. 5
-
-- SOR/2023-17, s. 6
-
-- SOR/2023-17, s. 7
-
-- SOR/2023-17, s. 8
-
-- SOR/2023-17, s. 9
-
-- SOR/2023-17, s. 10
-
-- SOR/2023-17, s. 11
-
-- SOR/2023-263, s. 1
-
-- SOR/2023-263, s. 2
-
-- SOR/2023-263, s. 3
-
-- SOR/2023-263, s. 4
-
-- SOR/2024-123, s. 1
-
-- SOR/2024-123, s. 2
-
-- SOR/2024-123, s. 3
-
-- SOR/2024-123, s. 4
-
-- SOR/2024-123, s. 5
-
-- SOR/2024-123, s. 6
-
-- SOR/2024-123, s. 7
-
-- SOR/2024-123, s. 8
-
-- SOR/2024-123, s. 9
-
-- SOR/2024-123, s. 10
-
-- SOR/2024-135, s. 1
-
-- SOR/2024-135, s. 2
-
-- SOR/2025-157, s. 1
-
-- SOR/2025-157, s. 2
-
-- SOR/2025-157, s. 3
-
-- SOR/2025-157, s. 4
-
-- SOR/2025-157, s. 5
-
-- SOR/2025-157, s. 6
-
-- SOR/2025-157, s. 7
-
-- SOR/2025-157, s. 8
-
-- SOR/2025-157, s. 9
-
-- SOR/2025-157, s. 10
-
-- SOR/2025-157, s. 11
-
-- SOR/2025-157, s. 12
-
-- SOR/2026-37, s. 1
-
-- SOR/2026-37, s. 2
-
-- SOR/2026-37, s. 3
-
-- SOR/2026-37, s. 4
-
-- SOR/2026-37, s. 5
-
-- SOR/2026-37, s. 6
-
-- SOR/2026-37, s. 7
-
-- SOR/2026-37, s. 8
-
-- SOR/2026-37, s. 9
-
-- SOR/2026-37, s. 10
-
-- SOR/2026-37, s. 11
-
-- SOR/2026-37, s. 12
-
-- SOR/2026-37, s. 13
-
-- SOR/2026-37, s. 14
-
-- SOR/2026-37, s. 15
-
-- SOR/2026-37, s. 16
-
-- SOR/2026-37, s. 17
-
-- SOR/2026-37, s. 18
-
-- SOR/2026-37, s. 19
-
-- SOR/2026-37, s. 20
-
-- SOR/2026-37, s. 21
-
-- SOR/2026-37, s. 22
-
-- SOR/2026-37, s. 23
-
-- SOR/2026-37, s. 24
-
-- SOR/2026-37, s. 25
-
-- SOR/2026-37, s. 26
-
-- SOR/2026-201, s. 1
-
-- SOR/2026-201, s. 2
-
-- SOR/2026-201, s. 3
-
-- SOR/2026-201, s. 4
