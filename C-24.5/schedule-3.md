@@ -12,11 +12,11 @@ Item | Class of Cannabis | Quantity that is equivalent to 1 g of dried cannabis
 
 3 | solids containing cannabis | 15 g
 
-4 | non-solids containing cannabis, other than cannabis beverages | 70 g
+4 | non-solids containing cannabis | 70 g
 
 5 | cannabis concentrates | 0.25 g
 
-6 | cannabis beverages | 570 g
+6 | [Repealed, SOR/2019-207, s. 1]
 
 7 | cannabis plant seeds | 1 seed
 
@@ -27,9 +27,3 @@ History:
 - SOR/2019-207, s. 1
 
 - SOR/2019-207, s. 2
-
-- SOR/2022-252, s. 1
-
-- SOR/2022-252, s. 2
-
-- SOR/2022-252, s. 3
