@@ -134,19 +134,11 @@ Item | Provision | Short-form Description | Category
 
 40 | 30(1)(b) | Failure to immediately make a preliminary report to the Commission on theft, loss or sabotage of safeguards equipment or samples | B
 
-41 | [Repealed, SOR/2025-196, s. 73]
+41 | 30(2) | Failure to file full report within the specified period and with the prescribed information | A
 
-42 | 30(3) | Failure to file a report with the Commission on the possession of uranium, plutonium-239 or thorium within the specified time | B
+42 | 31 | Failure to file a report with the Commission within the specified period of an inaccuracy or incompleteness in a record that the licensee is required to keep | A
 
-43 | 30(4) | Failure to file a report with the Commission on any inventory change within the specified time | B
-
-44 | 30(6) | Failure to file a report with the Commission on specified activities within the specified time | B
-
-45 | 30(7) | Failure to retain relevant record | A
-
-46 | 30(8) | Failure to continue to retain record for the specified period | A
-
-47 | 30(10) | Failure to consent and submit to verification activities | B
+43 | 32(1) | Failure to include name and address of sender or date in report | A
 
 PART 3
 
@@ -730,469 +722,207 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision | Short-form Description | Category
 
-1 | 5(1) | Failure to review and update nuclear security plan at the specified interval | B
+1 | 7(1) | Failure to process, use or store Category I nuclear material in an inner area | B
 
-2 | 5(2) | Failure to provide copy of updated nuclear security plan to Commission before implementation | B
+2 | 7(2) | Failure to process, use or store Category II nuclear material in a protected area | B
 
-3 | 6(1) | Failure to conduct threat and risk assessment at the specified interval | B
+3 | 7(3)(a) | Failure to process, use or store Category III nuclear material in a protected area | B
 
-4 | 6(2)(a) | Failure to review threat and risk assessment as required | B
+4 | 7(3)(b) | Failure to process, use or store Category III nuclear material in an area under direct visual surveillance | B
 
-5 | 6(2)(b) | Failure to update threat and risk assessment as required | B
+5 | 7(3)(c) | Failure to process, use or store Category III nuclear material in an area controlled by the licensee and designed and constructed to prevent unauthorized access | B
 
-6 | 6(2)(c) | Failure to update nuclear security plan as required | B
+6 | 7.1(1)(a) to (d) | Failure to equip controlled access area for Category III nuclear material with specified devices | B
 
-7 | 6(3) | Failure to make necessary modifications to the nuclear security system | B
+7 | 7.2(1) | Failure to make written arrangements with off-site response force capable of making effective intervention at area where Category III nuclear material is processed, used or stored | B
 
-8 | 6(4) | Failure to keep record of results and updates of each threat and risk assessment | A
+8 | 7.2(2)(a) and (b) | Failure to include the specified provisions in arrangements with off-site response force | B
 
-9 | 6(5)(a) | Failure to provide records to Commission on request | B
+9 | 7.2(3) | Failure of alarm monitoring service under contract to notify the licensee and off-site response force on receipt of an alarm signal | B
 
-10 | 6(5)(b) | Failure to provide record of results of threat and risk assessment or an update to Commission within prescribed time | B
+10 | 7.5(1) | Failure to conduct threat and risk assessment at the specified interval | B
 
-11 | 7 | Failure to implement nuclear security measures that ensure effective intervention can be made | B
+11 | 7.5(2) | Failure to modify physical protection system to counter identified credible threat | B
 
-12 | 8 | Failure to develop and implement training program | B
+12 | 7.5(3) | Failure to keep written record of each threat and risk assessment conducted | A
 
-13 | 9(1) | Failure to implement measures to promote and support security culture | B
+13 | 7.5(4) | Failure to provide the Commission with record of threat and risk assessment and statement of actions within prescribed period | A
 
-14 | 9(2) | Failure to keep record of measures implemented to promote and support security culture | A
+14 | 9(1) | Failure to enclose protected area by a barrier at its perimeter | B
 
-15 | 10(1) | Failure to ensure that measures and activities are designed and implemented as required and ensure that measures do not compromise the environment, the health or safety of persons or the security of the nuclear facility | B
+15 | 9(2) and (3) | Failure to construct protected area barrier that meets requirements | B
 
-16 | 10(2) | Failure to establish, implement and maintain required process regarding conflict and coordination of nuclear security measures | B
+16 | 9(6) | Failure to construct means of entry or exit that can be closed and locked | B
 
-17 | 10(3) | Failure to keep record setting out the process regarding conflict and coordination of nuclear security measures | A
+17 | 9(7) | Failure to keep means of entry or exit closed and locked unless under direct visual surveillance of nuclear security officer | B
 
-18 | 11(1) | Failure to immediately implement required compensatory measures when critical security measure is degraded, inoperative or compromised | B
+18 | 9.1(1) | Failure to confine entry and exit of land vehicles to vehicle portals | B
 
-19 | 11(2) | Failure to keep record setting out process for implementing compensatory measures and record indicating implementation of compensatory measures | A
+19 | 9.1(2) | Failure to ensure that gates of vehicle portal are not both open at the same time | B
 
-20 | 12(a) | Failure to replace or restore functioning of degraded, inoperative or compromised device as soon as feasible | A
+20 | 9.1(3) | Permitting a land vehicle to enter protected area without operational requirement | B
 
-21 | 12(b) | Failure to determine how device became degraded, inoperative or compromised | A
+21 | 9.1(4) | Failure to implement physical protection measures to reduce risk of forced land vehicle penetration | B
 
-22 | 13(1) | Failure to ensure security guards are trained and qualified | B
+22 | 10(1), 10(2)(a) and (b) | Failure to maintain specified unobstructed area around protected area | B
 
-23 | 13(2) | Failure to keep record of security guard training and proof of their qualifications | A
+23 | 11(a)(i) to (iv) and 11(b) | Failure to equip protected area with required devices or keep protected area under the direct visual surveillance of a nuclear security officer with a device that sets off a continuous alarm signal | B
 
-24 | 14(1) | Failure to make written arrangements with off-site response force that, alone on in conjunction with on-site nuclear response force, is capable of making an effective intervention | B
+24 | 13(1) and (2) | Failure to enclose inner area with a structure or barrier that meets requirements | B
 
-25 | 14(2) | Failure to provide for specified matters in written arrangements with off-site response force | B
+25 | 13(3) | Failure to keep means of entry or exit closed and locked with device that can only be unlocked by two authorized persons | B
 
-26 | 14(3) | Failure to have written arrangements signed as required | A
+26 | 13(4) | Entering and remaining in an inner area without another authorized person | B
 
-27 | 15(1) | Failure to have alarm-monitoring capability or make arrangements with an alarm-monitoring service | B
+27 | 13(5) | Permitting a land vehicle to enter an inner area without operational requirements | B
 
-28 | 15(2) | Failure to provide for notification procedure in arrangements with alarm-monitoring service | B
+28 | 14(a)(i) to (iv) and 14(b) | Failure to equip inner area with required devices or keep inner area under the direct visual surveillance of a nuclear security officer with a device that sets off a continuous alarm signal | B
 
-29 | 16(1) | Failure to implement and maintain cyber security program | C
+29 | 14.1 | Failure to identify vital areas and implement physical protection measures | B
 
-30 | 16(2) | Failure to protect computer systems and electronic components against cyber security threats as required | B
+30 | 15(1)(a) to (c) | Failure to monitor the protected area devices, inner area devices and physical protection measures from a security monitoring room | B
 
-31 | 17(1) | Failure to protect specified sensitive information as required | B
+31 | 15(2) | Failure to meet security monitoring room requirements | B
 
-32 | 17(2) | Failure to implement nuclear security measures to protect the confidentiality, integrity and availability of specified sensitive information as required | B
+32 | 15(3) | Failure to monitor the alarm devices as required | B
 
-33 | 17(3) | Permitting person to access sensitive information who does not require access to carry out their duties | B
+33 | 15.1(a) and (b) | Failure to provide uninterrupted power supply for required devices and equipment | B
 
-34 | 18 | Failure to implement measures to protect, as required, information for identity verification or in relation to a clearance or authorization | B
+34 | 15.2(1) and (2) | Failure to maintain records of access control devices with the specified information | A
 
-35 | 19 | Producing, processing, using or storing Category I nuclear material in place other than inner area | C
+35 | 15.2(3) | Failure to restore integrity of defective, lost, stolen or unlawfully transferred access control device | B
 
-36 | 20 | Producing, processing, using or storing Category II nuclear material in place other than protected area | C
+36 | 15.2(4) | Issuing an access control device or combination to unauthorized person | B
 
-37 | 21 | Producing, processing, using or storing Category III nuclear material in place other than protected area or any other area that meets prescribed requirements | B
+37 | 16 | Failure to maintain site plan | B
 
-38 | 22(1) | Producing, processing, using or storing specified nuclear substance in place other than area that meets prescribed requirements | B
+38 | 17(1) | Entering protected area without authorization | B
 
-39 | 22(2)(a) | Failure to maintain list of persons who are authorized to access the area | B
+39 | 17(2) | Failure to prepare identification report as required | A
 
-40 | 22(2)(b) | Permitting unauthorized persons to access the area | B
+40 | 17(3) | Issuing an authorization to enter protected area without proof of name and address and without condition that person be escorted | B
 
-41 | 22(2)(c) | Failure to implement required measures | B
+41 | 17(4) | Permitting unescorted person to enter or remain in protected area | B
 
-42 | 23 | Failure to ensure nuclear substance is not removed from nuclear facility except in accordance with licence | B
+42 | 17(6) | Failure to give person copy of requested information or documents | A
 
-43 | 24(1)(a) | Failure to determine reason for unauthorized removal of nuclear substance from nuclear facility | A
+43 | 17.1 | Failure to verify person’s identity by two separate personnel identity verification systems when person enters protected area | B
 
-44 | 24(1)(b) | Failure to assess and immediately respond to unauthorized removal of nuclear substance | B
+44 | 18(1) | Entering inner area without recorded authorization | B
 
-45 | 24(2) | Failure to keep record setting out process respecting unauthorized removal of nuclear substances | A
+45 | 18(2) | Acting as a nuclear security officer without recorded authorization | A
 
-46 | 29(1) | Failure to design nuclear security system taking into account the specified threats, evaluate that system or modify the system as necessary | B
+46 | 18(3) | Acting as a physical protection system support person without recorded authorization | A
 
-47 | 29(2) | Failure to implement nuclear security measures that ensure effective intervention can be made, taking into account the specified threats | B
+47 | 18.1 | Failure to conduct required checks before granting authorization to enter protected area or act as physical protection system support person | A
 
-48 | 29(3) | Failure to keep record that sets out required processes | A
+48 | 18.2 | Failure to conduct required checks, obtain proof of status in Canada or obtain required certificates prior to issuing an authorization to a nuclear security officer | A
 
-49 | 30(1) | Failure to provide sufficient number of nuclear security officers to carry out the specified duties | C
+49 | 18.5 | Failure to give person copy of requested information or documents | A
 
-50 | 30(2) | Failure to keep record of nuclear security officers’ duties and to give copy of it to nuclear security officer | A
+50 | 19(1) | Failure to establish or maintain a list of persons authorized to enter an inner area or to act as a nuclear security officer or physical protection system support person | A
 
-51 | 31 | Failure to provide each nuclear security officer with necessary equipment, devices and apparel | B
+51 | 19(2) | Failure to provide list of persons authorized to enter inner area, or to act as a nuclear security officer or physical protection system support person, to the Commission or the inspector requesting it | A
 
-52 | 32(1) | Failure to ensure nuclear security officer only carries out duties for which they have the necessary training, knowledge and skill and for which they are qualified | B
+52 | 20(1) | Entering inner area without required authorization | B
 
-53 | 32(2) | Failure to ensure each nuclear security officer participates in continuing training program that includes the specified training | B
+53 | 20(2) | Acting as physical protection system support person without required authorization | B
 
-54 | 32(3) | Failure to keep record of training received by each nuclear security officer | B
+54 | 20.1 | Failure to obtain required information prior to issuing an authorization to enter inner area or act as physical protection system support person | A
 
-55 | 33 | Failure to keep records containing required information regarding nuclear security officers who are required to carry a firearm | A
+55 | 20.2(1) and (2) | Failure to include condition that the person must be escorted for authorization to enter inner area, or to act as physical protection system support person | B
 
-56 | 34(1) | Failure to maintain on-site nuclear response force with required capability | C
+56 | 20.2(3) | Permitting person with authorization to enter or remain in inner area or to act as a physical protection system support person without being escorted | B
 
-57 | 34(3) | Failure to ensure that nuclear security officers who are members of on-site nuclear response force are authorized to carry firearms in Canada and trained and qualified to use them | C
+57 | 21(2) | Failure to notify the Commission in writing of revocation of authorization | A
 
-58 | 34(4) | Failure to provide nuclear security officers who are members of on-site nuclear response force with necessary equipment, devices and apparel | C
+58 | 23(1) | Permitting means of entry or exit into inner area to be unlocked, opened or kept open longer than required and without direct visual surveillance of a nuclear security officer | B
 
-59 | 35 | Failure to provide for specified matters in the written in arrangements with off-site response force | B
+59 | 23(2) | Permitting the means of entry or exit in structure or barrier to inner area to be unlocked by unauthorized persons | B
 
-60 | 36 | Failure to develop and maintain contingency plan to ensure effective intervention can be made, taking into account the specified threats | B
+60 | 24(1) | Permitting an unauthorized person to enter or remain in protected area or inner area | B
 
-61 | 37(1) | Failure to implement required security drill and security exercise program | B
+61 | 24(2) | Failure to immediately report unauthorized person in protected area or inner area to nuclear security officer | B
 
-62 | 37(2) | Failure to update the security drill and security exercise program as required | B
+62 | 25 | Failure to ensure that weapons and explosives only enter protected or inner area under the control of an authorized person | B
 
-63 | 38(1) | Failure to conduct security drill at the specified interval | B
+63 | 26 | Failure to ensure Category I, II and III nuclear material is only removed from a protected area or inner area in accordance with a licence | B
 
-64 | 38(2) | Failure to ensure that specified nuclear security officers participate in a security drill at the specified interval | B
+64 | 27(1) | Failure to post required advisory notices at entrance of protected and inner areas | A
 
-65 | 39(1) | Failure to conduct security exercise as required at the specified interval | B
+65 | 27(2) | Failure to search a person and their possessions on entering and leaving protected area or inner area | B
 
-66 | 39(2) | Failure to notify Commission in writing within prescribed time of intent to conduct security exercise | B
+66 | 27(4) | Permitting a person to remain in protected area or inner area without the person and their possessions being searched | B
 
-67 | 40(1) | Failure to keep record containing the required information regarding each security drill and security exercise | B
+67 | 27(5) | Failure to conduct search in accordance with the requirements | B
 
-68 | 40(2) | Failure to provide copy of required record to Commission within prescribed time | B
+68 | 28(1) | Entering or leaving a protected area or inner area after refusing to submit to a search | C
 
-69 | 41(1) | Failure to create required corrective action plan setting out the required information | B
+69 | 28(2)(a) | Taking weapons or explosive substances, unless under the control of an authorized person, into protected area or inner area | C
 
-70 | 41(2) | Failure to implement corrective actions as required | B
+70 | 28(2)(b) | Unauthorized removal of Category I, II and III nuclear material from protected or inner area | C
 
-71 | 41(3) | Failure to provide copy of corrective action plan to Commission within the prescribed period | A
+71 | 30 | Failure to provide sufficient number of nuclear security officers required to carry on the specified activities | B
 
-72 | 42(1) | Failure to ensure that specified nuclear security measures are monitored from a central alarm station | B
+72 | 31 | Failure to provide nuclear security officer with required equipment to perform the specified duties | B
 
-73 | 42(2)(a) | Central alarm station not located outside of a vital area or inner area | B
+73 | 32 | Failure to maintain on-site nuclear response force capable of making effective intervention | B
 
-74 | 42(2)(b) | Central alarm station not designed, constructed and located as required | B
+74 | 34(1) | Failure to train nuclear security officers regarding their security duties and responsibilities | B
 
-75 | 42(2)(c) | Central alarm station not attended at all times by at least one central alarm station operator | B
+75 | 34(2) | Failure to examine nuclear security officer candidate’s familiarity with security duties and responsibilities within the specified period | B
 
-76 | 42(2)(d) | Central alarm station not designed to prevent solitary central alarm station operator from tampering with or, compromising nuclear security measure or disabling it without authorization | B
+76 | 35(1) | Failure to make written arrangements with off-site response force to provide for protection of facility | B
 
-77 | 42(2)(e) | Central alarm station not equipped as required with respect to alarms received in the station | B
+77 | 35(2) | Failure to include specified provisions in arrangements with off-site response force | B
 
-78 | 42(2)(f) | Central alarm station not equipped with required devices | B
+78 | 36(1) | Failure to develop and maintain contingency plan with off-site response force to ensure effective intervention | B
 
-79 | 42(3) | Permitting person to enter central alarm station who does not need to enter to perform their duties | B
+79 | 36(2) | Failure to conduct security exercise at the specified interval | B
 
-80 | 42(4) | Failure to implement specified processes | B
+80 | 36(3) | Failure to notify the Commission about security exercise within the specified period | A
 
-81 | 43(1)(a) | Failure to establish backup alarm station that is independent from the central alarm station | B
+81 | 36(4) | Failure to conduct security drill at the specified interval | B
 
-82 | 43(1)(b) | Failure to establish backup alarm station that is designed and equipped as required | B
+82 | 37(1)(a) | Failure to keep record of persons authorized to enter protected or inner area | A
 
-83 | 43(2) | Failure to ensure backup alarm station operated only by security personnel with required training | B
+83 | 37(1)(b) | Failure to retain record of persons authorized to enter protected or inner area for the specified period | A
 
-84 | 43(3) | Permitting person to enter backup alarm station who does not need to enter to perform their duties | B
+84 | 37(1)(c) | Failure to make copy of record of persons authorized to enter protected or inner area available to nuclear security officers | A
 
-85 | 43(4) | Failure to implement required processes | B
+85 | 37(2) | Failure to keep record of duties and responsibilities of nuclear security officers and to give a copy of record to nuclear security officer | A
 
-86 | 43(5) | Failure to test backup alarm station at specified interval | B
+86 | 37(3) | Failure to keep record of training received by each nuclear security officer | A
 
-87 | 44(1) | Granting high-security site access clearance without meeting prescribed conditions | C
+87 | 38 | Failure to develop and implement supervisory awareness program | B
 
-88 | 44(4) | Granting high-security site access clearance for term exceeding 10 years or not subject to necessary terms and conditions | B
+88 | 42(1) | Permitting a person without a facility-access security clearance to enter or remain in a nuclear facility | B
 
-89 | 44(5) | Failure to keep record indicating how clearance was verified | A
+89 | 42(1) | Permitting an unescorted or unauthorized person to enter or remain in a nuclear facility | B
 
-90 | 45(1) | Granting enhanced security clearance without meeting prescribed conditions | C
+90 | 42(2) | Failure to verify criminal record, personal history or information relating to trustworthiness before granting facility-access security clearance | B
 
-91 | 45(3) | Granting enhanced security clearance for term exceeding five years or not subject to necessary terms and conditions | B
+91 | 43(1) | Failure to establish and maintain list of persons granted facility-access security clearance | A
 
-92 | 46(1) | Failure to keep up-to-date list of each person granted a clearance and that identifies their clearance | B
+92 | 43(2) | Failure to provide list of persons granted facility-access security clearance to the Commission or the inspector requesting it | A
 
-93 | 46(2) | Failure to provide copy of list to Commission or inspector on request | B
+93 | 44(2) | Failure to notify the Commission in writing about revocation of facility-access security clearance | A
 
-94 | 47(1)(a) | Failure to revoke high-security site access clearance or enhanced security clearance of person who poses or could pose unreasonable risk to health or safety of persons or security of the site | B
+94 | 45(a) | Permitting a land vehicle to enter a nuclear facility without operational requirement and without searching it for explosive substances, weapons or unauthorized persons | B
 
-95 | 47(1)(b) | Failure to revoke high-security site access clearance or enhanced security clearance of person who is no longer employed by or under contract to the licensee | B
+95 | 45(b) | Permitting entry of an unauthorized land vehicle at a nuclear facility | B
 
-96 | 47(1)(c) | Failure to revoke high-security site access clearance or enhanced security clearance of person whose duties or functions have been completed, suspended or otherwise terminated | B
+96 | 46(1) | Processing, using or storing nuclear substances or radioactive material in an area that is not under the visual surveillance of the licensee or an area that is not designed and constructed to prevent unauthorized access | B
 
-97 | 47(1)(d) | Failure to revoke high-security site access clearance or enhanced security clearance of person who no longer requires it to perform their duties | B
+97 | 46(2) | Failure to equip area with specified devices where nuclear substances or radioactive material is processed, used or stored | B
 
-98 | 47(1)(e) | Failure to revoke high-security site access clearance or enhanced security clearance of person who provided false or misleading information | B
+98 | 47(1) | Failure to make written arrangements with an off-site response force capable of making an effective intervention at nuclear facility | B
 
-99 | 47(2) | Failure to notify Commission in writing of revocation of high-security site access clearance or enhanced security clearance as required within prescribed time | B
+99 | 47(2) | Failure to include specified provisions in arrangements with off-site response force | B
 
-100 | 49(1) | Entering or remaining in protected area without required clearance and authorization and any required escort | B
+100 | 47(3) | Failure of alarm monitoring service under contract to notify the licensee and off-site response force on receipt of an alarm signal | B
 
-101 | 49(2) | Granting authorization to enter and remain in protected area without escort without meeting prescribed conditions | B
-
-102 | 49(3) | Granting authorization to enter and remain in protected area with escort without meeting prescribed conditions | B
-
-103 | 49(4) | Granting authorization to enter and remain in protected area without escort for term exceeding 10 years | B
-
-104 | 49(5) | Granting authorization to enter and remain in protected area not subject to necessary terms and conditions | B
-
-105 | 49(6) | Failure to provide copy of requested information or documents | B
-
-106 | 50 | Entering or remaining in vital area without required authorization and any required escort | B
-
-107 | 51 | Entering or remaining in inner area without required authorization and being accompanied or escorted as required | B
-
-108 | 52(1) | Granting authorization to enter and remain in vital area or inner area without escort without meeting prescribed conditions | B
-
-109 | 52(2) | Granting authorization to enter and remain in vital area or inner area with escort without meeting prescribed conditions | C
-
-110 | 52(3) | Granting authorization to enter and remain in vital area or inner area without escort for term exceeding five years | B
-
-111 | 52(4) | Granting authorization to enter and remain in vital area or inner area not subject to necessary terms and conditions | B
-
-112 | 52(5) | Failure to provide copy of requested information or documents | B
-
-113 | 53(1) | Failure to keep record that sets out required information for each person who is authorized to enter protected area, vital area or inner area | B
-
-114 | 53(2) | Failure to retain record for specified period | B
-
-115 | 53(3) | Failure to provide copy of record to Commission or inspector on request | B
-
-116 | 53(4) | Failure to make copy of record available to nuclear security officers | B
-
-117 | 54 | Permitting person who does not have enhanced security clearance to carry out duties or responsibilities of security personnel or related to nuclear security intelligence | B
-
-118 | 55(1) | Acting as nuclear security officer without written authorization of licensee | B
-
-119 | 55(2) | Granting authorization to act as nuclear security officer without meeting prescribed conditions | B
-
-120 | 55(3) | Granting authorization to act as nuclear security officer without assessing person’s knowledge as required | B
-
-121 | 55(4) | Granting authorization to act as nuclear security officer for term exceeding five years or not subject to necessary terms and conditions | B
-
-122 | 55(5) | Failure to provide copy of requested information or documents | A
-
-123 | 56(1) | Acting as nuclear security support person without required authorization and any required escort | B
-
-124 | 56(2) | Granting authorization to act as nuclear security support person without escort without meeting prescribed condition | B
-
-125 | 56(3) | Granting authorization to act as nuclear security support person with escort without obtaining specified information and documents | B
-
-126 | 56(4) | Failure to include required conditions in authorization to act as nuclear security support person | B
-
-127 | 56(5) | Granting authorization to act as nuclear security support person without escort for term exceeding five years | B
-
-128 | 56(6) | Granting authorization to as nuclear security support person not subject to necessary terms and conditions | B
-
-129 | 56(7) | Failure to provide copy of requested information or documents | A
-
-130 | 57(1) | Acting as central alarm station operator without written authorization of the licensee | B
-
-131 | 57(2) | Granting authorization to act as central alarm station operator without meeting prescribed requirements | B
-
-132 | 57(3) | Granting authorization to act as central alarm station operator for term exceeding five years or not subject to necessary terms and conditions | B
-
-133 | 57(4) | Failure to provide copy of requested information or documents | A
-
-134 | 58(1) | Failure to keep up-to-date list of each person granted a specified authorization and that identifies that authorization | B
-
-135 | 58(2) | Failure to provide copy of record to Commission or inspector on request | B
-
-136 | 59(1)(a) | Failure to revoke authorization of person who poses or could pose an unreasonable risk to health or safety of persons or security of the high-security site | B
-
-137 | 59(1)(b) | Failure to revoke authorization of person who is no longer employed by or under contract to the licensee | B
-
-138 | 59(1)(c) | Failure to revoke authorization of person whose duties or functions have been completed, suspended or otherwise terminated | B
-
-139 | 59(1)(d) | Failure to revoke authorization of person who no longer requires it to perform their duties | B
-
-140 | 59(1)(e) | Failure to revoke authorization of person who provided false or misleading information | B
-
-141 | 59(2) | Failure to notify Commission in writing of revocation of authorization as required within prescribed time | B
-
-142 | 60 | Failure to equip high-security site with devices that provide uninterrupted power supply for critical security measures | B
-
-143 | 61(1) | Failure to enclose protected area with physical barrier at perimeter | B
-
-144 | 61(2) | Failure to protect perimeter of protected area with required nuclear security measures or by keeping it under direct visual surveillance of nuclear security officer | B
-
-145 | 61(3) | Failure to design and construct physical barrier and design and implement nuclear security measures such that they together provide sufficient time and reduce risk as required | B
-
-146 | 61(5)(a) | Failure to construct means of entry or exit so that it can be closed and securely locked | B
-
-147 | 61(5)(b) | Failure to keep means of entry or exit closed and securely locked except in specified circumstances | B
-
-148 | 62(1) | Failure to have unobstructed area on both sides of physical barrier as required | B
-
-149 | 62(2) | Failure to illuminate unobstructed area as required | B
-
-150 | 63 | Failure to protect perimeter of protected area with required nuclear security measure | B
-
-151 | 64 | Failure to establish process to identify vital areas and keep required record | B
-
-152 | 65(1)(a) | Failure to protect vital area with nuclear security measures that are in addition to those used to protect the protected area | B
-
-153 | 65(1)(b) | Failure to protect vital area with nuclear security measures that provide access control for the area | B
-
-154 | 65(1)(c) | Failure to protect vital area with nuclear security measures that provide for detection of unauthorized access to the area | B
-
-155 | 65(1)(d) | Failure to protect vital area with nuclear security measures that delay adversaries as required | B
-
-156 | 65(1)(e) | Failure to protect vital area with nuclear security measures that triggers the specified alarm | B
-
-157 | 65(1)(f) | Failure to protect vital area with nuclear security measures that are monitored as required | B
-
-158 | 65(2) | Failure to securely lock means of entry or exit in vital area | B
-
-159 | 66 | Failure to keep up-to-date list of persons as specified | B
-
-160 | 67(1) | Failure to enclose inner area with structure as required | B
-
-161 | 67(2) | Failure to keep means of entry or exit closed and securely locked with required device | B
-
-162 | 68(1) | Failure to protect inner area with required nuclear security measures or by keeping it under direct visual surveillance of nuclear security officer | B
-
-163 | 68(2) | Failure to protect inner area with required nuclear security measures | B
-
-164 | 69(1)(a) | Permitting unauthorized person to enter or remain in protected area | B
-
-165 | 69(1)(b) | Permitting unauthorized person to enter or remain in vital area | C
-
-166 | 69(1)(c) | Permitting unauthorized person to enter or remain in inner area | B
-
-167 | 69(2) | Permit person who requires escort to enter and remain in protected area or inner area without escort | B
-
-168 | 70 | Failure to immediately report unauthorized person to nuclear security officer | B
-
-169 | 71(a) | Failure to ensure that weapons are only taken into protected area or inner area in specified circumstances | B
-
-170 | 71(b) | Failure to ensure that explosive substances are only taken into protected area or inner area in specified circumstances | B
-
-171 | 71(c) | Failure to ensure that threat items are only taken into protected area or inner if they are necessary for an operational requirement | B
-
-172 | 72(1) | Failure to ensure Category I, II or III nuclear material is only removed from protected area or inner area in accordance with licence | B
-
-173 | 72(2) | Failure to ensure Category I, II or III nuclear material is only removed from vital area with authorization of licensee | B
-
-174 | 73(a) | Taking weapon into protected area or inner area except in specified circumstances | B
-
-175 | 73(b) | Taking explosive substance into protected area or inner area except in specified circumstances | B
-
-176 | 73(c) | Taking threat items into protected area or inner area that are not necessary for an operational requirement | B
-
-177 | 73(d) | Removing Category I, II or III nuclear material from protected area, vital area or inner area without authorization of licensee | B
-
-178 | 74 | Failure to verify identity of person entering protected area as required | C
-
-179 | 75 | Failure to verify and record identity of person entering vital area | B
-
-180 | 76 | Permitting land vehicle to enter protected area, vital area or inner area without operational requirement | B
-
-181 | 77(1) | Failure to ensure that land vehicles only enter or exit protected area through vehicle portal or opening as required | C
-
-182 | 77(2) | Failure to ensure that both moveable barriers of vehicle portal or opening are not open at same time except in specified circumstances | B
-
-183 | 77(3) | Failure to ensure that vehicle portal or opening is attended or protected as required when both moveable barriers are open at the same time | B
-
-184 | 78(1) | Permitting means of entry or exit in structure enclosing inner area to be unlocked, opened or kept open longer than required | B
-
-185 | 78(2) | Permitting means of entry or exit in structure enclosing inner area to be unlocked, opened or kept open without direct visual surveillance of nuclear security officer | B
-
-186 | 78(3) | Permitting means of entry or exit in structure or barrier enclosing inner area to be unlocked by unauthorized persons | B
-
-187 | 79 | Entering and remaining in inner area without being accompanied as required | B
-
-188 | 80(1) | Failure to post required signage for high-security site | B
-
-189 | 80(2) | Failure to post required signage for protected area or inner area | A
-
-190 | 81(1) | Permitting person to enter protected area or inner area without having them and their possessions searched as required | B
-
-191 | 81(2) | Failure to ensure that all persons and their possessions are searched as required when exiting protected area or inner area | B
-
-192 | 81(4) | Permitting person to remain in protected area or inner area without having them and their possessions searched as required | B
-
-193 | 81(5) | Failure to conduct search in accordance with requirements | B
-
-194 | 81(6) | Failure to conduct search of land vehicle in vehicle portal as required | B
-
-195 | 82 | Entering protected area or inner area after refusing search | B
-
-196 | 85(1) | Granting facility-access security clearance without meeting prescribed conditions | B
-
-197 | 85(3) | Granting facility-access security clearance for term exceeding 10 years or not subject to necessary terms and conditions | B
-
-198 | 85(4) | Failure to keep record indicating how the status or clearance was verified | A
-
-199 | 86(1) | Failure to keep an up-to-date list of persons granted facility-access security clearance | A
-
-200 | 86(2) | Failure to provide copy of list of persons to Commission or inspector on request | A
-
-201 | 87(1)(a) | Failure to revoke facility-access security clearance of person who poses or could pose an unreasonable risk to health or safety of persons or security of nuclear facility | B
-
-202 | 87(1)(b) | Failure to revoke facility-access security clearance of person who is no longer employed by or under contract to licensee | B
-
-203 | 87(1)(c) | Failure to revoke facility-access security clearance of person whose duties or functions have been completed, suspended or otherwise terminated | B
-
-204 | 87(1)(d) | Failure to revoke facility-access security clearance of person who no longer requires it to carry out their duties | B
-
-205 | 87(1)(e) | Failure to revoke facility-access security clearance of person who provided false or misleading information | B
-
-206 | 87(2) | Failure to notify Commission in writing of revocation of facility-access security clearance as required within prescribed time | A
-
-207 | 88(1) | Entering or remaining in nuclear facility without facility-access security clearance or required escort | B
-
-208 | 89(1) | Failure to ensure that every person who enters or remains in nuclear facility is permitted to do so | B
-
-209 | 89(2) | Failure to establish and implement process that controls access to the nuclear facility and ensures verification of the identity of persons entering it | B
-
-210 | 90(a) | Failure to ensure that weapons are only taken into nuclear facility in specified circumstances | B
-
-211 | 90(b) | Failure to ensure that explosive substances are only taken into nuclear facility in specified circumstances | B
-
-212 | 90(c) | Failure to ensure that threat items are only taken into nuclear facility if they are necessary for an operational requirement | B
-
-213 | 91(a) | Taking weapon into nuclear facility except in specified circumstances | B
-
-214 | 91(b) | Taking explosive substance into nuclear facility except in specified circumstances | B
-
-215 | 91(c) | Taking threat items into nuclear facility that are not necessary for an operational requirement | B
-
-216 | 91(d) | Removing nuclear substance from nuclear facility without authorization of licensee | B
-
-217 | 92(1) | Permitting a land vehicle to enter a nuclear facility without meeting prescribed conditions | B
-
-218 | 93 | Failure to post required signage | B
-
-219 | 94(1) | Failure to implement processes that provide for manner of selecting persons to be searched or screened | B
-
-220 | 94(2) | Permitting person selected for search or screening to enter nuclear facility without required search or screening | B
-
-221 | 95 | Failure to conduct search or screening as required | B
-
-222 | 96(1) | Failure to conduct a security exercise testing the required elements at the specified interval | B
-
-223 | 96(2) | Failure to notify Commission in writing of intent to conduct security exercise within prescribed time | A
-
-224 | 96(3) | Failure to create record containing required information each time security exercise is conducted | A
-
-225 | 96(4) | Failure to create corrective action plan setting out required information | B
-
-226 | 96(5) | Failure to implement corrective actions as required | B
-
-227 | 96(6) | Failure to provide copy of record and any corrective action plan to Commission within prescribed time | A
-
-228 | 101(1) | Failure to conduct security exercise as required at the specified interval | B
-
-229 | 101(2) | Failure to keep record containing the required information each time a security exercise is conducted | B
-
-230 | 101(3) | Failure to create corrective action plan setting out required information | B
-
-231 | 101(4) | Failure to implement corrective actions as required | B
-
-232 | 101(5) | Failure to provide a copy of record and any corrective action plan to Commission within prescribed period | A
+101 | 48 | Failure to develop and implement supervisory awareness program | B
 
 PART 10
 
@@ -1202,9 +932,7 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision | Short-form Description | Category
 
-1 | 3.1 | Failure to retain a record relevant to any import or export under a licence for the specified period | A
-
-2 | 4(3) | Failure to submit a written report to the Commission concerning the export of a controlled nuclear substance within the specified period and with the specified information | B
+1 | 4(3) | Failure to submit a written report to the Commission concerning the export of a controlled nuclear substance within the specified period and with the specified information | B
 
 History:
 
@@ -1213,9 +941,3 @@ History:
 - SOR/2017-199, s. 7
 
 - SOR/2020-237, s. 24
-
-- SOR/2025-196, s. 74
-
-- SOR/2025-196, s. 75
-
-- SOR/2025-219, s. 104
