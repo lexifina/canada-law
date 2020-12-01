@@ -22,7 +22,7 @@ Item | Regulations | Provisions
 
 8 | [Repealed, SOR/2016-96, s. 2]
 
-9 | [Repealed, SOR/2021-25, s. 84]
+9 | PCB Waste Export Regulations, 1996 | (a) section 3 (b) section 11
 
 10 | Benzene in Gasoline Regulations | (a) section 3 (b) section 4 (c) subsection 13(5) (d) subsections 16(1) and (7) (e) subsection 17(1)
 
@@ -36,11 +36,11 @@ Item | Regulations | Provisions
 
 15 | Solvent Degreasing Regulations | (a) subsection 3(1)
 
-16 | Federal Halocarbon Regulations, 2022 | (a) subsection 3(1) (b) section 4 (c) subsections 5(1) and (2) (d) subsection 6(1) (e) subsection 7(1) (f) section 8 (g) section 9 (h) section 10 (i) subsection 12(1) (j) section 13
+16 | Federal Halocarbon Regulations, 2003 | (a) section 3 (b) subsections 5(1) and (2)
 
 17 | [Repealed, SOR/2017-110, s. 39]
 
-18 | [Repealed, SOR/2025-36, s. 25]
+18 | 2-Butoxyethanol Regulations | (a) subsection 2(1) (b) section 3 (c) subsection 4(1)
 
 19 | [Repealed, SOR/2016-252, s. 26]
 
@@ -48,7 +48,7 @@ Item | Regulations | Provisions
 
 21 | [Repealed, SOR/2016-252, s. 26]
 
-22 | PCB Regulations | (a) section 5 (b) section 6 (c) subsection 15.1(2) (d) subsection 15.2(2) (e) subsection 15.3(2) (f) section 19 (g) subsection 20(1) (h) subsections 21(1) and (3) (i) section 24 (j) paragraphs 25(a) to (i) and (l) to (o) (k) paragraph 27(b)
+22 | PCB Regulations | (a) section 5 (b) section 6
 
 23 | Chromium Electroplating, Chromium Anodizing and Reverse Etching Regulations | (a) subsection 3(1)
 
@@ -58,13 +58,13 @@ Item | Regulations | Provisions
 
 26 | Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations | (a) subsection 3(1) (b) subsection 6(5) (c) paragraph 10(e) (d) subsection 14(5)
 
-27 | Prohibition of Certain Toxic Substances Regulations, 2025 | (a) subsection 5(1) (b) [Repealed, SOR/2025-270, s. 14]
+27 | Prohibition of Certain Toxic Substances Regulations, 2012 | (a) subsection 4(1) (b) subsection 6(1)
 
-28 | Products Containing Mercury Regulations | (a) subsections 3(1) and (2) (b) section 3.1
+28 | Products Containing Mercury Regulations | (a) paragraphs 3(a) and (b)
 
 29 | Microbeads in Toiletries Regulations | (a) subsections 3(1) and (2)
 
-30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) subsection 26(1) (q) section 27 (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) subsections 37(1) and (2) (w) section 38 (x) subsections 39(1) and (2) (y) section 42 (z) section 43 (z.1) [Repealed, SOR/2025-280, s. 24] (z.2) [Repealed, SOR/2025-280, s. 24] (z.3) [Repealed, SOR/2025-280, s. 24] (z.4) [Repealed, SOR/2025-280, s. 24] (z.5) [Repealed, SOR/2025-280, s. 24] (z.6) [Repealed, SOR/2025-280, s. 24] (z.7) [Repealed, SOR/2025-280, s. 24]
+30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) [Not in force] (q) [Not in force] (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) [Not in force] (w) [Not in force] (x) [Not in force] (y) section 42 (z) section 43 (z.1) subsection 47(1) (z.2) section 48 (z.3) section 49 (z.4) subsection 50(3) (z.5) section 51 (z.6) section 52 (z.7) section 53
 
 31 | Reduction in the Release of Volatile Organic Compounds Regulations (Petroleum Sector) | (a) paragraphs 3(2)(a), (b), (c) and (e) (b) section 11
 
@@ -72,23 +72,7 @@ Item | Regulations | Provisions
 
 33 | Regulations Limiting Carbon Dioxide Emissions from Natural Gas-fired Generation of Electricity | (a) subsections 4(1) and (2)
 
-34 | Volatile Organic Compound Concentration Limits for Certain Products Regulations | (a) subsections 3(1) and (2)
-
 35 | Export of Substances on the Export Control List Regulations | (a) section 5.1
-
-36 | Formaldehyde Emissions from Composite Wood Products Regulations | (a) section 5
-
-37 | Prohibition of the Manufacture and Importation of Wheel Weights Containing Lead Regulations | (a) subsection 3(1)
-
-38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
-
-39 | Certain Products Containing Toxic Substances Regulations | (a) section 14 (b) subsection 15(1) (c) section 18 (d) section 19 (e) section 22 (f) section 23
-
-40 | Cross-border Movement of Hazardous Waste and Hazardous Recyclable Material Regulations | (a) subsections 18.01(1) and (2)
-
-41 | Landfill Methane Regulations | (a) subsection 7(1) (b) subsections 8(1) and (2) (c) subsections 11(1) and (2) (d) subsections 14(1) and (2) (e) subsection 16(1) (f) subsections 18(1) and (2)
-
-44 | Reduction in the Release of Volatile Organic Compounds (Storage and Loading of Volatile Petroleum Liquids) Regulations | (a) subsections 33(1) and (2) (b) section 35 (c) section 36 (d) section 38 (e) section 39 (f) section 40 (g) section 41 (h) section 42 (i) subsection 43(3) (j) section 46 (k) section 49 (l) section 50 (m) section 52 (n) section 53 (o) subsection 54(1) (p) subsection 56(1) (q) section 57 (r) section 58 (s) section 59 (t) section 60 (u) subsection 61(1) (v) section 62 (w) section 63 (x) subsection 64(1) (y) subsections 65(2) and (3) (z) subsection 66(1) (z.01) section 67 (z.02) section 68 (z.03) section 69 (z.04) subsection 70(1) (z.05) section 71 (z.06) section 72 (z.07) subsection 73(1) (z.08) subsection 74(2) (z.09) subsection 75(1) (z.10) section 76 (z.11) section 77 (z.12) section 78 (z.13) section 79 (z.14) subsections 86(1) and (2) (z.15) subsection 90(1) (z.16) subsection 91(1) (z.17) section 93 (z.18) subsection 94(1) (z.19) subsection 95(1) (z.20) section 96 (z.21) subsections 100(1), (3) and (4) (z.22) section 101 (z.23) subsection 103(1) (z.24) section 104 (z.25) section 105
 
 History:
 
@@ -115,33 +99,3 @@ History:
 - SOR/2019-89, s. 1
 
 - SOR/2020-231, s. 46
-
-- SOR/2021-25, s. 84
-
-- SOR/2021-268, s. 28
-
-- SOR/2022-89, s. 1
-
-- SOR/2022-110, s. 27
-
-- SOR/2022-138, s. 12
-
-- SOR/2023-15, s. 12
-
-- SOR/2024-109, s. 13
-
-- SOR/2025-36, s. 25
-
-- SOR/2025-36, s. 26
-
-- SOR/2025-88, s. 137
-
-- SOR/2025-270, s. 14
-
-- SOR/2025-273, s. 18
-
-- SOR/2025-279, s. 29
-
-- SOR/2025-280, s. 24
-
-- SOR/2026-174, s. 21
