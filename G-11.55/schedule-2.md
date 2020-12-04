@@ -950,7 +950,7 @@ Item | Type | Unit | Listed Province | Rate
 
 TABLE 4
 
-Rates of charge applicable for the period beginning on April 1, 2022 and ending on March 31, 2023
+Rates of charge applicable after March 31, 2022
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -1264,57 +1264,7 @@ Item | Type | Unit | Listed Province | Rate
 
 (g) Nunavut | 99.87
 
-TABLE 5
-
-Rates of charge applicable after March 31, 2023
-
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6
-
-Item | Type | Unit | Rates of charge applicable for the period beginning on April 1, 2023 and ending on March 31, 2024 | Rates of charge applicable for the period beginning on April 1, 2024 and ending on March 31, 2025 | Rates of charge applicable after March 31, 2025
-
-1 | Aviation gasoline | $/litre | 0.1592 | 0.1959 | 0
-
-2 | Aviation turbo fuel | $/litre | 0.1678 | 0.2065 | 0
-
-3 | Butane | $/litre | 0.1157 | 0.1424 | 0
-
-4 | Ethane | $/litre | 0.0662 | 0.0815 | 0
-
-5 | Gas liquids | $/litre | 0.1081 | 0.1331 | 0
-
-6 | Gasoline | $/litre | 0.1431 | 0.1761 | 0
-
-7 | Heavy fuel oil | $/litre | 0.2072 | 0.2550 | 0
-
-8 | Kerosene | $/litre | 0.1678 | 0.2065 | 0
-
-9 | Light fuel oil | $/litre | 0.1738 | 0.2139 | 0
-
-10 | Methanol | $/litre | 0.0714 | 0.0878 | 0
-
-11 | Naphtha | $/litre | 0.1465 | 0.1803 | 0
-
-12 | Petroleum coke | $/litre | 0.2452 | 0.3018 | 0
-
-13 | Pentanes plus | $/litre | 0.1157 | 0.1424 | 0
-
-14 | Propane | $/litre | 0.1006 | 0.1238 | 0
-
-15 | Coke oven gas | $/cubic metre | 0.0455 | 0.0560 | 0
-
-16 | Marketable natural gas | $/cubic metre | 0.1239 | 0.1525 | 0
-
-17 | Non-marketable natural gas | $/cubic metre | 0.1654 | 0.2035 | 0
-
-18 | Still gas | $/cubic metre | 0.1396 | 0.1718 | 0
-
-19 | Coke | $/tonne | 206.68 | 254.38 | 0
-
-20 | High heat value coal | $/tonne | 145.02 | 178.48 | 0
-
-21 | Low heat value coal | $/tonne | 115.21 | 141.80 | 0
-
-22 | Combustible waste | $/tonne | 129.82 | 159.78 | 0
+- TABLE 5 [Repealed, SOR/2019-79, s. 3]
 
 History:
 
@@ -1337,9 +1287,3 @@ History:
 - SOR/2020-261, s. 3
 
 - SOR/2020-261, s. 4
-
-- SOR/2023-62, s. 1
-
-- SOR/2023-62, s. 2
-
-- SOR/2025-107, s. 1

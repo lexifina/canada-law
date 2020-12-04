@@ -10,19 +10,13 @@ Item | Name of Province
 
 1 | Ontario
 
-2 | Nova Scotia
-
-2.1 | New Brunswick
+2 | [Repealed, SOR/2020-261, s. 1]
 
 3 | Manitoba
-
-3.1 | Prince Edward Island
 
 4 | Saskatchewan
 
 4.1 | Alberta
-
-4.2 | Newfoundland and Labrador
 
 5 | Yukon
 
@@ -34,15 +28,15 @@ List of Provinces
 
 Item | Province
 
-1 | [Repealed, SOR/2021-195, s. 1]
+1 | Ontario
 
-2 | [Repealed, SOR/2021-195, s. 2]
+2 | New Brunswick
 
 3 | Manitoba
 
 4 | Prince Edward Island
 
-5 | [Repealed, SOR/2023-148, s. 1]
+5 | Saskatchewan
 
 6 | Yukon
 
@@ -61,17 +55,3 @@ History:
 - SOR/2019-294, s. 3
 
 - SOR/2020-261, s. 1
-
-- SOR/2021-195, s. 1
-
-- SOR/2021-195, s. 2
-
-- SOR/2023-129, s. 1
-
-- SOR/2023-129, s. 2
-
-- SOR/2023-129, s. 3
-
-- SOR/2023-130, s. 1
-
-- SOR/2023-148, s. 1
