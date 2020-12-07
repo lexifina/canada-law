@@ -1,14 +1,8 @@
 ## SCHEDULE (Subsections 2(1) and (3))
 
-- Aamjiwnaang
-
-- Abegweit
-
 - Abénakis of Wôlinak First Nation
 
 - Acadia
-
-- Acho Dene Koe First Nation
 
 - Adams Lake Indian Band
 
@@ -20,8 +14,6 @@
 
 - ?Akisq’nuk First Nation
 
-- Algonquins of Barriere Lake
-
 - Algonquins of Pikwakanagan First Nation
 
 - Animakee Wa Zhing #37 First Nation
@@ -32,17 +24,11 @@
 
 - Annapolis Valley First Nation
 
-- ?Aq’am
-
 - Atikameksheng Anishnawbek
 
 - Atikamekw of Opitciwan First Nation
 
 - Atikamekw of Wemotaci First Nation
-
-- Attawapiskat
-
-- Batchewana First Nation
 
 - Beardy’s and Okemasis
 
@@ -58,21 +44,15 @@
 
 - Berens River
 
-- Big Grassy
-
 - Big Island Lake Cree Nation
 
 - Bigstone Cree Nation
 
 - Biinjitiwaabik Zaaging Anishinaabek First Nation
 
-- Binche Whut'en
-
 - Bingwi Neyaashi Anishinaabek
 
 - Black River First Nation
-
-- Bonaparte First Nation
 
 - Brokenhead Ojibway Nation
 
@@ -116,21 +96,19 @@
 
 - Conseil de la Première Nation Abitibiwinni
 
-- Constance Lake
+- Conseil des Montagnais du Lac Saint-Jean
 
 - Cook’s Ferry
 
 - Cote First Nation
 
-- Cowichan
+- Cowichan Tribes First Nation
 
-- Cross Lake Band of Indians
+- Cross Lake First Nation
 
 - Cumberland House Cree Nation
 
 - Curve Lake First Nation
-
-- Dakota Plains
 
 - Dakota Tipi
 
@@ -156,17 +134,11 @@
 
 - Esdilagh First Nation
 
-- Eskasoni
-
-- Esk’etemc
-
 - Esquimalt Nation
 
 - Fisher River
 
 - Flying Dust First Nation
-
-- Fort McKay First Nation
 
 - Fort McMurray #468 First Nation
 
@@ -174,21 +146,13 @@
 
 - Fort William
 
-- Fox Lake
-
 - Frog Lake First Nation
 
-- Gambler First Nation
+- Gamblers
 
 - Garden Hill First Nation
 
-- Garden River First Nation
-
 - George Gordon First Nation
-
-- Gitanmaax
-
-- Gitanyow
 
 - Gitga’at First Nation
 
@@ -198,17 +162,11 @@
 
 - Gitxaala Nation
 
-- Glen Vowell
-
 - Glooscap First Nation
 
 - Gwa’sala-’Nakwaxda’xw Nations
 
-- Gwichya Gwich'in
-
-- Hagwilget Village Council
-
-- Haisla Nation
+- Hagwilget First Nation
 
 - Halalt First Nation
 
@@ -222,21 +180,15 @@
 
 - Homalco First Nation
 
-- Hupacasath First Nation
-
 - Indian Island First Nation
 
 - Innue Essipit
 
 - Bande des Innus de Pessamit
 
-- Innu Takuaikan Uashat mak Mani-utenam
-
 - Inuvik Native Band
 
 - Iskatewizaagegan #39 Independent First Nation
-
-- Iskut
 
 - Jean Marie River First Nation
 
@@ -244,13 +196,9 @@
 
 - Kanaka Bar
 
-- K’atlodeeche First Nation
-
 - Katzie First Nation
 
 - Kawacatoose First Nation
-
-- Kebaowek First Nation
 
 - Kehewin Cree Nation
 
@@ -267,10 +215,6 @@
 - Kitigan Zibi Anishinabeg
 
 - Kitselas First Nation
-
-- Kitsumkalum
-
-- Klahoose First Nation
 
 - K’ómoks First Nation
 
@@ -290,6 +234,8 @@
 
 - Lake Babine Nation
 
+- Lake Cowichan First Nation
+
 - Lake Manitoba First Nation
 
 - Lake St. Martin
@@ -304,15 +250,7 @@
 
 - Lhtako Dene Nation
 
-- Liard First Nation
-
-- Liidlii Kue First Nation
-
-- Lil’wat Nation
-
 - Listuguj Mi’gmaq Government
-
-- Little Grand Rapids
 
 - Little Red River Cree Nation
 
@@ -324,19 +262,11 @@
 
 - Long Point First Nation
 
-- Loon River Cree
-
-- Louis Bull Tribe
-
 - Lower Kootenay Indian Band
 
 - Lower Nicola Indian Band
 
 - Lower Similkameen
-
-- Lubicon Lake
-
-- Lyackson
 
 - Lytton
 
@@ -344,11 +274,7 @@
 
 - Makwa Sahgaiehcan First Nation
 
-- Malahat Nation
-
-- Marcel Colomb First Nation
-
-- Martin Falls
+- Malahat First Nation
 
 - Matsqui First Nation
 
@@ -364,53 +290,41 @@
 
 - Miawpukek First Nation
 
-- La Nation Micmac de Gespeg
-
 - Micmacs of Gesgapegiag
-
-- Mikisew Cree First Nation
 
 - Millbrook Band
 
 - Misipawistik Cree Nation
 
-- Mississauga
-
 - Mississaugas of Scugog Island First Nation
 
-- Mississaugas of the Credit
-
-- Mistawasis Nêhiyawak
+- Mistawasis
 
 - Mitaanjigamiing First Nation
 
 - Mohawks of the Bay of Quinte
 
-- Montagnais de Pakua Shipi
-
 - Montana First Nation
 
 - Moosomin
 
+- Moricetown Indian Band
+
 - Mosquito, Grizzly Bear’s Head, Lean Man First Nations
+
+- Mount Currie
 
 - Munsee-Delaware First Nation
 
-- Mushuau Innu First Nation
-
-- Muskeg Lake Cree Nation #102
+- Muskeg Lake Cree Nation
 
 - Muskoday First Nation
 
 - Muskowekwan
 
-- Musqueam
-
 - Nadleh Whut’en Band
 
-- Nahanni Butte
-
-- Nak’azdli Whut’en
+- Nak’azdli
 
 - Namgis First Nation
 
@@ -418,33 +332,19 @@
 
 - Naotkamegwanning First Nation
 
-- Nation Anishnabe du Lac Simon
-
-- Nation Huronne Wendat
-
-- Natoaganeg
-
 - Nazko First Nation
 
-- Nee-Tahi-Buhn
-
 - Neskonlith Indian Band
-
-- Netmizaaggamig Nishnaabeg
-
-- Niisaachewan Anishinaabe Nation
 
 - Nipissing First Nation
 
 - Nisichawayasihk Cree Nation
 
-- Nooaitch
-
-- Northwest Angle No.33
-
 - Norway House Cree Nation
 
 - N’Quatqua
+
+- Obashkaandagaang
 
 - Ocean Man First Nation
 
@@ -452,25 +352,17 @@
 
 - O’Chiese
 
-- Odanak
-
-- Ojibway Nation of Saugeen
+- Ochiichagwe’babigo’ining Ojibway Nation
 
 - Okanese First Nation
-
-- Old Massett Village Council
-
-- One Arrow First Nation
 
 - Onion Lake Cree Nation
 
 - Opaskwayak Cree Nation
 
-- Oromocto First Nation
+- Oromocto
 
 - Osoyoos Indian Band
-
-- Pabineau
 
 - Pacheedaht First Nation
 
@@ -480,31 +372,23 @@
 
 - Paul First Nation
 
-- Pauquachin
-
 - Peepeekisis Cree Nation No. 81
 
 - Peguis
-
-- Pekuakamiulnuatsh First Nation
-
-- Pelican Lake
 
 - Penticton Indian Band
 
 - Peter Ballantyne Cree Nation
 
-- Peters First Nation
+- Peters
 
 - Pheasant Rump Nakota
 
 - Piapot First Nation
 
+- Pic Mobert
+
 - Pictou Landing First Nation
-
-- Piikani Nation
-
-- Pinaymootang First Nation
 
 - Pine Creek
 
@@ -514,13 +398,7 @@
 
 - Potlotek First Nation
 
-- Poundmaker
-
-- Prophet River First Nation
-
 - Qalipu Mi’kmaq First Nation
-
-- Qualicum First Nation
 
 - Quatsino
 
@@ -538,7 +416,7 @@
 
 - Saik’uz First Nation
 
-- Saint Mary’s
+- Sakimay First Nations
 
 - Salt River First Nation #195
 
@@ -552,19 +430,21 @@
 
 - Saulteaux First Nation
 
+- Scowlitz
+
 - Seabird Island Band
 
 - Semiahmoo First Nation
 
 - Serpent River First Nation
 
+- Seton Lake
+
 - Shackan First Nation
 
 - Shawanaga First Nation
 
 - Sheguiandah First Nation
-
-- Sheshatshiu Innu First Nation
 
 - Sheshegwaning First Nation
 
@@ -602,15 +482,11 @@
 
 - Snuneymuxw First Nation
 
-- Songhees Nation
+- Songhees First Nation
 
 - Soowahlie
 
-- Splatsin
-
-- Spuzzum
-
-- Sq’éwlets
+- Splatsin First Nation
 
 - Squamish Nation
 
@@ -622,11 +498,11 @@
 
 - Stellat’en First Nation
 
+- St. Mary’s First Nation
+
 - Stoney Nation
 
 - Sts’ailes
-
-- Stswecem’c Xgat’tem First Nation
 
 - St. Theresa Point
 
@@ -634,19 +510,13 @@
 
 - Stz’uminus First Nation
 
-- Sucker Creek
-
 - Sumas First Nation
 
 - Sunchild First Nation
 
-- Swan Lake First Nation
-
 - Swan River First Nation
 
 - Sweetgrass
-
-- Tahltan
 
 - Takla Nation
 
@@ -670,25 +540,17 @@
 
 - Tla-o-qui-aht First Nations
 
-- Tl'azt'en Nation
-
-- Tl’etinqox Government
+- Tobacco Plains Indian Band
 
 - Tobique First Nation
 
-- Tsal’alh
+- Tsartlip First Nation
 
 - Tsawout First Nation
 
 - Tsay Keh Dene Nation
 
-- Tseshaht
-
 - Tseycum First Nation
-
-- Tŝideldel First Nation
-
-- Ts'il Kaz Koh
 
 - Ts’kw’aylaxw First Nation
 
@@ -696,37 +558,23 @@
 
 - T’Sou-ke First Nation
 
-- Tsq’escen’ First Nation
-
-- Ts’uubaa-asatx
-
-- Tsuut’ina Nation
+- Tsuu T’ina Nation
 
 - Tzeachten First Nation
-
-- Ulkatcho
 
 - Upper Nicola Indian Band
 
 - Wagmatcook First Nation
 
-- Wahgoshig First Nation
+- Wahgoshig
 
 - Wahnapitae First Nation
-
-- Walpole Island
 
 - Wasagamack First Nation
 
 - Wasauksing First Nation
 
-- Washagamis Bay
-
-- Waterhen Lake
-
 - Waywayseecappo First Nation Treaty 4-1874
-
-- Webequie First Nation
 
 - We’koqma’q First Nation
 
@@ -740,39 +588,27 @@
 
 - White Bear First Nation
 
-- Whitefish Lake
+- Whitecap Dakota First Nation
 
 - Whitefish River First Nation
 
 - Wikwemikong
 
-- Williams Lake First Nation
-
-- Witset First Nation
-
-- W̱JOȽEȽP
+- Williams Lake
 
 - Wolastoqiyik (Malecite) Wahsipekuk First Nation
 
-- Wolf Lake
-
 - Woodstock First Nation
-
-- Wuikinuxv Nation
 
 - Wunnumin
 
 - Wuskwi Sipihk First Nation
-
-- Xatśūll First Nation
 
 - Xaxli’p
 
 - Yakweakwioose First Nation
 
 - Yale First Nation
-
-- Yaq̓it ʔa·knuqⱡi’it
 
 - Yekooche First Nation
 
@@ -781,8 +617,6 @@
 - Yellow Quill Band
 
 - York Factory First Nation
-
-- Zagimē Anishinabēk
 
 History:
 
@@ -843,107 +677,3 @@ History:
 - SOR/2020-245, s. 1
 
 - SOR/2020-268, s. 1
-
-- SOR/2021-29, s. 1
-
-- SOR/2021-39, s. 1(F)
-
-- SOR/2021-39, s. 2
-
-- SOR/2021-39, s. 3
-
-- SOR/2021-39, s. 4
-
-- SOR/2021-39, s. 5
-
-- SOR/2021-39, s. 6
-
-- SOR/2021-39, s. 7
-
-- SOR/2021-39, s. 8
-
-- SOR/2021-39, s. 9
-
-- SOR/2021-39, s. 10
-
-- SOR/2021-39, s. 11
-
-- SOR/2021-39, s. 12
-
-- SOR/2021-39, s. 13
-
-- SOR/2021-39, s. 14
-
-- SOR/2021-39, s. 15
-
-- SOR/2021-39, s. 16
-
-- SOR/2021-110, s. 1
-
-- SOR/2021-171, s. 1
-
-- SOR/2021-171, s. 2
-
-- SOR/2021-171, s. 3
-
-- SOR/2021-171, s. 4
-
-- SOR/2021-171, s. 5
-
-- SOR/2021-171, s. 6
-
-- SOR/2021-171, s. 7
-
-- SOR/2021-214, s. 1
-
-- SOR/2022-7, s. 1
-
-- SOR/2022-116, s. 1
-
-- SOR/2022-193, s. 1
-
-- SOR/2022-260, s. 1
-
-- 2023, c. 22, s. 24
-
-- SOR/2023-69, s. 1
-
-- SOR/2023-164, s. 1
-
-- SOR/2023-225, s. 1
-
-- SOR/2023-259, s. 1
-
-- SOR/2024-2, s. 1
-
-- SOR/2024-207, s. 1
-
-- SOR/2024-227, s. 1
-
-- SOR/2024-227, s. 2
-
-- SOR/2024-227, s. 3
-
-- SOR/2024-227, s. 4(F)
-
-- SOR/2024-227, s. 5
-
-- SOR/2024-227, s. 6
-
-- SOR/2024-227, s. 7
-
-- SOR/2024-227, s. 8
-
-- SOR/2024-227, s. 9(F)
-
-- SOR/2024-228, s. 1
-
-- SOR/2025-22, s. 1
-
-- SOR/2025-152, s. 1
-
-- SOR/2025-212, s. 1
-
-- SOR/2026-21, s. 1
-
-- SOR/2026-76, s. 1
