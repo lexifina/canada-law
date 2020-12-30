@@ -2,7 +2,7 @@
 
 - 1
 
-- [Repealed, SOR/2023-94, s. 1]
+- Madawaska Maliseet First Nation
 
 - 2
 
@@ -58,7 +58,7 @@
 
 - 15
 
-- We’koqma’q First Nation
+- Waycobah First Nation
 
 - 16
 
@@ -138,7 +138,7 @@
 
 - 35
 
-- Netmizaaggamig Nishnaabeg
+- Pic Mobert First Nation
 
 - 36
 
@@ -158,11 +158,11 @@
 
 - 40
 
-- Oromocto First Nation
+- Oromocto
 
 - 41
 
-- [Repealed, SOR/2026-86, s. 1]
+- Sakimay First Nations
 
 - 42
 
@@ -295,102 +295,6 @@
 - 74
 
 - Tsleil-Waututh Nation
-
-- 75
-
-- Ocean Man First Nation
-
-- 76
-
-- Serpent River First Nation
-
-- 77
-
-- Bear River First Nation
-
-- 78
-
-- Biigtigong Nishnaabeg
-
-- 79
-
-- Tsartlip First Nation
-
-- 80
-
-- Pauquachin First Nation
-
-- 81
-
-- Beausoleil First Nation
-
-- 82
-
-- Kinistin Saulteaux Nation
-
-- 83
-
-- Mattagami First Nation
-
-- 84
-
-- Odanak
-
-- 85
-
-- Pinaymootang First Nation
-
-- 86
-
-- Garden River First Nation
-
-- 87
-
-- Sagamok Anishnawbek
-
-- 88
-
-- Pasqua First Nation #79
-
-- 89
-
-- Sunchild First Nation
-
-- 90
-
-- Kinonjeoshtegon First Nation
-
-- 91
-
-- Animakee Wa Zhing #37
-
-- 92
-
-- Washagamis Bay
-
-- 93
-
-- Ministikwan Lake Cree Nation
-
-- 94
-
-- Paqtnkek Mi'kmaw Nation
-
-- 95
-
-- Saint Mary's
-
-- 96
-
-- Wikwemikong
-
-- 97
-
-- Bloodvein
-
-- 98
-
-- Semiahmoo
 
 History:
 
@@ -539,63 +443,3 @@ History:
 - SOR/2020-202, s. 1
 
 - SOR/2020-300, s. 1
-
-- SOR/2021-33, s. 1
-
-- SOR/2021-33, s. 2
-
-- SOR/2021-54, s. 1
-
-- SOR/2021-94, s. 1
-
-- SOR/2021-209, s. 1
-
-- SOR/2021-211, s. 1
-
-- SOR/2021-213, s. 1
-
-- SOR/2022-130, s. 1
-
-- SOR/2023-11, s. 1
-
-- SOR/2023-54, s. 1
-
-- SOR/2023-75, s. 1
-
-- SOR/2023-94, s. 1
-
-- SOR/2023-96, s. 1
-
-- SOR/2023-140, s. 1
-
-- SOR/2023-142, s. 1
-
-- SOR/2023-288, s. 1
-
-- SOR/2024-189, s. 1
-
-- SOR/2024-191, s. 1
-
-- SOR/2024-193, s. 1
-
-- SOR/2024-225, s. 1
-
-- SOR/2024-225, s. 2
-
-- SOR/2024-294, s. 1
-
-- SOR/2025-54, s. 1
-
-- SOR/2025-160, s. 1
-
-- SOR/2025-186, s. 1
-
-- SOR/2025-190, s. 1
-
-- SOR/2026-36, s. 1
-
-- SOR/2026-50, s. 1
-
-- SOR/2026-55, s. 1
-
-- SOR/2026-86, s. 1
