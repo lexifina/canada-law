@@ -42,8 +42,6 @@ First Nation of Nacho Nyak Dun | Assembly of the First Nation of Nacho Nyak Dun 
 
 Frog Lake | Council of Frog Lake | Each reserve of Frog Lake that is not shared with another band
 
-Gambler First Nation | Council of the Gambler First Nation | Each reserve of the Gambler First Nation that is not shared with another band
-
 Huu-ay-aht First Nations | Huu-ay-aht First Nations Government | Maanulth Lands, as defined in the Maanulth First Nations Final Agreement Act, S.C. 2009, c. 18, of the Huu-ay-aht First Nations
 
 Innue Essipit | Conseil de la Première Nation des Innus Essipit | Innue Essipit Reserve
@@ -55,8 +53,6 @@ Kahkewistahaw | Council of Kahkewistahaw | Each reserve of Kahkewistahaw that is
 Kamloops | Council of Kamloops | Each reserve of Kamloops that is not shared with another band
 
 Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations | Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations Government | Maanulth Lands, as defined in the Maanulth First Nations Final Agreement Act, S.C. 2009, c. 18, of the Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations
-
-Kingsclear | Council of Kingsclear | Each reserve of Kingsclear that is not shared with another band
 
 Kluane First Nation | Council of the Kluane First Nation | Settlement Land of the Kluane First Nation under the Kluane First Nation Final Agreement and the Yukon First Nations Land Claims Settlement Act, S.C. 1994, c. 34
 
@@ -72,11 +68,7 @@ Little Salmon/Carmacks First Nation | Assembly of the Little Salmon/Carmacks Fir
 
 Lower Kootenay | Council of Lower Kootenay | Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
 
-Madawaska Maliseet First Nation | Council of the Madawaska Maliseet First Nation | Each reserve of the Madawaska Maliseet First Nation that is not shared with another band
-
 Matsqui | Governing Body of Matsqui established under clause 2.1 of its by-law entitled Matsqui First Nation Custom Election Regulations and Procedures | Each reserve of Matsqui that is not shared with another band
-
-Metepenagiag Mi’kmaq Nation | Council of the Metepenagiag Mi’kmaq Nation | Reserves of the Metepenagiag Mi’kmaq Nation
 
 Mosquito, Grizzly Bear’s Head, Lean Man First Nation | Council of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation | Reserves of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation
 
@@ -88,11 +80,7 @@ Neskonlith Indian Band | Council of the Neskonlith Indian Band | Reserves of the
 
 Nisga’a Nation, within the meaning assigned by the Nisga’a Final Agreement, as defined in the Nisga’a Final Agreement Act, S.C. 2000, c. 7 | Nisga’a Lisims Government, within the meaning assigned by the Nisga’a Final Agreement, as defined in the Nisga’a Final Agreement Act, S.C. 2000, c. 7 | Nisga’a Lands, within the meaning assigned by the Nisga’a Final Agreement, as defined in the Nisga’a Final Agreement Act, S.C. 2000, c. 7
 
-Oromocto First Nation | Council of the Oromocto First Nation | Reserve of the Oromocto First Nation
-
 Peter Ballantyne Cree Nation | Council of the Peter Ballantyne Cree Nation | Reserves of the Peter Ballantyne Cree Nation
-
-Saint Mary’s | Council of Saint Mary’s | Reserves of Saint Mary’s
 
 Selkirk First Nation | Assembly of the Selkirk First Nation | Settlement Land of the Selkirk First Nation under the Selkirk First Nation Final Agreement and the Yukon First Nations Land Claims Settlement Act, S.C. 1994, c. 34
 
@@ -103,6 +91,8 @@ Skeetchestn | Council of Skeetchestn | Each reserve of Skeetchestn that is not s
 Skidegate | Council of Skidegate | Reserve of Skidegate
 
 Skowkale | Council of Skowkale | Each reserve of Skowkale that is not shared with another band
+
+Sliammon | Council of Sliammon | Reserve of Sliammon
 
 Songhees First Nation | Council of the Songhees First Nation | Reserves of the Songhees First Nation
 
@@ -116,15 +106,11 @@ Ta’an Kwach’an Council | Board of Directors and Elders Council of the Ta’a
 
 Teslin Tlingit Council | General Council of the Teslin Tlingit Council | Settlement Land of the Teslin Tlingit Council under the Teslin Tlingit Council Final Agreement and the Yukon First Nations Land Claims Settlement Act, S.C. 1994, c. 34
 
-Tla’amin Nation | Tla’amin Government | Tla’amin Lands, as defined in the Tla’amin Final Agreement Act, S.C. 2014, c. 11
-
 Tla-o-qui-aht | Council of the Tla-o-qui-aht First Nations | Reserve of the Tla-o-qui-aht First Nations
 
 Tlicho | Tlicho Government | Tlicho lands and Tlicho community within the meaning assigned by the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003 and approved, given effect and declared valid by the Tlicho Land Claims and Self-Government Act, as that Agreement is amended from time to time
 
 Tobacco Plains | Council of Tobacco Plains | Reserves of Tobacco Plains, other than the reserve designated as St. Mary’s No. 1A.
-
-Tobique | Council of Tobique | Each reserve of Tobique that is not shared with another band
 
 Toquaht Nation | Toquaht Nation Government | Maanulth Lands, as defined in the Maanulth First Nations Final Agreement Act, S.C. 2009, c. 18, of the Toquaht Nation
 
@@ -146,9 +132,7 @@ West Moberly First Nations | Council of the West Moberly First Nations | Reserve
 
 White Bear | Council of White Bear | Each reserve of White Bear that is not shared with another band
 
-Whitecap Dakota Nation | Whitecap Dakota Council | Whitecap Dakota reserve lands, as defined in the Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act
-
-Woodstock | Council of Woodstock | Each reserve of Woodstock that is not shared with another band
+Whitecap Dakota First Nation | Council of the Whitecap Dakota First Nation | Reserve of the Whitecap Dakota First Nation
 
 Yuułuʔiłʔatḥ First Nation (also known as the Ucluelet First Nation) | Yuułuʔiłʔatḥ First Nation Government | Maanulth Lands, as defined in the Maanulth First Nations Final Agreement Act, S.C. 2009, c. 18, of the Yuułuʔiłʔatḥ First Nation
 
@@ -191,11 +175,3 @@ History:
 - SOR/2019-102, s. 1
 
 - SOR/2021-10, s. 1
-
-- SOR/2022-275, s. 1
-
-- 2023, c. 22, s. 22
-
-- SOR/2024-103, s. 1
-
-- SOR/2024-103, s. 2
