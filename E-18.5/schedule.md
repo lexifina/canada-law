@@ -104,6 +104,8 @@
 
 - United Arab Emirates
 
+- United Kingdom of Great Britain and Northern Ireland
+
 - United States of America
 
 - Venezuela
@@ -133,3 +135,5 @@ History:
 - SOR/2017-95
 
 - SOR/2019-24, s. 1
+
+- SOR/2021-17, s. 1
