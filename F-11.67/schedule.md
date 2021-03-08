@@ -196,6 +196,8 @@
 
 - Kanaka Bar
 
+- K’atlodeeche First Nation
+
 - Katzie First Nation
 
 - Kawacatoose First Nation
@@ -315,6 +317,8 @@
 - Mount Currie
 
 - Munsee-Delaware First Nation
+
+- Mushuau Innu First Nation
 
 - Muskeg Lake Cree Nation
 
@@ -445,6 +449,8 @@
 - Shawanaga First Nation
 
 - Sheguiandah First Nation
+
+- Sheshatshiu Innu First Nation
 
 - Sheshegwaning First Nation
 
@@ -677,3 +683,5 @@ History:
 - SOR/2020-245, s. 1
 
 - SOR/2020-268, s. 1
+
+- SOR/2021-29, s. 1
