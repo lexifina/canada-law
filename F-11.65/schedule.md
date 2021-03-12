@@ -58,7 +58,7 @@
 
 - 15
 
-- Waycobah First Nation
+- We’koqma’q First Nation
 
 - 16
 
@@ -158,7 +158,7 @@
 
 - 40
 
-- Oromocto
+- Oromocto First Nation
 
 - 41
 
@@ -443,3 +443,7 @@ History:
 - SOR/2020-202, s. 1
 
 - SOR/2020-300, s. 1
+
+- SOR/2021-33, s. 1
+
+- SOR/2021-33, s. 2
