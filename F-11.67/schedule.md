@@ -24,6 +24,8 @@
 
 - Annapolis Valley First Nation
 
+- ?Aq’am
+
 - Atikameksheng Anishnawbek
 
 - Atikamekw of Opitciwan First Nation
@@ -96,15 +98,13 @@
 
 - Conseil de la Première Nation Abitibiwinni
 
-- Conseil des Montagnais du Lac Saint-Jean
-
 - Cook’s Ferry
 
 - Cote First Nation
 
 - Cowichan Tribes First Nation
 
-- Cross Lake First Nation
+- Cross Lake Band of Indians
 
 - Cumberland House Cree Nation
 
@@ -148,7 +148,7 @@
 
 - Frog Lake First Nation
 
-- Gamblers
+- Gambler First Nation
 
 - Garden Hill First Nation
 
@@ -252,6 +252,8 @@
 
 - Lhtako Dene Nation
 
+- Lil’wat Nation
+
 - Listuguj Mi’gmaq Government
 
 - Little Red River Cree Nation
@@ -300,7 +302,7 @@
 
 - Mississaugas of Scugog Island First Nation
 
-- Mistawasis
+- Mistawasis Nêhiyawak
 
 - Mitaanjigamiing First Nation
 
@@ -310,11 +312,7 @@
 
 - Moosomin
 
-- Moricetown Indian Band
-
 - Mosquito, Grizzly Bear’s Head, Lean Man First Nations
-
-- Mount Currie
 
 - Munsee-Delaware First Nation
 
@@ -328,7 +326,7 @@
 
 - Nadleh Whut’en Band
 
-- Nak’azdli
+- Nak’azdli Whut’en
 
 - Namgis First Nation
 
@@ -364,7 +362,7 @@
 
 - Opaskwayak Cree Nation
 
-- Oromocto
+- Oromocto First Nation
 
 - Osoyoos Indian Band
 
@@ -380,11 +378,13 @@
 
 - Peguis
 
+- Pekuakamiulnuatsh First Nation
+
 - Penticton Indian Band
 
 - Peter Ballantyne Cree Nation
 
-- Peters
+- Peters First Nation
 
 - Pheasant Rump Nakota
 
@@ -442,8 +442,6 @@
 
 - Serpent River First Nation
 
-- Seton Lake
-
 - Shackan First Nation
 
 - Shawanaga First Nation
@@ -488,11 +486,11 @@
 
 - Snuneymuxw First Nation
 
-- Songhees First Nation
+- Songhees Nation
 
 - Soowahlie
 
-- Splatsin First Nation
+- Splatsin
 
 - Squamish Nation
 
@@ -503,8 +501,6 @@
 - Star Blanket Cree Nation
 
 - Stellat’en First Nation
-
-- St. Mary’s First Nation
 
 - Stoney Nation
 
@@ -550,6 +546,8 @@
 
 - Tobique First Nation
 
+- Tsal’alh
+
 - Tsartlip First Nation
 
 - Tsawout First Nation
@@ -564,7 +562,7 @@
 
 - T’Sou-ke First Nation
 
-- Tsuu T’ina Nation
+- Tsuut’ina Nation
 
 - Tzeachten First Nation
 
@@ -572,7 +570,7 @@
 
 - Wagmatcook First Nation
 
-- Wahgoshig
+- Wahgoshig First Nation
 
 - Wahnapitae First Nation
 
@@ -601,6 +599,8 @@
 - Wikwemikong
 
 - Williams Lake
+
+- Witset First Nation
 
 - Wolastoqiyik (Malecite) Wahsipekuk First Nation
 
@@ -685,3 +685,35 @@ History:
 - SOR/2020-268, s. 1
 
 - SOR/2021-29, s. 1
+
+- SOR/2021-39, s. 1(F)
+
+- SOR/2021-39, s. 2
+
+- SOR/2021-39, s. 3
+
+- SOR/2021-39, s. 4
+
+- SOR/2021-39, s. 5
+
+- SOR/2021-39, s. 6
+
+- SOR/2021-39, s. 7
+
+- SOR/2021-39, s. 8
+
+- SOR/2021-39, s. 9
+
+- SOR/2021-39, s. 10
+
+- SOR/2021-39, s. 11
+
+- SOR/2021-39, s. 12
+
+- SOR/2021-39, s. 13
+
+- SOR/2021-39, s. 14
+
+- SOR/2021-39, s. 15
+
+- SOR/2021-39, s. 16
