@@ -296,6 +296,10 @@
 
 - Tsleil-Waututh Nation
 
+- 75
+
+- Ocean Man First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -447,3 +451,5 @@ History:
 - SOR/2021-33, s. 1
 
 - SOR/2021-33, s. 2
+
+- SOR/2021-54, s. 1
