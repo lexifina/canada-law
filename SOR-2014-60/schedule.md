@@ -1,6 +1,8 @@
 ## SCHEDULE (Sections 1, 2 and 8) Persons
 
-### PART 1 Individuals
+PART 1
+
+Individuals
 
 - 1
 
@@ -810,7 +812,9 @@
 
 - Lidia (Lydia) Aleksandrovna BASOVA
 
-### PART 2 Entities
+PART 2
+
+Entities
 
 - 1
 
@@ -972,6 +976,14 @@
 
 - JSC Zaliv Shipyard
 
+- 41
+
+- Federal State Unitary Enterprise “Crimea Railway”
+
+- 42
+
+- First Crimean Insurance Company
+
 History:
 
 - SOR/2014-63, s. 1
@@ -1003,3 +1015,5 @@ History:
 - SOR/2019-248, s. 1
 
 - SOR/2020-15, s. 1
+
+- SOR/2021-65, s. 1
