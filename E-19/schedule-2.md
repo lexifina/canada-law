@@ -14,6 +14,8 @@ CETA | Schedules to Annex 2-A, in accordance with Annex 5-A to Annex 5 of the Pr
 
 CHFTA | Schedules to Annex 3.4.1, in accordance with Annex 3.1
 
+CUKTCA | Schedules to Annex 2-A, in accordance with Annex 5-A to Annex 5 of the Protocol on Rules of Origin and Origin Procedures of CETA, as incorporated by reference in CUKTCA
+
 CUSMA | Schedules to Annex 2-B in accordance with Annex 6-A
 
 History:
@@ -23,3 +25,5 @@ History:
 - 2020, c. 1, s. 47
 
 - 2020, c. 1, s. 48
+
+- 2021, c. 1, s. 17
