@@ -14,6 +14,8 @@ Costa Rica | CCRFTA | Costa Rica Tariff rates of customs duty under the Customs 
 
 CPTPP country | CPTPP | CPTPP tariff rates of customs duty under the Customs Tariff
 
+CUKTCA beneficiary | CUKTCA | United Kingdom Tariff rates of customs duty under the Customs Tariff
+
 CUSMA country | CUSMA | United States Tariff or Mexico Tariff rates of customs duty under the Customs Tariff
 
 EFTA State | CEFTA | Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the Customs Tariff
@@ -106,6 +108,8 @@ Costa Rica | CCRFTA
 
 CPTPP country | CPTPP
 
+CUKTCA beneficiary | CUKTCA
+
 CUSMA country | CUSMA
 
 EFTA State | CEFTA
@@ -154,6 +158,8 @@ CPTPP | Chapters 3 to 5 of the Trans-Pacific Partnership Agreement as incorporat
 
 CUFTA | Chapters 3 and 4
 
+CUKTCA | Protocol on Rules of Origin and Origin Procedures of CETA as incorporated by reference in CUKTCA
+
 CUSMA | Chapters 4 to 7
 
 NAFTA | Chapters Three and Five
@@ -179,3 +185,9 @@ History:
 - 2020, c. 1, s. 134
 
 - 2020, c. 1, s. 136
+
+- 2021, c. 1, s. 27
+
+- 2021, c. 1, s. 28
+
+- 2021, c. 1, s. 29
