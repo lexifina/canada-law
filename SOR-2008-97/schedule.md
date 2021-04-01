@@ -2056,15 +2056,15 @@ Provision of the Vessel Pollution and Dangerous Chemicals Regulations | Range of
 
 107 | Subsection 62(3) | 1,250 to 25,000 | X
 
-108 | Paragraph 63(1)(a) | 1,250 to 25,000 | X
+108 | Subsection 63(1) | 1,250 to 25,000 | X
 
-109 | Paragraph 63(1)(b) | 1,250 to 25,000 | X
+109 | Subsection 63(3) | 1,250 to 25,000 | X
 
-110 | Paragraph 63(1)(c) | 1,250 to 25,000 | X
+110 | Subsection 63(5) | 1,250 to 25,000 | X
 
-111 | Subsection 63(2) | 1,250 to 25,000 | X
+111 | [Repealed, SOR/2021-60, s. 5]
 
-112 | Subsection 63(4) | 1,250 to 25,000 | X
+112 | [Repealed, SOR/2021-60, s. 5]
 
 113 | Paragraph 64(2)(a) | 1,250 to 25,000 | X
 
@@ -2433,3 +2433,5 @@ History:
 - SOR/2019-252, s. 24
 
 - SOR/2019-252, s. 25
+
+- SOR/2021-60, s. 5
