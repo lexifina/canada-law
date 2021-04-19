@@ -80,23 +80,23 @@ hour | h | 3 600 seconds
 
 day | d | 86 400 seconds
 
-degree (of arc) | ° | p/180 radian*
+degree (of arc) | ° | π/180 radian*
 
-minute (of arc) | ′ | p/10 800 radian*
+minute (of arc) | ′ | π/10 800 radian*
 
-second (of arc) | ″ | p/648 000 radian*
+second (of arc) | ″ | π/648 000 radian*
 
-litre | L, l or l | 1/1 000 cubic metre
+litre | L, ℓ or l | 1/1 000 cubic metre
 
 tonne or metric ton | t | 1 000 kilograms
 
 hectare | ha | 104 square metres
 
-millilitre | mL, ml or ml | 1/1 000 litre
+millilitre | mL, mℓ or ml | 1/1 000 litre
 
 degree Celsius | °C | an interval of 1°C = an interval of 1 kelvin; a temperature of 0°C corresponds to 273.15 kelvins
 
-- *p is the ratio of the circumference to the diameter of a circle.
+- *π is the ratio of the circumference to the diameter of a circle.
 
 PART V
 
