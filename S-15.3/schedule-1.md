@@ -242,7 +242,7 @@
 
   - Bécasseau maubèche de la sous-espèce rufa
 
-  - Lark strigata subspecies, Horned (Eremophila alpestris strigata)
+  - Lark, Streaked Horned (Eremophila alpestris strigata)
 
   - Alouette hausse-col de la sous-espèce strigata
 
@@ -290,7 +290,7 @@
 
   - Pie-grièche migratrice de la sous-espèce migrans
 
-  - Sparrow affinis subspecies, Vesper (Pooecetes gramineus affinis)
+  - Sparrow, Coastal Vesper (Pooecetes gramineus affinis)
 
   - Bruant vespéral de la sous-espèce affinis
 
@@ -322,6 +322,10 @@
 
   - Paruline orangée
 
+  - Woodpecker, Red-headed (Melanerpes erythrocephalus)
+
+  - Pic à tête rouge
+
   - Woodpecker, White-headed (Picoides albolarvatus)
 
   - Pic à tête blanche
@@ -339,6 +343,10 @@
   - Frog, Oregon Spotted (Rana pretiosa)
 
   - Grenouille maculée de l’Oregon
+
+  - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Appalachian population
+
+  - Salamandre sombre des montagnes population des Appalaches
 
   - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Carolinian population
 
@@ -421,10 +429,6 @@
   - Skink, Five-lined (Plestiodon fasciatus) Carolinian population
 
   - Scinque pentaligne population carolinienne
-
-  - Skink, Prairie (Plestiodon septentrionalis)
-
-  - Scinque des Prairies
 
   - Snake, Sharp-tailed (Contia tenuis)
 
@@ -780,6 +784,10 @@
 
   - Hespérie Ottoé
 
+  - Sun Moth, False-foxglove (Pyrrhia aurantiago)
+
+  - Héliotin orangé
+
   - Tiger Beetle, Cobblestone (Cicindela marginipennis)
 
   - Cicindèle des galets
@@ -1074,6 +1082,10 @@
 
   - Isoète d’Engelmann
 
+  - Rockcress, Quebec (Boechera quebecensis)
+
+  - Arabette du Québec
+
   - Rush, Kellogg’s (Juncus kelloggii)
 
   - Jonc de Kellogg
@@ -1210,6 +1222,10 @@
 
   - Entosthodon rouilleux
 
+  - Moss, Acuteleaf Small Limestone (Seligeria acutifolia)
+
+  - Séligérie à feuilles aiguës
+
   - Moss, Margined Streamside (Scouleria marginata)
 
   - Scoulérie à feuilles marginées
@@ -1233,10 +1249,6 @@
   - Moss, Silver Hair (Fabronia pusilla)
 
   - Fabronie naine
-
-  - Moss, Spoon-leaved (Bryoandersonia illecebra)
-
-  - Andersonie charmante
 
 ## PART 3 Threatened Species
 
@@ -1424,10 +1436,6 @@
 
   - Pic de Lewis
 
-  - Woodpecker, Red-headed (Melanerpes erythrocephalus)
-
-  - Pic à tête rouge
-
 - Amphibians
 
   - Frog, Rocky Mountain Tailed (Ascaphus montanus)
@@ -1437,10 +1445,6 @@
   - Frog, Western Chorus (Pseudacris triseriata) Great Lakes / St. Lawrence – Canadian Shield population
 
   - Rainette faux-grillon de l’Ouest population des Grands Lacs / Saint-Laurent et du Bouclier canadien
-
-  - Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) Great Lakes – St. Lawrence population
-
-  - Salamandre sombre des montagnes population des Grands Lacs et du Saint-Laurent
 
   - Salamander, Coastal Giant (Dicamptodon tenebrosus)
 
@@ -1824,6 +1828,10 @@
 
   - Bartramie de Haller
 
+  - Moss, Spoon-leaved (Bryoandersonia illecebra)
+
+  - Andersonie charmante
+
 ## PART 4 Special Concern
 
 - Mammals
@@ -2078,6 +2086,10 @@
 
   - Scinque pentaligne population des Grands Lacs et du Saint-Laurent
 
+  - Skink, Prairie (Plestiodon septentrionalis)
+
+  - Scinque des Prairies
+
   - Skink, Western (Plestiodon skiltonianus)
 
   - Scinque de l’Ouest
@@ -2085,6 +2097,14 @@
   - Turtle, Eastern Musk (Sternotherus odoratus)
 
   - Tortue musquée
+
+  - Turtle, Eastern Painted (Chrysemys picta picta)
+
+  - Tortue peinte de l’Est
+
+  - Turtle, Midland Painted (Chrysemys picta marginata)
+
+  - Tortue peinte du Centre
 
   - Turtle, Northern Map (Graptemys geographica)
 
@@ -2320,6 +2340,14 @@
 
   - Criquet de l’armoise
 
+  - Leafhopper, Red-tailed (Aflexia rubranura) Great Lakes Plains population
+
+  - Cicadelle à queue rouge population des plaines des Grands Lacs
+
+  - Leafhopper, Red-tailed (Aflexia rubranura) Prairie population
+
+  - Cicadelle à queue rouge population des Prairies
+
   - Metalmark, Mormon (Apodemia mormo) Prairie population
 
   - Mormon population des Prairies
@@ -2497,6 +2525,10 @@
   - Water-hemlock, Victorin’s (Cicuta maculata var. victorinii)
 
   - Cicutaire de Victorin
+
+  - Wild Buckwheat, Yukon (Eriogonum flavum var. aquilinum)
+
+  - Ériogone du Nord
 
   - Willow, Felt-leaf (Salix silicicola)
 
@@ -2687,3 +2719,31 @@ History:
 - SOR/2020-219, s. 1
 
 - SOR/2020-219, s. 2
+
+- SOR/2021-87, s. 1
+
+- SOR/2021-87, s. 2
+
+- SOR/2021-87, s. 3
+
+- SOR/2021-87, s. 4
+
+- SOR/2021-87, s. 5
+
+- SOR/2021-87, s. 6
+
+- SOR/2021-87, s. 7
+
+- SOR/2021-87, s. 8
+
+- SOR/2021-87, s. 9
+
+- SOR/2021-87, s. 10
+
+- SOR/2021-87, s. 11
+
+- SOR/2021-87, s. 12
+
+- SOR/2021-87, s. 13
+
+- SOR/2021-87, s. 14
