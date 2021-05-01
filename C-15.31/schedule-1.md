@@ -540,7 +540,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - 69
 
-- Dichlorodiphenyltrichloroethane (DDT), which has the molecular formula C14H9C15
+- Dichlorodiphenyltrichloroethane (DDT), which has the molecular formula C14H9Cl5
 
 - 70
 
@@ -1034,6 +1034,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - Benzene, 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]-, which has the molecular formula C14H10Cl4
 
+- 146
+
+- Selenium and its compounds
+
 - 147
 
 - Benzene, 1,1′-methylenebis[4-isocyanato-, which has the molecular formula C15H10N2O2
@@ -1053,6 +1057,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - 151
 
 - Isocyanic acid, polymethylenepolyphenylene ester, which has the molecular formula C15H10N2O2•[C8H5NO]n in which 0≤n≤4
+
+- 163
+
+- Plastic manufactured items
 
 History:
 
@@ -1093,3 +1101,7 @@ History:
 - SOR/2020-217, s. 1
 
 - SOR/2020-218, s. 1
+
+- SOR/2021-86, s. 1
+
+- SOR/2021-89, s. 1
