@@ -12,11 +12,13 @@ Agricultural Equipment Technician Mécanicien de machinerie agricole | ✓ | ✓
 
 Appliance Service Technician Technicien d’entretien d’appareils électroménagers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Automotive Painter Peintre d’automobiles | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Auto Body and Collision Technician Technicien en collision et en carrosserie automobile | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+
+Automotive Refinishing Technician Technicien en peinture d’automobiles | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Automotive Service Technician Mécanicien de véhicules automobiles | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Baker Boulanger-pâtissier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Baker Boulanger-pâtissier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Boilermaker Chaudronnier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -28,7 +30,7 @@ Carpenter Charpentier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | �
 
 Concrete Finisher Finisseur de béton | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Construction Craft Worker Manœuvre en construction | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Construction Craft Worker Manœuvre en construction | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Construction Electrician Électricien en construction | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -40,7 +42,7 @@ Electric Motor System Technician Électromécanicien | ✓ | ✓ | ✓ | ✓ | �
 
 Floorcovering Installer Poseur de revêtements souples | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Gasfitter - Class A Monteur d’installations au gaz (classe A) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Gasfitter - Class A Monteur d’installations au gaz (classe A) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Gasfitter - Class B Monteur d’installations au gaz (classe B) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -56,7 +58,7 @@ Heavy Equipment Operator (Excavator) Opérateur d’équipement lourd (excavatri
 
 Heavy Equipment Operator (Tractor-Loader-Backhoe) Opérateur d’équipement lourd (tractopelle-rétrocaveuse) | ✓ | ✓ | ✓ | ✓ | ✓
 
-Industrial Electrician Électricien industriel | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Industrial Electrician Électricien industriel | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Industrial Mechanic (Millwright) Mécanicien industriel (de chantier) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -68,7 +70,7 @@ Ironworker (Generalist) Monteur de charpentes en acier (généraliste) | ✓ | �
 
 Ironworker (Reinforcing) Monteur de charpentes en acier (barres d’armature) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Ironworker (Structural/Ornamental) Monteur de charpentes en acier (structural / ornemental) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Ironworker (Structural/Ornamental) Monteur de charpentes en acier (structural/ornemental) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Landscape Horticulturist Horticulteur-paysagiste | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -76,19 +78,17 @@ Lather (Interior Systems Mechanic) Latteur (spécialiste de systèmes intérieur
 
 Machinist Machiniste | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Metal Fabricator (Fitter) Monteur-ajusteur de charpentes métalliques | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Metal Fabricator (Fitter) Monteur-ajusteur de charpentes métalliques | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Mobile Crane Operator Opérateur de grue automotrice | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Motor Vehicle Body Repairer (Metal and Paint) Débosseleur-peintre | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-
-Motorcycle Mechanic Mécanicien de motocyclettes | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Motorcycle Technician Technicien de motocyclettes | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Oil Heat System Technician Technicien de système de chauffage à mazout | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Painter and Decorator Peintre et décorateur | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Partsperson Préposé aux pièces | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Parts Technician Technicien au service des pièces | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Plumber Plombier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -108,13 +108,13 @@ Sprinkler Fitter Mécanicien en protection-incendie | ✓ | ✓ | ✓ | ✓ | �
 
 Steamfitter/Pipefitter Monteur d’appareils de chauffage | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Tilesetter Carreleur | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Tilesetter Carreleur | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Tool and Die Maker Outilleur-ajusteur | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Tower Crane Operator Opérateur de grue à tour | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Transport Trailer Technician Réparateur de remorques de camions | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Transport Trailer Technician Réparateur de remorques de camions | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Truck and Transport Mechanic Mécanicien de camions et transport | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
@@ -127,3 +127,7 @@ History:
 - SOR/2019-86, s. 1
 
 - SOR/2019-86, s. 2
+
+- SOR/2021-99, s. 1
+
+- SOR/2021-99, s. 2
