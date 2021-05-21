@@ -152,6 +152,8 @@
 
 - Garden Hill First Nation
 
+- Garden River First Nation
+
 - George Gordon First Nation
 
 - Gitga’at First Nation
@@ -554,6 +556,8 @@
 
 - Tsay Keh Dene Nation
 
+- Tseshaht
+
 - Tseycum First Nation
 
 - Ts’kw’aylaxw First Nation
@@ -609,6 +613,8 @@
 - Wunnumin
 
 - Wuskwi Sipihk First Nation
+
+- Xatśūll First Nation
 
 - Xaxli’p
 
@@ -717,3 +723,5 @@ History:
 - SOR/2021-39, s. 15
 
 - SOR/2021-39, s. 16
+
+- SOR/2021-110, s. 1
