@@ -1300,35 +1300,55 @@ Provision of the Vessel Registration and Tonnage Regulations | Range of Penaltie
 
 PART 9
 
-Violations of the Ballast Water Control and Management Regulations
+Violations of the Ballast Water Regulations
 
-Item | Column 1 | Column 2 | Column 3
+Column 1 | Column 2 | Column 3
 
-Provision of the Ballast Water Control and Management Regulations | Range of Penalties ($) | Separate Violation for Each Day
+Item | Provision of the Ballast Water Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 5(4) | 600 to 12,000
+1 | Subsection 4(1) | 1,250 to 25,000
 
-2 | Subsection 6(2) | 1,250 to 25,000
+2 | Paragraph 4(3)(a) | 1,250 to 25,000
 
-3 | Subsection 6(3) | 600 to 12,000
+3 | Paragraph 4(3)(b) | 600 to 12,000
 
-4 | Subsection 7(2) | 1,250 to 25,000
+4 | Paragraph 4(3)(c) | 1,250 to 25,000
 
-5 | Subsection 10(1) | 1,250 to 25,000
+5 | Paragraph 4(3)(d) | 600 to 12,000
 
-6 | Subsection 11(1) | 1,250 to 25,000
+6 | Subsection 4(4) | 600 to 12,000
 
-7 | Section 12 | 600 to 12,000
+7 | Paragraph 4(5)(a) | 600 to 12,000
 
-8 | Subsection 13(2) | 1,250 to 25,000
+8 | Paragraph 4(5)(b) | 1,250 to 25,000
 
-9 | Subsection 13(3) | 1,250 to 25,000
+9 | Paragraph 4(5)(c) | 1,250 to 25,000
 
-10 | Subsection 13(4) | 1,250 to 25,000
+10 | Section 8 | 1,250 to 25,000 | X
 
-11 | Subsection 14(1) | 600 to 10,000
+11 | Subsection 14(1) | 1,250 to 25,000 | X
 
-12 | Subsection 14(2) | 600 to 10,000
+12 | Subsection 14(2) | 600 to 12,000
+
+13 | Subsection 15(1) | 1,250 to 25,000 | X
+
+14 | Subsection 15(4) | 600 to 12,000
+
+15 | Subsection 16(1) | 1,250 to 25,000 | X
+
+16 | Section 17 | 1,250 to 25,000 | X
+
+17 | Section 18 | 600 to 12,000
+
+18 | Section 19 | 600 to 12,000 | X
+
+19 | Section 20 | 600 to 12,000 | X
+
+20 | Section 22 | 600 to 12,000 | X
+
+21 | Section 23 | 600 to 12,000 | X
+
+22 | Section 24 | 600 to 10,000
 
 PART 10
 
@@ -2435,3 +2455,5 @@ History:
 - SOR/2019-252, s. 25
 
 - SOR/2021-60, s. 5
+
+- SOR/2021-120, s. 25
