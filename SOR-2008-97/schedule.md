@@ -1262,29 +1262,59 @@ Provision of the Special-purpose Vessel Regulations | Range of Penalties ($) | S
 
 PART 7
 
-Violations of the Vessel Certificates Regulations
+Violations of the Vessel Safety Certificates Regulations
 
-Item | Column 1 | Column 2 | Column 3
+Column 1 | Column 2 | Column 3
 
-Provision of the Vessel Certificates Regulations | Range of Penalties ($) | Separate Violation for Each Day
+Item | Provision of the Vessel Safety Certificates Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 3(2) | 1,250 to 25,000
+1 | Section 6 | 1,250 to 25,000
 
-2 | Subsection 4(2) | 1,250 to 25,000
+2 | Paragraph 7(2)(a) | 1,250 to 25,000
 
-3 | Subsection 5(2) | 1,250 to 25,000
+3 | Paragraph 7(2)(b) | 1,250 to 25,000
 
-4 | Subsection 7(2) | 250 to 5,000
+4 | Paragraph 10(a) | 1,250 to 25,000
 
-5 | Paragraph 8(1)(a) | 1,250 to 25,000
+5 | Paragraph 10(b) | 250 to 5,000
 
-6 | Paragraph 8(1)(b) | 1,250 to 25,000
+6 | Paragraph 10(c) | 1,250 to 25,000
 
-7 | Subsection 8(2) | 1,250 to 25,000
+7 | Paragraph 10(d) | 1,250 to 25,000
 
-8 | Subsection 8(3) | 1,250 to 25,000
+8 | Section 12 | 1,250 to 25,000
 
-9 | Subsection 10(1) | 1,250 to 25,000
+9 | Paragraph 13(2)(a) | 1,250 to 25,000
+
+10 | Paragraph 13(2)(b) | 1,250 to 25,000
+
+11 | Paragraph 15(a) | 1,250 to 25,000
+
+12 | Paragraph 15(b) | 250 to 5,000
+
+13 | Paragraph 17(1)(a) | 600 to 10,000
+
+14 | Paragraph 17(1)(b) | 600 to 10,000
+
+15 | Subparagraph 18(1)(a)(i) | 1,250 to 25,000
+
+16 | Subparagraph 18(1)(a)(ii) | 250 to 5,000
+
+17 | Subparagraph 18(1)(a)(iii) | 1,250 to 25,000
+
+18 | Subparagraph 18(1)(a)(iv) | 1,250 to 25,000
+
+19 | Paragraph 18(1)(b) | 1,250 to 25,000
+
+20 | Paragraph 18(2)(a) | 1,250 to 25,000
+
+21 | Paragraph 18(2)(b) | 1,250 to 25,000
+
+22 | Paragraph 19(a) | 1,250 to 25,000
+
+23 | Paragraph 19(b) | 1,250 to 25,000
+
+24 | Paragraph 19(c) | 1,250 to 25,000
 
 PART 8
 
@@ -2457,3 +2487,5 @@ History:
 - SOR/2021-60, s. 5
 
 - SOR/2021-120, s. 25
+
+- SOR/2021-135, s. 38
