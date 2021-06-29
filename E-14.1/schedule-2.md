@@ -4,7 +4,7 @@ Cigars: per cigar, the greater of
 
 - (a) either
 
-  - (i) $0.09331, or
+  - (i) $0.11379, or
 
   - (ii) if the rate referred to in subparagraph (i) has been adjusted under subsection 43.1(2), the adjusted rate; and
 
@@ -25,3 +25,5 @@ History:
 - 2017, c. 20, ss. 62, 63
 
 - 2018, c. 12, s. 58
+
+- 2021, c. 23, s. 125

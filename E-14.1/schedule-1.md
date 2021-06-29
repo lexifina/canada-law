@@ -2,25 +2,25 @@
 
 - 1 Cigarettes: for each five cigarettes or fraction of five cigarettes contained in any package,
 
-  - (a) $0.59634; or
+  - (a) $0.72725; or
 
   - (b) if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 - 2 Tobacco sticks: per stick,
 
-  - (a) $0.11927; or
+  - (a) $0.14545; or
 
   - (b) if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 - 3 Manufactured tobacco other than cigarettes and tobacco sticks: per 50 grams or fraction of 50 grams contained in any package,
 
-  - (a) $7.45425; or
+  - (a) $9.09062; or
 
   - (b) if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 - 4 Cigars: per 1,000 cigars,
 
-  - (a) $25.95832; or
+  - (a) $31.65673; or
 
   - (b) if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
@@ -45,3 +45,11 @@ History:
 - 2017, c. 20, ss. 58 to 61
 
 - 2018, c. 12, ss. 54 to 57
+
+- 2021, c. 23, s. 121
+
+- 2021, c. 23, s. 122
+
+- 2021, c. 23, s. 123
+
+- 2021, c. 23, s. 124
