@@ -92,7 +92,7 @@
 
 [Note: Names of electoral districts may change before Schedule 3 is officially amended. For the most up-to-date list, see the Schedule 3 profile page on Elections Canada’s website at this link:
 
-http://www.elections.ca/content2.aspx?section=can&dir=cand/becom/s3&document=index&lang=e ]
+https://www.elections.ca/content.aspx?section=res&dir=loi%2Ffel%2Fs3&document=index&lang=e ]
 
 History:
 
