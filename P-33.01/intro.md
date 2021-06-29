@@ -26,6 +26,10 @@ those to whom this appointment authority is delegated must exercise it within a 
 
 delegation of staffing authority should be to as low a level as possible within the public service, and should afford public service managers the flexibility necessary to staff, to manage and to lead their personnel to achieve results for Canadians; and
 
-the Government of Canada is committed to a public service that embodies linguistic duality and that is characterized by fair, transparent employment practices, respect for employees, effective dialogue, and recourse aimed at resolving appointment issues;
+the Government of Canada is committed to an inclusive public service that reflects the diversity of Canada’s population, that embodies linguistic duality and that is characterized by fair, transparent employment practices, respect for employees, effective dialogue, and recourse aimed at resolving appointment issues;
+
+- 2003, c. 22, s. 12 “Preamble”
+
+- 2021, c. 23, s. 276
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
