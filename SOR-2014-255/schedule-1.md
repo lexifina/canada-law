@@ -98,8 +98,6 @@ Recreation Vehicle Service Technician Technicien de véhicules récréatifs | �
 
 Refrigeration and Air Conditioning Mechanic Mécanicien de réfrigération et d’air climatisé | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
-Rig Technician Technicien en forage (pétrolier et gazier) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-
 Roofer Couvreur | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Sheet Metal Worker Ferblantier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
