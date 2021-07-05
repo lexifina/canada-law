@@ -168,7 +168,7 @@
 
 - Gwa’sala-’Nakwaxda’xw Nations
 
-- Hagwilget First Nation
+- Hagwilget First Nation Government
 
 - Halalt First Nation
 
@@ -280,7 +280,7 @@
 
 - Makwa Sahgaiehcan First Nation
 
-- Malahat First Nation
+- Malahat Nation
 
 - Matsqui First Nation
 
@@ -340,6 +340,8 @@
 
 - Neskonlith Indian Band
 
+- Niisaachewan Anishinaabe Nation
+
 - Nipissing First Nation
 
 - Nisichawayasihk Cree Nation
@@ -348,15 +350,11 @@
 
 - N’Quatqua
 
-- Obashkaandagaang
-
 - Ocean Man First Nation
 
 - Ochapowace
 
 - O’Chiese
-
-- Ochiichagwe’babigo’ining Ojibway Nation
 
 - Okanese First Nation
 
@@ -422,8 +420,6 @@
 
 - Saik’uz First Nation
 
-- Sakimay First Nations
-
 - Salt River First Nation #195
 
 - Sandy Bay Ojibway First Nation
@@ -435,8 +431,6 @@
 - Saulteau First Nations
 
 - Saulteaux First Nation
-
-- Scowlitz
 
 - Seabird Island Band
 
@@ -493,6 +487,8 @@
 - Soowahlie
 
 - Splatsin
+
+- Sq’éwlets
 
 - Squamish Nation
 
@@ -582,6 +578,8 @@
 
 - Wasauksing First Nation
 
+- Washagamis Bay
+
 - Waywayseecappo First Nation Treaty 4-1874
 
 - We’koqma’q First Nation
@@ -602,7 +600,7 @@
 
 - Wikwemikong
 
-- Williams Lake
+- Williams Lake First Nation
 
 - Witset First Nation
 
@@ -629,6 +627,8 @@
 - Yellow Quill Band
 
 - York Factory First Nation
+
+- Zagimē Anishinabēk
 
 History:
 
@@ -725,3 +725,17 @@ History:
 - SOR/2021-39, s. 16
 
 - SOR/2021-110, s. 1
+
+- SOR/2021-171, s. 1
+
+- SOR/2021-171, s. 2
+
+- SOR/2021-171, s. 3
+
+- SOR/2021-171, s. 4
+
+- SOR/2021-171, s. 5
+
+- SOR/2021-171, s. 6
+
+- SOR/2021-171, s. 7
