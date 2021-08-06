@@ -464,6 +464,10 @@
 
   - Administration portuaire d’Oshawa
 
+  - Pacific Economic Development Agency of Canada
+
+  - Agence de développement économique du Pacifique Canada
+
   - Parks Canada Agency
 
   - Agence Parcs Canada
@@ -735,3 +739,5 @@ History:
 - 2019, c. 29, s. 360
 
 - 2019, c. 29, s. 361
+
+- SOR/2021-189, s. 1
