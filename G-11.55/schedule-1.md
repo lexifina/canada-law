@@ -30,7 +30,7 @@ Item | Province
 
 1 | Ontario
 
-2 | New Brunswick
+2 | [Repealed, SOR/2021-195, s. 2]
 
 3 | Manitoba
 
@@ -55,3 +55,5 @@ History:
 - SOR/2019-294, s. 3
 
 - SOR/2020-261, s. 1
+
+- SOR/2021-195, s. 2
