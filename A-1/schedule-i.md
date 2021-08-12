@@ -260,6 +260,10 @@
 
   - Office de répartition des approvisionnements d’énergie
 
+  - Federal Economic Development Agency for Northern Ontario
+
+  - Agence fédérale de développement économique pour le Nord de l’Ontario
+
   - Federal Economic Development Agency for Southern Ontario
 
   - Agence fédérale de développement économique pour le Sud de l’Ontario
@@ -745,3 +749,5 @@ History:
 - 2019, c. 29, s. 349
 
 - SOR/2021-188, s. 1
+
+- SOR/2021-193, s. 1
