@@ -332,6 +332,14 @@
 
 - Amphibians
 
+  - Ambystoma, Unisexual (Ambystoma laterale - texanum) Small-mouthed Salamander dependent population
+
+  - Ambystoma unisexué, population dépendante de la salamandre à petite bouche
+
+  - Ambystoma, Unisexual (Ambystoma laterale - (2) jeffersonianum) Jefferson Salamander dependent population
+
+  - Ambystoma unisexué, population dépendante de la salamandre de Jefferson
+
   - Frog, Blanchard’s Cricket (Acris blanchardi)
 
   - Rainette grillon de Blanchard
@@ -438,6 +446,10 @@
 
   - Tortue molle à épines
 
+  - Turtle, Blanding’s (Emydoidea blandingii) Great Lakes / St. Lawrence population
+
+  - Tortue mouchetée population des Grands Lacs et du Saint-Laurent
+
   - Turtle, Blanding’s (Emydoidea blandingii) Nova Scotia population
 
   - Tortue mouchetée population de la Nouvelle-Écosse
@@ -445,10 +457,6 @@
   - Turtle, Spotted (Clemmys guttata)
 
   - Tortue ponctuée
-
-  - Turtle, Western Painted (Chrysemys picta bellii) Pacific Coast population
-
-  - Tortue peinte de l’Ouest, population de la côte du Pacifique
 
 - Fish
 
@@ -653,6 +661,10 @@
   - Snuffbox (Epioblasma triquetra)
 
   - Épioblasme tricorne
+
+  - Tigersnail, Eastern Banded (Anguispira kochi kochi)
+
+  - Escargot-tigre à bandes de l’Est
 
 - Arthropods
 
@@ -1178,10 +1190,6 @@
 
   - Saule des landes
 
-  - Wintergreen, Spotted (Chimaphila maculata)
-
-  - Chimaphile maculée
-
   - Wood-poppy (Stylophorum diphyllum)
 
   - Stylophore à deux feuilles
@@ -1203,6 +1211,10 @@
   - Lichen, Boreal Felt (Erioderma pedicellatum) Atlantic population
 
   - Érioderme boréal population de l’Atlantique
+
+  - Lichen, Golden-eye (Teloschistes chrysophthalmus) Great Lakes population
+
+  - Téloschiste ocellé, population des Grands Lacs
 
   - Lichen, Pale-bellied Frost (Physconia subpallida)
 
@@ -1488,9 +1500,9 @@
 
   - Couleuvre à nez plat
 
-  - Turtle, Blanding’s (Emydoidea blandingii) Great Lakes / St. Lawrence population
+  - Turtle, Western Painted (Chrysemys picta bellii) Pacific Coast population
 
-  - Tortue mouchetée population des Grands Lacs et du Saint-Laurent
+  - Tortue peinte de l’Ouest, population de la côte du Pacifique
 
   - Turtle, Wood (Glyptemys insculpta)
 
@@ -1594,6 +1606,10 @@
 
   - Héliotin de Verna
 
+  - Grasshopper, Lake Huron (Trimerotropis huroniana)
+
+  - Criquet du lac Huron
+
   - Skipper, Dun (Euphyes vestris) Western population
 
   - Hespérie rurale population de l’Ouest
@@ -1615,10 +1631,6 @@
   - Arnica, Griscom’s (Arnica griscomii ssp. griscomii)
 
   - Arnica de Griscom
-
-  - Aster, Anticosti (Symphyotrichum anticostense)
-
-  - Aster d’Anticosti
 
   - Aster, Gulf of St. Lawrence (Symphyotrichum laurentianum)
 
@@ -1788,6 +1800,10 @@
 
   - Saule à bractées vertes
 
+  - Wintergreen, Spotted (Chimaphila maculata)
+
+  - Chimaphile maculée
+
   - Woodsia, Blunt-lobed (Woodsia obtusa)
 
   - Woodsie à lobes arrondis
@@ -1859,6 +1875,10 @@
   - Caribou, Barren-ground (Rangifer tarandus groenlandicus) Dolphin and Union population
 
   - Caribou de la toundra population Dolphin-et-Union
+
+  - Caribou (Rangifer tarandus) Newfoundland population
+
+  - Caribou, population de Terre-Neuve
 
   - Caribou, Woodland (Rangifer tarandus caribou) Northern Mountain population
 
@@ -2065,6 +2085,10 @@
   - Boa, Rubber (Charina bottae)
 
   - Boa caoutchouc
+
+  - Bullsnake (Pituophis catenifer sayi)
+
+  - Couleuvre gaufre de Say
 
   - Milksnake (Lampropeltis triangulum)
 
@@ -2340,6 +2364,14 @@
 
   - Criquet de l’armoise
 
+  - Grasshopper, Magdalen Islands (Melanoplus madeleineae)
+
+  - Criquet des Îles-de-la-Madeleine
+
+  - Lady Beetle, Transverse (Coccinella transversoguttata)
+
+  - Coccinelle à bandes transverses
+
   - Leafhopper, Red-tailed (Aflexia rubranura) Great Lakes Plains population
 
   - Cicadelle à queue rouge population des plaines des Grands Lacs
@@ -2359,10 +2391,6 @@
   - Moth, Pale Yellow Dune (Copablepharon grandis)
 
   - Noctuelle jaune pâle des dunes
-
-  - Skipper, Sonora (Polites sonora)
-
-  - Hespérie du Sonora
 
   - Snaketail, Pygmy (Ophiogomphus howei)
 
@@ -2385,6 +2413,10 @@
   - Ash, Blue (Fraxinus quadrangulata)
 
   - Frêne bleu
+
+  - Aster, Anticosti (Symphyotrichum anticostense)
+
+  - Aster d’Anticosti
 
   - Aster, Crooked-stem (Symphyotrichum prenanthoides)
 
@@ -2409,6 +2441,10 @@
   - Buffalograss (Bouteloua dactyloides)
 
   - Buchloé faux-dactyle
+
+  - Bulrush, Long’s (Scirpus longii)
+
+  - Scirpe de Long
 
   - Fern, American Hart’s-tongue (Asplenium scolopendrium)
 
@@ -2590,6 +2626,10 @@
 
   - Néphrome cryptique
 
+  - Lichen, Golden-eye (Teloschistes chrysophthalmus) Prairie / Boreal population
+
+  - Téloschiste ocellé, population boréale et des Prairies
+
   - Lichen, Oldgrowth Specklebelly (Pseudocyphellaria rainierensis)
 
   - Pseudocyphellie des forêts surannées
@@ -2747,3 +2787,37 @@ History:
 - SOR/2021-87, s. 13
 
 - SOR/2021-87, s. 14
+
+- SOR/2021-205, s. 1
+
+- SOR/2021-205, s. 2
+
+- SOR/2021-205, s. 3
+
+- SOR/2021-205, s. 4
+
+- SOR/2021-205, s. 5
+
+- SOR/2021-205, s. 6
+
+- SOR/2021-205, s. 7
+
+- SOR/2021-205, s. 8
+
+- SOR/2021-205, s. 9
+
+- SOR/2021-205, s. 10
+
+- SOR/2021-205, s. 11
+
+- SOR/2021-205, s. 12
+
+- SOR/2021-205, s. 13
+
+- SOR/2021-205, s. 14
+
+- SOR/2021-205, s. 15
+
+- SOR/2021-205, s. 16
+
+- SOR/2021-205, s. 17
