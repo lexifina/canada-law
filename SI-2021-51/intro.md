@@ -10,8 +10,6 @@ Order Designating the Federal Economic Development Agency for Northern Ontario a
 
 P.C. 2021-844 2021-8-6
 
-The following provision is not in force.
-
 Her Excellency the Governor General in Council, on the recommendation of the Prime Minister, effective August 12, 2021,
 
 - (a) pursuant to paragraph (b) of the definition “department” in subsection 2(1) of the Public Service Employment Acta, designates the Federal Economic Development Agency for Northern Ontario as a department for the purposes of that Act; and
