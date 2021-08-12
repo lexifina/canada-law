@@ -1,8 +1,8 @@
-## SCHEDULE 13 (Sections 23 and 26 and subsection 28(2))
+## SCHEDULE 13 (Sections 23 and 26 and paragraph 28(2)(c))
 
 PART 1
 
-Re-Engagement — Officers, Reserve Force (Paragraph 4(1)(b))
+Re-Engagements — Officers, Reserve Force (Paragraph 4(1)(b))
 
 Military Occupational Group | All Officers | Aboriginal Peoples | Visible Minorities | Persons with Disabilities
 
@@ -32,17 +32,19 @@ Chaplaincy
 
 Support
 
-Officer Cadets — Unassigned
-
-Cadet Instructor Cadre
+Cadet Organizations Administration and Training Service (COATS)
 
 Canadian Rangers
+
+Officers — Unassigned
+
+Officer Cadets — Unassigned
 
 TOTAL NUMBER
 
 PART 2
 
-Re-Engagement — Non-Commissioned Members, Reserve Force (Paragraph 4(1)(b))
+Re-Engagements — Non-Commissioned Members, Reserve Force (Paragraph 4(1)(b))
 
 Military Occupational Group | All Non-Commissioned Members | Aboriginal Peoples | Visible Minorities | Persons with Disabilities
 
@@ -80,6 +82,16 @@ Music
 
 Logistical Support
 
+Senior Appointments
+
+Cadet Organizations Administration and Training Service (COATS)
+
 Canadian Rangers
 
+Primary Reserve General Service for Non-Commissioned Members
+
 TOTAL NUMBER
+
+History:
+
+- SOR/2021-201, s. 9

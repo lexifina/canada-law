@@ -1,4 +1,4 @@
-## SCHEDULE 14 (Sections 23 and 26 and subsection 28(1))
+## SCHEDULE 14 (Sections 23 and 26 and paragraph 28(1)(d))
 
 PART 1
 
@@ -31,6 +31,12 @@ Medical and Dental
 Chaplaincy
 
 Support
+
+Cadet Organizations Administration and Training Service (COATS)
+
+Canadian Rangers
+
+Officers — Unassigned
 
 Officer Cadets — Unassigned
 
@@ -76,4 +82,16 @@ Music
 
 Logistical Support
 
+Senior Appointments
+
+Cadet Organizations Administration and Training Service (COATS)
+
+Canadian Rangers
+
+Primary Reserve General Service for Non-Commissioned Members
+
 TOTAL NUMBER
+
+History:
+
+- SOR/2021-201, s. 9
