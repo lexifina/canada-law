@@ -188,6 +188,8 @@
 
 - Bande des Innus de Pessamit
 
+- Innu Takuaikan Uashat mak Mani-utenam
+
 - Inuvik Native Band
 
 - Iskatewizaagegan #39 Independent First Nation
@@ -582,6 +584,8 @@
 
 - Waywayseecappo First Nation Treaty 4-1874
 
+- Webequie First Nation
+
 - We’koqma’q First Nation
 
 - West Moberly First Nations
@@ -739,3 +743,5 @@ History:
 - SOR/2021-171, s. 6
 
 - SOR/2021-171, s. 7
+
+- SOR/2021-214, s. 1
