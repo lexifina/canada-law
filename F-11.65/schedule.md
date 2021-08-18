@@ -304,6 +304,18 @@
 
 - Serpent River First Nation
 
+- 77
+
+- Bear River First Nation
+
+- 78
+
+- Biigtigong Nishnaabeg
+
+- 79
+
+- Tsartlip First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -459,3 +471,9 @@ History:
 - SOR/2021-54, s. 1
 
 - SOR/2021-94, s. 1
+
+- SOR/2021-209, s. 1
+
+- SOR/2021-211, s. 1
+
+- SOR/2021-213, s. 1
