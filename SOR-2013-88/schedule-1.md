@@ -20,7 +20,7 @@
 
     - (ii) that the substance is intended for either industrial, pesticidal or another use;
 
-  - (f) an indication of whether the substance is exported under the Export and Import of Hazardous Waste and Hazardous Recyclable Material Regulations, if applicable;
+  - (f) an indication of whether the substance is exported under the Cross-border Movement of Hazardous Waste and Hazardous Recyclable Material Regulations; and
 
   - (g) in the case of a substance specified in Part 2 or 3 of the Export Control List and also listed in Annex A or B of the Stockholm Convention,
 
@@ -65,3 +65,5 @@ History:
 - SOR/2017-11, s. 17
 
 - SOR/2018-196, s. 35
+
+- SOR/2021-25, s. 88
