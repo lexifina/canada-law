@@ -22,7 +22,7 @@ Item | Regulations | Provisions
 
 8 | [Repealed, SOR/2016-96, s. 2]
 
-9 | PCB Waste Export Regulations, 1996 | (a) section 3 (b) section 11
+9 | [Repealed, SOR/2021-25, s. 84]
 
 10 | Benzene in Gasoline Regulations | (a) section 3 (b) section 4 (c) subsection 13(5) (d) subsections 16(1) and (7) (e) subsection 17(1)
 
@@ -99,3 +99,5 @@ History:
 - SOR/2019-89, s. 1
 
 - SOR/2020-231, s. 46
+
+- SOR/2021-25, s. 84
