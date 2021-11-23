@@ -228,6 +228,10 @@
 
   - Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada
 
+  - College of Immigration and Citizenship Consultants
+
+  - Collège des consultants en immigration et en citoyenneté
+
   - College of Patent Agents and Trademark Agents
 
   - Collège des agents de brevets et des agents de marques de commerce
@@ -741,6 +745,8 @@ History:
 - 2019, c. 28, s. 81
 
 - 2019, c. 28, s. 82
+
+- 2019, c. 29, s. 298
 
 - 2019, c. 29, s. 347
 
