@@ -28,7 +28,7 @@ List of Provinces
 
 Item | Province
 
-1 | Ontario
+1 | [Repealed, SOR/2021-195, s. 1]
 
 2 | [Repealed, SOR/2021-195, s. 2]
 
@@ -55,5 +55,7 @@ History:
 - SOR/2019-294, s. 3
 
 - SOR/2020-261, s. 1
+
+- SOR/2021-195, s. 1
 
 - SOR/2021-195, s. 2
