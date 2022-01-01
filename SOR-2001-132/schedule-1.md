@@ -152,29 +152,41 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision of the Pest Control Products Incident Reporting Regulations | Short-form Description* | Classification
 
-1 | 6(1) | Fail to file an incident report in English or French | Serious
+1 | 6(1) | Fail to provide an incident report in English or French | Serious
 
-2 | 6(2) | Fail to provide a summary of the study, in English or in French, at the prescribed time | Minor
+2 | 6(2) | Fail to provide a summary of the study, in English or French, at the prescribed time | Minor
 
-3 | 7 | Fail to file a complete and accurate incident report, in accordance with the time limits specified, about an incident that occurs in Canada | Serious
+3 | 7 | Fail to provide the specified information about an incident that occurs in Canada and that corresponds to any of the specified categories | Serious
 
-4 | 8 | Fail to file a complete and accurate incident report, in accordance with the time limits specified, about an incident that occurs in the United States if the incident fits within any of the categories specified | Serious
+4 | 8 | Fail to provide the specified information about an incident that occurs in the United States and that corresponds to any of the specified categories | Serious
 
-5 | 9 | Fail to file a complete and accurate incident report, in accordance with the time limits specified, about an incident whose effects are identified in a scientific study | Serious
+5 | 9 | Fail to provide the specified information about an incident whose effects are identified in a scientific study | Serious
 
-6 | 10 | Fail to file an incident report within 15 days after receipt of information about any incident in the categories specified | Very serious
+6 | 10 | Fail to provide an incident report within 15 days after receipt of information about any incident that corresponds to any of the specified categories | Very serious
 
-7 | 11(1) | Fail to file an incident report before the end of the next month, following the accumulation of information in a month, about any incident in a category specified | Very serious
+7 | 11 | Fail to provide an incident report within 30 days after receipt of information about any incident whose effects are identified in a scientific study | Very serious
 
-8 | 12 | Fail to file, in accordance with the time limits specified, an incident report about any incident in a category specified | Serious
+7.1 | 11.1 | Fail to provide an incident report within 90 days after receipt of information about any incident that occurs in Canada and whose effect is an animal death | Very serious
 
-9 | 13 | Fail to file the required incident reports about any incident in a category specified | Serious
+8 | 12 | Fail to provide, by the time limits specified, any incident report about any incident that corresponds to any of the specified categories | Serious
 
-10 | 14(1) | Fail to file an annual summary within two months after the end of the reporting period specified | Serious
+9 | [Repealed, SOR/2019-161, s. 5]
 
-11 | 15(1) | Fail to file an annual summary with respect to an active ingredient in the prescribed circumstances | Minor
+9.1 | 13.1 | Fail to provide, for the transitional period, any incident report required about any incident that corresponds to any of the categories referred to in the provision | Serious
 
-12 | 15(2) | Fail to provide the prescribed information in the annual summary | Minor
+10 | [Repealed, SOR/2019-161, s. 5]
+
+11 | 15(1) | Fail to provide an annual summary in respect of an active ingredient referred to in the provision | Minor
+
+12 | 15(2) | Fail to provide the specified information in an annual summary | Minor
+
+12.1 | 15(3) | Fail to provide an annual summary by March 31 of the year that follows the year during which information was received about the incidents referred to in the provision | Serious
+
+12.2 | 15.1(1) | Fail to provide, for the transitional period, an annual summary in respect of an active ingredient referred to in the provision | Minor
+
+12.3 | 15.1(2) | Fail to provide, for the transitional period, the information referred to in the provision in an annual summary | Minor
+
+12.4 | 15.1(3) | Fail to provide, for the transitional period, an annual summary by March 31, 2022 | Serious
 
 13 | 16 | Fail to provide the required information within 24 hours after the Minister requests it for the purpose of responding to a situation specified | Very serious
 
@@ -195,3 +207,11 @@ History:
 - SOR/2018-243, s. 12
 
 - SOR/2018-243, s. 13
+
+- SOR/2019-161, s. 2(F)
+
+- SOR/2019-161, s. 3(F)
+
+- SOR/2019-161, s. 4
+
+- SOR/2019-161, s. 5
