@@ -1,5 +1,7 @@
 ## SCHEDULE (Subsections 2(1) and (3))
 
+- Abegweit
+
 - Abénakis of Wôlinak First Nation
 
 - Acadia
@@ -97,6 +99,8 @@
 - Coldwater Indian Band
 
 - Conseil de la Première Nation Abitibiwinni
+
+- Constance Lake
 
 - Cook’s Ferry
 
@@ -358,6 +362,8 @@
 
 - O’Chiese
 
+- Odanak
+
 - Okanese First Nation
 
 - Onion Lake Cree Nation
@@ -505,6 +511,8 @@
 - Stoney Nation
 
 - Sts’ailes
+
+- Stswecem’c Xgat’tem First Nation
 
 - St. Theresa Point
 
@@ -745,3 +753,5 @@ History:
 - SOR/2021-171, s. 7
 
 - SOR/2021-214, s. 1
+
+- SOR/2022-7, s. 1
