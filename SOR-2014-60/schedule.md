@@ -812,6 +812,22 @@ Individuals
 
 - Lidia (Lydia) Aleksandrovna BASOVA
 
+- 203
+
+- Taras Romanovych KOZAK
+
+- 204
+
+- Volodymyr Mykolayovich OLIYNYK
+
+- 205
+
+- Oleg Anatoliyovych VOLOSHYN
+
+- 206
+
+- Vladimir Leonidovich SIVKOVICH
+
 PART 2
 
 Entities
@@ -1017,3 +1033,5 @@ History:
 - SOR/2020-15, s. 1
 
 - SOR/2021-65, s. 1
+
+- SOR/2022-30, s. 1
