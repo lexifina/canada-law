@@ -574,7 +574,7 @@ Individuals
 
 - 143
 
-- Natalya Yuryevna NIKONOROVA
+- Natalya Yurevna NIKONOROVA (born on September 28, 1984)
 
 - 144
 
@@ -828,6 +828,818 @@ Individuals
 
 - Vladimir Leonidovich SIVKOVICH
 
+- 207
+
+- Vladimir Viktorovich PAVLENKO (born on April 14, 1962)
+
+- 208
+
+- Aleksandr Aleksandrovich OPRISHHENKO (born on April 24, 1976)
+
+- 209
+
+- Mikhail Nikolaevich KUSHAKOV (born on November 23, 1958)
+
+- 210
+
+- Vladimir Mikhailovich RUSHHAK (born on September 2, 1971)
+
+- 211
+
+- Igor Nikolaevich HALEPA (born on May 19, 1969)
+
+- 212
+
+- Yuriy Nikolaevich GOVTVIN (born on April 12, 1968)
+
+- 213
+
+- Anna Yurievna TODOROVA (born on February 20, 1988)
+
+- 214
+
+- Andrey Yurievich LUSTENKO (born on June 16, 1975)
+
+- 215
+
+- Vladislav Nikolaevich DEINEGO (born on March 12, 1964)
+
+- 216
+
+- Sergey Nikolaevich NEVEROV
+
+- 217
+
+- Yuriy Nikolaevich AFANASEVSKY (born on December 12, 1968)
+
+- 218
+
+- Olga Alexandrovna MAKEEVA
+
+- 219
+
+- Vitaly Vladimirovich KRAVETS
+
+- 220
+
+- Yaroslav Gennadievich ANIKA
+
+- 221
+
+- Yevgeny Dmitrievich GRITSENKO
+
+- 222
+
+- Andrey Sergeevich VOROSHILOV
+
+- 223
+
+- Alexander Pavlovich KURENKOV
+
+- 224
+
+- Vladislav Leonidovich BERDICHEVSKY
+
+- 225
+
+- Irina Vasilievna POPOVA
+
+- 226
+
+- Maria Vladimirovna PIROGOVA
+
+- 227
+
+- Sergey Borisovich PROKOPENKO
+
+- 228
+
+- Svetlana Anatolievna KUMANOVA
+
+- 229
+
+- Marina Vladimirovna MAGDALINA
+
+- 230
+
+- Kirill Borisovich MAKAROV
+
+- 231
+
+- Alexander Viktorovich MALKOV
+
+- 232
+
+- Yury Igorevich MARTYNOV
+
+- 233
+
+- Igor Viktorovich MATRUS
+
+- 234
+
+- Vladimir Anatolievich MEDVEDEV
+
+- 235
+
+- Yulia Valentinovna MIKHAILOVA
+
+- 236
+
+- Vladimir Evgenievich MOSHKIN
+
+- 237
+
+- Alla Ivanovna OBOLENSKAYA
+
+- 238
+
+- Dmitry Alexandrovich OGILETS
+
+- 239
+
+- Oleg Vladimirovich ONOPKO
+
+- 240
+
+- Maxim Alekseevich PARSHIN
+
+- 241
+
+- Igor Valentinovich PASHKOV
+
+- 242
+
+- Vasily Anatolievich PERTSEV
+
+- 243
+
+- Yuri Ivanovich POKINTELITSA
+
+- 244
+
+- Natalya Alekseevna POLYANSKAYA
+
+- 245
+
+- Leonid Vladimirovich PRISENKO
+
+- 246
+
+- Natalya Anatolyevna PSHENICHNAYA
+
+- 247
+
+- Lyubomir Evgenevich PUSHKIN
+
+- 248
+
+- Vladislav Adolfovich RUSANOV
+
+- 249
+
+- Vladimir Vladimirovich SAVELOV
+
+- 250
+
+- Anastasia Yurievna SELIVANOVA
+
+- 251
+
+- Alexander Anatolievich SERYOZHENKO
+
+- 252
+
+- Elena Nikolaevna SHISHKINA
+
+- 253
+
+- Alexander Vladimirovich KOROTKIY
+
+- 254
+
+- Oksana Viktorovna SIGIDINA
+
+- 255
+
+- Valery Vladimirovich SKOROKHODOV
+
+- 256
+
+- Natalya Ivanovna STRELCHUK
+
+- 257
+
+- Sergey Leonidovich TELNYKH
+
+- 258
+
+- Roman Sergeevich UDALOV
+
+- 259
+
+- Alexandra Alexandrovna USACHEVA
+
+- 260
+
+- Natalya Markovna VOLKOVA
+
+- 261
+
+- Yuri Mikhailovich ZAKABLUK
+
+- 262
+
+- Marina Nikolaevna ZHEYNOVA
+
+- 263
+
+- Aleksei Mikhailovich ZHIGULIN
+
+- 264
+
+- Mikhail Valerievich ZHUKOV
+
+- 265
+
+- Tatyana Vladimirovna ZHURAVLEVA
+
+- 266
+
+- Abdu Tamer HASSAN
+
+- 267
+
+- Sergei Navilievich ABUKOV
+
+- 268
+
+- Vladimir Nikolaevich ANDRIENKO
+
+- 269
+
+- Alexander Vasilievich AVDEEV
+
+- 270
+
+- Andrey Vasilievich BAEVSKY
+
+- 271
+
+- Alexander Sergeevich BANAKH
+
+- 272
+
+- Rinat Alievich BILYALOV
+
+- 273
+
+- Maria Viktorovna BOGATOVA
+
+- 274
+
+- Alexander Alexandrovich BONDARENKO
+
+- 275
+
+- Alexander Viktorovich BYKADOROV
+
+- 276
+
+- Natalya Dmitrievna CHEKAREVA
+
+- 277
+
+- Sergey Anatolievich CHUCHIN
+
+- 278
+
+- Dmitry Murtazievich CHURADZE
+
+- 279
+
+- Dmitry Eduardovich DEZORTSEV
+
+- 280
+
+- Irina Leontievna DIANOVA
+
+- 281
+
+- Alexey Sergeevich DOROFEEV
+
+- 282
+
+- Alexander Pavlovich DYAGOVETS
+
+- 283
+
+- Olga Petrovna GRYAZNOVA
+
+- 284
+
+- Natalya Vladimirovna GUBAREVA
+
+- 285
+
+- Evgeny Alekseevich ILYENKO
+
+- 286
+
+- Viktor Dmitrievich ISHCHENKO
+
+- 287
+
+- German Rustemovich KADYROV
+
+- 288
+
+- Alexander Sergeevich KAMYSHOV
+
+- 289
+
+- Maxim Gennadievich KNYSH
+
+- 290
+
+- Maxim Vitalievich KOROLYUK
+
+- 291
+
+- Irina Anatolievna KOSTENKO
+
+- 292
+
+- Gennady Evgenievich KOVALCHUK
+
+- 293
+
+- Sergey Alexandrovich KOVALCHUK
+
+- 294
+
+- Alexander Vladimirovich KOVTYRIN
+
+- 295
+
+- Olga Alexandrovna KRAVTSOVA
+
+- 296
+
+- Julia Mikhailovna KRYUKOVA
+
+- 297
+
+- Klavdia Yurievna KULBATSKAYA
+
+- 298
+
+- Konstantin Alexandrovich KUZMIN
+
+- 299
+
+- Yury Vladimirovich LEONOV
+
+- 300
+
+- Roman Nikolaevich LEPA
+
+- 301
+
+- Yaroslav Igorevich LISOBEY
+
+- 302
+
+- Svetlana Yanovna ALYOSHINA
+
+- 303
+
+- Irina Ivanovna ANDRUKH
+
+- 304
+
+- Aleksei Yuryevich BELETSKY
+
+- 305
+
+- Gennadiy Mikhaylovich BUNEEV
+
+- 306
+
+- Oleg Viacheslavovich DADONOV
+
+- 307
+
+- Bella Seyranovna DEMESHKO
+
+- 308
+
+- Sergei Mikhaylovich DIDENKO
+
+- 309
+
+- Elena Evgenyevna FARAKHOVA
+
+- 310
+
+- Valeriy Iosifovich GALINKIN
+
+- 311
+
+- Svetlana Fiodorovna GIZAY
+
+- 312
+
+- Dmitry Yuryevich GOLDA
+
+- 313
+
+- Mikhail Vasilyevich GOLUBOVICH
+
+- 314
+
+- Andrei Anatolyevich GUBAREV
+
+- 315
+
+- Svetlana Vadimovna KHVOROSTIAN
+
+- 316
+
+- Vitaliy Mikhaylovich KISHKINOV
+
+- 317
+
+- Olga Anatolyevna KOBTSEVA
+
+- 318
+
+- Denis Sergeevich KOLESNIKOV
+
+- 319
+
+- Aleksandra Sergeevna KOVALENKO
+
+- 320
+
+- Aleksandr Valeryevich KRIYERENKO
+
+- 321
+
+- Dmitry Leonidovich KUKARSKY
+
+- 322
+
+- Andrei Viktorovich LITSOEV
+
+- 323
+
+- Roman Grigoryevich LYSENKO
+
+- 324
+
+- Pavel Georgievich MALY
+
+- 325
+
+- Ruslan Raisovich MARDANOV
+
+- 326
+
+- Zhanna Viktorovna MARFINA
+
+- 327
+
+- Anna Mikhaylovna MOSINA
+
+- 328
+
+- Zinaida Gavrilovna NADEN
+
+- 329
+
+- Pavel Aristievich PILAVOV
+
+- 330
+
+- Alla Arkadyevna PODTYNNAYA
+
+- 331
+
+- Vladimir Nikolaevich POLYAKOV
+
+- 332
+
+- Oleg Nikolaevich POPOV
+
+- 333
+
+- Elena Ivanovna RAKHMUKOV
+
+- 334
+
+- Igor Nikolaevich RYABUSHKIN
+
+- 335
+
+- Ivan Vladimirovich SANAYEV
+
+- 336
+
+- Vladimir Vladimirovich SANKIN
+
+- 337
+
+- Natalya Vladimirovna SERGUN
+
+- 338
+
+- Sergei Viktorovich SEROV
+
+- 339
+
+- Konstantin Evgenevich SKRYPNYK
+
+- 340
+
+- Viacheslav Evgenyevich SVETLOV
+
+- 341
+
+- Andrei Mikhaylovich TAMBOVTSEV
+
+- 342
+
+- Yuriy Nikolaevich TELIKANOV
+
+- 343
+
+- Maksim Anatolyevich UVAROV
+
+- 344
+
+- Aleksandr Viktorovich YERMOLENKO
+
+- 345
+
+- Yuriy Pavlovich YUROV
+
+- 346
+
+- Nelli Akopovna ZADIRAKA
+
+- 347
+
+- Dmitry Aleksandrovich KHOROSHILOV
+
+- 348
+
+- Andrei Fiodorovich SOPELNIK
+
+- 349
+
+- Oleg Valeryevich KOVAL
+
+- 350
+
+- Aleksandr Sergeevich GRIDENKO
+
+- 351
+
+- Nadezhda Yuryevna KOVALENKO
+
+- 352
+
+- Inna Valeryevna LAYEVSKAYA
+
+- 353
+
+- Mikhail Anatolyevich RYMAR
+
+- 354
+
+- Elena Borisovna STYAZHKINA
+
+- 355
+
+- Pavel Aleksandrovich CHAIKOVSKY
+
+- 356
+
+- Vladimir Anatolievich CHEKUN
+
+- 357
+
+- Pyotr Vitalyevich SHIMANOVSKY
+
+- 358
+
+- Larisa Aleksandrovna YUVKO
+
+- 359
+
+- Sergey Aleksandrovich ANTONIUK
+
+- 360
+
+- Grigory Vladimirovich BELYAEV
+
+- 361
+
+- Vasily Vasilevich BOZYAVKIN
+
+- 362
+
+- Andrey Aleksandrovich BORISOV
+
+- 363
+
+- Vitaly Aleksandrovich BREDNEV
+
+- 364
+
+- Igor Petrovich VITCHENKO
+
+- 365
+
+- Andrey Vladimirovich VYATKIN
+
+- 366
+
+- Oleg Konstantinovich GLEBOV
+
+- 367
+
+- Dmitry Ivanovich GRISHIN
+
+- 368
+
+- Tatyana Adolfovna DVORYADKINA
+
+- 369
+
+- Igor Borisovich DOBROS
+
+- 370
+
+- Anzhelika Alekseevna DOBROS
+
+- 371
+
+- Sergey Sergeevich ZAVDOVEEV
+
+- 372
+
+- Anatoly Pavlovich KOVAL
+
+- 373
+
+- Aleksandr Vladimirovich KOZLOV
+
+- 374
+
+- Ivan Aleksandrovich KONDRATOV
+
+- 375
+
+- Yaroslav Igorevich KONNIKOV
+
+- 376
+
+- Egor Vladimirovich KOROSTOV
+
+- 377
+
+- Vitaly Sergeevich KOSTAREV
+
+- 378
+
+- Alla Viktorovna BARKHATNOVA
+
+- 379
+
+- Tatyana Trofimovna DEMCHENKO
+
+- 380
+
+- Natalya Mikhailovna IVANISHNINA
+
+- 381
+
+- Maksim Gennadyevich KNISH
+
+- 382
+
+- Roman Aleksandrovich KORNIENKO
+
+- 383
+
+- Elena Leonidovna MELNIK
+
+- 384
+
+- Andrey Valerevich MIROSHNICHENKO
+
+- 385
+
+- Viktor Ionatanovich NEER
+
+- 386
+
+- Ekaterina Aleksandrovna PAVLENKO
+
+- 387
+
+- Dmitry Nikolaevich PEREPYOLKIN
+
+- 388
+
+- Sergey Konstantinovich SVERCHKOV
+
+- 389
+
+- Oleg Viktorovich STEPANOV
+
+- 390
+
+- Galina Aleksandrovna FILATOVA
+
+- 391
+
+- Roman Aleksandrovich KHRAMENKOV
+
+- 392
+
+- Sergey Gennadevich TSIPKALOV
+
+- 393
+
+- Aleksandr Valerevich KOSTENKO
+
+- 394
+
+- Sergey Yurievich KULAKOV
+
+- 395
+
+- Sergey Viktorovich LUGANSKY
+
+- 396
+
+- Sergey Gennadevich MAKEEV
+
+- 397
+
+- Roman Aleksandrovich MALIUTIN
+
+- 398
+
+- Ekaterina Gennadievna MARTYANOVA
+
+- 399
+
+- Vitaly Viktorovich METLA
+
+- 400
+
+- Viktor Yurievich PETROVICH
+
+- 401
+
+- Yuri Vladimirovich POLIUSHKIN
+
+- 402
+
+- Sergey Nikolaevich ROZHKOV
+
+- 403
+
+- Sergey Anatolievich RURA
+
+- 404
+
+- Eduard Evgenevich SALIHOV
+
+- 405
+
+- Aleksandr Borisovich SIMONENKO
+
+- 406
+
+- Vyacheslav Gennadievich TIKHONOV
+
+- 407
+
+- Oleg Mikhailovich SHABAN
+
+- 408
+
+- Stanislav Valerevich SHAPOSHNIKOV
+
+- 409
+
+- Aleksandr Ivanovich YAROVIKOV
+
 PART 2
 
 Entities
@@ -1035,3 +1847,7 @@ History:
 - SOR/2021-65, s. 1
 
 - SOR/2022-30, s. 1
+
+- SOR/2022-87, s. 2
+
+- SOR/2022-87, s. 3
