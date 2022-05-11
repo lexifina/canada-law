@@ -2,183 +2,181 @@
 
 Designated Aerodromes
 
-- Abbotsford
+Column 1 | Column 2
 
-- Alma
+Location | International Civil Aviation Organization (ICAO) Location Indicator
 
-- Bagotville
+Abbotsford | CYXX
 
-- Baie-Comeau
+Alma | CYTF
 
-- Bathurst
+Bagotville | CYBG
 
-- Brandon
+Baie-Comeau | CYBC
 
-- Calgary International
+Bathurst | CZBF
 
-- Campbell River
+Brandon | CYBR
 
-- Castlegar
+Calgary | CYYC
 
-- Charlo
+Campbell River | CYBL
 
-- Charlottetown
+Castlegar | CYCG
 
-- Chibougamau/Chapais
+Charlo | CYCL
 
-- Churchill Falls
+Charlottetown | CYYG
 
-- Comox
+Chibougamau/Chapais | CYMT
 
-- Cranbrook
+Churchill Falls | CZUM
 
-- Dawson Creek
+Comox | CYQQ
 
-- Deer Lake
+Cranbrook | CYXC
 
-- Edmonton International
+Dawson Creek | CYDQ
 
-- Fort McMurray
+Deer Lake | CYDF
 
-- Fort St. John
+Edmonton | CYEG
 
-- Fredericton International
+Fort McMurray | CYMM
 
-- Gander International
+Fort St. John | CYXJ
 
-- Gaspé
+Fredericton | CYFC
 
-- Goose Bay
+Gander | CYQX
 
-- Grande Prairie
+Gaspé | CYGP
 
-- Greater Moncton International
+Goose Bay | CYYR
 
-- Halifax (Robert L. Stanfield International)
+Grande Prairie | CYQU
 
-- Hamilton
+Halifax | CYHZ
 
-- Îles-de-la-Madeleine
+Hamilton | CYHM
 
-- Iqaluit
+Îles-de-la-Madeleine | CYGR
 
-- Kamloops
+Iqaluit | CYFB
 
-- Kelowna
+Kamloops | CYKA
 
-- Kingston
+Kelowna | CYLW
 
-- Kitchener/Waterloo Regional
+Kingston | CYGK
 
-- Kuujjuaq
+Kitchener/Waterloo | CYKF
 
-- Kuujjuarapik
+Kuujjuaq | CYVP
 
-- La Grande Rivière
+Kuujjuarapik | CYGW
 
-- Lethbridge
+La Grande Rivière | CYGL
 
-- Lloydminster
+La Macaza / Mont‑Tremblant | CYFJ
 
-- London
+Lethbridge | CYQL
 
-- Lourdes-de-Blanc-Sablon
+Lloydminster | CYLL
 
-- Medicine Hat
+London | CYXU
 
-- Mont-Joli
+Lourdes-de-Blanc-Sablon | CYBX
 
-- Montréal (Montréal — Pierre Elliott Trudeau International)
+Medicine Hat | CYXH
 
-- Montréal International (Mirabel)
+Moncton | CYQM
 
-- Nanaimo
+Mont-Joli | CYYY
 
-- North Bay
+Montréal | CYMX, CYUL
 
-- Ottawa (Macdonald-Cartier International)
+Nanaimo | CYCD
 
-- Penticton
+North Bay | CYYB
 
-- Prince Albert
+Ottawa | CYOW
 
-- Prince George
+Penticton | CYYF
 
-- Prince Rupert
+Prince Albert | CYPA
 
-- Québec (Jean Lesage International)
+Prince George | CYXS
 
-- Quesnel
+Prince Rupert | CYPR
 
-- Red Deer Regional
+Québec | CYQB
 
-- Regina
+Quesnel | CYQZ
 
-- Rivière-Rouge (Mont-Tremblant International)
+Red Deer | CYQF
 
-- Roberval
+Regina | CYQR
 
-- Rouyn-Noranda
+Roberval | CYRJ
 
-- St. Anthony
+Rouyn-Noranda | CYUY
 
-- Saint John
+St. Anthony | CYAY
 
-- St. John’s International
+Saint John | CYSJ
 
-- St. Leonard
+St. John’s | CYYT
 
-- Sandspit
+Saint-Léonard | CYSL
 
-- Sarnia (Chris Hadfield)
+Sandspit | CYZP
 
-- Saskatoon (John G. Diefenbaker International)
+Sarnia | CYZR
 
-- Sault Ste. Marie
+Saskatoon | CYXE
 
-- Sept-Îles
+Sault Ste. Marie | CYAM
 
-- Smithers
+Sept-Îles | CYZV
 
-- Stephenville
+Smithers | CYYD
 
-- Sudbury
+Stephenville | CYJT
 
-- Sydney
+Sudbury | CYSB
 
-- Terrace
+Sydney | CYQY
 
-- Thompson
+Terrace | CYXT
 
-- Thunder Bay
+Thompson | CYTH
 
-- Timmins
+Thunder Bay | CYQT
 
-- Toronto/Buttonville Municipal
+Timmins | CYTS
 
-- Toronto (City Centre)
+Toronto | CYKZ, CYTZ, CYYZ
 
-- Toronto (Lester B. Pearson International)
+Val-d’Or | CYVO
 
-- Val-d’Or
+Vancouver | CYVR
 
-- Vancouver International
+Victoria | CYYJ
 
-- Victoria International
+Wabush | CYWK
 
-- Wabush
+Whitehorse | CYXY
 
-- Whitehorse International
+Williams Lake | CYWL
 
-- Williams Lake
+Windsor | CYQG
 
-- Windsor
+Winnipeg | CYWG
 
-- Winnipeg (James Armstrong Richardson International)
+Yarmouth | CYQI
 
-- Yarmouth
-
-- Yellowknife
+Yellowknife | CYZF
 
 History:
 
@@ -187,3 +185,5 @@ History:
 - SOR/2004-292, ss. 1, 2
 
 - SOR/2009-293, ss. 1 to 4
+
+- SOR/2022-93, s. 1
