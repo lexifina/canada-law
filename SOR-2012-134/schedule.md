@@ -36,7 +36,7 @@ Item | Regulations | Provisions
 
 15 | Solvent Degreasing Regulations | (a) subsection 3(1)
 
-16 | Federal Halocarbon Regulations, 2003 | (a) section 3 (b) subsections 5(1) and (2)
+16 | Federal Halocarbon Regulations, 2022 | (a) subsection 3(1) (b) section 4 (c) subsections 5(1) and (2) (d) subsection 6(1) (e) subsection 7(1) (f) section 8 (g) section 9 (h) section 10 (i) subsection 12(1) (j) section 13
 
 17 | [Repealed, SOR/2017-110, s. 39]
 
@@ -101,3 +101,5 @@ History:
 - SOR/2020-231, s. 46
 
 - SOR/2021-25, s. 84
+
+- SOR/2022-110, s. 27
