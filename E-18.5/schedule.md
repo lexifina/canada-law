@@ -26,6 +26,8 @@
 
 - Democratic Republic of the Congo
 
+- Eswatini
+
 - European Union
 
 - Gabon
@@ -48,6 +50,8 @@
 
 - Kazakhstan
 
+- Kyrgyzstan
+
 - Laos
 
 - Lebanon
@@ -64,6 +68,8 @@
 
 - Mexico
 
+- Mozambique
+
 - Namibia
 
 - New Zealand
@@ -72,9 +78,13 @@
 
 - Panama
 
+- Qatar
+
+- Republic of Korea
+
 - Republic of the Congo
 
-- Russia
+- Russian Federation
 
 - Sierra Leone
 
@@ -82,11 +92,7 @@
 
 - South Africa
 
-- South Korea
-
 - Sri Lanka
-
-- Swaziland
 
 - Switzerland
 
@@ -137,3 +143,7 @@ History:
 - SOR/2019-24, s. 1
 
 - SOR/2021-17, s. 1
+
+- SOR/2022-115, s. 1
+
+- SOR/2022-115, s. 2
