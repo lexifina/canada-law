@@ -48,6 +48,8 @@
 
 - Berens River
 
+- Big Grassy
+
 - Big Island Lake Cree Nation
 
 - Bigstone Cree Nation
@@ -57,6 +59,8 @@
 - Bingwi Neyaashi Anishinaabek
 
 - Black River First Nation
+
+- Bonaparte First Nation
 
 - Brokenhead Ojibway Nation
 
@@ -185,6 +189,8 @@
 - High Bar First Nation
 
 - Homalco First Nation
+
+- Hupacasath First Nation
 
 - Indian Island First Nation
 
@@ -620,6 +626,8 @@
 
 - Woodstock First Nation
 
+- Wuikinuxv Nation
+
 - Wunnumin
 
 - Wuskwi Sipihk First Nation
@@ -755,3 +763,5 @@ History:
 - SOR/2021-214, s. 1
 
 - SOR/2022-7, s. 1
+
+- SOR/2022-116, s. 1
