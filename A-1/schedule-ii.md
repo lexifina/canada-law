@@ -126,6 +126,8 @@ Telecommunications Act Loi sur les télécommunications | subsections 39(2) and 
 
 Transportation of Dangerous Goods Act, 1992 Loi de 1992 sur le transport des marchandises dangereuses | subsection 24(4)
 
+Underused Housing Tax Act Loi sur la taxe sur les logements sous-utilisés | section 32
+
 Witness Protection Program Act Loi sur le Programme de protection des témoins | section 11
 
 Yukon Environmental and Socio-economic Assessment Act Loi sur l’évaluation environnementale et socioéconomique au Yukon | paragraph 121(a)
@@ -197,3 +199,5 @@ History:
 - 2019, c. 28, s. 85
 
 - 2019, c. 28, s. 86
+
+- 2022, c. 5, s. 11
