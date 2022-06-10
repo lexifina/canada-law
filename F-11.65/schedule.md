@@ -316,6 +316,10 @@
 
 - Tsartlip First Nation
 
+- 80
+
+- Pauquachin First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -477,3 +481,5 @@ History:
 - SOR/2021-211, s. 1
 
 - SOR/2021-213, s. 1
+
+- SOR/2022-130, s. 1
