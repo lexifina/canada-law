@@ -12,7 +12,7 @@
 
 - 9 A board of inquiry convened under section 45 of the National Defence Act
 
-- 10 A service tribunal or a military judge for the purposes of Part III of the National Defence Act
+- 10 A court martial or a military judge for the purposes of Part III of the National Defence Act
 
 - 11 The Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the Federal Public Sector Labour Relations and Employment Board Act, for the purposes of a grievance process under the Federal Public Sector Labour Relations Act with respect to an employee of the Canadian Security Intelligence Service, with the exception of any information provided to the Board by the employee
 
@@ -65,5 +65,7 @@ History:
 - 2019, c. 13, s. 20
 
 - 2019, c. 13, s. 61
+
+- 2019, c. 15, s. 54
 
 - 2019, c. 18, s. 60
