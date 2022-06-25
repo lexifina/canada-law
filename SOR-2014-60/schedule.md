@@ -1640,6 +1640,66 @@ Individuals
 
 - Aleksandr Ivanovich YAROVIKOV
 
+- 410
+
+- Galina Viktorovna DANILCHENKO (born on July 5, 1964)
+
+- 411
+
+- Illia Volodymyrovych KIVA
+
+- 412
+
+- Kateryna Illiaovna KIVA
+
+- 413
+
+- Aleksandr Yurievich KOBETS (born on September 29, 1959)
+
+- 414
+
+- Volodymyr Vasylovych SALDO (born on June 12, 1956)
+
+- 415
+
+- Kirill Sergeyevich STREMOUSOV (born in 1976)
+
+- 416
+
+- Konstantin Vladimirovich IVASHCHENKO (born on October 3, 1963)
+
+- 417
+
+- Tetiana Oleksandrivna KUZMICH (born on April 10, 1968)
+
+- 418
+
+- Yevheniy Vitalyevich BALITSKY (born in 1969)
+
+- 419
+
+- Serhiy Mykolayovych CHEREVKO (born on August 11, 1975)
+
+- 420
+
+- Ihor Ihorovych SEMENCHEV (born on January 21, 1982)
+
+- 421
+
+- Georgiy Dmytrovych KALENOV (born on May 10, 1958)
+
+- 422
+
+- Dmytro Mikhailovich SAVLUCHENKO (born on April 22, 1990)
+
+- 423
+
+- Pavel Igorevich FILIPCHUK (born on July 5, 1983)
+
+- 424
+
+- Vladimir Valeryevich ROGOV (born in 1976)
+
 PART 2
 
 Entities
@@ -1851,3 +1911,5 @@ History:
 - SOR/2022-87, s. 2
 
 - SOR/2022-87, s. 3
+
+- SOR/2022-166, s. 1
