@@ -1,4 +1,4 @@
-Public Accountability Statements (Banks, Insurance Companies, Trust and Loan Companies) Regulations
+Public Accountability Statements (Insurance Companies and Trust and Loan Companies) Regulations
 
 SOR/2002-133
 
@@ -6,7 +6,7 @@ BANK ACTINSURANCE COMPANIES ACTTRUST AND LOAN COMPANIES ACT
 
 Registration 2002-03-21
 
-Public Accountability Statements (Banks, Insurance Companies, Trust and Loan Companies) Regulations
+Public Accountability Statements (Insurance Companies and Trust and Loan Companies) Regulations
 
 P.C. 2002-402 2002-3-21
 
