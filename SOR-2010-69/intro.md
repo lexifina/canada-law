@@ -1,4 +1,4 @@
-Mortgage Insurance Disclosure (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations
+Mortgage Insurance Disclosure (Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations
 
 SOR/2010-69
 
@@ -6,7 +6,7 @@ BANK ACTCOOPERATIVE CREDIT ASSOCIATIONS ACTINSURANCE COMPANIES ACTTRUST AND LOAN
 
 Registration 2010-03-25
 
-Mortgage Insurance Disclosure (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations
+Mortgage Insurance Disclosure (Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations
 
 P.C. 2010-389 2010-3-25
 
