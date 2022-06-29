@@ -1,4 +1,4 @@
-Credit Business Practices (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Foreign Insurance Companies) Regulations
+Credit Business Practices (Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Foreign Insurance Companies) Regulations
 
 SOR/2009-257
 
@@ -6,7 +6,7 @@ BANK ACTCOOPERATIVE CREDIT ASSOCIATIONS ACTINSURANCE COMPANIES ACTTRUST AND LOAN
 
 Registration 2009-09-09
 
-Credit Business Practices (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Foreign Insurance Companies) Regulations
+Credit Business Practices (Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Foreign Insurance Companies) Regulations
 
 P.C. 2009-1528 2009-9-9
 
