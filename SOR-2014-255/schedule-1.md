@@ -38,8 +38,6 @@ Cook Cuisinier | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Drywall Finisher and Plasterer Jointoyeur et plâtrier | ✓ | ✓ | ✓ | ✓ | ✓
 
-Electric Motor System Technician Électromécanicien | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
-
 Floorcovering Installer Poseur de revêtements souples | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Gasfitter - Class A Monteur d’installations au gaz (classe A) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
