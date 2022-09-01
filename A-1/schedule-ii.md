@@ -110,6 +110,8 @@ Railway Safety Act Loi sur la sécurité ferroviaire | subsection 39.2(1)
 
 Royal Canadian Mounted Police Act Loi sur la Gendarmerie royale du Canada | subsection 45.47(1)
 
+Select Luxury Items Tax Act Loi sur la taxe sur certains biens de luxe | section 91
+
 Sex Offender Information Registration Act Loi sur l’enregistrement de renseignements sur les délinquants sexuels | subsections 9(3) and 16(4)
 
 Shipping Conferences Exemption Act, 1987 Loi dérogatoire de 1987 sur les conférences maritimes | section 11
@@ -201,3 +203,5 @@ History:
 - 2019, c. 28, s. 86
 
 - 2022, c. 5, s. 11
+
+- 2022, c. 10, s. 136
