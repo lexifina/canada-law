@@ -26,6 +26,12 @@ Item | Designated Provision | Individual | Corporation
 
 7 | Section 17.3 | 50,000 | 250,000
 
+7.1 | Subsection 17.31(1) | 50,000 | 250,000
+
+7.2 | Subsection 17.31(2) | 50,000 | 250,000
+
+7.3 | Subsection 17.31(3) | 50,000 | 250,000
+
 8 | Subsection 19(2) | 5,000 | 25,000
 
 9 | Subsection 20(1) | 5,000 | 25,000
@@ -634,8 +640,126 @@ Item | Designated Provision | Individual | Corporation
 
 134 | Subsection 110(2) | 5,000 | 25,000
 
+PART 6
+
+Designated Provisions of the Locomotive Voice and Video Recorder Regulations
+
+Item | Column 1 | Column 2 | Column 3
+
+Maximum Amount Payable ($) | Maximum Amount Payable ($)
+
+Designated Provision | Individual | Corporation
+
+1 | Subsection 3(1) | 50,000 | 250,000
+
+2 | Section 4 | 50,000 | 250,000
+
+3 | Section 5 | 50,000 | 250,000
+
+4 | Section 6 | 50,000 | 250,000
+
+5 | Section 7 | 50,000 | 250,000
+
+6 | Section 8 | 50,000 | 250,000
+
+7 | Subsections 9(1) and (2) | 50,000 | 250,000
+
+8 | Subsections 10(1) to (4) | 50,000 | 250,000
+
+9 | Subsection 10(5) | 5,000 | 25,000
+
+10 | Subsections 11(1) and (2) | 5,000 | 25,000
+
+11 | Subsection 11(3) | 5,000 | 25,000
+
+12 | Subsection 12(1) | 25,000 | 125,000
+
+13 | Subsection 12(2) | 25,000 | 125,000
+
+14 | Section 13 | 25,000 | 125,000
+
+15 | Section 14 | 50,000 | 250,000
+
+16 | Section 15 | 25,000 | 125,000
+
+17 | Section 16 | 50,000 | 250,000
+
+18 | Section 18 | 50,000 | 250,000
+
+19 | Subsections 19(1) and (2) | 50,000 | 250,000
+
+20 | Subsection 19(3) | 50,000 | 250,000
+
+21 | Subsection 19(4) | 25,000 | 125,000
+
+22 | Section 20 | 50,000 | 250,000
+
+23 | Section 21 | 50,000 | 250,000
+
+24 | Subsection 22(1) | 50,000 | 250,000
+
+25 | Subsection 22(2) | 50,000 | 250,000
+
+26 | Subsection 22(3) | 50,000 | 250,000
+
+27 | Subsection 23(1) | 50,000 | 250,000
+
+28 | Subsection 23(2) | 50,000 | 250,000
+
+29 | Section 24 | 50,000 | 250,000
+
+30 | Section 25 | 50,000 | 250,000
+
+31 | Subsections 26(1) to (7) | 50,000 | 250,000
+
+32 | Subsection 26(8) | 50,000 | 250,000
+
+33 | Subsection 26(9) | 50,000 | 250,000
+
+34 | Section 27 | 50,000 | 250,000
+
+35 | Section 28 | 50,000 | 250,000
+
+36 | Subsections 29(1) and (2) | 50,000 | 250,000
+
+37 | Subsection 29(3) | 50,000 | 250,000
+
+38 | Section 31 | 50,000 | 250,000
+
+39 | Section 32 | 50,000 | 250,000
+
+40 | Subsection 33(1) | 50,000 | 250,000
+
+41 | Subsection 33(2) | 50,000 | 250,000
+
+42 | Subsection 33(3) | 50,000 | 250,000
+
+43 | Subsection 34(1) | 50,000 | 250,000
+
+44 | Subsection 34(2) | 25,000 | 125,000
+
+45 | Subsection 34(3) | 25,000 | 125,000
+
+46 | Subsection 35(1) | 25,000 | 125,000
+
+47 | Subsection 35(2) | 25,000 | 125,000
+
+48 | Subsection 36(1) | 25,000 | 125,000
+
+49 | Subsection 36(2) | 25,000 | 125,000
+
+50 | Subsection 37(1) | 25,000 | 125,000
+
+51 | Subsection 37(2) | 25,000 | 125,000
+
+52 | Section 38 | 50,000 | 250,000
+
 History:
 
 - SOR/2015-133, ss. 1 to 3
 
 - SOR/2016-65, ss. 2 to 5
+
+- SOR/2020-178, s. 39
+
+- SOR/2020-178, s. 40
