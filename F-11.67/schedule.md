@@ -178,6 +178,8 @@
 
 - Hagwilget First Nation Government
 
+- Haisla Nation
+
 - Halalt First Nation
 
 - Halfway River First Nation
@@ -231,6 +233,8 @@
 - Kitigan Zibi Anishinabeg
 
 - Kitselas First Nation
+
+- Klahoose First Nation
 
 - K’ómoks First Nation
 
@@ -294,6 +298,8 @@
 
 - Malahat Nation
 
+- Marcel Colomb First Nation
+
 - Matsqui First Nation
 
 - M’Chigeeng First Nation
@@ -308,6 +314,8 @@
 
 - Miawpukek First Nation
 
+- La Nation Micmac de Gespeg
+
 - Micmacs of Gesgapegiag
 
 - Millbrook Band
@@ -321,6 +329,8 @@
 - Mitaanjigamiing First Nation
 
 - Mohawks of the Bay of Quinte
+
+- Montagnais de Pakua Shipi
 
 - Montana First Nation
 
@@ -350,6 +360,8 @@
 
 - Nazko First Nation
 
+- Nee-Tahi-Buhn
+
 - Neskonlith Indian Band
 
 - Niisaachewan Anishinaabe Nation
@@ -357,6 +369,8 @@
 - Nipissing First Nation
 
 - Nisichawayasihk Cree Nation
+
+- Northwest Angle No.33
 
 - Norway House Cree Nation
 
@@ -433,6 +447,8 @@
 - Sagamok Anishnawbek
 
 - Saik’uz First Nation
+
+- Saint Mary’s
 
 - Salt River First Nation #195
 
@@ -572,6 +588,8 @@
 
 - Tseycum First Nation
 
+- Tŝideldel First Nation
+
 - Ts’kw’aylaxw First Nation
 
 - Tsleil-Waututh Nation
@@ -581,6 +599,8 @@
 - Tsuut’ina Nation
 
 - Tzeachten First Nation
+
+- Ulkatcho
 
 - Upper Nicola Indian Band
 
@@ -765,3 +785,5 @@ History:
 - SOR/2022-7, s. 1
 
 - SOR/2022-116, s. 1
+
+- SOR/2022-193, s. 1
