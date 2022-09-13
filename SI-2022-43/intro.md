@@ -1,0 +1,47 @@
+Proclamation Requesting that the People of Canada Set Aside September 19, 2022, as the Day on Which They Honour the Memory of Her Late Majesty Queen Elizabeth the Second, Who Passed Away on September 8, 2022
+
+SI/2022-43
+
+OTHER THAN STATUTORY AUTHORITY
+
+Registration 2022-09-13
+
+Proclamation Requesting that the People of Canada Set Aside September 19, 2022, as the Day on Which They Honour the Memory of Her Late Majesty Queen Elizabeth the Second, Who Passed Away on September 8, 2022
+
+Mary May Simon
+
+[L.S.]
+
+Canada
+
+CHARLES THE THIRD, by the Grace of God of the United Kingdom, Canada and His other Realms and Territories KING, Head of the Commonwealth, Defender of the Faith.
+
+David Lametti
+
+Attorney General of Canada
+
+Great Seal of Canada
+
+TO ALL TO WHOM these presents shall come or whom the same may in any way concern,
+
+GREETING:
+
+Whereas Our Privy Council for Canada has directed that a proclamation be issued requesting that the people of Canada set aside September 19, 2022, as the day on which they honour the memory of Her late Majesty Queen Elizabeth the Second, who passed away on September 8, 2022;
+
+Now Know You that We, by and with the advice of Our Privy Council for Canada, do by this Our Proclamation request that the people of Canada set aside September 19, 2022, as the day on which they honour the memory of Her late Majesty Queen Elizabeth the Second, who passed away on September 8, 2022.
+
+Of All Which Our Loving Subjects and all others whom these presents may concern are required to take notice and to govern themselves accordingly.
+
+WITNESS:
+
+Our Right Trusty and Well-beloved Mary May Simon, Chancellor and Principal Companion of Our Order of Canada, Chancellor and Commander of Our Order of Military Merit, Chancellor and Commander of Our Order of Merit of the Police Forces, Governor General and Commander-in-Chief of Canada.
+
+At Our Government House, in Our City of Ottawa, this thirteenth day of September in the year of Our Lord two thousand and twenty-two and in the first year of Our Reign.
+
+François-Philippe Champagne
+
+Registrar General of Canada
+
+Justin Trudeau
+
+Prime Minister of Canada
