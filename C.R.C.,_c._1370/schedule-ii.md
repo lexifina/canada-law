@@ -852,7 +852,7 @@
 
   - (3) A baggage inspection X-ray device shall be designed and constructed to include the following safety features:
 
-    - (a) doors or panels over all access openings that are designed for insertion or removal of baggage, unless the devise is designed to prevent the insertion of any part of the human body into the primary X-ray beam through those access openings;
+    - (a) doors or panels over all access openings that are designed for insertion or removal of baggage, unless the device is designed to prevent the insertion of any part of the human body into the primary X-ray beam through those access openings;
 
     - (b) interlocking of all doors or panels referred to in paragraph (a), with not less than two independent safety interlocks so that, if any of those doors or panels are opened, X-rays cannot be generated;
 
@@ -3235,3 +3235,5 @@ History:
 - SOR/2017-228, s. 3
 
 - SOR/2018-69, s. 86
+
+- SOR/2022-197, s. 25

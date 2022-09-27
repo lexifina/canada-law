@@ -4,4 +4,4 @@ C.R.C., c. 1370
 
 RADIATION EMITTING DEVICES ACT
 
-Regulations Respecting Radiation Emitting Devices
+Radiation Emitting Devices Regulations
