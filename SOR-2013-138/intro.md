@@ -1,4 +1,4 @@
-Administrative Monetary Penalties Regulations (National Energy Board)
+Administrative Monetary Penalties Regulations (Canadian Energy Regulator)
 
 SOR/2013-138
 
@@ -6,7 +6,7 @@ NATIONAL ENERGY BOARD ACT
 
 Registration 2013-06-18
 
-Administrative Monetary Penalties Regulations (National Energy Board)
+Administrative Monetary Penalties Regulations (Canadian Energy Regulator)
 
 P.C. 2013-825 2013-6-18
 
