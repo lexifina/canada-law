@@ -1700,6 +1700,146 @@ Individuals
 
 - Vladimir Valeryevich ROGOV (born in 1976)
 
+- 425
+
+- Sergey Vladimirovich YELISEYEV (born on May 5, 1971)
+
+- 426
+
+- Vladimir BESPALOV
+
+- 427
+
+- Oleksii Ivanovych KOVALEV (born on January 19, 1989)
+
+- 428
+
+- Mikhail Leonidovich RODIKOV (born in 1958)
+
+- 429
+
+- Tetyana Yuriivna TUMILINA (born in 1966)
+
+- 430
+
+- Gennadiy Oleksandrovich SHELESTENKO
+
+- 431
+
+- Oleksandr Fedorovich SAULENKO (born on May 9, 1962)
+
+- 432
+
+- Andriy Leonidovich SIGUTA (born on May 5, 1979)
+
+- 433
+
+- Oleksiy Sergeyevich SELIVANOV (born on December 7, 1980)
+
+- 434
+
+- Anton Viktorovich KOLSTOV (born on June 24, 1973)
+
+- 435
+
+- Anton Robertovich TYTSKIY (born on February 12, 1990)
+
+- 436
+
+- Andrei TROFIMOV
+
+- 437
+
+- Vasily Viktorovich NOSKOV (born on July 14, 1993)
+
+- 438
+
+- Timur Ilgizovich SAMATOV (born on April 4, 1992)
+
+- 439
+
+- Konstantin Vladimirovich ZAVIZENOV (born in 1974)
+
+- 440
+
+- Vladislav Garievich KUZNETSOV (born on March 18, 1969)
+
+- 441
+
+- Ivan Sergeyevich KUSOV (born on January 24, 1987)
+
+- 442
+
+- Petr Aleksandrovich ISHKOV (born in 1980)
+
+- 443
+
+- Andrij Mykolayovych EREMENKO (born on November 8, 1980)
+
+- 444
+
+- Oleksandr Mykolayovych KORNIENKO (born on November 12, 1978)
+
+- 445
+
+- Valerii Mykhailovych PAHNYTS (born on January 22, 1953)
+
+- 446
+
+- Evgeniy Aleksandrovich SOLNTSEV
+
+- 447
+
+- Aleksandr Konstantinovich KOSTOMAROV (born on May 13, 1977)
+
+- 448
+
+- Dmitry Vladimirovich SHMELIOV (born in 1981)
+
+- 449
+
+- Denis Sergeyevich KURASHOV (born on January 1, 1978)
+
+- 450
+
+- Vladimir Vladimirovich YEZHIKOV (born on June 20, 1987)
+
+- 451
+
+- Andrei Gennadievich CHERTKOV (born on April 9, 1969)
+
+- 452
+
+- Olga Pavlovna KOLUDAROVA (born on December 16, 1983)
+
+- 453
+
+- Dmitry Anatolyevich GARTSEV (born on January 6, 1978)
+
+- 454
+
+- Volodymyr Volodymyrovych BANDURA (born on July 15, 1990)
+
+- 455
+
+- Viktor Leonidovich BEDRIK
+
+- 456
+
+- Vitaliy Viktorovich BULYUK (born on December 21, 1969)
+
+- 457
+
+- Andrey Aleksandrovich ZHIDKOV (born on September 15, 1979)
+
+- 458
+
+- Viktor Andriyovych YEMELYANENKO (born on October 11, 1953)
+
+- 459
+
+- Mykyta Ivanovich SAMOILENKO (born on August 28, 1992)
+
 PART 2
 
 Entities
@@ -1872,6 +2012,10 @@ Entities
 
 - First Crimean Insurance Company
 
+- 43
+
+- Salvation Committee for Peace and Order
+
 History:
 
 - SOR/2014-63, s. 1
@@ -1913,3 +2057,9 @@ History:
 - SOR/2022-87, s. 3
 
 - SOR/2022-166, s. 1
+
+- SOR/2022-202, s. 5
+
+- SOR/2022-202, s. 6
+
+- SOR/2022-203, s. 1
