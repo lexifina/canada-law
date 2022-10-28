@@ -8,6 +8,10 @@ Designated Provision | Maximum Amount Payable Individual ($) | Maximum Amount Pa
 
 1 | Subsection 2.1(1) | 5,000 | 25,000
 
+1.1 | Subsection 2.1(1.1) | 5,000 | 25,000
+
+1.2 | Subsection 2.1(1.2) | 5,000 | 25,000
+
 2 | Subsection 2.1(2) | 5,000 | 25,000
 
 3 | Subsection 2.4(3) | 5,000 | 25,000
@@ -63,3 +67,7 @@ History:
 - SOR/2019-325, s. 17
 
 - SOR/2019-325, s. 18
+
+- SOR/2022-225, s. 11(F)
+
+- SOR/2022-225, s. 12
