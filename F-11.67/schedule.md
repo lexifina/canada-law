@@ -218,6 +218,8 @@
 
 - Kawacatoose First Nation
 
+- Kebaowek First Nation
+
 - Kehewin Cree Nation
 
 - The Key First Nation
@@ -233,6 +235,8 @@
 - Kitigan Zibi Anishinabeg
 
 - Kitselas First Nation
+
+- Kitsumkalum
 
 - Klahoose First Nation
 
@@ -300,6 +304,8 @@
 
 - Marcel Colomb First Nation
 
+- Martin Falls
+
 - Matsqui First Nation
 
 - M’Chigeeng First Nation
@@ -347,6 +353,8 @@
 - Muskoday First Nation
 
 - Muskowekwan
+
+- Musqueam
 
 - Nadleh Whut’en Band
 
@@ -402,11 +410,15 @@
 
 - Paul First Nation
 
+- Pauquachin
+
 - Peepeekisis Cree Nation No. 81
 
 - Peguis
 
 - Pekuakamiulnuatsh First Nation
+
+- Pelican Lake
 
 - Penticton Indian Band
 
@@ -616,6 +628,8 @@
 
 - Washagamis Bay
 
+- Waterhen Lake
+
 - Waywayseecappo First Nation Treaty 4-1874
 
 - Webequie First Nation
@@ -787,3 +801,5 @@ History:
 - SOR/2022-116, s. 1
 
 - SOR/2022-193, s. 1
+
+- SOR/2022-260, s. 1
