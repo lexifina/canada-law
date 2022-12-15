@@ -36,7 +36,7 @@ Fisher River First Nation | Council of the Fisher River First Nation | Reserves 
 
 Fox Lake | Council of the Fox Lake | Reserves of the Fox Lake | Manitoba
 
-Gamblers | Council of the Gamblers | Each reserve of the Gamblers that is not shared with another band | Manitoba
+Gambler First Nation | Council of the Gambler First Nation | Each reserve of the Gambler First Nation that is not shared with another band | Manitoba
 
 Garden Hill First Nation | Council of the Garden Hill First Nation | Reserves of the Garden Hill First Nation | Manitoba
 
@@ -157,3 +157,7 @@ History:
 - SOR/2013-13
 
 - SOR/2016-40
+
+- SOR/2022-275, s. 2
+
+- SOR/2022-275, s. 3
