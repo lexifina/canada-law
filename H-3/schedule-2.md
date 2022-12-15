@@ -12,7 +12,7 @@
 
 - 3
 
-- Flammable aerosols
+- Aerosols
 
 - 4
 
@@ -76,11 +76,15 @@
 
 - 19
 
-- Pyrophoric gases
+- [Repealed, SOR/2022-273, s. 2]
 
 - 20
 
 - Physical hazards not otherwise classified
+
+- 21
+
+- Chemicals under pressure
 
 ## Health Hazard Classes
 
@@ -137,3 +141,9 @@ History:
 - R.S., 1985, c. 24 (3rd Supp.), s. 2
 
 - 2014, ch. 20, art. 128
+
+- SOR/2022-273, s. 1
+
+- SOR/2022-273, s. 2
+
+- SOR/2022-273, s. 3
