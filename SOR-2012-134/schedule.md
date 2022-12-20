@@ -74,6 +74,8 @@ Item | Regulations | Provisions
 
 35 | Export of Substances on the Export Control List Regulations | (a) section 5.1
 
+38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
+
 History:
 
 - SOR/2014-75, s. 9
@@ -103,3 +105,5 @@ History:
 - SOR/2021-25, s. 84
 
 - SOR/2022-110, s. 27
+
+- SOR/2022-138, s. 12
