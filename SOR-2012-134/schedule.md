@@ -64,7 +64,7 @@ Item | Regulations | Provisions
 
 29 | Microbeads in Toiletries Regulations | (a) subsections 3(1) and (2)
 
-30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) [Not in force] (q) [Not in force] (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) [Not in force] (w) [Not in force] (x) [Not in force] (y) section 42 (z) section 43 (z.1) subsection 47(1) (z.2) section 48 (z.3) section 49 (z.4) subsection 50(3) (z.5) section 51 (z.6) section 52 (z.7) section 53
+30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) subsection 26(1) (q) section 27 (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) subsections 37(1) and (2) (w) section 38 (x) subsections 39(1) and (2) (y) section 42 (z) section 43 (z.1) subsection 47(1) (z.2) section 48 (z.3) section 49 (z.4) subsection 50(3) (z.5) section 51 (z.6) section 52 (z.7) section 53
 
 31 | Reduction in the Release of Volatile Organic Compounds Regulations (Petroleum Sector) | (a) paragraphs 3(2)(a), (b), (c) and (e) (b) section 11
 
@@ -72,7 +72,11 @@ Item | Regulations | Provisions
 
 33 | Regulations Limiting Carbon Dioxide Emissions from Natural Gas-fired Generation of Electricity | (a) subsections 4(1) and (2)
 
+34 | Volatile Organic Compound Concentration Limits for Certain Products Regulations | (a) subsections 3(1) and (2)
+
 35 | Export of Substances on the Export Control List Regulations | (a) section 5.1
+
+36 | Formaldehyde Emissions from Composite Wood Products Regulations | (a) section 5
 
 38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
 
@@ -103,6 +107,10 @@ History:
 - SOR/2020-231, s. 46
 
 - SOR/2021-25, s. 84
+
+- SOR/2021-268, s. 28
+
+- SOR/2022-89, s. 1
 
 - SOR/2022-110, s. 27
 
