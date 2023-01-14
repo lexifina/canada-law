@@ -14,9 +14,9 @@ Province of
 
 - 2 Contact Information
 
-- 3 Charge(s)
+- 3 Alleged offence(s)
 
-- (set out briefly the offence in respect of which the accused was charged)
+- (set out briefly the offence(s) which the accused is alleged to have committed)
 
 - 4 Mandatory Condition
 
@@ -119,3 +119,5 @@ History:
 - 2018, c. 29, s. 70
 
 - 2019, c. 25, s. 337
+
+- 2022, c. 17, s. 59
