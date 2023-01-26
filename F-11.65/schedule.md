@@ -320,6 +320,10 @@
 
 - Pauquachin First Nation
 
+- 81
+
+- Beausoleil First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -483,3 +487,5 @@ History:
 - SOR/2021-213, s. 1
 
 - SOR/2022-130, s. 1
+
+- SOR/2023-11, s. 1
