@@ -76,7 +76,7 @@
 
 - Arthropods
 
-  - Blue, Karner (Lycaeides melissa samuelis)
+  - Blue, Karner (Plebejus samuelis)
 
   - Bleu mélissa
 
@@ -131,10 +131,6 @@
   - Bat, Tri-coloured (Perimyotis subflavus)
 
   - Pipistrelle de l’Est
-
-  - Caribou, Peary (Rangifer tarandus pearyi)
-
-  - Caribou de Peary
 
   - Caribou (Rangifer tarandus) Atlantic — Gaspésie population
 
@@ -397,10 +393,6 @@
   - Gartersnake, Butler’s (Thamnophis butleri)
 
   - Couleuvre à petite tête
-
-  - Lizard, Greater Short-horned (Phrynosoma hernandesi)
-
-  - Grand iguane à petites cornes
 
   - Massasauga (Sistrurus catenatus) Carolinian population
 
@@ -666,6 +658,10 @@
 
   - Escargot-tigre à bandes de l’Est
 
+  - Whitelip, Striped (Webbhelix multilineata)
+
+  - Polyspire rayé
+
 - Arthropods
 
   - Blue, Island (Plebejus saepiolus insulanus)
@@ -728,6 +724,14 @@
 
   - Hespérie Persius de l’Est
 
+  - Duskywing, Mottled (Erynnis martialis) Boreal population
+
+  - Hespérie tachetée population boréale
+
+  - Duskywing, Mottled (Erynnis martialis) Great Lakes Plains population
+
+  - Hespérie tachetée population des plaines des Grands Lacs
+
   - Efferia, Okanagan (Efferia okanagana)
 
   - Asile de l’Okanagan
@@ -752,6 +756,10 @@
 
   - Porte-queue demi-lune
 
+  - Lady Beetle, Nine-spotted (Coccinella novemnotata)
+
+  - Coccinelle à neuf points
+
   - Metalmark, Mormon (Apodemia mormo) Southern Mountain population
 
   - Mormon population des montagnes du Sud
@@ -772,6 +780,10 @@
 
   - Teigne tricheuse du yucca
 
+  - Moth, Nuttall’s Sheep (Hemileuca nuttalli)
+
+  - Hémileucin de Nuttall
+
   - Moth, Sand-verbena (Copablepharon fuscum)
 
   - Noctuelle de l’abronie
@@ -791,6 +803,10 @@
   - Skipperling, Poweshiek (Oarisma poweshiek)
 
   - Hespérie de Poweshiek
+
+  - Skipper, Oregon Branded (Hesperia colorado oregonia)
+
+  - Hespérie du Colorado
 
   - Skipper, Ottoe (Hesperia ottoe)
 
@@ -938,6 +954,10 @@
 
   - Adiante cheveux-de-Vénus
 
+  - Foxglove, Downy Yellow False (Aureolaria virginica)
+
+  - Gérardie de Virginie
+
   - Gentian, Plymouth (Sabatia kennedyana)
 
   - Sabatie de Kennedy
@@ -965,6 +985,10 @@
   - Grass, Forked Three-awned (Aristida basiramea)
 
   - Aristide à rameaux basilaires
+
+  - Hesperochiron, Dwarf (Hesperochiron pumilus)
+
+  - Hespérochiron nain
 
   - Ironweed, Fascicled (Vernonia fasciculata)
 
@@ -1054,6 +1078,10 @@
 
   - Castilléjie dorée
 
+  - Paintbrush, Hairy (Castilleja tenuis)
+
+  - Castilléjie grêle
+
   - Phacelia, Branched (Phacelia ramosissima)
 
   - Phacélie rameuse
@@ -1089,6 +1117,10 @@
   - Pussytoes, Stoloniferous (Antennaria flagellaris)
 
   - Antennaire stolonifère
+
+  - Quillwort, Columbia (Isœtes minima)
+
+  - Isoète du Columbia
 
   - Quillwort, Engelmann’s (Isoetes engelmannii)
 
@@ -1178,6 +1210,10 @@
 
   - Tritéléia de Howell
 
+  - Valerian, Hairy (Valeriana edulis ssp. ciliata)
+
+  - Valériane ciliée
+
   - Violet, Bird’s-foot (Viola pedata)
 
   - Violette pédalée
@@ -1230,6 +1266,10 @@
 
 - Mosses
 
+  - Beard-moss, Drooping-leaved (Oxystegus recurvifolius)
+
+  - Trichostome à feuilles recourbées
+
   - Cord-moss, Rusty (Entosthodon rubiginosus)
 
   - Entosthodon rouilleux
@@ -1237,6 +1277,14 @@
   - Moss, Acuteleaf Small Limestone (Seligeria acutifolia)
 
   - Séligérie à feuilles aiguës
+
+  - Moss, Carey’s Small Limestone (Seligeria careyana)
+
+  - Séligérie de Carey
+
+  - Moss, Dalton’s (Daltonia splachnoides)
+
+  - Daltonie faux-splachne
 
   - Moss, Margined Streamside (Scouleria marginata)
 
@@ -1273,6 +1321,10 @@
   - Bison, Wood (Bison bison athabascae)
 
   - Bison des bois
+
+  - Caribou, Peary (Rangifer tarandus pearyi)
+
+  - Caribou de Peary
 
   - Caribou (Rangifer tarandus) Boreal population
 
@@ -1344,10 +1396,6 @@
 
   - Bec-croisé des sapins de la sous-espèce percna
 
-  - Flycatcher, Olive-sided (Contopus cooperi)
-
-  - Moucherolle à côtés olive
-
   - Goshawk laingi subspecies, Northern (Accipiter gentilis laingi)
 
   - Autour des palombes de la sous-espèce laingi
@@ -1379,10 +1427,6 @@
   - Murrelet, Marbled (Brachyramphus marmoratus)
 
   - Guillemot marbré
-
-  - Nighthawk, Common (Chordeiles minor)
-
-  - Engoulevent d’Amérique
 
   - Owl, Barn (Tyto alba) Western population
 
@@ -1483,6 +1527,10 @@
   - Racer, Eastern Yellow-bellied (Coluber constrictor flaviventris)
 
   - Couleuvre agile à ventre jaune de l’Est
+
+  - Racer, Western Yellow-bellied (Coluber constrictor mormon)
+
+  - Couleuvre agile à ventre jaune de l’Ouest
 
   - Ratsnake, Gray (Pantherophis spiloides) Great Lakes / St. Lawrence population
 
@@ -1632,6 +1680,10 @@
 
   - Arnica de Griscom
 
+  - Ash, Blue (Fraxinus quadrangulata)
+
+  - Frêne bleu
+
   - Aster, Gulf of St. Lawrence (Symphyotrichum laurentianum)
 
   - Aster du golfe Saint-Laurent
@@ -1688,6 +1740,14 @@
 
   - Polystic des rochers
 
+  - Foxglove, Fern-leaved Yellow False (Aureolaria pedicularia)
+
+  - Gérardie fausse-pédiculaire
+
+  - Foxglove, Smooth Yellow False (Aureolaria flava)
+
+  - Gérardie jaune
+
   - Gentian, Victorin’s (Gentianopsis virgata ssp. victorinii)
 
   - Gentiane de Victorin
@@ -1695,10 +1755,6 @@
   - Goldenrod, Showy (Solidago speciosa) Boreal population
 
   - Verge d’or voyante population boréale
-
-  - Goldenseal (Hydrastis canadensis)
-
-  - Hydraste du Canada
 
   - Goosefoot, Smooth (Chenopodium subglabrum)
 
@@ -1743,6 +1799,10 @@
   - Paintbrush, Cliff (Castilleja rupicola)
 
   - Castilléjie des rochers
+
+  - Pea, Silky Beach (Lathyrus littoralis)
+
+  - Gesse littorale
 
   - Pepperbush, Sweet (Clethra alnifolia)
 
@@ -1821,6 +1881,10 @@
   - Lichen, Seaside Bone (Hypogymnia heterophylla)
 
   - Hypogymnie maritime
+
+  - Lichen, Smoker’s Lung (Lobaria retigera)
+
+  - Lobaire réticulée
 
   - Lichen, Wrinkled Shingle (Pannaria lurida)
 
@@ -1966,13 +2030,13 @@
 
   - Arlequin plongeur population de l’Est
 
-  - Falcon anatum/tundrius, Peregrine (Falco peregrinus anatum/tundrius)
-
-  - Faucon pèlerin anatum/tundrius
-
   - Falcon pealei subspecies, Peregrine (Falco peregrinus pealei)
 
   - Faucon pèlerin de la sous-espèce pealei
+
+  - Flycatcher, Olive-sided (Contopus cooperi)
+
+  - Moucherolle à côtés olive
 
   - Goldeneye, Barrow’s (Bucephala islandica) Eastern population
 
@@ -2002,6 +2066,10 @@
 
   - Guillemot à cou blanc
 
+  - Nighthawk, Common (Chordeiles minor)
+
+  - Engoulevent d’Amérique
+
   - Owl, Flammulated (Otus flammeolus)
 
   - Petit-duc nain
@@ -2029,6 +2097,10 @@
   - Sparrow, Baird’s (Ammodramus bairdii)
 
   - Bruant de Baird
+
+  - Sparrow, Harris’s (Zonotrichia querula)
+
+  - Bruant à face noire
 
   - Sparrow pratensis subspecies, Grasshopper (Ammodramus savannarum pratensis)
 
@@ -2090,13 +2162,13 @@
 
   - Couleuvre gaufre de Say
 
+  - Lizard, Greater Short-horned (Phrynosoma hernandesi)
+
+  - Lézard à petites cornes majeur
+
   - Milksnake, Eastern (Lampropeltis triangulum)
 
   - Couleuvre tachetée
-
-  - Racer, Western Yellow-bellied (Coluber constrictor mormon)
-
-  - Couleuvre agile à ventre jaune de l’Ouest
 
   - Rattlesnake, Prairie (Crotalus viridis)
 
@@ -2356,6 +2428,10 @@
 
   - Amiral de Weidemeyer
 
+  - Bumble Bee, American (Bombus pensylvanicus)
+
+  - Bourdon américain
+
   - Bumble Bee, Yellow-banded (Bombus terricola)
 
   - Bourdon terricole
@@ -2408,11 +2484,11 @@
 
   - Mouche tachinide des dunes
 
+  - Wasp, Yellow Scarab Hunter (Dielis pilipes)
+
+  - Scolie dorée
+
 - Plants
-
-  - Ash, Blue (Fraxinus quadrangulata)
-
-  - Frêne bleu
 
   - Aster, Anticosti (Symphyotrichum anticostense)
 
@@ -2465,6 +2541,10 @@
   - Goldenrod, Riddell’s (Solidago riddellii)
 
   - Verge d’or de Riddell
+
+  - Goldenseal (Hydrastis canadensis)
+
+  - Hydraste du Canada
 
   - Hairgrass, Mackenzie (Deschampsia mackenzieana)
 
@@ -2905,3 +2985,47 @@ History:
 - SOR/2022-14, s. 41
 
 - SOR/2022-14, s. 42
+
+- SOR/2023-16, s. 1
+
+- SOR/2023-16, s. 2
+
+- SOR/2023-16, s. 3
+
+- SOR/2023-16, s. 4
+
+- SOR/2023-16, s. 5
+
+- SOR/2023-16, s. 6
+
+- SOR/2023-16, s. 7
+
+- SOR/2023-16, s. 8
+
+- SOR/2023-16, s. 9
+
+- SOR/2023-16, s. 10
+
+- SOR/2023-16, s. 11
+
+- SOR/2023-17, s. 1
+
+- SOR/2023-17, s. 2
+
+- SOR/2023-17, s. 3
+
+- SOR/2023-17, s. 4
+
+- SOR/2023-17, s. 5
+
+- SOR/2023-17, s. 6
+
+- SOR/2023-17, s. 7
+
+- SOR/2023-17, s. 8
+
+- SOR/2023-17, s. 9
+
+- SOR/2023-17, s. 10
+
+- SOR/2023-17, s. 11
