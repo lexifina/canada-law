@@ -324,6 +324,10 @@
 
 - Beausoleil First Nation
 
+- 82
+
+- Kinistin Saulteaux Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -489,3 +493,5 @@ History:
 - SOR/2022-130, s. 1
 
 - SOR/2023-11, s. 1
+
+- SOR/2023-54, s. 1
