@@ -34,6 +34,8 @@
 
 - Atikamekw of Wemotaci First Nation
 
+- Attawapiskat
+
 - Beardy’s and Okemasis
 
 - Bear River First Nation
@@ -117,6 +119,8 @@
 - Cumberland House Cree Nation
 
 - Curve Lake First Nation
+
+- Dakota Plains
 
 - Dakota Tipi
 
@@ -278,6 +282,8 @@
 
 - Listuguj Mi’gmaq Government
 
+- Little Grand Rapids
+
 - Little Red River Cree Nation
 
 - Little Saskatchewan
@@ -293,6 +299,8 @@
 - Lower Nicola Indian Band
 
 - Lower Similkameen
+
+- Lubicon Lake
 
 - Lytton
 
@@ -394,6 +402,8 @@
 
 - Okanese First Nation
 
+- Old Massett Village Council
+
 - Onion Lake Cree Nation
 
 - Opaskwayak Cree Nation
@@ -433,6 +443,8 @@
 - Pic Mobert
 
 - Pictou Landing First Nation
+
+- Pinaymootang First Nation
 
 - Pine Creek
 
@@ -803,3 +815,5 @@ History:
 - SOR/2022-193, s. 1
 
 - SOR/2022-260, s. 1
+
+- SOR/2023-69, s. 1
