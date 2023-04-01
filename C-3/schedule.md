@@ -112,6 +112,10 @@
 
   - (3) Despite subsection 6(2), for the purposes of deposit insurance with the Corporation, if moneys that constitute a deposit or part of a deposit are received by a member institution from a depositor under a tax-free savings account, within the meaning assigned by section 146.2 of the Income Tax Act, and the account is for the benefit of an individual, then the aggregate of those moneys and any other moneys that constitute a deposit or part of a deposit received from that depositor under any other tax-free savings account that is for the benefit of that individual is considered to be a single deposit separate from any other deposit for the benefit of that individual.
 
+  - Marginal note: First home savings account
+
+  - (3.1) Despite subsection 6(2), for the purposes of deposit insurance with the Corporation, if moneys that constitute a deposit or part of a deposit are received by a member institution from a depositor under a first home savings account as defined in subsection 248(1) of the Income Tax Act, and the account is for the benefit of an individual, then the aggregate of those moneys and any other moneys that constitute a deposit or part of a deposit received from that depositor under any other first home savings account that is for the benefit of that individual is considered to be a single deposit separate from any other deposit for the benefit of that individual.
+
   - Marginal note: Registered education savings plans
 
   - (4) Despite subsection 6(2), for the purposes of deposit insurance with the Corporation, if moneys that constitute a deposit or part of a deposit are received by a member institution from a depositor under a registered education savings plan that is for the benefit of an individual, then the aggregate of those moneys and any other moneys that constitute a deposit received from that depositor under any other registered education savings plan that is for the benefit of that individual is considered to be a single deposit separate from any other deposit for the benefit of that individual.
@@ -333,3 +337,5 @@ History:
 - 2018, c. 12, s. 212
 
 - 2021, c. 23, s. 138
+
+- 2022, c. 19, s. 59
