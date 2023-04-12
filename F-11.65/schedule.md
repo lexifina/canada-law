@@ -328,6 +328,10 @@
 
 - Kinistin Saulteaux Nation
 
+- 83
+
+- Mattagami First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -495,3 +499,5 @@ History:
 - SOR/2023-11, s. 1
 
 - SOR/2023-54, s. 1
+
+- SOR/2023-75, s. 1
