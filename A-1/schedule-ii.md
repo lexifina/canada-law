@@ -6,6 +6,8 @@ Aeronautics Act Loi sur l’aéronautique | subsections 4.79(1), 6.5(5), 22(2) a
 
 Anti-Inflation Act, S.C. 1974-75-76, c. 75 Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14
 
+Broadcasting Act Loi sur la radiodiffusion | subsection 25.3(2)
+
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
 Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1)
@@ -205,3 +207,5 @@ History:
 - 2022, c. 5, s. 11
 
 - 2022, c. 10, s. 136
+
+- 2023, c. 8, s. 36
