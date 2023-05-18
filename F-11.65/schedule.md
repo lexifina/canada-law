@@ -2,7 +2,7 @@
 
 - 1
 
-- Madawaska Maliseet First Nation
+- [Repealed, SOR/2023-94, s. 1]
 
 - 2
 
@@ -332,6 +332,10 @@
 
 - Mattagami First Nation
 
+- 85
+
+- Pinaymootang First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -501,3 +505,7 @@ History:
 - SOR/2023-54, s. 1
 
 - SOR/2023-75, s. 1
+
+- SOR/2023-94, s. 1
+
+- SOR/2023-96, s. 1
