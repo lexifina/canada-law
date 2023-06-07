@@ -596,7 +596,7 @@
 
       - (b) 8677 – 18.917 L mm for a vessel of 168 m or more in length. (hauteur d’étrave normale)
 
-  - (2) Subject to subsections (3) and (4), if the assumed bow height is less than the standard bow height, the basic freeboard shall be increased by the difference.
+  - (2) Subject to subsection (3), if the assumed bow height is less than the standard bow height, the basic freeboard shall be increased by the difference.
 
   - (3) For the purpose of the definition assumed bow height, the top of the exposed deck at side is deemed not to include sheer or the height of a superstructure unless
 
@@ -645,3 +645,5 @@
 History:
 
 - SOR/2013-235, ss. 25, 26(E), 27(F)
+
+- SOR/2023-105, s. 10
