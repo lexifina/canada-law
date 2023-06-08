@@ -1840,6 +1840,102 @@ Individuals
 
 - Mykyta Ivanovich SAMOILENKO (born on August 28, 1992)
 
+- 460
+
+- Alexander Viktorovich KUZMENKO (born on May 14, 1969)
+
+- 461
+
+- Yuri Ivanovich PODOLYAKA (born on April 21, 1975)
+
+- 462
+
+- Daniil Viktorovich BEZSONOV (born in 1984)
+
+- 463
+
+- Denis Aleksandrovich SINENKOV (born in 1981)
+
+- 464
+
+- Igor Mikhailovich DRUZ (born on January 1, 1973)
+
+- 465
+
+- Konstantin Sergeyevich KNYRIK (born on August 14, 1989)
+
+- 466
+
+- Yuriy Sergeyevich FEDIN (born on March 26, 1989)
+
+- 467
+
+- Valentina Vasilievna LAVRIK (born on February 25, 1969)
+
+- 468
+
+- Viktor Fedorovych YANUKOVYCH (born on July 9, 1950)
+
+- 469
+
+- Oleksandr Viktorovych YANUKOVYCH (born on July 10, 1973)
+
+- 470
+
+- Natalya Leonidovna DESYATOVA
+
+- 471
+
+- Tatyana Georgievna BRATCHENKO (born in 1949)
+
+- 472
+
+- Radik Spartakovich ISYAKAEV (born on May 23, 1980)
+
+- 473
+
+- Evgeny Sergeevich GORLACHEV (born January 14, 1975)
+
+- 474
+
+- Raisa Petrovna BOZHKO
+
+- 475
+
+- Tatiana Anatoloyevna MANEZHINA (born on June 14, 1963)
+
+- 476
+
+- Andrey Vitalievich MALGIN (born on June 11, 1965)
+
+- 477
+
+- Natalya Aleksandrovna KAPUSTNIKOVA (born on August 12, 1977)
+
+- 478
+
+- Elena Alexandrovna SHAPUROVA (born on November 16, 1976)
+
+- 479
+
+- Sergey Vladimirovich GRASCHENKO (born on September 16, 1970)
+
+- 480
+
+- Yuriy Viktorovich DANILTSEV (born on September 2, 1974)
+
+- 481
+
+- Roman Yuryevich LENSHIN
+
+- 482
+
+- Yuriy Valeryevich SHEVCHENKO (born on December 30, 1966)
+
+- 483
+
+- Vyacheslav Yuryevich LUCHNIKOV
+
 PART 2
 
 Entities
@@ -2016,6 +2112,74 @@ Entities
 
 - Salvation Committee for Peace and Order
 
+- 44
+
+- OOO MediaGroup NewsFront
+
+- 45
+
+- State Budgetary Institution of the Republic of Crimea “The Central Museum of Tavrida”
+
+- 46
+
+- State Budgetary Institution of Сulture “Kherson Regional Art Museum”
+
+- 47
+
+- State Budgetary Institution of Сulture “Kherson Regional Local Lore Museum”
+
+- 48
+
+- Municipal Budget Institution of Culture “Mariupol City Local Lore Museum”
+
+- 49
+
+- Municipal Budget Institution of Culture “Melitopol City Local Lore Museum”
+
+- 50
+
+- Ministry of Culture of Kherson Region
+
+- 51
+
+- Ministry of Culture of the Republic of Crimea
+
+- 52
+
+- Ministry of Education, Science and Youth of the Republic of Crimea
+
+- 53
+
+- Ministry of Culture, Sports and Tourism of the Military-Civil Administration of the Zaporizhzhia Region
+
+- 54
+
+- Ministry of Education and Science of the Kherson Region
+
+- 55
+
+- Ministry of Education and Science of the Zaporizhzhia Region
+
+- 56
+
+- Pryazovsk Cossack Troops
+
+- 57
+
+- Union of Donbas Volunteers
+
+- 58
+
+- Volunteers of Donbas Charitable Foundation
+
+- 59
+
+- NewsUa.ru
+
+- 60
+
+- PMC Convoy
+
 History:
 
 - SOR/2014-63, s. 1
@@ -2063,3 +2227,7 @@ History:
 - SOR/2022-202, s. 6
 
 - SOR/2022-203, s. 1
+
+- SOR/2023-119, s. 1
+
+- SOR/2023-119, s. 2
