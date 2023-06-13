@@ -1,6 +1,8 @@
-## SCHEDULE 1 (Sections 56, 68, 71, 77, 79, 90, 91, 93 to 96 and 199) List of Toxic Substances
+## SCHEDULE 1 (Paragraphs 56(1)(a) and (c), section 68, subsection 71(1), paragraphs 77(2)(c) and (d), subsections 77(7) and (9), 90(1) to (2) and 91(1), paragraph 91(2)(a), subsection 93(1), paragraphs 94(1)(a) and (5)(b), subsections 95(1) and (3) and 96(1), paragraph 199(1)(a), subparagraph 199(1)(b)(i) and subsection 317.1(3))
 
-For molecular formulae in this schedule, “n” = number of atoms.
+Note: For molecular formulae in this Schedule, “n”, “x” and “y” refer to the number of atoms.
+
+## PART 1
 
 - 1
 
@@ -12,47 +14,117 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - 3
 
-- Polybrominated Biphenyls that have the molecular formula C12H(10-n)Brn in which “n” is greater than 2
+- Polychlorinated dibenzo-para-dioxins that have the molecular formula C12H(8-n)ClnO2 in which “n” is greater than 2
 
 - 4
 
-- Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula CnClxF(2n+2-x)
+- Polychlorinated dibenzofurans that have the molecular formula C12H(8-n)ClnO in which “n” is greater than 2
 
 - 5
 
-- Polychlorinated Terphenyls that have a molecular formula C18H(14-n)Cln in which “n” is greater than 2
+- Hexachlorobenzene
 
 - 6
 
-- Asbestos
+- Hexachlorobutadiene, which has the molecular formula C4Cl6
 
 - 7
 
-- Lead
+- Dichlorodiphenyltrichloroethane (DDT), which has the molecular formula C14H9Cl5
 
 - 8
 
-- Mercury and its compounds
+- Tetrachlorobenzenes, which have the molecular formula C6H2Cl4
 
 - 9
 
-- Vinyl Chloride
+- Pentachlorobenzene, which has the molecular formula C6HCl5
 
 - 10
 
-- Bromochlorodifluoromethane that has the molecular formula CF2BrCl
+- Polybrominated diphenyl ethers that have the molecular formula C12H(10-n)BrnO in which 4≤n≤6
 
 - 11
 
-- Bromotrifluoromethane that has the molecular formula CF3Br
+- Perfluorooctane sulfonate and its salts
 
 - 12
 
-- Dibromotetrafluoroethane that has the molecular formula C2F4Br2
+- Phenol, 2,4,6-tris(1,1-dimethylethyl)-, which has the molecular formula C18H30O
 
 - 13
 
-- Fuel containing toxic substances that are dangerous goods within the meaning of section 2 of the Transportation of Dangerous Goods Act, 1992 and that
+- Tributyltins, which contain the grouping (C4H9)3Sn
+
+- 14
+
+- Phenol, 2,6-bis(1,1-dimethylethyl)-4-(1-methylpropyl)-, which has the molecular formula C18H30O
+
+- 15
+
+- Chlorinated alkanes that have the molecular formula CnHxCl(2n+2-x) in which 10≤ n≤ 20
+
+- 16
+
+- Polychlorinated naphthalenes, which have the molecular formula C10H8-nCln in which “n” is greater than 1
+
+- 17
+
+- Hexabromocyclododecane, which has the molecular formula C12H18Br6
+
+- 18
+
+- Reaction products of 2-propanone with diphenylamine
+
+- 19
+
+- Benzene, 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]-, which has the molecular formula C14H10Cl4
+
+## PART 2
+
+- 1
+
+- Polybrominated Biphenyls that have the molecular formula C12H(10-n)Brn in which “n” is greater than 2
+
+- 2
+
+- Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula CnClxF(2n+2-x)
+
+- 3
+
+- Polychlorinated Terphenyls that have a molecular formula C18H(14-n)Cln in which “n” is greater than 2
+
+- 4
+
+- Asbestos
+
+- 5
+
+- Lead
+
+- 6
+
+- Mercury and its compounds
+
+- 7
+
+- Vinyl Chloride
+
+- 8
+
+- Bromochlorodifluoromethane that has the molecular formula CF2BrCl
+
+- 9
+
+- Bromotrifluoromethane that has the molecular formula CF3Br
+
+- 10
+
+- Dibromotetrafluoroethane that has the molecular formula C2F4Br2
+
+- 11
+
+- Fuel containing toxic substances that are dangerous goods within the meaning of the Transportation of Dangerous Goods Act, 1992 and that
 
   - (a)
 
@@ -62,211 +134,199 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - are normal components of the fuel or additives designed to improve the characteristics or performance of the fuel, but are present in quantities or concentrations greater than those generally accepted by industry standards.
 
-- 14
+- 12
 
 - Dibenzo-para-dioxin that has the molecular formula C12H8O2
 
-- 15
+- 13
 
 - Dibenzofuran that has the molecular formula C12H8O
 
-- 16
-
-- Polychlorinated dibenzo-para-dioxins that have the molecular formula C12H(8-n)ClnO2 in which “n” is greater than 2
-
-- 17
-
-- Polychlorinated dibenzofurans that have the molecular formula C12H(8-n)ClnO in which “n” is greater than 2
-
-- 18
+- 14
 
 - Tetrachloromethane (carbon tetrachloride, CCl4)
 
-- 19
+- 15
 
 - 1,1,1-trichloroethane (methyl chloroform, CCl3-CH3)
 
-- 20
+- 16
 
-- Bromofluorocarbons other than those set out in items 10 to 12
+- Bromofluorocarbons other than those set out in items 8 to 10
 
-- 21
+- 17
 
 - Hydrobromofluorocarbons that have the molecular formula CnHxFyBr(2n+2-x-y) in which 0<n≤3
 
-- 22
+- 18
 
 - Methyl Bromide
 
-- 23
+- 19
 
 - Bis(chloromethyl) ether that has the molecular formula C2H4Cl2O
 
-- 24
+- 20
 
 - Chloromethyl methyl ether that has the molecular formula C2H5ClO
 
-- 25
+- 21
 
 - Hydrochlorofluorocarbons that have the molecular formula CnHxFyCl(2n+2-x-y) in which 0<n≤3
 
-- 26
+- 22
 
 - Benzene that has the molecular formula C6H6
 
-- 27
+- 23
 
 - (4-Chlorophenyl)cyclopropylmethanone,O-[(4-nitrophenyl)methyl]oxime that has the molecular formula C17H15ClN2O3
 
-- 28
+- 24
 
 - Inorganic arsenic compounds
 
-- 29
+- 25
 
 - Benzidine and benzidine dihydrochloride, that have the molecular formula C12H12N2 and C12H12N2•2HCl, respectively
 
-- 30
+- 26
 
 - Bis(2-ethylhexyl)phthalate
 
-- 31
+- 27
 
 - Inorganic cadmium compounds
 
-- 32
+- 28
 
 - Chlorinated wastewater effluents
 
-- 33
+- 29
 
 - Hexavalent chromium compounds
 
-- 34
+- 30
 
 - Creosote-impregnated waste materials from creosote-contaminated sites
 
-- 35
+- 31
 
 - 3,3′-Dichlorobenzidine
 
-- 36
+- 32
 
 - 1,2-Dichloroethane
 
-- 37
+- 33
 
 - Dichloromethane
 
-- 38
+- 34
 
 - Effluents from pulp mills using bleaching
 
-- 39
-
-- Hexachlorobenzene
-
-- 40
+- 35
 
 - Inorganic fluorides
 
-- 41
+- 36
 
 - Refractory ceramic fibre
 
-- 42
+- 37
 
 - Oxidic, sulphidic and soluble inorganic nickel compounds
 
-- 43
+- 38
 
 - Polycyclic aromatic hydrocarbons
 
-- 44
+- 39
 
 - Tetrachloroethylene
 
-- 45
+- 40
 
 - Trichloroethylene
 
-- 46
+- 41
 
-- Tributyltetradecylphosphonium chloride that has the molecular formula C26H56P•C1
+- Tributyltetradecylphosphonium chloride that has the molecular formula C26H56P•Cl
 
-- 47
+- 42
 
 - Bromochloromethane, that has the molecular formula CH2BrCl
 
-- 48
+- 43
 
 - Acetaldehyde, which has the molecular formula C2H4O
 
-- 49
+- 44
 
 - 1,3-Butadiene, which has the molecular formula C4H6
 
-- 50
+- 45
 
 - Acrylonitrile, which has the molecular formula C3H3N
 
-- 51
+- 46
 
 - Respirable particulate matter less than or equal to 10 microns
 
-- 52
+- 47
 
 - Acrolein, which has the molecular formula C3H4O
 
-- 53
+- 48
 
 - Ammonia dissolved in water
 
-- 54
+- 49
 
 - Nonylphenol and its ethoxylates
 
-- 55
+- 50
 
 - Effluents from textile mills that use wet processing
 
-- 56
+- 51
 
-- Inorganic Chloramines, which have the molecular formula NHnCl(3-n), where n = 0, 1 or 2
+- Inorganic Chloramines, which have the molecular formula NHnCl(3-n), where 0≤n≤2
 
-- 57
+- 52
 
 - Ethylene oxide, which has the molecular formula H2COCH2
 
-- 58
+- 53
 
 - Formaldehyde, which has the molecular formula CH2O
 
-- 59
+- 54
 
 - N-Nitrosodimethylamine, which has the molecular formula C2H6N2O
 
-- 60
+- 55
 
 - Gaseous Ammonia, which has the molecular formula NH3(g)
 
-- 61
+- 56
 
 - Ozone, which has the molecular formula O3
 
-- 62
+- 57
 
 - Nitric oxide, which has the molecular formula NO
 
-- 63
+- 58
 
 - Nitrogen dioxide, which has the molecular formula NO2
 
-- 64
+- 59
 
 - Sulphur dioxide, which has the molecular formula SO2
 
-- 65
+- 60
 
 - Volatile organic compounds that participate in atmospheric photochemical reactions, excluding the following:
 
@@ -432,11 +492,11 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - (z.15)
 
-  - 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF3)2CFCF 2OCH 3);
+  - 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF3)2CFCF2OCH3);
 
   - (z.16)
 
-  - 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C4F9OC2H 5);
+  - 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C4F9OC2H5);
 
   - (z.17)
 
@@ -526,55 +586,39 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - 2-amino-2-methyl-1-propanol.
 
-- 66
-
-- Hexachlorobutadiene, which has the molecular formula C4Cl6
-
-- 67
+- 61
 
 - Particulate matter containing metals that is released in emissions from copper smelters or refineries, or from both
 
-- 68
+- 62
 
 - Particulate matter containing metals that is released in emissions from zinc plants
 
-- 69
-
-- Dichlorodiphenyltrichloroethane (DDT), which has the molecular formula C14H9Cl5
-
-- 70
+- 63
 
 - 2-butoxyethanol, which has the molecular formula C6H14O2
 
-- 71
+- 64
 
 - 2-methoxyethanol, which has the molecular formula C3H8O2
 
-- 72
-
-- Tetrachlorobenzenes, which have the molecular formula C6H 2Cl4
-
-- 73
-
-- Pentachlorobenzene, which has the molecular formula C 6HCl5
-
-- 74
+- 65
 
 - Carbon dioxide, which has the molecular formula CO2
 
-- 75
+- 66
 
 - Methane, which has the molecular formula CH4
 
-- 76
+- 67
 
 - Nitrous oxide, which has the molecular formula N2O
 
-- 77
+- 68
 
 - Hydrofluorocarbons that have the molecular formula CnHxF(2n+2–x) in which 0<n<6
 
-- 78
+- 69
 
 - The following perfluorocarbons:
 
@@ -586,227 +630,195 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - octafluorocyclobutane, which has the molecular formula C4F8.
 
-- 79
+- 70
 
 - Sulphur hexafluoride, which has the molecular formula SF6
 
-- 80
+- 71
 
 - Methanone, bis[4-(dimethylamino)phenyl]-, which has the molecular formula C17H20N2O
 
-- 81
+- 72
 
 - 2-Butanone, oxime, which has the molecular formula C4H9NO
 
-- 82
+- 73
 
 - n-Butyl glycidyl ether, which has the molecular formula C7H14O2
 
-- 83
+- 74
 
-- Polybrominated diphenyl ethers that have the molecular formula C12H(10–n)BrnO in which 4≤n≤10
+- Polybrominated diphenyl ethers that have the molecular formula C12H(10-n)BrnO in which 7≤n≤10
 
-- 84
-
-- Perfluorooctane sulfonate and its salts
-
-- 85
+- 75
 
 - Compounds that contain one of the following groups: C8F17SO2, C8F17SO3 or C8F17SO2N
 
-- 86
+- 76
 
 - Methyloxirane, which has the molecular formula C3H6O
 
-- 87
+- 77
 
 - Ethyloxirane, which has the molecular formula C4H8O
 
-- 88
+- 78
 
 - Naphthalene, which has the molecular formula C10H8
 
-- 89
+- 79
 
 - Toluene diisocyanates, which have the molecular formula C9H6N2O2
 
-- 90
+- 80
 
 - 1,2-Benzenediol, which has the molecular formula C6H6O2
 
-- 91
+- 81
 
 - 1,4-Benzenediol, which has the molecular formula C6H6O2
 
-- 92
+- 82
 
 - Hexane, 1,6-diisocyanato-, homopolymer, reaction products with alpha-fluoro-omega-2-hydroxyethyl-poly(difluoromethylene), C16-20-branched alcohols and 1-octadecanol
 
-- 93
+- 83
 
 - 2-propenoic acid, 2-methyl-, hexadecyl ester, polymers with 2-hydroxyethyl methacrylate, gamma-omega-perfluoro-C10-16-alkyl acrylate and stearyl methacrylate
 
-- 94
+- 84
 
 - 2-propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with butyl 2-propenoate and 2,5-furandione, gamma-omega-perfluoro-C8-14-alkyl esters, tert-Bu benzenecarboperoxoate initiated
 
-- 95
+- 85
 
 - 2-propen-1-ol reaction products with pentafluoroiodoethane tetrafluoroethylene telomer, dehydroiodinated, reaction products with epichlorohydrin and triethylenetetramine
 
-- 96
+- 86
 
 - Phenol, 4,4′ -(1-methylethylidene)bis-, which has the molecular formula C15H16O2
 
-- 97
+- 87
 
 - Thiourea, which has the molecular formula CH4N2S
 
-- 98
+- 88
 
 - 1,3-Butadiene, 2-methyl-, which has the molecular formula C5H8
 
-- 99
+- 89
 
 - Oxirane, (chloromethyl)-, which has the molecular formula C3H5ClO
 
-- 100
+- 90
 
 - Colour Index Pigment Yellow 34
 
-- 101
+- 91
 
 - Colour Index Pigment Red 104
 
-- 102
+- 92
 
 - Cyclotetrasiloxane, octamethyl-, which has the molecular formula C8H24O4Si4
 
-- 103
-
-- Phenol, 2,4,6-tris(1,1-dimethylethyl)-, which has the molecular formula C18H30O
-
-- 104
+- 93
 
 - Ethanol, 2-methoxy-, acetate, which has the molecular formula C5H10O3
 
-- 105
+- 94
 
 - 1-Propanol, 2-methoxy-, which has the molecular formula C4H10O2
 
-- 106
+- 95
 
 - 2-Naphthalenol, 1-[(4-methyl-2-nitrophenyl)azo]-, which has the molecular formula C17H13N3O3
 
-- 107
+- 96
 
 - Ethanol, 2-(2-methoxyethoxy)-, which has the molecular formula C5H12O3
 
-- 108
+- 97
 
 - Sulfuric acid, diethyl ester, which has the molecular formula C4H10O4S
 
-- 109
+- 98
 
 - Sulfuric acid, dimethyl ester, which has the molecular formula C2H6O4S
 
-- 110
-
-- [Repealed, SOR/2020-218, s. 1]
-
-- 111
+- 99
 
 - 2-Propenamide, which has the molecular formula C3H5NO
 
-- 112
+- 100
 
 - Ethanol, 2-chloro-, phosphate (3:1), which has the molecular formula C6H12Cl3O4P
 
-- 113
-
-- Tributyltins, which contain the grouping (C4H9)3Sn
-
-- 114
+- 101
 
 - Tetrabutyltins, which have the molecular formula (C4H9)4Sn
 
-- 115
+- 102
 
 - Benzene, (chloromethyl)-, which has the molecular formula C7H7Cl
 
-- 116
+- 103
 
 - Propane, 2-nitro-, which has the molecular formula C3H7NO2
 
-- 117
+- 104
 
 - Benzene, 1-methyl-2-nitro-, which has the molecular formula C7H7NO2
 
-- 118
-
-- Phenol, 2,6-bis(1,1-dimethylethyl)-4-(1-methylpropyl)-, which has the molecular formula C18H30O
-
-- 119
+- 105
 
 - Methylium, [4-(dimethylamino)phenyl]bis[4-(ethylamino)3-methylphenyl]-, acetate, which has the molecular formula C27H34N3.C2H3O2
 
-- 120
-
-- Chlorinated alkanes that have the molecular formula CnHxCl(2n+2–x) in which 10 ≤ n ≤ 20
-
-- 121
+- 106
 
 - Benzene, 1,2-dimethoxy-4-(2-propenyl)-, which has the molecular formula C11H14O2
 
-- 122
+- 107
 
 - Vanadium pentoxide, which has the molecular formula V2O5
 
-- 123
+- 108
 
 - Oxirane, 2,2′,2′′,2′′′-[1,2-ethanediylidenetetrakis(4,1-phenyleneoxymethylene)]tetrakis-, which has the molecular formula C38H38O8
 
-- 124
+- 109
 
 - Bromic acid, potassium salt, which has the molecular formula KBrO3
 
-- 125
-
-- Polychlorinated naphthalenes, which have the molecular formula C10H8–nCln in which “n” is greater than 1
-
-- 126
+- 110
 
 - Hydrazine, which has the molecular formula N2H4
 
-- 127
-
-- Hexabromocyclododecane, which has the molecular formula C12H18Br6
-
-- 128
+- 111
 
 - Quinoline, which has the molecular formula C9H7N
 
-- 129
+- 112
 
 - Perfluorooctanoic acid, which has the molecular formula C7F15CO2H, and its salts
 
-- 130
+- 113
 
-- Compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which n = 7 or 8 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
+- Compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which n is equal to 7 or 8 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
 
-- 131
+- 114
 
-- Perfluorocarboxylic acids that have the molecular formula CnF2n+1CO2H in which 8 ≤ n ≤ 20 and their salts
+- Perfluorocarboxylic acids that have the molecular formula CnF2n+1CO2H in which 8≤n≤20 and their salts
 
-- 132
+- 115
 
-- Compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which 8 ≤ n ≤ 20 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
+- Compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which 8≤n≤ 20 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
 
-- 133
+- 116
 
-- Plastic microbeads that are ≤ 5 mm in size
+- Plastic microbeads that are less than or equal to 5 mm in size
 
-- 134
+- 117
 
 - The following petroleum and refinery gases:
 
@@ -984,7 +996,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - (z.18)
 
-  - hydrocarbons, C1-C4, debutanizer fraction (a complex combination of hydrocarbons — obtained from a debutanizing process — having carbon numbers in the range of C1 through C4).
+  - hydrocarbons, C1-C4, debutanizer fraction (a complex combination of hydrocarbons — obtained from a debutanizing process — having carbon numbers in the range of C1 through C4);
 
   - (z.19)
 
@@ -994,71 +1006,63 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
   - petroleum gases, liquefied, sweetened (a complex combination of hydrocarbons — obtained by subjecting liquefied petroleum gases to a sweetening process to convert mercaptans or to remove acidic impurities — consisting of hydrocarbons having carbon numbers predominantly in the range of C3 through C7 and boiling in the range of approximately -40°C to 80°C).
 
-- 135
+- 118
 
 - Hexanedioic acid, bis(2-ethylhexyl) ester, which has the molecular formula C22H42O4
 
-- 136
-
-- Reaction products of 2-propanone with diphenylamine
-
-- 137
+- 119
 
 - 2-Naphthalenol, 1-[[4-(phenylazo)phenyl]azo]-, which has the molecular formula C22H16N4O
 
-- 138
+- 120
 
 - Fuel Oil No. 2
 
-- 139
+- 121
 
 - Natural gas condensates (a complex combination of hydrocarbons primarily in the carbon range of C5 to C15 that are condensed during production at a well head, in a natural gas processing plant, natural gas pipeline or straddle plant), including any of their liquid distillates that are primarily in the carbon range of C5 to C15
 
-- 140
+- 122
 
 - Phenol, 5-chloro-2-(2,4-dichlorophenoxy)-, which has the molecular formula C12H7Cl3O2
 
-- 141
+- 123
 
 - Acetamide, N-[4-[(2-hydroxy-5-methylphenyl)azo]phenyl]-, which has the molecular formula C15H15N3O2
 
-- 142
+- 124
 
 - Cobalt and soluble cobalt compounds
 
-- 143
+- 125
 
 - N,N′-mixed phenyl and tolyl derivatives of 1,4-benzenediamine
 
-- 144
-
-- Benzene, 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]-, which has the molecular formula C14H10Cl4
-
-- 146
+- 126
 
 - Selenium and its compounds
 
-- 147
+- 127
 
 - Benzene, 1,1′-methylenebis[4-isocyanato-, which has the molecular formula C15H10N2O2
 
-- 148
+- 128
 
 - Benzene, 1,1′-methylenebis[2-isocyanato-, which has the molecular formula C15H10N2O2
 
-- 149
+- 129
 
 - Benzene, 1-isocyanato-2-[(4-isocyanatophenyl)methyl]-, which has the molecular formula C15H10N2O2
 
-- 150
+- 130
 
 - Benzene, 1,1′-methylenebis[isocyanato- (non-isomeric-specific), which has the molecular formula C15H10N2O2
 
-- 151
+- 131
 
 - Isocyanic acid, polymethylenepolyphenylene ester, which has the molecular formula C15H10N2O2•[C8H5NO]n in which 0≤n≤4
 
-- 163
+- 132
 
 - Plastic manufactured items
 
@@ -1105,3 +1109,5 @@ History:
 - SOR/2021-86, s. 1
 
 - SOR/2021-89, s. 1
+
+- 2023, c. 12, s. 58
