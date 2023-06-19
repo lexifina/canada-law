@@ -332,9 +332,17 @@
 
 - Mattagami First Nation
 
+- 84
+
+- Odanak
+
 - 85
 
 - Pinaymootang First Nation
+
+- 86
+
+- Garden River First Nation
 
 History:
 
@@ -509,3 +517,7 @@ History:
 - SOR/2023-94, s. 1
 
 - SOR/2023-96, s. 1
+
+- SOR/2023-140, s. 1
+
+- SOR/2023-142, s. 1
