@@ -292,6 +292,10 @@
 
   - Conseil de gestion financière des premières nations
 
+  - First Nations Infrastructure Institute
+
+  - Institut des infrastructures des premières nations
+
   - First Nations Tax Commission
 
   - Commission de la fiscalité des premières nations
@@ -757,3 +761,5 @@ History:
 - SOR/2021-188, s. 1
 
 - SOR/2021-193, s. 1
+
+- 2023, c. 16, s. 58
