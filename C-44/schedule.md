@@ -10,7 +10,7 @@
 
   - (d) section 83.02 (providing or collecting property for certain activities);
 
-  - (e) section 83.03 (providing, making available, etc., property or services for terrorist purposes);
+  - (e) subsections 83.03(1) and (2) (providing, making available, etc., property or services for terrorist purposes and providing, making available, etc., property or services — use by terrorist group);
 
   - (f) section 83.04 (using or possessing property for terrorist purposes);
 
@@ -319,3 +319,5 @@
 History:
 
 - 2019, c 29, s. 101
+
+- 2023, c. 14, s. 3
