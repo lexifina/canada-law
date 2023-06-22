@@ -98,6 +98,8 @@ Motor Vehicle Fuel Consumption Standards Act Loi sur les normes de consommation 
 
 Nuclear Safety and Control Act Loi sur la sûreté et la réglementation nucléaires | paragraphs 44(1)(d) and 48(b)
 
+Online News Act Loi sur les nouvelles en ligne | subsections 55(2) and 58(4)
+
 Parliament of Canada Act Loi sur le Parlement du Canada | subsection 79.21(9)
 
 Patent Act Loi sur les brevets | section 10, subsection 20(7), and sections 87 and 88
@@ -209,3 +211,5 @@ History:
 - 2022, c. 10, s. 136
 
 - 2023, c. 8, s. 36
+
+- 2023, c. 23, s. 88
