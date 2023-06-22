@@ -34,7 +34,7 @@
 
 - CU Credit Inc.
 
-- Ford Credit Canada Limited
+- Ford Credit Canada Company/Compagnie Crédit Ford du Canada
 
 - GMAC Residential Funding of Canada, Limited
 
@@ -79,3 +79,5 @@ History:
 - see relevant amending Acts and regulations.]
 
 - 2013, c. 34, s. 366
+
+- 2023, c. 26, s. 79
