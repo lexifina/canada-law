@@ -1,4 +1,4 @@
-## SCHEDULE (Section 2)
+## SCHEDULE 1 (Section 3)
 
 Agreement on the status of the North Atlantic Treaty Organisation, National Representatives and International Staff
 
@@ -220,4 +220,8 @@ Done in Ottawa this twentieth day of September, 1951, in French and in English, 
 
 History:
 
-- R.S., c. P-23, Sch
+- R.S., 1985, c. P-24, Sch. 1
+
+- 2023, c. 26, s. 267
+
+- 2023, c. 26, s. 268
