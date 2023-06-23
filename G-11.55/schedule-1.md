@@ -36,7 +36,7 @@ Item | Province
 
 4 | Prince Edward Island
 
-5 | Saskatchewan
+5 | [Repealed, SOR/2023-148, s. 1]
 
 6 | Yukon
 
@@ -59,3 +59,5 @@ History:
 - SOR/2021-195, s. 1
 
 - SOR/2021-195, s. 2
+
+- SOR/2023-148, s. 1
