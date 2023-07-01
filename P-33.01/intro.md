@@ -1,0 +1,35 @@
+Public Service Employment Act
+
+S.C. 2003, c. 22, ss. 12, 13
+
+Assented to 2003-11-07
+
+An Act respecting employment in the public service
+
+[Enacted by sections 12 and 13 of chapter 22 of the Statutes of Canada, 2003, in force December 31, 2005, see SI/2005-122.]
+
+Preamble
+
+Recognizing that
+
+the public service has contributed to the building of Canada, and will continue to do so in the future while delivering services of highest quality to the public;
+
+Canada will continue to benefit from a public service that is based on merit and non-partisanship and in which these values are independently safeguarded;
+
+Canada will also continue to gain from a public service that strives for excellence, that is representative of Canada’s diversity and that is able to serve the public with integrity and in their official language of choice;
+
+the public service, whose members are drawn from across the country, reflects a myriad of backgrounds, skills and professions that are a unique resource for Canada;
+
+authority to make appointments to and within the public service has been vested in the Public Service Commission, which can delegate this authority to deputy heads;
+
+those to whom this appointment authority is delegated must exercise it within a framework that ensures that they are accountable for its proper use to the Commission, which in turn is accountable to Parliament;
+
+delegation of staffing authority should be to as low a level as possible within the public service, and should afford public service managers the flexibility necessary to staff, to manage and to lead their personnel to achieve results for Canadians; and
+
+the Government of Canada is committed to an inclusive public service that reflects the diversity of Canada’s population, that embodies linguistic duality and that is characterized by fair, transparent employment practices, respect for employees, effective dialogue, and recourse aimed at resolving appointment issues;
+
+- 2003, c. 22, s. 12 “Preamble”
+
+- 2021, c. 23, s. 276
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
