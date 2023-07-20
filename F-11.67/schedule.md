@@ -36,6 +36,8 @@
 
 - Attawapiskat
 
+- Batchewana First Nation
+
 - Beardy’s and Okemasis
 
 - Bear River First Nation
@@ -145,6 +147,8 @@
 - Enoch Cree Nation #440
 
 - Esdilagh First Nation
+
+- Eskasoni
 
 - Esquimalt Nation
 
@@ -302,6 +306,8 @@
 
 - Lubicon Lake
 
+- Lyackson
+
 - Lytton
 
 - Madawaska Maliseet First Nation
@@ -373,6 +379,8 @@
 - Nanoose First Nation
 
 - Naotkamegwanning First Nation
+
+- Nation Huronne Wendat
 
 - Nazko First Nation
 
@@ -453,6 +461,8 @@
 - Poplar River First Nation
 
 - Potlotek First Nation
+
+- Prophet River First Nation
 
 - Qalipu Mi’kmaq First Nation
 
@@ -573,6 +583,8 @@
 - Swan River First Nation
 
 - Sweetgrass
+
+- Tahltan
 
 - Takla Nation
 
@@ -817,3 +829,5 @@ History:
 - SOR/2022-260, s. 1
 
 - SOR/2023-69, s. 1
+
+- SOR/2023-164, s. 1
