@@ -144,7 +144,7 @@ West Moberly First Nations | Council of the West Moberly First Nations | Reserve
 
 White Bear | Council of White Bear | Each reserve of White Bear that is not shared with another band
 
-Whitecap Dakota First Nation | Council of the Whitecap Dakota First Nation | Reserve of the Whitecap Dakota First Nation
+Whitecap Dakota Nation | Whitecap Dakota Council | Whitecap Dakota reserve lands, as defined in the Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act
 
 Woodstock | Council of Woodstock | Each reserve of Woodstock that is not shared with another band
 
@@ -191,3 +191,5 @@ History:
 - SOR/2021-10, s. 1
 
 - SOR/2022-275, s. 1
+
+- 2023, c. 22, s. 22

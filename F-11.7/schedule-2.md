@@ -134,7 +134,7 @@ Waywayseecappo First Nation Treaty Four - 1874 | Council of the Waywayseecappo F
 
 White Bear | Council of White Bear | Each reserve of White Bear that is not shared with another band | Saskatchewan
 
-Whitecap Dakota First Nation | Council of the Whitecap Dakota First Nation | Reserve of the Whitecap Dakota First Nation | Saskatchewan
+Whitecap Dakota Nation | Whitecap Dakota Council | Whitecap Dakota reserve lands, as defined in the Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act | Saskatchewan
 
 Wuskwi Sipihk First Nation | Council of the Wuskwi Sipihk First Nation | Each reserve of the Wuskwi Sipihk First Nation that is not shared with another band | Manitoba
 
@@ -161,3 +161,5 @@ History:
 - SOR/2022-275, s. 2
 
 - SOR/2022-275, s. 3
+
+- 2023, c. 22, s. 23
