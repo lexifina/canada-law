@@ -670,8 +670,6 @@
 
 - White Bear First Nation
 
-- Whitecap Dakota First Nation
-
 - Whitefish River First Nation
 
 - Wikwemikong
@@ -827,6 +825,8 @@ History:
 - SOR/2022-193, s. 1
 
 - SOR/2022-260, s. 1
+
+- 2023, c. 22, s. 24
 
 - SOR/2023-69, s. 1
 
