@@ -60,21 +60,27 @@
 
 - Tenth;
 
-- Parcels 2 and 4 on Plan 107554 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 9 and 10, Concession 10,
+- Parcels 2, 3 and 4 on Plan 107554 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 8, 9 and 10, Concession 10,
 
-- containing 33.63 ha, or 0.3363 km2, more or less;
+- containing 49.33 ha, or 0.4933 km2, more or less;
 
 - Eleventh;
 
-- Parcels 2, 4 and 5 on Plan 107548 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 6, 7, 8 and 9, Concessions 10 and 11 and part of Lot 7, Concession 9,
+- Parcels 1, 2, 3, 4 and 5 on Plan 107548 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 6 and 7, Concession 9, part of Lots 6, 7, 8, 9 and 10, Concession 10, and part of Lots 6, 7, 8 and 9, Concession 11,
 
-- containing 139.9 ha, or 1.399 km2, more or less;
+- containing 286.3 ha, or 2.863 km2, more or less;
 
 - Twelfth;
 
-- Parcels 4, 5 and 6 on Plan 107547 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 2, 3, 4 and 5, Concessions 10 and 11 and part of Lot 1, Concession 11,
+- Parcels 1, 2, 3, 4, 5 and 6 on Plan 107547 recorded in the Canada Lands Survey Records at Ottawa, being part of Lots 2, 3, 4 and 5, Concessions 9, 10 and 11, and part of Lot 1, Concession 11,
 
-- containing 244.7 ha, or 2.447 km2, more or less.
+- containing 550.67 ha, or 5.5067 km2, more or less;
+
+- Thirteenth;
+
+- Parcel 1 on Plan 107546 recorded in the Canada Lands Survey Records at Ottawa, being part of Lot 1, Concession 10,
+
+- containing 2.3 ha, or 0.023 km2, more or less.
 
 ### City of Pickering
 
@@ -113,3 +119,5 @@ History:
 - 2017, c. 10, s. 3
 
 - SOR/2019-39, s. 1
+
+- SOR/2023-196, s. 1
