@@ -38,6 +38,8 @@
 
 - 22 The Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, for the purposes of the Royal Canadian Mounted Police Act, but only in relation to information that is under the control, or in the possession, of the Royal Canadian Mounted Police or the Central Authority, as the case may be.
 
+- 23 The Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions, for the purposes of that inquiry, except if the hearing is open to the public
+
 History:
 
 - 2001, c. 41, ss. 44, 124
@@ -69,3 +71,5 @@ History:
 - 2019, c. 15, s. 54
 
 - 2019, c. 18, s. 60
+
+- SOR/2023-205, s. 1
