@@ -88,6 +88,10 @@
 
 - Bureau du coordonnateur de la sécurité et du renseignement du Bureau du Conseil privé
 
+- Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions
+
+- Enquête publique sur l’ingérence étrangère dans les processus électoraux et les institutions démocratiques fédéraux
+
 - R.C.M.P. Security Service
 
 - Service de sécurité de la GRC
@@ -127,3 +131,5 @@ History:
 - 2019, c. 13, s. 37
 
 - 2019, c. 13, s. 70
+
+- SOR/2023-204, s. 1
