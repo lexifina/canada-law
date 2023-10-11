@@ -44,7 +44,11 @@
 
 - Alberta Filipino Special Dual
 
-Note: Specialty chicken in classes 2 to 11 must be marketed with the head and feet attached.
+- 12
+
+- ISA Brown (female birds 19 to 21 weeks of age)
+
+Note: Specialty chicken in classes 2 to 12 must be marketed with the head and feet attached.
 
 History:
 
@@ -53,3 +57,5 @@ History:
 - SOR/2014-263, s. 3
 
 - SOR/2018-244, s. 1
+
+- SOR/2023-215, s. 1
