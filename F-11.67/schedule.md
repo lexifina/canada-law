@@ -162,6 +162,8 @@
 
 - Fort William
 
+- Fox Lake
+
 - Frog Lake First Nation
 
 - Gambler First Nation
@@ -298,6 +300,8 @@
 
 - Long Point First Nation
 
+- Louis Bull Tribe
+
 - Lower Kootenay Indian Band
 
 - Lower Nicola Indian Band
@@ -381,6 +385,8 @@
 - Naotkamegwanning First Nation
 
 - Nation Huronne Wendat
+
+- Natoaganeg
 
 - Nazko First Nation
 
@@ -831,3 +837,5 @@ History:
 - SOR/2023-69, s. 1
 
 - SOR/2023-164, s. 1
+
+- SOR/2023-225, s. 1
