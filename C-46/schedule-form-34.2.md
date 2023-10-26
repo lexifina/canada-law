@@ -68,7 +68,9 @@ Drawing, poem or letter
 
 You may use this space to draw a picture or write a poem or letter if it will help you express the impact that the offence has had on you.
 
--  I would like to present my statement in court.
+- □ I would like to present my statement in court.
+
+- □ I would like to receive information respecting the sentence imposed on the offender and its administration.
 
 To the best of my knowledge, the information contained in this statement is true.
 
@@ -85,3 +87,5 @@ Signature of declarant
 History:
 
 - 2015, c. 13, s. 35
+
+- 2023, c. 28, s. 37

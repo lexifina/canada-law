@@ -68,7 +68,13 @@ Drawing, poem or letter
 
 You may use this space to draw a picture or write a poem or letter if it will help you express the impact that the accused’s conduct has had on you.
 
--  I would like to read or present my statement (in court or before the Review Board).
+- □ I would like to read or present my statement (in court or before the Review Board).
+
+- □ I would like to receive information respecting any hearings held to make or review a disposition in respect of the accused.
+
+- □ I would like to receive information respecting any disposition made in respect of the accused.
+
+- □ If the accused is discharged absolutely or conditionally, I would like to receive notice of that discharge and of the accused’s intended place of residence.
 
 To the best of my knowledge, the information contained in this statement is true.
 
@@ -79,3 +85,5 @@ Signature of declarant
 History:
 
 - 2015, c. 13, s. 36
+
+- 2023, c. 28, s. 38
