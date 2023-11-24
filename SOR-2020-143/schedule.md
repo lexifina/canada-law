@@ -1,0 +1,3 @@
+## SCHEDULE (Paragraphs 21(1)(b) and 23(1)(c))
+
+ILLUSTRATION — STANDARD SANS SERIF TYPE
