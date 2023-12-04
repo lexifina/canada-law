@@ -28,6 +28,8 @@ Department of Foreign Affairs, Trade and Development Ministère des Affaires ét
 
 Department of Health Ministère de la Santé | Minister of Health
 
+Department of Industry Ministère de l’Industrie | Minister of Industry
+
 Department of National Defence Ministère de la Défense nationale | Minister of National Defence
 
 Department of Public Safety and Emergency Preparedness Ministère de la Sécurité publique et de la Protection civile | Minister of Public Safety and Emergency Preparedness
@@ -43,3 +45,5 @@ Royal Canadian Mounted Police Gendarmerie royale du Canada | Commissioner of the
 History:
 
 - 2015, c. 20, ss. 2 “Sch. 3”, 9
+
+- SOR/2023-256, s. 1
