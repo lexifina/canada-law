@@ -284,6 +284,8 @@
 
 - Lhtako Dene Nation
 
+- Liard First Nation
+
 - Lil’wat Nation
 
 - Listuguj Mi’gmaq Government
@@ -299,6 +301,8 @@
 - Long Plain First Nation
 
 - Long Point First Nation
+
+- Loon River Cree
 
 - Louis Bull Tribe
 
@@ -425,6 +429,8 @@
 - Oromocto First Nation
 
 - Osoyoos Indian Band
+
+- Pabineau
 
 - Pacheedaht First Nation
 
@@ -686,6 +692,8 @@
 
 - Wolastoqiyik (Malecite) Wahsipekuk First Nation
 
+- Wolf Lake
+
 - Woodstock First Nation
 
 - Wuikinuxv Nation
@@ -839,3 +847,5 @@ History:
 - SOR/2023-164, s. 1
 
 - SOR/2023-225, s. 1
+
+- SOR/2023-259, s. 1
