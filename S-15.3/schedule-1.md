@@ -764,6 +764,10 @@
 
   - Mormon population des montagnes du Sud
 
+  - Monarch (Danaus plexippus)
+
+  - Monarque
+
   - Moth, Dusky Dune (Copablepharon longipenne)
 
   - Noctuelle sombre des dunes
@@ -1650,6 +1654,10 @@
 
 - Arthropods
 
+  - Bumble Bee occidentalis subspecies, Western (Bombus occidentalis occidentalis)
+
+  - Bourdon de l’Ouest de la sous-espèce occidentalis
+
   - Flower Moth, Verna’s (Schinia verna)
 
   - Héliotin de Verna
@@ -2432,6 +2440,10 @@
 
   - Bourdon américain
 
+  - Bumble Bee mckayi subspecies, Western (Bombus occidentalis mckayi)
+
+  - Bourdon de l’Ouest de la sous-espèce mckayi
+
   - Bumble Bee, Yellow-banded (Bombus terricola)
 
   - Bourdon terricole
@@ -2463,10 +2475,6 @@
   - Metalmark, Mormon (Apodemia mormo) Prairie population
 
   - Mormon population des Prairies
-
-  - Monarch (Danaus plexippus)
-
-  - Monarque
 
   - Moth, Pale Yellow Dune (Copablepharon grandis)
 
@@ -3029,3 +3037,11 @@ History:
 - SOR/2023-17, s. 10
 
 - SOR/2023-17, s. 11
+
+- SOR/2023-263, s. 1
+
+- SOR/2023-263, s. 2
+
+- SOR/2023-263, s. 3
+
+- SOR/2023-263, s. 4
