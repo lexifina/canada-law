@@ -1,4 +1,4 @@
-## SCHEDULE 1 (Paragraphs 17(1)(a) and 18(a)) Conditions of Assignment — Diamond Load Lines
+## SCHEDULE 1 (Section 15.1 and paragraphs 17(1)(a) and 18(a)) Conditions of Assignment — Diamond Load Lines
 
 ### Interpretation
 
@@ -285,3 +285,5 @@
 History:
 
 - SOR/2013-235, ss. 22, 23(F), 24(E)
+
+- SOR/2023-257, s. 520
