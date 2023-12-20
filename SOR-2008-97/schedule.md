@@ -1200,7 +1200,7 @@ Provision of the Marine Personnel Regulations | Range of Penalties ($) | Separat
 
 131 | Paragraph 330(c) | 3,000 to 12,000
 
-132 | Subsection 331(1) | 6,000 to 25,000
+132 | [Repealed, SOR/2023-257, s. 529]
 
 133 | Subsection 331(2) | 600 to 12,000
 
@@ -2472,6 +2472,92 @@ Item | Provision of the Environmental Response Regulations | Range of Penalties 
 
 5 | Subsection 12(4) | 600 to 10,000
 
+PART 15
+
+Violations of the Vessel Construction and Equipment Regulations
+
+Column 1 | Column 2 | Column 3
+
+Item | Provision of the Vessel Construction and Equipment Regulations | Range of Penalties ($) | Separate Violation for Each Day
+
+1 | Subsection 100(1) | 2,625 to 250,000
+
+2 | Subsection 100(2) | 5,250 to 250,000
+
+3 | Subsection 101(1) | 260 to 250,000
+
+4 | Subsection 102(2) | 260 to 250,000
+
+5 | Subsection 103(1) | 2,625 to 250,000
+
+6 | Subsection 103(3) | 525 to 250,000
+
+7 | Subsection 103(4) | 525 to 250,000
+
+8 | Section 104 | 2,625 to 250,000
+
+9 | Section 105 | 2,625 to 250,000
+
+10 | Section 106 | 2,625 to 250,000
+
+11 | Subsection 107(1) | 2,625 to 250,000
+
+12 | Section 108 | 2,625 to 250,000
+
+13 | Section 109 | 5,250 to 250,000
+
+14 | Section 110 | 5,250 to 250,000
+
+15 | Section 111 | 5,250 to 250,000
+
+16 | Subsection 112(1) | 5,250 to 250,000
+
+17 | Section 113 | 5,250 to 250,000
+
+18 | Subsection 114(1) | 5,250 to 250,000
+
+19 | Section 115 | 5,250 to 250,000
+
+20 | Section 117 | 5,250 to 250,000
+
+21 | Section 201 | 1,300 to 100,000
+
+22 | Subsection 300(1) | 525 to 250,000
+
+23 | Subsection 301(1) | 260 to 250,000
+
+24 | Subsection 301(2) | 5,250 to 250,000
+
+25 | Subsection 303(1) | 5,250 to 250,000
+
+26 | Subsection 303(2) | 5,250 to 250,000
+
+27 | Subsection 303(3) | 5,250 to 250,000
+
+28 | Section 304 | 5,250 to 250,000
+
+29 | Section 305 | 5,250 to 250,000
+
+30 | Section 306 | 5,250 to 250,000
+
+31 | Section 307 | 5,250 to 250,000
+
+32 | Subsection 308(1) | 5,250 to 250,000
+
+33 | Subsection 308(3) | 5,250 to 250,000
+
+34 | Section 309 | 5,250 to 250,000
+
+35 | Section 310 | 5,250 to 250,000
+
+36 | Section 311 | 5,250 to 250,000
+
+37 | Section 312 | 5,250 to 250,000
+
+38 | Subsection 313(1) | 5,250 to 250,000
+
+39 | Subsection 313(2) | 5,250 to 250,000
+
 History:
 
 - SOR/2012-246, ss. 5, 6
@@ -2489,3 +2575,7 @@ History:
 - SOR/2021-120, s. 25
 
 - SOR/2021-135, s. 38
+
+- SOR/2023-257, s. 529
+
+- SOR/2023-257, s. 530
