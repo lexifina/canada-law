@@ -60,6 +60,8 @@
 
 - Biinjitiwaabik Zaaging Anishinaabek First Nation
 
+- Binche Whut'en
+
 - Bingwi Neyaashi Anishinaabek
 
 - Black River First Nation
@@ -173,6 +175,8 @@
 - Garden River First Nation
 
 - George Gordon First Nation
+
+- Gitanyow
 
 - Gitga’at First Nation
 
@@ -345,6 +349,8 @@
 - La Nation Micmac de Gespeg
 
 - Micmacs of Gesgapegiag
+
+- Mikisew Cree First Nation
 
 - Millbrook Band
 
@@ -849,3 +855,5 @@ History:
 - SOR/2023-225, s. 1
 
 - SOR/2023-259, s. 1
+
+- SOR/2024-2, s. 1
