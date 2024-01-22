@@ -10,6 +10,8 @@ Broadcasting Act Loi sur la radiodiffusion | subsection 25.3(2)
 
 Business Development Bank of Canada Act Loi sur la Banque de développement du Canada | section 37
 
+Canada Business Corporations Act Loi canadienne sur les sociétés par actions | subsection 266.1(1)
+
 Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1)
 
 Canada Elections Act Loi électorale du Canada | section 540
@@ -213,3 +215,5 @@ History:
 - 2023, c. 8, s. 36
 
 - 2023, c. 23, s. 88
+
+- 2023, c. 29, s. 16
