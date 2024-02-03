@@ -78,6 +78,8 @@ Item | Regulations | Provisions
 
 36 | Formaldehyde Emissions from Composite Wood Products Regulations | (a) section 5
 
+37 | Prohibition of the Manufacture and Importation of Wheel Weights Containing Lead Regulations | (a) subsection 3(1)
+
 38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
 
 History:
@@ -115,3 +117,5 @@ History:
 - SOR/2022-110, s. 27
 
 - SOR/2022-138, s. 12
+
+- SOR/2023-15, s. 12
