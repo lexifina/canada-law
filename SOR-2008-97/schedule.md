@@ -8,249 +8,253 @@ Item | Column 1 | Column 2 | Column 3
 
 Provision of the Act | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 16(3) | 600 to 2,400
+1 | Subsection 10.1(4) | 260 to 250,000 | X
 
-2 | Subsection 17(2) | 600 to 12,000
+2 | Subsection 16(3) | 1,300 to 6,250
 
-3 | Section 18 | 250 to 5,000
+3 | Subsection 17(2) | 1,300 to 100,000
 
-4 | Subsection 20(2) | 600 to 10,000
+4 | Section 18 | 260 to 10,000
 
-5 | Paragraph 23(a) | 1,250 to 25,000
+5 | Subsection 20(2) | 260 to 10,000 | X
 
-6 | Paragraph 23(b) | 1,250 to 25,000
+6 | Paragraph 23(a) | 2,625 to 250,000
 
-7 | Paragraph 23(c) | 1,250 to 25,000
+7 | Paragraph 23(b) | 2,625 to 250,000
 
-8 | Paragraph 23(d) | 1,250 to 25,000
+8 | Paragraph 23(c) | 2,625 to 250,000
 
-9 | Paragraph 23(e) | 1,250 to 25,000
+9 | Paragraph 23(d) | 2,625 to 250,000
 
-10 | Subsection 28(7) | 1,250 to 25,000
+10 | Paragraph 23(e) | 2,625 to 250,000
 
-11 | Subsection 46(2) | 1,250 to 10,000 | X
+11 | Subsection 28(7) | 2,625 to 12,500
 
-12 | Subsection 57(1) | 600 to 10,000 | X
+12 | Subsection 46(2) | 260 to 10,000 | X
 
-13 | Subsection 57(3) | 600 to 10,000
+13 | Subsection 57(1) | 260 to 10,000 | X
 
-14 | Subsection 57(4) | 600 to 12,000
+14 | Subsection 57(3) | 260 to 10,000
 
-15 | Subsection 58(1) | 250 to 5,000
+15 | Subsection 57(4) | 260 to 10,000 | X
 
-16 | Subsection 58(2) | 1,250 to 10,000
+16 | Subsection 58(1) | 260 to 10,000
 
-17 | Subsection 58(3) | 250 to 5,000
+17 | Subsection 58(2) | 260 to 10,000
 
-18 | Subsection 58(4) | 250 to 5,000
+18 | Subsection 58(3) | 260 to 10,000
 
-19 | Subsection 63(1) | 250 to 5,000
+19 | Subsection 58(4) | 260 to 10,000
 
-20 | Subsection 63(2) | 250 to 5,000
+20 | Subsection 63(1) | 260 to 10,000
 
-21 | Subsection 63(3) | 600 to 10,000
+21 | Subsection 63(2) | 260 to 10,000
 
-22 | Subsection 64(2) | 250 to 1,000
+22 | Subsection 63(3) | 260 to 10,000
 
-23 | Subsection 82(1) | 250 to 1,000
+23 | Subsection 64(2) | 260 to 1,250
 
-24 | Subsection 82(2) | 1,250 to 25,000 | X
+24 | Subsection 82(1) | 260 to 1,250
 
-25 | Subsection 82(3) | 1,250 to 5,000 | X
+25 | Subsection 82(2) | 1,300 to 6,250 | X
 
-26 | Section 87 | 1,250 to 5,000
+26 | Subsection 82(3) | 2,625 to 250,000 | X
 
-27 | Subsection 90(1) | 1,250 to 5,000
+27 | Section 87 | 2,625 to 12,500
 
-28 | Subsection 90(2) | 600 to 2,400
+28 | Subsection 90(1) | 1,300 to 6,250
 
-29 | Paragraph 91(1)(a) | 250 to 5,000
+29 | Subsection 90(2) | 1,300 to 6,250
 
-30 | Paragraph 91(1)(b) | 250 to 5,000
+30 | Paragraph 91(1)(a) | 260 to 1,250
 
-31 | Section 92 | 250 to 5,000
+31 | Paragraph 91(1)(b) | 1,300 to 6,250
 
-32 | Subsection 93(1) | 250 to 5,000
+32 | Section 92 | 1,300 to 6,250
 
-33 | Subsection 93(2) | 250 to 5,000
+33 | Subsection 93(1) | 260 to 10,000
 
-34 | Subsection 94(1) | 600 to 12,000
+34 | Subsection 93(2) | 260 to 10,000
 
-35 | Subsection 97(1) | 250 to 1,000
+35 | Subsection 94(1) | 260 to 10,000
 
-36 | Subsection 97(2) | 250 to 1,000
+36 | Subsection 97(1) | 1,300 to 100,000
 
-37 | Subsection 97(3) | 250 to 1,000
+37 | Subsection 97(2) | 1,300 to 6,250
 
-38 | Subsection 97(4) | 250 to 1,000
+38 | Subsection 97(3) | 1,300 to 6,250
 
-39 | Paragraph 98(a) | 250 to 5,000
+39 | Subsection 97(4) | 1,300 to 6,250
 
-40 | Paragraph 98(b) | 250 to 5,000
+40 | Paragraph 98(a) | 260 to 10,000
 
-41 | Paragraph 98(c) | 250 to 5,000
+41 | Paragraph 98(b) | 260 to 10,000
 
-42 | Paragraph 98(d) | 250 to 5,000
+42 | Paragraph 98(c) | 260 to 10,000
 
-43 | Paragraph 98(e) | 600 to 12,000
+43 | Paragraph 98(d) | 260 to 10,000
 
-44 | Paragraph 106(1)(a) | 1,250 to 25,000
+44 | Paragraph 98(e) | 260 to 10,000
 
-45 | Paragraph 106(1)(b) | 1,250 to 25,000
+45 | Paragraph 106(1)(a) | 2,625 to 250,000
 
-46 | Paragraph 106(1)(c) | 1,250 to 25,000
+46 | Paragraph 106(1)(b) | 2,625 to 250,000
 
-47 | Paragraph 106(2)(a) | 1,250 to 25,000
+47 | Paragraph 106(1)(c) | 2,625 to 250,000
 
-48 | Paragraph 106(2)(b) | 1,250 to 25,000
+48 | Paragraph 106(2)(a) | 2,625 to 250,000
 
-49 | Section 107 | 1,250 to 25,000
+49 | Paragraph 106(2)(b) | 2,625 to 250,000
 
-50 | Subsection 109(1) | 1,250 to 25,000
+50 | Section 107 | 2,625 to 250,000
 
-51 | Subsection 109(2) | 1,250 to 25,000
+51 | Subsection 109(1) | 2,625 to 250,000
 
-52 | Subsection 110(1) | 1,250 to 25,000
+52 | Subsection 109(2) | 2,625 to 250,000
 
-53 | Subsection 110(2) | 1,250 to 25,000
+53 | Subsection 110(1) | 2,625 to 250,000
 
-54 | Section 111 | 1,250 to 25,000
+54 | Subsection 110(2) | 2,625 to 250,000
 
-55 | Section 112 | 600 to 12,000
+55 | Subsection 111(1) | 2,625 to 12,500
 
-56 | Paragraph 113(a) | 1,250 to 5,000
+56 | Subsection 111(2) | 2,625 to 12,500
 
-57 | Paragraph 113(b) | 1,250 to 5,000
+57 | Subsection 111(3) | 2,625 to 12,500
 
-58 | Paragraph 113(c) | 1,250 to 5,000
+58 | Section 112 | 2,625 to 12,500
 
-59 | Paragraph 113(d) | 1,250 to 5,000
+59 | Paragraph 113(a) | 2,625 to 12,500
 
-60 | Section 114 | 1,250 to 5,000
+60 | Paragraph 113(b) | 2,625 to 12,500
 
-61 | Subsection 115(1) | 600 to 2,400
+61 | Paragraph 113(c) | 2,625 to 12,500
 
-62 | Subsection 115(2) | 250 to 1,000
+62 | Paragraph 113(d) | 2,625 to 12,500
 
-63 | Paragraph 116(a) | 600 to 2,400
+63 | Subsection 114(1) | 2,625 to 12,500
 
-64 | Paragraph 116(b) | 600 to 2,400
+64 | Subsection 114(2) | 2,625 to 12,500
 
-65 | Section 117 | 1,250 to 25,000
+65 | Subsection 115(1) | 1,300 to 6,250
 
-66 | Section 118 | 1,250 to 25,000
+66 | Subsection 115(2) | 1,300 to 6,250
 
-67 | Section 119 | 1,250 to 25,000
+67 | Paragraph 116(a) | 1,300 to 6,250
 
-68 | Paragraph 148(b) | 250 to 5,000
+68 | Paragraph 116(b) | 1,300 to 6,250
 
-68.01 | Paragraph 167(1)(a) | 1,250 to 25,000
+69 | Section 117 | 2,625 to 250,000
 
-68.02 | Paragraph 167(1)(b) | 250 to 5,000 | X
+70 | Section 118 | 2,625 to 250,000
 
-68.021 | Section 167.1 | 1,250 to 25,000
+71 | Section 119 | 2,625 to 250,000
 
-68.022 | Subsection 167.2(1) | 1,250 to 25,000
+72 | Paragraph 148(b) | 260 to 10,000
 
-68.023 | Subsection 167.2(2) | 1,250 to 25,000
+73 | Paragraph 167(1)(a) | 5,250 to 250,000 | X
 
-68.024 | Subsection 167.2(3) | 1,250 to 25,000
+74 | Paragraph 167(1)(b) | 2,625 to 100,000 | X
 
-68.025 | Section 167.3 | 1,250 to 25,000
+75 | Section 167.1 | 260 to 10,000
 
-68.026 | Section 167.4 | 1,250 to 25,000
+76 | Subsection 167.2(1) | 2,625 to 250,000
 
-68.03 | Paragraph 168(1)(a) | 1,250 to 25,000
+77 | Subsection 167.2(2) | 1,300 to 100,000
 
-68.04 | Subparagraph 168(1)(b)(i) | 250 to 5,000 | X
+78 | Subsection 167.2(3) | 2,625 to 250,000
 
-68.05 | Paragraph 168(1)(c) | 1,250 to 25,000
+79 | Paragraph 168(1)(a) | 2,625 to 250,000 | X
 
-68.051 | Paragraph 168(1)(c.1) | 1,250 to 25,000
+80 | Paragraph 168(1)(b) | 1,300 to 100,000 | X
 
-68.06 | Paragraph 168(1)(d) | 1,250 to 25,000
+81 | Paragraph 168(1)(c) | 260 to 10,000
 
-68.061 | Paragraph 168(1)(d.1) | 1,250 to 25,000
+82 | Paragraph 168(1)(c.1) | 260 to 10,000
 
-68.07 | Paragraph 168(1)(e) | 1,250 to 25,000
+83 | Paragraph 168(1)(d) | 260 to 10,000
 
-68.08 | Paragraph 168(3)(a) | 1,250 to 25,000
+84 | Paragraph 168(1)(d.1) | 260 to 10,000
 
-68.09 | Paragraph 168(3)(b) | 1,250 to 25,000
+85 | Paragraph 168(1)(e) | 2,625 to 250,000 | X
 
-68.091 | Subsection 168.01(1) | 1,250 to 25,000
+86 | Paragraph 168(3)(a) | 1,300 to 100,000
 
-68.092 | Subsection 168.01(2) | 1,250 to 25,000
+87 | Paragraph 168(3)(b) | 2,625 to 250,000 | X
 
-68.093 | Subsection 168.01(3) | 1,250 to 25,000
+88 | Subsection 168.01(1) | 260 to 10,000
 
-68.094 | Subsection 168.01(4) | 1,250 to 25,000
+89 | Subsection 168.01(2) | 1,300 to 100,000
 
-68.1 | Section 168.1 | 1,250 to 25,000
+90 | Subsection 168.01(3) | 1,300 to 100,000
 
-68.11 | Section 168.2 | 250 to 5,000
+91 | Subsection 168.01(4) | 2,625 to 250,000
 
-68.12 | Paragraph 168.3(b) | 1,250 to 25,000
+92 | Section 168.1 | 1,300 to 100,000
 
-68.13 | Paragraph 171(a) | 1,250 to 25,000
+93 | Section 168.2 | 1,300 to 100,000
 
-68.14 | Paragraph 171(b) | 1,250 to 25,000
+94 | Paragraph 168.3(b) | 2,625 to 250,000
 
-68.15 | Paragraph 171(c) | 600 to 12,000
+95 | Paragraph 171(a) | 1,300 to 100,000 | X
 
-68.16 | Paragraph 171(d) | 1,250 to 25,000
+96 | Paragraph 171(b) | 2,625 to 250,000 | X
 
-68.17 | Paragraph 171(e) | 1,250 to 25,000
+97 | Paragraph 171(c) | 1,300 to 100,000
 
-68.18 | Paragraph 171(f) | 250 to 5,000
+98 | Paragraph 171(d) | 1,300 to 100,000
 
-68.19 | Section 171.1 | 250 to 5,000
+99 | Paragraph 171(e) | 1,300 to 100,000
 
-69 | Section 187 | 1,250 to 25,000 | X
+100 | Paragraph 171(f) | 260 to 10,000
 
-70 | Section 188 | 6,000 to 25,000
+101 | Section 171.1 | 1,300 to 100,000
 
-70.01 | Paragraph 189(a) | 1,250 to 25,000
+102 | Section 187 | 2,625 to 250,000
 
-70.02 | Paragraph 189(b) | 1,250 to 25,000
+103 | Section 188 | 5,250 to 250,000
 
-70.03 | Paragraph 189(c) | 1,250 to 25,000
+104 | Paragraph 189(1)(a) | 2,625 to 100,000
 
-70.04 | Paragraph 189(d) | 1,250 to 25,000
+105 | Paragraph 189(1)(a.1) | 2,625 to 100,000
 
-70.05 | Subsection 211(3) | 1,250 to 25,000
+106 | Paragraph 189(1)(b) | 2,625 to 100,000
 
-70.06 | Paragraph 211(4)(a) | 1,250 to 25,000
+107 | Paragraph 189(1)(c) | 2,625 to 100,000
 
-70.07 | Paragraph 211(4)(b) | 1,250 to 25,000
+108 | Subparagraph 189(1)(d)(i) | 5,250 to 250,000
 
-70.08 | Paragraph 211(4)(c) | 1,250 to 25,000
+109 | Subparagraph 189(1)(d)(ii) | 2,625 to 100,000
 
-70.09 | Paragraph 211(4)(d) | 600 to 12,000
+110 | Subsection 211(3) | 2,625 to 250,000
 
-70.1 | Paragraph 211(4)(d.1) | 1,250 to 25,000
+111 | Paragraph 211(4)(a) | 2,625 to 250,000
 
-70.11 | Paragraph 211(4)(e) | 600 to 12,000
+112 | Paragraph 211(4)(b) | 2,625 to 250,000
 
-70.12 | Subsection 212(2) | 1,250 to 25,000
+113 | Paragraph 211(4)(c) | 2,625 to 250,000
 
-71 | Section 213 | 6,000 to 25,000
+114 | Paragraph 211(4)(d) | 2,625 to 250,000
 
-72 | Section 215 | 1,250 to 25,000
+115 | Paragraph 211(4)(d.1) | 2,625 to 250,000
 
-73 | Subsection 218(1) | 1,250 to 25,000
+116 | Paragraph 211(4)(e) | 2,625 to 250,000
 
-74 | Subsection 222(9) | 1,250 to 25,000
+117 | Subsection 212(2) | 2,625 to 12,500
 
-75 | Subsection 222(10) | 1,250 to 25,000
+118 | Section 213 | 1,300 to 100,000
 
-76 | Section 223 | 1,250 to 25,000
+119 | Section 215 | 2,625 to 250,000
 
-77 | Paragraph 227(1)(a) | 1,250 to 25,000
+120 | Subsection 218(1) | 2,625 to 250,000
 
-78 | Paragraph 227(1)(b) | 1,250 to 25,000
+121 | Subsection 222(9) | 2,625 to 250,000
 
-79 | Paragraph 227(1)(c) | 1,250 to 25,000
+122 | Subsection 222(10) | 2,625 to 250,000
+
+123 | Section 223 | 2,625 to 250,000
+
+124 | Subsection 227(1) | 2,625 to 250,000
 
 PART 2
 
@@ -910,25 +914,25 @@ Item | Column 1 | Column 2 | Column 3
 
 Provision of the Load Line Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 4(1) | 6,000 to 25,000
+1 | Subsection 4(1) | 5,250 to 250,000
 
-2 | Subsection 4(2) | 6,000 to 25,000
+2 | Subsection 4(2) | 5,250 to 250,000
 
-3 | Subsection 4(3) | 6,000 to 25,000
+3 | Subsection 4(3) | 5,250 to 250,000
 
-4 | Subsection 6(1) | 1,250 to 25,000
+4 | Subsection 6(1) | 2,625 to 250,000
 
-5 | Subsection 6(2) | 1,250 to 25,000
+5 | Subsection 6(2) | 2,625 to 250,000
 
-6 | Section 11 | 250 to 5,000
+6 | Section 11 | 260 to 10,000 | X
 
-7 | Section 12 | 600 to 12,000
+7 | Section 12 | 260 to 1,250 | X
 
-8 | Section 16 | 6,000 to 25,000
+8 | Section 16 | 5,250 to 250,000
 
-9 | Section 18 | 1,250 to 25,000
+9 | Section 18 | 2,625 to 250,000
 
-10 | Section 20 | 250 to 5,000
+10 | Section 20 | 260 to 10,000 | X
 
 PART 5
 
@@ -1240,81 +1244,81 @@ Provision of the Marine Personnel Regulations | Range of Penalties ($) | Separat
 
 PART 6
 
-Violations of the Special-Purpose Vessel Regulations
+Violations of the Special-purpose Vessels Regulations
 
 Item | Column 1 | Column 2 | Column 3
 
-Provision of the Special-purpose Vessel Regulations | Range of Penalties ($) | Separate Violation for Each Day
+Provision of the Special-purpose Vessels Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 3(1) | 600 to 12,000
+1 | Subsection 3(1) | 2,625 to 250,000
 
-2 | Subsection 3(2) | 600 to 12,000
+2 | Subsection 3(2) | 2,625 to 12,500
 
-3 | Subsection 10(3) | 600 to 12,000
+3 | Subsection 10(3) | 2,625 to 12,500
 
-4 | Subsection 13(1) | 600 to 12,000
+4 | Subsection 13(1) | 2,625 to 12,500
 
-5 | Subsection 13(2) | 600 to 12,000
+5 | Subsection 13(2) | 2,625 to 12,500
 
-6 | Subsection 13(3) | 600 to 12,000
+6 | Subsection 13(3) | 2,625 to 12,500
 
-7 | Section 18 | 250 to 5,000
+7 | Section 18 | 260 to 10,000
 
 PART 7
 
 Violations of the Vessel Safety Certificates Regulations
 
-Column 1 | Column 2 | Column 3
+Item | Column 1 | Column 2 | Column 3
 
-Item | Provision of the Vessel Safety Certificates Regulations | Range of Penalties ($) | Separate Violation for Each Day
+Provision of the Vessel Safety Certificates Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Section 6 | 1,250 to 25,000
+1 | Section 6 | 5,250 to 250,000
 
-2 | Paragraph 7(2)(a) | 1,250 to 25,000
+2 | Paragraph 7(2)(a) | 2,625 to 250,000
 
-3 | Paragraph 7(2)(b) | 1,250 to 25,000
+3 | Paragraph 7(2)(b) | 260 to 250,000
 
-4 | Paragraph 10(a) | 1,250 to 25,000
+4 | Paragraph 10(a) | 260 to 250,000
 
-5 | Paragraph 10(b) | 250 to 5,000
+5 | Paragraph 10(b) | 260 to 250,000
 
-6 | Paragraph 10(c) | 1,250 to 25,000
+6 | Paragraph 10(c) | 260 to 250,000
 
-7 | Paragraph 10(d) | 1,250 to 25,000
+7 | Paragraph 10(d) | 260 to 250,000
 
-8 | Section 12 | 1,250 to 25,000
+8 | Section 12 | 5,250 to 250,000
 
-9 | Paragraph 13(2)(a) | 1,250 to 25,000
+9 | Paragraph 13(2)(a) | 2,625 to 250,000
 
-10 | Paragraph 13(2)(b) | 1,250 to 25,000
+10 | Paragraph 13(2)(b) | 2,625 to 250,000
 
-11 | Paragraph 15(a) | 1,250 to 25,000
+11 | Paragraph 15(a) | 260 to 250,000
 
-12 | Paragraph 15(b) | 250 to 5,000
+12 | Paragraph 15(b) | 260 to 250,000
 
-13 | Paragraph 17(1)(a) | 600 to 10,000
+13 | Paragraph 17(1)(a) | 260 to 10,000
 
-14 | Paragraph 17(1)(b) | 600 to 10,000
+14 | Paragraph 17(1)(b) | 260 to 10,000
 
-15 | Subparagraph 18(1)(a)(i) | 1,250 to 25,000
+15 | Subparagraph 18(1)(a)(i) | 260 to 250,000
 
-16 | Subparagraph 18(1)(a)(ii) | 250 to 5,000
+16 | Subparagraph 18(1)(a)(ii) | 260 to 250,000
 
-17 | Subparagraph 18(1)(a)(iii) | 1,250 to 25,000
+17 | Subparagraph 18(1)(a)(iii) | 260 to 250,000
 
-18 | Subparagraph 18(1)(a)(iv) | 1,250 to 25,000
+18 | Subparagraph 18(1)(a)(iv) | 260 to 250,000
 
-19 | Paragraph 18(1)(b) | 1,250 to 25,000
+19 | Paragraph 18(1)(b) | 2,625 to 250,000
 
-20 | Paragraph 18(2)(a) | 1,250 to 25,000
+20 | Paragraph 18(2)(a) | 2,625 to 250,000
 
-21 | Paragraph 18(2)(b) | 1,250 to 25,000
+21 | Paragraph 18(2)(b) | 2,625 to 250,000
 
-22 | Paragraph 19(a) | 1,250 to 25,000
+22 | Paragraph 19(a) | 2,625 to 250,000
 
-23 | Paragraph 19(b) | 1,250 to 25,000
+23 | Paragraph 19(b) | 2,625 to 250,000
 
-24 | Paragraph 19(c) | 1,250 to 25,000
+24 | Paragraph 19(c) | 2,625 to 250,000
 
 PART 8
 
@@ -1324,9 +1328,9 @@ Item | Column 1 | Column 2 | Column 3
 
 Provision of the Vessel Registration and Tonnage Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Section 7 | 3,000 to 12,000
+1 | Section 7 | 2,625 to 100,000
 
-2 | Section 9 | 1,250 to 25,000
+2 | Section 9 | 1,300 to 100,000
 
 PART 9
 
@@ -1336,49 +1340,49 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision of the Ballast Water Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 4(1) | 1,250 to 25,000
+1 | Subsection 4(1) | 2,625 to 250,000
 
-2 | Paragraph 4(3)(a) | 1,250 to 25,000
+2 | Paragraph 4(3)(a) | 260 to 10,000
 
-3 | Paragraph 4(3)(b) | 600 to 12,000
+3 | Paragraph 4(3)(b) | 260 to 10,000
 
-4 | Paragraph 4(3)(c) | 1,250 to 25,000
+4 | Paragraph 4(3)(c) | 260 to 10,000
 
-5 | Paragraph 4(3)(d) | 600 to 12,000
+5 | Paragraph 4(3)(d) | 260 to 10,000
 
-6 | Subsection 4(4) | 600 to 12,000
+6 | Subsection 4(4) | 260 to 10,000
 
-7 | Paragraph 4(5)(a) | 600 to 12,000
+7 | Paragraph 4(5)(a) | 1,300 to 100,000
 
-8 | Paragraph 4(5)(b) | 1,250 to 25,000
+8 | Paragraph 4(5)(b) | 2,625 to 250,000
 
-9 | Paragraph 4(5)(c) | 1,250 to 25,000
+9 | Paragraph 4(5)(c) | 2,625 to 250,000
 
-10 | Section 8 | 1,250 to 25,000 | X
+10 | Section 8 | 5,250 to 250,000 | X
 
-11 | Subsection 14(1) | 1,250 to 25,000 | X
+11 | Subsection 14(1) | 5,250 to 250,000 | X
 
-12 | Subsection 14(2) | 600 to 12,000
+12 | Subsection 14(2) | 260 to 10,000 | X
 
-13 | Subsection 15(1) | 1,250 to 25,000 | X
+13 | Subsection 15(1) | 5,250 to 250,000 | X
 
-14 | Subsection 15(4) | 600 to 12,000
+14 | Subsection 15(4) | 260 to 10,000 | X
 
-15 | Subsection 16(1) | 1,250 to 25,000 | X
+15 | Subsection 16(1) | 5,250 to 250,000 | X
 
-16 | Section 17 | 1,250 to 25,000 | X
+16 | Section 17 | 2,625 to 250,000 | X
 
-17 | Section 18 | 600 to 12,000
+17 | Section 18 | 525 to 10,000
 
-18 | Section 19 | 600 to 12,000 | X
+18 | Section 19 | 525 to 10,000 | X
 
-19 | Section 20 | 600 to 12,000 | X
+19 | Section 20 | 525 to 10,000 | X
 
-20 | Section 22 | 600 to 12,000 | X
+20 | Section 22 | 525 to 10,000 | X
 
-21 | Section 23 | 600 to 12,000 | X
+21 | Section 23 | 525 to 10,000 | X
 
-22 | Section 24 | 600 to 10,000
+22 | Section 24 | 260 to 10,000
 
 PART 10
 
@@ -2462,15 +2466,15 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision of the Environmental Response Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Subsection 11(3) | 600 to 10,000
+1 | Subsection 11(3) | 260 to 10,000
 
-2 | Subsection 12(1) | 1,250 to 25,000
+2 | Subsection 12(1) | 1,300 to 100,000
 
-3 | Subsection 12(2) | 1,250 to 25,000
+3 | Subsection 12(2) | 1,300 to 100,000
 
-4 | Subsection 12(3) | 1,250 to 25,000
+4 | Subsection 12(3) | 260 to 10,000
 
-5 | Subsection 12(4) | 600 to 10,000
+5 | Subsection 12(4) | 260 to 10,000
 
 PART 15
 
@@ -2558,6 +2562,366 @@ Item | Provision of the Vessel Construction and Equipment Regulations | Range of
 
 39 | Subsection 313(2) | 5,250 to 250,000
 
+PART 16
+
+Violations of the Arctic Shipping Safety and Pollution Prevention Regulations
+
+Column 1 | Column 2 | Column 3
+
+Item | Provision of the Arctic Shipping Safety and Pollution Prevention Regulations | Range of Penalties ($) | Separate Violation for Each Day
+
+1 | Subsection 6(1), in respect of (a) Canadian vessels; and (b) foreign vessels (i) in Canadian waters, and (ii) in respect of pollution, in waters in the exclusive economic zone of Canada | 2,625 to 250,000 | X
+
+2 | Subsection 8(1) | 5,250 to 250,000 | X
+
+3 | Subsection 9(1) | 260 to 1,250 | X
+
+4 | Subsection 9(2) | 260 to 1,250 | X
+
+5 | Subsection 10(1) | 5,250 to 250,000
+
+6 | Subsection 10(2) | 2,625 to 12,500
+
+7 | Section 11 | 5,250 to 250,000
+
+8 | Section 15 | 260 to 10,000 | X
+
+9 | Subsection 16(1) | 5,250 to 250,000
+
+10 | Subsection 16(2) | 5,250 to 250,000
+
+11 | Subsection 16(3) | 5,250 to 250,000
+
+12 | Subsection 16(5) | 5,250 to 250,000
+
+13 | Section 17 | 260 to 10,000 | X
+
+14 | Section 18 | 5,250 to 250,000
+
+15 | Section 19 | 2,625 to 250,000 | X
+
+16 | Section 23 | 260 to 10,000 | X
+
+17 | Subsection 24(1) | 2,625 to 250,000 | X
+
+18 | Section 26 | 2,625 to 250,000 | X
+
+PART 17
+
+Violations of the Vessel Fire Safety Regulations
+
+Column 1 | Column 2 | Column 3
+
+Item | Provision of the Vessel Fire Safety Regulations | Range of Penalties ($) | Separate Violation for Each Day
+
+1 | Subsection 102(1) | 260 to 250,000 | X
+
+2 | Subsection 102(2) | 260 to 12,500 | X
+
+3 | Subsection 108(1) | 525 to 10,000 | X
+
+4 | Section 111 | 5,250 to 250,000
+
+5 | Subsection 112(1) | 5,250 to 250,000
+
+6 | Subsection 112(2) | 5,250 to 250,000
+
+7 | Subsection 113(1) | 5,250 to 250,000
+
+8 | Subsection 113(2) | 5,250 to 250,000
+
+9 | Section 114 | 5,250 to 250,000
+
+10 | Section 115 | 5,250 to 250,000
+
+11 | Subsection 117(2) | 2,625 to 250,000 | X
+
+12 | Section 118 | 2,625 to 250,000 | X
+
+13 | Section 119 | 5,250 to 250,000
+
+14 | Subsection 120(1) | 5,250 to 250,000
+
+15 | Subsection 120(2) | 5,250 to 250,000
+
+16 | Subsection 120(3) | 5,250 to 250,000
+
+17 | Subsection 120(4) | 525 to 10,000
+
+18 | Paragraph 121(1)(a) | 5,250 to 250,000
+
+19 | Paragraph 121(1)(b) | 5,250 to 250,000
+
+20 | Paragraph 121(1)(c) | 525 to 10,000
+
+21 | Subsection 121(2) | 5,250 to 250,000
+
+22 | Section 122 | 5,250 to 250,000
+
+23 | Subsection 123(1) | 5,250 to 250,000
+
+24 | Subsection 123(2) | 5,250 to 250,000
+
+25 | Section 124 | 525 to 10,000 | X
+
+26 | Section 125 | 5,250 to 250,000
+
+27 | Subsection 126(1) | 5,250 to 250,000
+
+28 | Subsection 126(2) | 5,250 to 250,000
+
+29 | Paragraph 126(3)(a) | 5,250 to 250,000
+
+30 | Paragraph 126(3)(b) | 5,250 to 250,000
+
+31 | Paragraph 126(3)(c) | 525 to 10,000 | X
+
+32 | Subsection 126(4) | 5,250 to 250,000
+
+33 | Subsection 126(5) | 525 to 250,000
+
+34 | Section 127 | 5,250 to 250,000
+
+35 | Subsection 128(1) | 5,250 to 250,000
+
+36 | Subsection 128(2) | 5,250 to 250,000
+
+37 | Subsection 128(3) | 5,250 to 250,000
+
+38 | Subsection 128(4) | 5,250 to 250,000
+
+39 | Section 129 | 5,250 to 250,000
+
+40 | Section 130 | 525 to 250,000 | X
+
+41 | Section 131 | 5,250 to 250,000
+
+42 | Section 132 | 5,250 to 250,000
+
+43 | Subsection 133(2) | 5,250 to 250,000
+
+44 | Subsection 133(3) | 5,250 to 250,000
+
+45 | Subsection 135(1) | 5,250 to 250,000
+
+46 | Subsection 135(2) | 5,250 to 250,000
+
+47 | Subsection 135(3) | 5,250 to 250,000
+
+48 | Subsection 135(4) | 5,250 to 250,000
+
+49 | Subsection 136(1) | 5,250 to 250,000 | X
+
+50 | Subsection 136(2) | 5,250 to 250,000 | X
+
+51 | Subsection 136(3) | 5,250 to 250,000 | X
+
+52 | Subsection 137(1) | 5,250 to 250,000 | X
+
+53 | Subsection 137(2) | 5,250 to 250,000 | X
+
+54 | Section 139 | 5,250 to 250,000
+
+55 | Section 141 | 5,250 to 250,000
+
+56 | Subsection 143(0.1) | 5,250 to 250,000 | X
+
+57 | Subsection 143(0.2) | 5,250 to 250,000 | X
+
+58 | Subsection 143(2) | 5,250 to 250,000 | X
+
+59 | Subsection 144(1) | 5,250 to 250,000 | X
+
+60 | Subsection 144(2) | 5,250 to 250,000 | X
+
+61 | Subsection 144(3) | 5,250 to 250,000 | X
+
+62 | Subsection 145(1) | 5,250 to 250,000
+
+63 | Subsection 146(1) | 5,250 to 250,000
+
+64 | Subsection 146(2) | 5,250 to 250,000
+
+65 | Subsection 147(1) | 5,250 to 250,000
+
+66 | Subsection 147(2) | 5,250 to 250,000
+
+67 | Subsection 147(3) | 5,250 to 250,000
+
+68 | Subsection 147(4) | 5,250 to 250,000
+
+69 | Subsection 147(5) | 5,250 to 250,000
+
+70 | Subsection 147(6) | 5,250 to 250,000
+
+71 | Section 149 | 525 to 10,000
+
+72 | Subsection 150(1) | 5,250 to 250,000
+
+73 | Subsection 150(2) | 525 to 10,000
+
+74 | Section 151 | 5,250 to 250,000 | X
+
+75 | Section 152 | 525 to 10,000
+
+76 | Section 154 | 525 to 10,000
+
+77 | Section 155 | 525 to 10,000
+
+78 | Section 156 | 525 to 10,000
+
+79 | Section 157 | 5,250 to 250,000
+
+80 | Subsection 158(1) | 525 to 10,000
+
+81 | Subsection 158(2) | 5,250 to 250,000
+
+82 | Section 205 | 5,250 to 250,000
+
+83 | Section 206 | 5,250 to 250,000
+
+84 | Section 207 | 5,250 to 250,000
+
+85 | Section 208 | 5,250 to 250,000
+
+86 | Section 209 | 5,250 to 250,000
+
+87 | Section 210 | 5,250 to 250,000
+
+88 | Section 211 | 5,250 to 250,000
+
+89 | Section 212 | 5,250 to 250,000
+
+90 | Section 213 | 5,250 to 250,000
+
+91 | Section 214 | 5,250 to 250,000
+
+92 | Section 215 | 5,250 to 250,000
+
+93 | Section 216 | 5,250 to 250,000
+
+94 | Section 217 | 5,250 to 250,000
+
+95 | Section 218 | 5,250 to 250,000
+
+96 | Section 219 | 5,250 to 250,000
+
+97 | Section 220 | 5,250 to 250,000
+
+98 | Section 221 | 5,250 to 250,000
+
+99 | Section 222 | 5,250 to 250,000
+
+100 | Section 223 | 5,250 to 250,000
+
+101 | Section 224 | 5,250 to 250,000
+
+102 | Section 225 | 5,250 to 250,000
+
+103 | Section 226 | 5,250 to 250,000
+
+104 | Section 227 | 5,250 to 250,000
+
+105 | Section 228 | 5,250 to 250,000
+
+106 | Section 229 | 5,250 to 250,000
+
+107 | Section 230 | 5,250 to 250,000 | X
+
+108 | Section 231 | 525 to 250,000 | X
+
+109 | Section 232 | 5,250 to 250,000 | X
+
+110 | Section 233 | 5,250 to 250,000
+
+111 | Section 234 | 5,250 to 250,000
+
+112 | Section 305 | 260 to 250,000 | X
+
+113 | Section 306 | 260 to 250,000 | X
+
+114 | Section 307 | 260 to 250,000 | X
+
+115 | Section 308 | 260 to 250,000 | X
+
+116 | Section 309 | 260 to 250,000 | X
+
+117 | Section 310 | 260 to 250,000 | X
+
+118 | Section 311 | 260 to 250,000 | X
+
+119 | Section 312 | 260 to 250,000 | X
+
+120 | Section 313 | 260 to 250,000 | X
+
+121 | Section 314 | 5,250 to 250,000
+
+122 | Section 315 | 5,250 to 250,000
+
+123 | Section 316 | 5,250 to 250,000
+
+124 | Section 317 | 5,250 to 250,000
+
+125 | Section 318 | 5,250 to 250,000
+
+126 | Section 319 | 5,250 to 250,000
+
+127 | Section 320 | 5,250 to 250,000
+
+128 | Section 321 | 5,250 to 250,000
+
+129 | Section 322 | 5,250 to 250,000
+
+130 | Section 323 | 5,250 to 250,000
+
+131 | Section 324 | 5,250 to 250,000
+
+132 | Section 325 | 5,250 to 250,000
+
+133 | Section 326 | 5,250 to 250,000
+
+134 | Section 327 | 5,250 to 250,000
+
+135 | Section 328 | 5,250 to 250,000 | X
+
+136 | Section 329 | 5,250 to 250,000
+
+137 | Section 330 | 5,250 to 250,000
+
+138 | Section 331 | 5,250 to 250,000
+
+139 | Section 332 | 5,250 to 250,000
+
+140 | Section 333 | 5,250 to 250,000
+
+141 | Section 334 | 5,250 to 250,000
+
+142 | Section 335 | 5,250 to 250,000
+
+143 | Section 336 | 5,250 to 250,000
+
+144 | Section 337 | 5,250 to 250,000
+
+145 | Section 338 | 5,250 to 250,000
+
+146 | Section 339 | 5,250 to 250,000
+
+147 | Section 340 | 5,250 to 250,000
+
+148 | Section 341 | 5,250 to 250,000
+
+149 | Section 342 | 5,250 to 250,000
+
+150 | Section 343 | 525 to 10,000 | X
+
+151 | Section 344 | 5,250 to 250,000
+
+152 | Section 345 | 5,250 to 250,000
+
+153 | Section 346 | 5,250 to 250,000
+
+154 | Section 347 | 5,250 to 250,000
+
 History:
 
 - SOR/2012-246, ss. 5, 6
@@ -2579,3 +2943,13 @@ History:
 - SOR/2023-257, s. 529
 
 - SOR/2023-257, s. 530
+
+- SOR/2024-49, s. 1
+
+- SOR/2024-49, s. 2
+
+- SOR/2024-49, s. 3
+
+- SOR/2024-49, s. 4
+
+- SOR/2024-49, s. 5
