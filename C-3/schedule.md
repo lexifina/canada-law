@@ -160,13 +160,7 @@
 
     - (b) the trustee is not aware of the error or omission but has exercised due diligence to be in compliance with the requirements of this schedule.
 
-- Marginal note: Deposit considered separate
-
-  - 6.1 (1) A deposit that is not considered to be a separate deposit under section 6 is considered to be a separate deposit under that section if the trustee of the deposit meets the requirements of this schedule on the determination date or within 90 days after the determination date.
-
-  - Marginal note: Definition of determination date
-
-  - (2) In subsection (1), determination date has the same meaning as in subsection 1(1) of the Canada Deposit Insurance Corporation Co-owned and Trust Deposit Disclosure By-law.
+- 6.1 [Repealed, 2021, c. 23, s. 132]
 
 #### Nominee Broker Deposits
 
@@ -335,6 +329,8 @@ History:
 - 2018, c. 12, s. 211
 
 - 2018, c. 12, s. 212
+
+- 2021, c. 23, s. 132
 
 - 2021, c. 23, s. 138
 
