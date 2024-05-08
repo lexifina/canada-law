@@ -1,4 +1,4 @@
-## SCHEDULE 2 (Paragraphs 5(3)(d) and (e), subparagraph 5(3)(i.01)(vii) and paragraph 8(3)(b))
+## SCHEDULE 2 (Paragraphs 5(3)(d) and (e) and subparagraph 5(3)(i.01)(vii))
 
 - 1 The following coefficients apply to the calculation of the live weight equivalent of chicken marketed:
 
@@ -37,3 +37,5 @@ History:
 - SOR/2013-155, s. 2
 
 - SOR/2015-227, ss. 5(F), 6
+
+- SOR/2024-80, s. 6
