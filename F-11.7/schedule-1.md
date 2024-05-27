@@ -76,6 +76,8 @@ Madawaska Maliseet First Nation | Council of the Madawaska Maliseet First Nation
 
 Matsqui | Governing Body of Matsqui established under clause 2.1 of its by-law entitled Matsqui First Nation Custom Election Regulations and Procedures | Each reserve of Matsqui that is not shared with another band
 
+Metepenagiag Mi’kmaq Nation | Council of the Metepenagiag Mi’kmaq Nation | Reserves of the Metepenagiag Mi’kmaq Nation
+
 Mosquito, Grizzly Bear’s Head, Lean Man First Nation | Council of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation | Reserves of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation
 
 Muskeg Lake | Council of Muskeg Lake | Reserve of Muskeg Lake
@@ -102,8 +104,6 @@ Skidegate | Council of Skidegate | Reserve of Skidegate
 
 Skowkale | Council of Skowkale | Each reserve of Skowkale that is not shared with another band
 
-Sliammon | Council of Sliammon | Reserve of Sliammon
-
 Songhees First Nation | Council of the Songhees First Nation | Reserves of the Songhees First Nation
 
 Splatsin | Council of Splatsin | Reserves of Splatsin
@@ -115,6 +115,8 @@ St. Mary’s | Council of St. Mary’s | Reserves of St. Mary’s, other than th
 Ta’an Kwach’an Council | Board of Directors and Elders Council of the Ta’an Kwach’an Council | Settlement Land of the Ta’an Kwach’an Council under the Ta’an Kwach’an Council Final Agreement and the Yukon First Nations Land Claims Settlement Act, S.C. 1994, c. 34
 
 Teslin Tlingit Council | General Council of the Teslin Tlingit Council | Settlement Land of the Teslin Tlingit Council under the Teslin Tlingit Council Final Agreement and the Yukon First Nations Land Claims Settlement Act, S.C. 1994, c. 34
+
+Tla’amin Nation | Tla’amin Government | Tla’amin Lands, as defined in the Tla’amin Final Agreement Act, S.C. 2014, c. 11
 
 Tla-o-qui-aht | Council of the Tla-o-qui-aht First Nations | Reserve of the Tla-o-qui-aht First Nations
 
@@ -193,3 +195,7 @@ History:
 - SOR/2022-275, s. 1
 
 - 2023, c. 22, s. 22
+
+- SOR/2024-103, s. 1
+
+- SOR/2024-103, s. 2
