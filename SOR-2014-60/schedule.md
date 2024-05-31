@@ -1936,6 +1936,46 @@ Individuals
 
 - Vyacheslav Yuryevich LUCHNIKOV
 
+- 484
+
+- Mykola Yanovych AZAROV (born on December 17, 1947)
+
+- 485
+
+- Oleksii Mykolayovych AZAROV (born on July 13, 1971)
+
+- 486
+
+- Raisa Vasylivna BOHATYRIOVA (born on January 6, 1953)
+
+- 487
+
+- Andrii Petrovych KLIUIEV (born on August 12, 1964)
+
+- 488
+
+- Serhiy Vitaliyovych KURCHENKO (born on September 21, 1985)
+
+- 489
+
+- Viktor Pavlovych PSHONKA (born on February 6, 1954)
+
+- 490
+
+- Artem Viktorovych PSHONKA (born on March 19, 1976)
+
+- 491
+
+- Dmytro Volodymyrovych TABACHNYK (born on November 26, 1963)
+
+- 492
+
+- Oleksandr Hryhorovych YAKYMENKO (born on December 22, 1964)
+
+- 493
+
+- Vitalii Yuriyovych ZAKHARCHENKO (born on January 20, 1963)
+
 PART 2
 
 Entities
@@ -2231,3 +2271,5 @@ History:
 - SOR/2023-119, s. 1
 
 - SOR/2023-119, s. 2
+
+- SOR/2024-113, s. 1
