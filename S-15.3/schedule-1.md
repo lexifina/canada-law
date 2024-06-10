@@ -242,6 +242,10 @@
 
   - Alouette hausse-col de la sous-espèce strigata
 
+  - Longspur, Chestnut-collared (Calcarius ornatus)
+
+  - Plectrophane à ventre noir
+
   - Owl, Barn (Tyto alba) Eastern population
 
   - Effraie des clochers population de l’Est
@@ -610,6 +614,10 @@
 
   - Escargot-forestier de Townsend
 
+  - Globe, Toothed (Mesodon zaletus)
+
+  - Gobelet dentelé
+
   - Globelet, Proud (Patera pennsylvanica)
 
   - Patère de Pennsylvanie
@@ -645,6 +653,10 @@
   - Riffleshell, Northern (Epioblasma torulosa rangiana)
 
   - Épioblasme ventrue
+
+  - Shagreen (Inflectarius inflectus)
+
+  - Escargot galuchat
 
   - Snail, Banff Springs (Physella johnsoni)
 
@@ -787,6 +799,10 @@
   - Moth, Nuttall’s Sheep (Hemileuca nuttalli)
 
   - Hémileucin de Nuttall
+
+  - Moth, Reversed Haploa (Haploa reversa)
+
+  - Haploa inversé
 
   - Moth, Sand-verbena (Copablepharon fuscum)
 
@@ -977,6 +993,10 @@
   - Goat’s-rue, Virginia (Tephrosia virginiana)
 
   - Téphrosie de Virginie
+
+  - Goldenrod, Gillman’s (Solidago gillmanii)
+
+  - Verge d’or de Gillman
 
   - Goldenrod, Showy (Solidago speciosa) Great Lakes Plains population
 
@@ -1314,6 +1334,10 @@
 
   - Fabronie naine
 
+  - Yoke-moss, Slender (Zygodon gracilis)
+
+  - Houppe gracile
+
 ## PART 3 Threatened Species
 
 - Mammals
@@ -1415,10 +1439,6 @@
   - Knot roselaari type, Red (Calidris canutus roselaari type)
 
   - Bécasseau maubèche du type roselaari
-
-  - Longspur, Chestnut-collared (Calcarius ornatus)
-
-  - Bruant à ventre noir
 
   - Longspur, McCown’s (Rhynchophanes mccownii)
 
@@ -1639,6 +1659,10 @@
   - Jumping-slug, Dromedary (Hemphillia dromedarius)
 
   - Limace-sauteuse dromadaire
+
+  - Mantleslug, Carolina (Philomycus carolinianus)
+
+  - Limace à manteau de la Caroline
 
   - Mapleleaf (Quadrula quadrula) Saskatchewan – Nelson Rivers population
 
@@ -2198,6 +2222,10 @@
 
   - Scinque de l’Ouest
 
+  - Snake, Plains Hog-nosed (Heterodon nasicus)
+
+  - Couleuvre à groin des plaines
+
   - Turtle, Eastern Musk (Sternotherus odoratus)
 
   - Tortue musquée
@@ -2476,6 +2504,10 @@
 
   - Mormon population des Prairies
 
+  - Moth, Manitoba Oakworm (Anisota manitobensis)
+
+  - Anisote du Manitoba
+
   - Moth, Pale Yellow Dune (Copablepharon grandis)
 
   - Noctuelle jaune pâle des dunes
@@ -2529,6 +2561,10 @@
   - Bulrush, Long’s (Scirpus longii)
 
   - Scirpe de Long
+
+  - Draba, Puvirnituq Mountain (Draba puvirnituqii)
+
+  - Drave des monts de Puvirnituq
 
   - Fern, American Hart’s-tongue (Asplenium scolopendrium var. americanum)
 
@@ -3045,3 +3081,23 @@ History:
 - SOR/2023-263, s. 3
 
 - SOR/2023-263, s. 4
+
+- SOR/2024-123, s. 1
+
+- SOR/2024-123, s. 2
+
+- SOR/2024-123, s. 3
+
+- SOR/2024-123, s. 4
+
+- SOR/2024-123, s. 5
+
+- SOR/2024-123, s. 6
+
+- SOR/2024-123, s. 7
+
+- SOR/2024-123, s. 8
+
+- SOR/2024-123, s. 9
+
+- SOR/2024-123, s. 10
