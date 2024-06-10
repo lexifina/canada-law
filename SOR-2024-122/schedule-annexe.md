@@ -1,0 +1,1 @@
+## SCHEDULE/ANNEXE (Subsections 1(2) and (3) and 2(1), section 3, subparagraphs 7(2)(a)(i) and (ii)/paragraphes 1(2) et (3) et 2(1), article 3 et sous-alinéas 7(2)(a)(i) et (ii)) Tang.ɢwan — ḥačxʷiqak — Tsigis Marine Protected Area/Zone de protection marine Tang.ɢwan — ḥačxʷiqak — Tsigis
