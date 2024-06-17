@@ -1,4 +1,4 @@
-Regulations Implementing the United Nations Resolution on Lebanon
+Regulations Implementing the United Nations Resolutions on Lebanon
 
 SOR/2007-204
 
@@ -6,7 +6,7 @@ UNITED NATIONS ACT
 
 Registration 2007-09-18
 
-Regulations Implementing the United Nations Resolution on Lebanon
+Regulations Implementing the United Nations Resolutions on Lebanon
 
 P.C. 2007-1352 2007-9-18
 
