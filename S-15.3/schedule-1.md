@@ -1402,6 +1402,10 @@
 
   - Épaulard population migratrice du Pacifique Nord-Est
 
+  - Wolf, Eastern (Canis sp. cf. lycaon)
+
+  - Loup de l’Est
+
 - Birds
 
   - Albatross, Short-tailed (Phoebastria albatrus)
@@ -2031,10 +2035,6 @@
   - Whale, Sowerby’s Beaked (Mesoplodon bidens)
 
   - Baleine à bec de Sowerby
-
-  - Wolf, Eastern (Canis lupus lycaon)
-
-  - Loup de l’Est
 
   - Wolverine (Gulo gulo)
 
@@ -3101,3 +3101,7 @@ History:
 - SOR/2024-123, s. 9
 
 - SOR/2024-123, s. 10
+
+- SOR/2024-135, s. 1
+
+- SOR/2024-135, s. 2
