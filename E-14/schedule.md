@@ -48,27 +48,27 @@ The following duties of excise shall be imposed, levied and collected:
 
 - 1 Per hectolitre of the first 2 000 hectolitres of beer and malt liquor brewed in Canada,
 
+  - (a) if it contains more than 2.5% absolute ethyl alcohol by volume, 5% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
+
+  - (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 5% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
+
+  - (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, 5% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
+
+- 2 Per hectolitre of the next 3 000 hectolitres of beer and malt liquor brewed in Canada,
+
   - (a) if it contains more than 2.5% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
   - (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
   - (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
-- 2 Per hectolitre of the next 3 000 hectolitres of beer and malt liquor brewed in Canada,
+- 3 Per hectolitre of the next 10 000 hectolitres of beer and malt liquor brewed in Canada,
 
   - (a) if it contains more than 2.5% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
   - (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
   - (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
-
-- 3 Per hectolitre of the next 10 000 hectolitres of beer and malt liquor brewed in Canada,
-
-  - (a) if it contains more than 2.5% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
-
-  - (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
-
-  - (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
 - 4 Per hectolitre of the next 35 000 hectolitres of beer and malt liquor brewed in Canada,
 
@@ -127,3 +127,9 @@ History:
 - 2007, c. 2, ss. 62, 63
 
 - 2017, c. 20, ss. 43, 44
+
+- 2024, c. 17, s. 114
+
+- 2024, c. 17, s. 115
+
+- 2024, c. 17, s. 116
