@@ -1,4 +1,4 @@
-## SCHEDULE (Section 10)
+## SCHEDULE 1 (Section 10)
 
 ## Oath of Office
 
@@ -10,4 +10,6 @@ I, , swear that I will not, without due authority, disclose or make known to any
 
 History:
 
-- 1984, c. 21, Sch
+- R.S., 1985, c. C-23, Sch.
+
+- 2024, c. 16, s. 45
