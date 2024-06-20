@@ -46,6 +46,10 @@
 
   - Ministère de la Santé
 
+  - Department of Housing, Infrastructure and Communities
+
+  - Ministère du Logement, de l’Infrastructure et des Collectivités
+
   - Department of Indigenous Services
 
   - Ministère des Services aux Autochtones
@@ -408,10 +412,6 @@
 
   - Office des eaux du Nunavut
 
-  - Office of Infrastructure of Canada
-
-  - Bureau de l’infrastructure du Canada
-
   - Office of Privatization and Regulatory Affairs
 
   - Bureau de privatisation et des affaires réglementaires
@@ -759,3 +759,7 @@ History:
 - SOR/2021-194, s. 1
 
 - 2023, c. 16, s. 59
+
+- 2024, c. 15, s. 334
+
+- 2024, c. 15, s. 335
