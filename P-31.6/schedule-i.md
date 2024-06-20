@@ -46,6 +46,10 @@
 
   - Ministère de la Santé
 
+  - Department of Housing, Infrastructure and Communities
+
+  - Ministère du Logement, de l’Infrastructure et des Collectivités
+
   - Department of Indigenous Services
 
   - Ministère des Services aux Autochtones
@@ -461,3 +465,5 @@ History:
 - 2019, c. 29, s. 364
 
 - 2019, c. 29, s. 365
+
+- 2024, c. 15, s. 337
