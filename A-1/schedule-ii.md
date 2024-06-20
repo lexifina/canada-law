@@ -78,6 +78,8 @@ Family Allowances Act Loi sur les allocations familiales | section 18
 
 Fisheries Act Loi sur les pêches | subsections 61.2(1) and (2)
 
+Global Minimum Tax Act Loi sur l’impôt minimum mondial | section 121
+
 Greenhouse Gas Pollution Pricing Act Loi sur la tarification de la pollution causée par les gaz à effet de serre | section 107 and subsection 255(3)
 
 Hazardous Products Act Loi sur les produits dangereux | section 12
@@ -217,3 +219,5 @@ History:
 - 2023, c. 23, s. 88
 
 - 2023, c. 29, s. 16
+
+- 2024, c. 17, s. 82
