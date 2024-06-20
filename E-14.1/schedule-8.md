@@ -1,4 +1,4 @@
-## SCHEDULE 8 (Sections 158.57, 158.6, 158.61, 218.2, 233.2, 234.2, 237 and 238.01) Duty on Vaping Products
+## SCHEDULE 8 (Sections 158.57, 158.6, 158.61, 218.2, 233.2, 233.3, 234.2, 237, 238.01 and 249.1) Duty on Vaping Products
 
 - 1 Vaping products that are vaping devices that contain vaping substances or that are vaping substances in immediate containers: for each vaping device or immediate container of vaping substance
 
@@ -31,3 +31,5 @@
 History:
 
 - 2022, c. 10, s. 80
+
+- 2024, c. 15, s. 159
