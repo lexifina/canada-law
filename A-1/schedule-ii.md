@@ -58,6 +58,8 @@ Defence Production Act Loi sur la production de défense | section 30
 
 Department of Industry Act Loi sur le ministère de l’Industrie | subsection 16(2)
 
+Digital Services Tax Act Loi sur la taxe sur les services numériques | section 108
+
 DNA Identification Act Loi sur l’identification par les empreintes génétiques | section 6.6
 
 Energy Administration Act Loi sur l’administration de l’énergie | section 98
@@ -219,5 +221,7 @@ History:
 - 2023, c. 23, s. 88
 
 - 2023, c. 29, s. 16
+
+- 2024, c. 15, s. 98
 
 - 2024, c. 17, s. 82
