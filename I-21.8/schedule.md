@@ -20,6 +20,8 @@ Agreement within the meaning of section 2 of the Comprehensive and Progressive A
 
 Agreement within the meaning of subsection 24(4) of this Act | Article 1.5
 
+Agreement within the meaning of section 2 of the Canada–Ukraine Free Trade Agreement Implementation Act, 2023 | Article 17.1
+
 History:
 
 - 2017, c. 6, s. 81
@@ -29,3 +31,5 @@ History:
 - 2020, c. 1, s. 112
 
 - 2020, c. 1, s. 113
+
+- 2024, c. 3, s. 18
