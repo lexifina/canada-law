@@ -10,8 +10,6 @@ The North American Agreement on Environmental Cooperation entered into between t
 
 Chapter 12 of the Agreement, within the meaning of subsection 2(1) of the Canada-Israel Free Trade Agreement Implementation Act, as amended from time to time in accordance with Article 21.2 of that Agreement.
 
-Chapter 13 of the Free Trade Agreement between Canada and Ukraine, done at Kyiv on July 11, 2016, as amended from time to time in accordance with Article 19.3 of that Agreement.
-
 Chapter 18 of the Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014, as amended from time to time in accordance with Article 23.2 of that Agreement.
 
 The Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009, as amended from time to time in accordance with Article 22 of that Agreement.
@@ -41,3 +39,5 @@ History:
 - 2017, c. 8, s. 16
 
 - 2019, c. 6, s. 6
+
+- 2024, c. 3, s. 16
