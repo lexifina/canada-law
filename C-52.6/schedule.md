@@ -36,7 +36,7 @@ Panama | CPAFTA | Panama Tariff rates of customs duty under the Customs Tariff
 
 Peru | CPFTA | Peru Tariff rates of customs duty under the Customs Tariff
 
-Ukraine | CUFTA | Ukraine Tariff rates of customs duty under the Customs Tariff
+Ukraine | CUFTA or, as applicable CUFTA 2017 | Ukraine Tariff rates of customs duty under the Customs Tariff
 
 PART 2
 
@@ -94,7 +94,7 @@ Panama | paragraph 10 of Article 5.02 of CPAFTA
 
 Peru | paragraph 1 of Article 419 of CPFTA
 
-Ukraine | Article 4.8 of CUFTA
+Ukraine | Article 4.8 of CUFTA or, as applicable, CUFTA 2017
 
 PART 4
 
@@ -126,7 +126,7 @@ Panama | CPAFTA
 
 Peru | CPFTA
 
-Ukraine | CUFTA
+Ukraine | CUFTA or, as applicable, CUFTA 2017
 
 PART 5
 
@@ -157,6 +157,8 @@ CPFTA | Chapter Four
 CPTPP | Chapters 3 to 5 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1
 
 CUFTA | Chapters 3 and 4
+
+CUFTA 2017 | Chapters 3 and 4
 
 CUKTCA | Protocol on Rules of Origin and Origin Procedures of CETA as incorporated by reference in CUKTCA
 
@@ -191,3 +193,11 @@ History:
 - 2021, c. 1, s. 28
 
 - 2021, c. 1, s. 29
+
+- 2024, c. 3, s. 23
+
+- 2024, c. 3, s. 24
+
+- 2024, c. 3, s. 25
+
+- 2024, c. 3, s. 26
