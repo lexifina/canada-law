@@ -12,6 +12,8 @@ Article 8.18 or 8.19 | Free Trade Agreement between Canada and the Republic of K
 
 Article 9.19 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1 | Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018
 
+Article 17.23 | Free Trade Agreement between Canada and Ukraine, done at Ottawa on September 22, 2023
+
 History:
 
 - 2012, c. 26, s. 26
@@ -19,3 +21,5 @@ History:
 - 2014, c. 14, s. 30, c. 28, s. 32
 
 - 2018, c. 23, s. 31
+
+- 2024, c. 3, s. 27
