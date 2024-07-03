@@ -40,6 +40,10 @@ Item | Designated Provision | Individual | Corporation
 
 11 | Subsection 23.1(1) | 5,000 | 25,000
 
+11.1 | Section 26.1 | 25,000 | 125,000
+
+11.2 | Section 26.2 | 50,000 | 250,000
+
 12 | Subsection 30(1) | 25,000 | 125,000
 
 13 | Subsection 30(2) | 25,000 | 125,000
@@ -61,6 +65,8 @@ Item | Designated Provision | Individual | Corporation
 20 | [Repealed, SOR/2016-65, s. 4]
 
 21 | Section 38 | 50,000 | 250,000
+
+21.1 | Subsection 40.11(5) | 25,000 | 125,000
 
 22 | Subsection 44.1(1) | 5,000 | 25,000
 
@@ -754,6 +760,174 @@ Designated Provision | Individual | Corporation
 
 52 | Section 38 | 50,000 | 250,000
 
+PART 7
+
+Designated Provisions of the Passenger Rail Transportation Security Regulations
+
+Column 1 | Column 2 | Column 3
+
+Maximum Amount Payable ($) | Maximum Amount Payable ($)
+
+Item | Designated Provision | Individual | Corporation
+
+1 | Subsections 2(1) and (2) | 50,000 | 250,000
+
+2 | Subsection 2(3) | 25,000 | 125,000
+
+3 | Paragraph 2(4)(a) | 50,000 | 250,000
+
+4 | Paragraph 2(4)(b) | 50,000 | 250,000
+
+5 | Paragraph 2(4)(c) | 50,000 | 250,000
+
+6 | Subsection 2(5) | 25,000 | 125,000
+
+7 | Subsection 2(6) | 5,000 | 25,000
+
+8 | Subsection 2(7) | 5,000 | 25,000
+
+9 | Subsection 3(1) | 25,000 | 125,000
+
+10 | Subsection 3(2) | 5,000 | 25,000
+
+11 | Subsection 3(3) | 25,000 | 125,000
+
+12 | Subsection 3(4) | 25,000 | 125,000
+
+13 | Subsection 4(1) | 50,000 | 250,000
+
+14 | Subsection 4(3) | 50,000 | 250,000
+
+15 | Subsection 4(4) | 50,000 | 250,000
+
+16 | Subsection 4(6) | 25,000 | 125,000
+
+17 | Subsection 4(7) | 25,000 | 125,000
+
+18 | Subsection 5(2) | 25,000 | 125,000
+
+19 | Subsections 5(3) and (4) | 50,000 | 250,000
+
+20 | Subsection 5(5) | 25,000 | 125,000
+
+21 | Subsection 5(6) | 50,000 | 250,000
+
+22 | Subsection 5(7) | 50,000 | 250,000
+
+23 | Subsection 5(8) | 50,000 | 250,000
+
+24 | Subsection 5(9) | 5,000 | 25,000
+
+25 | Subsection 5(10) | 5,000 | 25,000
+
+26 | Paragraph 6(1)(a) | 50,000 | 250,000
+
+27 | Paragraph 6(1)(b) | 50,000 | 250,000
+
+28 | Paragraph 6(1)(c) | 50,000 | 250,000
+
+29 | Subsection 6(2) | 25,000 | 125,000
+
+30 | Subsection 6(3) | 50,000 | 250,000
+
+31 | Subsection 6(4) | 25,000 | 125,000
+
+32 | Subsection 6(5) | 25,000 | 125,000
+
+33 | Subsection 6(6) | 25,000 | 125,000
+
+34 | Subsections 7(1) and (2) | 50,000 | 250,000
+
+35 | Paragraph 7(3)(a) | 50,000 | 250,000
+
+36 | Paragraph 7(3)(b) | 50,000 | 250,000
+
+37 | Paragraph 7(3)(c) | 50,000 | 250,000
+
+38 | Paragraph 7(3)(d) | 50,000 | 250,000
+
+39 | Paragraph 7(3)(e) | 50,000 | 250,000
+
+40 | Paragraph 7(3)(f) | 50,000 | 250,000
+
+41 | Paragraph 7(3)(g) | 50,000 | 250,000
+
+42 | Paragraph 7(3)(h) | 50,000 | 250,000
+
+43 | Paragraph 7(3)(i) | 50,000 | 250,000
+
+44 | Paragraph 7(3)(j) | 50,000 | 250,000
+
+45 | Paragraph 7(3)(k) | 50,000 | 250,000
+
+46 | Paragraph 7(3)(l) | 50,000 | 250,000
+
+47 | Paragraph 7(3)(m) | 50,000 | 250,000
+
+48 | Paragraph 7(3)(n) | 50,000 | 250,000
+
+49 | Paragraph 7(3)(o) | 50,000 | 250,000
+
+50 | Paragraph 7(3)(p) | 50,000 | 250,000
+
+51 | Paragraph 7(3)(q) | 50,000 | 250,000
+
+52 | Subsection 7(4) | 50,000 | 250,000
+
+53 | Subsection 7(5) | 25,000 | 125,000
+
+54 | Subsection 7(6) | 25,000 | 125,000
+
+55 | Subsection 7(7) | 25,000 | 125,000
+
+56 | Paragraph 7(8)(a) | 25,000 | 125,000
+
+57 | Paragraph 7(8)(b) | 25,000 | 125,000
+
+58 | Paragraph 7(8)(c) | 25,000 | 125,000
+
+59 | Paragraph 7(8)(d) | 25,000 | 125,000
+
+60 | Paragraph 7(8)(e) | 25,000 | 125,000
+
+61 | Paragraph 7(8)(f) | 25,000 | 125,000
+
+62 | Paragraph 7(8)(g) | 5,000 | 25,000
+
+63 | Subsection 8(1) | 50,000 | 250,000
+
+64 | Paragraph 8(2)(a) | 50,000 | 250,000
+
+65 | Paragraph 8(2)(b) | 50,000 | 250,000
+
+66 | Paragraph 8(2)(c) | 50,000 | 250,000
+
+67 | Subsection 8(3) | 25,000 | 125,000
+
+68 | Subsection 8(4) | 25,000 | 125,000
+
+69 | Subsection 8(5) | 25,000 | 125,000
+
+70 | Subsection 8(6) | 5,000 | 25,000
+
+71 | Subsection 8(7) | 5,000 | 25,000
+
+72 | Subsection 9(1) | 50,000 | 250,000
+
+73 | Subsection 9(3) | 5,000 | 25,000
+
+74 | Subsection 9(4) | 25,000 | 125,000
+
+75 | Subsection 9(5) | 5,000 | 25,000
+
+76 | Subsection 9(7) | 5,000 | 25,000
+
+77 | Subsection 9(8) | 5,000 | 25,000
+
+78 | Subsection 9(9) | 5,000 | 25,000
+
+79 | Subsection 9(10) | 50,000 | 250,000
+
 History:
 
 - SOR/2015-133, ss. 1 to 3
@@ -763,3 +937,9 @@ History:
 - SOR/2020-178, s. 39
 
 - SOR/2020-178, s. 40
+
+- SOR/2024-152, s. 1
+
+- SOR/2024-152, s. 2
+
+- SOR/2024-152, s. 3
