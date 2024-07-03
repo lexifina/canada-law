@@ -1880,13 +1880,155 @@ Provision of the Fire and Boat Drills Regulations | Range of Penalties ($) | Sep
 
 PART 12
 
-Violation of the Safety Management Regulations
+Violations of the Marine Safety Management System Regulations
 
-Item | Column 1 | Column 2 | Column 3
+Column 1 | Column 2 | Column 3
 
-Provision of the Safety Management Regulations | Range of Penalties ($) | Separate Violation for Each Day
+Item | Provision of the Marine Safety Management System Regulations | Range of Penalties ($) | Separate Violation for Each Day
 
-1 | Section 3 | 1,250 to 25,000
+1 | Paragraph 8(a) | 5,250 to 250,000
+
+2 | Paragraph 8(b) | 5,250 to 250,000
+
+3 | Paragraph 8(c) | 5,250 to 250,000
+
+4 | Section 11 | 525 to 10,000
+
+5 | Paragraph 102(1)(a) | 260 to 1,250
+
+6 | Paragraph 102(1)(b) | 260 to 1,250
+
+7 | Paragraph 102(1)(c) | 260 to 1,250
+
+8 | Paragraph 102(2)(a) | 525 to 10,000
+
+9 | Paragraph 102(2)(b) | 525 to 10,000
+
+10 | Paragraph 102(2)(c) | 525 to 10,000
+
+11 | Subsection 103(1) | 2,625 to 100,000
+
+12 | Subsection 103(2) | 525 to 10,000
+
+13 | Subsection 103(3) | 525 to 10,000
+
+14 | Subsection 103(4) | 525 to 10,000
+
+15 | Subsection 103(5) | 525 to 10,000
+
+16 | Paragraph 103(6)(a) | 525 to 10,000
+
+17 | Paragraph 103(6)(b) | 525 to 10,000
+
+18 | Subsection 104(1) | 2,625 to 100,000
+
+19 | Subsection 104(2) | 2,625 to 100,000
+
+20 | Subsection 200(3) | 5,250 to 250,000
+
+21 | Subsection 201(2) | 5,250 to 250,000
+
+22 | Paragraph 202(1)(a) | 260 to 1,250
+
+23 | Paragraph 202(1)(b) | 260 to 1,250
+
+24 | Paragraph 202(1)(c) | 260 to 1,250
+
+25 | Paragraph 202(2)(a) | 525 to 10,000
+
+26 | Paragraph 202(2)(b) | 525 to 10,000
+
+27 | Paragraph 202(2)(c) | 525 to 10,000
+
+28 | Subsection 203(1) | 2,625 to 100,000
+
+29 | Subsection 203(2) | 525 to 10,000
+
+30 | Subsection 203(3) | 525 to 10,000
+
+31 | Subsection 203(4) | 525 to 10,000
+
+32 | Subsection 203(5) | 525 to 10,000
+
+33 | Paragraph 203(6)(a) | 525 to 10,000
+
+34 | Paragraph 203(6)(b) | 525 to 10,000
+
+35 | Subsection 204(1) | 2,625 to 100,000
+
+36 | Subsection 204(2) | 2,625 to 100,000
+
+37 | Subsection 300(3) | 5,250 to 250,000
+
+38 | Subsection 301(2) | 5,250 to 250,000
+
+39 | Paragraph 302(1)(a) | 260 to 1,250
+
+40 | Paragraph 302(1)(b) | 260 to 1,250
+
+41 | Paragraph 302(1)(c) | 260 to 1,250
+
+42 | Paragraph 302(2)(a) | 525 to 10,000
+
+43 | Paragraph 302(2)(b) | 525 to 10,000
+
+44 | Paragraph 302(2)(c) | 525 to 10,000
+
+45 | Subsection 303(1) | 2,625 to 100,000
+
+46 | Subsection 303(2) | 525 to 10,000
+
+47 | Subsection 303(3) | 525 to 10,000
+
+48 | Subsection 303(4) | 525 to 10,000
+
+49 | Subsection 303(5) | 525 to 10,000
+
+50 | Paragraph 303(6)(a) | 525 to 10,000
+
+51 | Paragraph 303(6)(b) | 525 to 10,000
+
+52 | Subsection 304(1) | 2,625 to 100,000
+
+53 | Subsection 304(2) | 2,625 to 100,000
+
+54 | Subsection 401(2) | 5,250 to 250,000
+
+55 | Subsection 405(1) | 2,625 to 100,000
+
+56 | Subsection 405(2) | 525 to 10,000
+
+57 | Subsection 405(3) | 525 to 10,000
+
+58 | Paragraph 405(4)(a) | 525 to 10,000
+
+59 | Paragraph 405(4)(b) | 525 to 10,000
+
+60 | Paragraph 406(1)(a) | 260 to 1,250
+
+61 | Paragraph 406(1)(b) | 260 to 1,250
+
+62 | Paragraph 406(1)(c) | 260 to 1,250
+
+63 | Paragraph 406(2)(a) | 525 to 10,000
+
+64 | Paragraph 406(2)(b) | 525 to 10,000
+
+65 | Paragraph 406(2)(c) | 525 to 10,000
+
+66 | Subsection 407(1) | 2,625 to 100,000
+
+67 | Subsection 407(2) | 2,625 to 100,000
+
+68 | Subsection 500(2) | 2,625 to 100,000
+
+69 | Subsection 501(1) | 260 to 1,250
+
+70 | Subsection 501(2) | 525 to 10,000
+
+71 | Subsection 502(1) | 2,625 to 100,000
+
+72 | Subsection 502(2) | 2,625 to 100,000
 
 PART 13
 
@@ -2953,3 +3095,5 @@ History:
 - SOR/2024-49, s. 4
 
 - SOR/2024-49, s. 5
+
+- SOR/2024-133, s. 606
