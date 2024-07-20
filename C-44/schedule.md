@@ -136,6 +136,10 @@
 
   - (z.041) subsection 333.1(1) (motor vehicle theft);
 
+  - (z.0411) subsection 333.1(3) (motor vehicle theft when violence used, threatened or attempted);
+
+  - (z.0412) subsection 333.1(4) (motor vehicle theft for criminal organization);
+
   - (z.042) subsection 335(1) (taking motor vehicle or vessel or found therein without consent);
 
   - (z.043) section 336 (criminal breach of trust);
@@ -244,6 +248,8 @@
 
   - (z.095) subsection 462.31(1) (laundering proceeds of crime);
 
+  - (z.0951) subsection 462.31(2.1) (laundering proceeds of crime for criminal organization);
+
   - (z.096) subsection 467.11(1) (participation in activities of criminal organization);
 
   - (z.097) section 467.111 (recruitment of members by a criminal organization);
@@ -321,3 +327,5 @@ History:
 - 2019, c 29, s. 101
 
 - 2023, c. 14, s. 3
+
+- 2024, c. 17, s. 375
