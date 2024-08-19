@@ -1,12 +1,12 @@
-## SCHEDULE (Paragraph 38.01(6)(d) and subsection 38.01(8)) Designated Entities
+## SCHEDULE (Paragraph 38.01(6)(d), subsections 38.01(8) and 38.02(1.1) and section 38.2) Designated Entities
 
 - 1 A judge of the Federal Court, for the purposes of section 21 of the Canadian Security Intelligence Service Act
 
-- 2 A judge of the Federal Court, for the purposes of sections 6 and 7 of the Charities Registration (Security Information) Act, except where the hearing is open to the public
+- 2 [Repealed, 2024, c. 16, s. 86]
 
 - 3 A judge of the Federal Court, the Federal Court of Appeal or the Immigration Division or Immigration Appeal Division of the Immigration and Refugee Board, for the purposes of sections 77 to 87.1 of the Immigration and Refugee Protection Act
 
-- 4 A judge of the Federal Court, for the purposes of section 16 of the Secure Air Travel Act
+- 4 [Repealed, 2024, c. 16, s. 86]
 
 - 5 to 8 [Repealed, 2001, c. 41, s. 124]
 
@@ -34,7 +34,7 @@
 
 20 [Repealed, 2019, c. 13, s. 61]
 
-- 21 A judge of the Federal Court, for the purposes of sections 4 and 6 of the Prevention of Terrorist Travel Act
+- 21 [Repealed, 2024, c. 16, s. 86]
 
 - 22 The Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, for the purposes of the Royal Canadian Mounted Police Act, but only in relation to information that is under the control, or in the possession, of the Royal Canadian Mounted Police or the Central Authority, as the case may be.
 
@@ -73,3 +73,7 @@ History:
 - 2019, c. 18, s. 60
 
 - SOR/2023-205, s. 1
+
+- 2024, c. 16, s. 85
+
+- 2024, c. 16, s. 86
