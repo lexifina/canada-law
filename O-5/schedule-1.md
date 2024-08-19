@@ -1,4 +1,4 @@
-## SCHEDULE (Subsection 8(1) and section 9)
+## SCHEDULE 1 (Subsection 8(1) and section 9)
 
 - Canadian Security Intelligence Service
 
@@ -133,3 +133,5 @@ History:
 - 2019, c. 13, s. 70
 
 - SOR/2023-204, s. 1
+
+- 2024, c. 16, s. 55
