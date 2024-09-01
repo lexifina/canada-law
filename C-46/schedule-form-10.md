@@ -50,7 +50,7 @@ Province of
 
   - □ (h) You must reside at (place), be at that residence between (hour) and (hour), and present yourself at the entrance of that residence when a peace officer or (name and title of another person) requests you to do so within those hours.
 
-  - □ (i) You must not possess a firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender those that are in your possession and also any authorization, licence or registration certificate or other document enabling you to acquire or possess them to (name or title) at (place).
+  - □ (i) You must not possess a firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and you must surrender those that are in your possession and also any authorization, licence or registration certificate or other document enabling you to acquire or possess them to (name or title) at (place).
 
   - □ (j) You promise to pay the amount of (not more than $500), if you fail to comply with a condition of this undertaking.
 
@@ -121,3 +121,5 @@ History:
 - 2019, c. 25, s. 337
 
 - 2022, c. 17, s. 59
+
+- 2023, c. 32, s. 13.10

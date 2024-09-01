@@ -48,7 +48,7 @@ Province of
 
   - □ You must deposit all your passports with (name or title) at (place) before (date).
 
-  - □ You must not possess a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender any of them in your possession and any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm to (name or title) at (place).
+  - □ You must not possess a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and you must surrender any of them in your possession and any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm to (name or title) at (place).
 
   - □ You must comply with the following conditions (conditions for ensuring the safety and security of any victim of or witness to the alleged offence):
 
@@ -119,3 +119,5 @@ History:
 - 2018, c. 29, s. 70
 
 - 2019, c. 25, s. 337
+
+- 2023, c. 32, s. 13.11

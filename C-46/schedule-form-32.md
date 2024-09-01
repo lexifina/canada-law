@@ -86,7 +86,7 @@ List of Conditions
 
 - (b) agrees to keep the peace and be of good behaviour (sections 83.3, 810, 810.01, 810.1 and 810.2 of the Criminal Code);
 
-- (c) abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm (sections 83.3, 810, 810.01, 810.1 and 810.2 of the Criminal Code);
+- (c) abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm (sections 83.3, 810, 810.01, 810.1 and 810.2 of the Criminal Code);
 
 - (d) participates in a treatment program (sections 810.01, 810.1 and 810.2 of the Criminal Code);
 
@@ -141,3 +141,5 @@ History:
 - 2019, c. 25, s. 348
 
 - 2022, c. 17, s. 61(F)
+
+- 2023, c. 32, s. 13.12
