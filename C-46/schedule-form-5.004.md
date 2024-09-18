@@ -1,4 +1,4 @@
-## FORM 5.004 (Subsections 487.014(2), 487.015(2), 487.016(2), 487.017(2) and 487.018(3)) Information To Obtain a Production Order
+## FORM 5.004 (Subsections 487.014(2), 487.0141(2), (5) and (10), 487.015(2), 487.016(2), 487.017(2) and 487.018(3)) Information To Obtain a Production Order
 
 Canada,
 
@@ -8,11 +8,15 @@ Province of
 
 This is the information of (name of peace officer or public officer), of (“the informant”).
 
-The informant says that they have reasonable grounds to suspect (or, if the application is for an order under section 487.014 of the Criminal Code, reasonable grounds to believe)
+The informant says that they have reasonable grounds to suspect (or, if the application is for an order under section 487.014 or 487.0141 of the Criminal Code, reasonable grounds to believe)
 
 - (a) that an offence has been or will be committed under (specify the provision of the Criminal Code or other Act of Parliament); and
 
 - (b) (if the application is for an order under section 487.014 of the Criminal Code) that (specify the document or data) is in the possession or control of (name of the person) and will afford evidence respecting the commission of the offence.
+
+(or)
+
+- (b) (if the application is for an order under section 487.0141 of the Criminal Code) that (specify the document or data), if it is in the possession or control of (name of the person) on (specify the dates to be specified in the order), will afford evidence respecting the commission of the offence (and if applicable, and that the information contained in all reports made under any of sections 7, 7.1 and 9 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act during the period the order is to be in effect will afford evidence respecting the commission of the offence).
 
 (or)
 
@@ -35,6 +39,10 @@ The reasonable grounds are:
 The informant therefore requests
 
 (if the application is for an order under section 487.014 of the Criminal Code) that (name of the person) be ordered to produce a document that is a copy of (specify the document) that is in their possession or control when they receive the order (and/or to prepare and produce a document containing (specify the data) that is in their possession or control when they receive the order).
+
+(or)
+
+(if the application is for an order under section 487.0141 of the Criminal Code) that (name of the person) be ordered to produce a document that is a copy of (specify the document) that is in their possession or control on (specify the dates to be specified in the order) (and/or to prepare and produce a document containing (specify the data) that is in their possession or control on (specify the dates to be specified in the order)) (and if applicable, and that the person be ordered to produce a copy of all reports made under any of sections 7, 7.1 and 9 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act during the period the order is to be in effect).
 
 (or)
 
@@ -61,3 +69,5 @@ Sworn before me on (date), at (place).
 History:
 
 - 2014, c. 31, s. 26
+
+- 2024, c. 17, s. 364

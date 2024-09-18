@@ -8,7 +8,7 @@ Province of
 
 This is the information of (name of peace officer or public officer), of (“the informant”).
 
-The informant says that they have reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the following portion or portions) of (identify the preservation demand made under section 487.012 of the Criminal Code, the preservation order made under section 487.013 of that Act or the production order made under any of sections 487.014 to 487.018 of that Act, as the case may be) during (identify the period) would jeopardize the conduct of the investigation of the offence to which it relates:
+The informant says that they have reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the following portion or portions) of (identify the preservation demand made under section 487.012 of the Criminal Code or the order made under any of sections 487.013 to 487.018 of that Act, as the case may be) during (identify the period) would jeopardize the conduct of the investigation of the offence to which it relates:
 
 (specify portion or portions)
 
@@ -25,3 +25,5 @@ Sworn before me on (date), at (place).
 History:
 
 - 2014, c. 31, s. 26
+
+- 2024, c. 17, s. 366
