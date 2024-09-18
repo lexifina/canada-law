@@ -1,4 +1,4 @@
-## FORM 1 (Sections 320.29 and 487) Information To Obtain a Search Warrant
+## FORM 1 (Sections 320.29, 462.32, 462.321 and 487) Information To Obtain a Search Warrant
 
 Canada,
 
@@ -21,3 +21,5 @@ History:
 - R.S., 1985, c. C-46, Form 1
 
 - 2018, c. 21, s. 28
+
+- 2024, c. 15, s. 313
