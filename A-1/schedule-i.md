@@ -152,10 +152,6 @@
 
   - Organisation canadienne d’élaboration de normes d’accessibilité
 
-  - Canadian Advisory Council on the Status of Women
-
-  - Conseil consultatif canadien de la situation de la femme
-
   - Canadian Centre for Occupational Health and Safety
 
   - Centre canadien d’hygiène et de sécurité au travail
@@ -171,10 +167,6 @@
   - Canadian Forces
 
   - Forces canadiennes
-
-  - Canadian Government Specifications Board
-
-  - Office des normes du gouvernement canadien
 
   - Canadian Grain Commission
 
@@ -276,10 +268,6 @@
 
   - Agence fédérale de développement économique pour le Sud de l’Ontario
 
-  - Federal-Provincial Relations Office
-
-  - Secrétariat des relations fédérales-provinciales
-
   - Federal Public Service Health Care Plan Administration Authority
 
   - Administration du Régime de soins de santé de la fonction publiquefédérale
@@ -316,9 +304,9 @@
 
   - Administration portuaire de Halifax
 
-  - Hamilton Port Authority
+  - Hamilton-Oshawa Port Authority
 
-  - Administration portuaire de Hamilton
+  - Administration portuaire Hamilton-Oshawa
 
   - Historic Sites and Monuments Board of Canada
 
@@ -331,10 +319,6 @@
   - Impact Assessment Agency of Canada
 
   - Agence canadienne d’évaluation d’impact
-
-  - Indian Residential Schools Truth and Reconciliation Commission
-
-  - Commission de vérité et de réconciliation relative aux pensionnats indiens
 
   - Invest in Canada Hub
 
@@ -416,10 +400,6 @@
 
   - Office des eaux du Nunavut
 
-  - Office of Privatization and Regulatory Affairs
-
-  - Bureau de privatisation et des affaires réglementaires
-
   - Office of the Administrator of the Fund for Railway Accidents Involving Designated Goods
 
   - Bureau de l’administrateur de la Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées
@@ -443,10 +423,6 @@
   - Office of the Commissioner of Official Languages
 
   - Commissariat aux langues officielles
-
-  - Office of the Comptroller General
-
-  - Bureau du contrôleur général
 
   - Office of the Correctional Investigator of Canada
 
@@ -476,10 +452,6 @@
 
   - Bureau du surintendant des institutions financières
 
-  - Oshawa Port Authority
-
-  - Administration portuaire d’Oshawa
-
   - Pacific Economic Development Agency of Canada
 
   - Agence de développement économique du Pacifique Canada
@@ -496,10 +468,6 @@
 
   - Conseil d’examen du prix des médicaments brevetés
 
-  - Petroleum Compensation Board
-
-  - Office des indemnisations pétrolières
-
   - The Pierre Elliott Trudeau Foundation
 
   - La Fondation Pierre-Elliott-Trudeau
@@ -507,10 +475,6 @@
   - Port Alberni Port Authority
 
   - Administration portuaire de Port-Alberni
-
-  - Prairie Farm Rehabilitation Administration
-
-  - Administration du rétablissement agricole des Prairies
 
   - Prince Rupert Port Authority
 
@@ -767,3 +731,5 @@ History:
 - 2024, c. 15, s. 327
 
 - 2024, c. 15, s. 328
+
+- SOR/2024-184, s. 1
