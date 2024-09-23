@@ -348,6 +348,18 @@
 
 - Sagamok Anishnawbek
 
+- 88
+
+- Pasqua First Nation #79
+
+- 89
+
+- Sunchild First Nation
+
+- 90
+
+- Kinonjeoshtegon First Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -527,3 +539,9 @@ History:
 - SOR/2023-142, s. 1
 
 - SOR/2023-288, s. 1
+
+- SOR/2024-189, s. 1
+
+- SOR/2024-191, s. 1
+
+- SOR/2024-193, s. 1
