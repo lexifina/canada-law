@@ -38,6 +38,10 @@
 
 - École de la fonction publique du Canada
 
+- Canada Water Agency
+
+- Agence canadienne de l’eau
+
 - Canadian Advisory Council on the Status of Women
 
 - Conseil consultatif canadien de la situation de la femme
@@ -1067,3 +1071,5 @@ History:
 - SOR/2019-301, s. 1
 
 - SOR/2019-301, s. 2
+
+- 2024, c. 15, s. 215
