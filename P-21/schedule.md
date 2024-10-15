@@ -148,6 +148,10 @@
 
   - École de la fonction publique du Canada
 
+  - Canada Water Agency
+
+  - Agence canadienne de l’eau
+
   - Canadian Accessibility Standards Development Organization
 
   - Organisation canadienne d’élaboration de normes d’accessibilité
@@ -723,6 +727,8 @@ History:
 - SOR/2021-194, s. 1
 
 - 2023, c. 16, s. 59
+
+- 2024, c. 15, s. 214
 
 - 2024, c. 15, s. 334
 
