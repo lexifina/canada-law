@@ -220,6 +220,8 @@
 
 - Iskatewizaagegan #39 Independent First Nation
 
+- Iskut
+
 - Jean Marie River First Nation
 
 - Kahkewistahaw First Nation
@@ -394,6 +396,8 @@
 
 - Naotkamegwanning First Nation
 
+- Nation Anishnabe du Lac Simon
+
 - Nation Huronne Wendat
 
 - Natoaganeg
@@ -409,6 +413,8 @@
 - Nipissing First Nation
 
 - Nisichawayasihk Cree Nation
+
+- Nooaitch
 
 - Northwest Angle No.33
 
@@ -427,6 +433,8 @@
 - Okanese First Nation
 
 - Old Massett Village Council
+
+- One Arrow First Nation
 
 - Onion Lake Cree Nation
 
@@ -650,6 +658,8 @@
 
 - T’Sou-ke First Nation
 
+- Tsq’escen’ First Nation
+
 - Tsuut’ina Nation
 
 - Tzeachten First Nation
@@ -857,3 +867,5 @@ History:
 - SOR/2023-259, s. 1
 
 - SOR/2024-2, s. 1
+
+- SOR/2024-207, s. 1
