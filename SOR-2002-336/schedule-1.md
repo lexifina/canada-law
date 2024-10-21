@@ -124,17 +124,17 @@ Item | Column 1 | Column 2
 
 Designated Provision | Short-form Description
 
-1 | 14(b)(i) | Failing to immediately notify chief officer of customs in writing of a change in the address of a business office at which broker transacts business
+1 | 14(b)(i) | Failing to immediately notify the Minister in writing of a change in the address of a business office at which broker transacts business
 
-2 | 14(b)(ii) | Failing to immediately notify chief officer of customs in writing of a change in the legal or business name of the partnership or corporation
+2 | 14(b)(ii) | Failing to immediately notify the Minister in writing of a change in the legal or business name of the partnership or corporation
 
-3 | 14(b)(iii) | Failing to immediately notify chief officer of customs in writing of a change in the membership of the partnership
+3 | 14(b)(iii) | Failing to immediately notify the Minister in writing of a change in the membership of the partnership
 
-4 | 14(b)(iv) | Failing to immediately notify chief officer of customs in writing of a change in the officers or directors of the corporation
+4 | 14(b)(iv) | Failing to immediately notify the Minister in writing of a change in the officers or directors of the corporation
 
-5 | 14(b)(vi) | Failing to immediately notify chief officer of customs in writing of a change in the ownership of the business or corporation
+5 | 14(b)(vi) | Failing to immediately notify the Minister in writing of a change in the ownership of the business or corporation
 
-6 | 14(b)(vii) | Failing to immediately notify chief officer of customs in writing of a change in the individuals meeting the specified knowledge requirement
+6 | 14(b)(vii) | Failing to immediately notify the Minister in writing of a change in the individuals meeting the specified knowledge requirement
 
 7 | 14(c) | (a) Failing to furnish to the importer or exporter of goods a copy of customs accounting documents bearing the customs accounting number and official stamp (b) Failing to furnish to the importer or exporter of goods a copy of information transmitted by electronic means to the Agency
 
@@ -198,7 +198,7 @@ Designated Provision | Short-form Description
 
 7 | [Repealed, SOR/2019-259, s. 8]
 
-8 | 16(2) | Failing to present required documents to chief officer of customs before goods are taken into a duty free shop
+8 | 16(2) | Failing to present required documents to the Minister before goods are taken into a duty free shop
 
 9 | [Repealed, SOR/2019-259, s. 9]
 
@@ -315,3 +315,7 @@ History:
 - SOR/2019-259, s. 8
 
 - SOR/2019-259, s. 9
+
+- SOR/2024-41, s. 58
+
+- SOR/2024-41, s. 59
