@@ -1,4 +1,4 @@
-Principal Protected Notes Regulations
+Principal-protected Notes Regulations
 
 SOR/2008-180
 
@@ -6,7 +6,7 @@ BANK ACTCOOPERATIVE CREDIT ASSOCIATIONS ACTTRUST AND LOAN COMPANIES ACT
 
 Registration 2008-05-29
 
-Principal Protected Notes Regulations
+Principal-protected Notes Regulations
 
 P.C. 2008-979 2008-5-29
 
