@@ -138,7 +138,7 @@
 
 - 35
 
-- Pic Mobert First Nation
+- Netmizaaggamig Nishnaabeg
 
 - 36
 
@@ -162,7 +162,7 @@
 
 - 41
 
-- Sakimay First Nations
+- Zagimē Anishinabēk
 
 - 42
 
@@ -545,3 +545,7 @@ History:
 - SOR/2024-191, s. 1
 
 - SOR/2024-193, s. 1
+
+- SOR/2024-225, s. 1
+
+- SOR/2024-225, s. 2
