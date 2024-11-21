@@ -116,7 +116,7 @@
 
 - Cote First Nation
 
-- Cowichan Tribes First Nation
+- Cowichan
 
 - Cross Lake Band of Indians
 
@@ -152,6 +152,8 @@
 
 - Eskasoni
 
+- Esk’etemc
+
 - Esquimalt Nation
 
 - Fisher River
@@ -176,6 +178,8 @@
 
 - George Gordon First Nation
 
+- Gitanmaax
+
 - Gitanyow
 
 - Gitga’at First Nation
@@ -190,7 +194,7 @@
 
 - Gwa’sala-’Nakwaxda’xw Nations
 
-- Hagwilget First Nation Government
+- Hagwilget Village Council
 
 - Haisla Nation
 
@@ -273,8 +277,6 @@
 - Lac Seul First Nation
 
 - Lake Babine Nation
-
-- Lake Cowichan First Nation
 
 - Lake Manitoba First Nation
 
@@ -360,6 +362,8 @@
 
 - Mississaugas of Scugog Island First Nation
 
+- Mississaugas of the Credit
+
 - Mistawasis Nêhiyawak
 
 - Mitaanjigamiing First Nation
@@ -378,7 +382,7 @@
 
 - Mushuau Innu First Nation
 
-- Muskeg Lake Cree Nation
+- Muskeg Lake Cree Nation #102
 
 - Muskoday First Nation
 
@@ -407,6 +411,8 @@
 - Nee-Tahi-Buhn
 
 - Neskonlith Indian Band
+
+- Netmizaaggamig Nishnaabeg
 
 - Niisaachewan Anishinaabe Nation
 
@@ -474,8 +480,6 @@
 
 - Piapot First Nation
 
-- Pic Mobert
-
 - Pictou Landing First Nation
 
 - Pinaymootang First Nation
@@ -487,6 +491,8 @@
 - Poplar River First Nation
 
 - Potlotek First Nation
+
+- Poundmaker
 
 - Prophet River First Nation
 
@@ -634,13 +640,9 @@
 
 - Tla-o-qui-aht First Nations
 
-- Tobacco Plains Indian Band
-
 - Tobique First Nation
 
 - Tsal’alh
-
-- Tsartlip First Nation
 
 - Tsawout First Nation
 
@@ -659,6 +661,8 @@
 - T’Sou-ke First Nation
 
 - Tsq’escen’ First Nation
+
+- Ts’uubaa-asatx
 
 - Tsuut’ina Nation
 
@@ -706,6 +710,8 @@
 
 - Witset First Nation
 
+- W̱JOȽEȽP
+
 - Wolastoqiyik (Malecite) Wahsipekuk First Nation
 
 - Wolf Lake
@@ -725,6 +731,8 @@
 - Yakweakwioose First Nation
 
 - Yale First Nation
+
+- Yaq̓it ʔa·knuqⱡi’it
 
 - Yekooche First Nation
 
@@ -869,3 +877,23 @@ History:
 - SOR/2024-2, s. 1
 
 - SOR/2024-207, s. 1
+
+- SOR/2024-227, s. 1
+
+- SOR/2024-227, s. 2
+
+- SOR/2024-227, s. 3
+
+- SOR/2024-227, s. 4(F)
+
+- SOR/2024-227, s. 5
+
+- SOR/2024-227, s. 6
+
+- SOR/2024-227, s. 7
+
+- SOR/2024-227, s. 8
+
+- SOR/2024-227, s. 9(F)
+
+- SOR/2024-228, s. 1
