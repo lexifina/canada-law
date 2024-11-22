@@ -102,7 +102,7 @@
 
 - 26
 
-- An Act to incorporate the St. Mary River Bridge Company, S.C. 1901, c. 112
+- [Repealed, 2013, c. 40, s. 263]
 
 - 27
 
@@ -154,7 +154,7 @@
 
 - 39
 
-- An Act to incorporate the St. Clair Transit Company, S.C. 1928, c. 64
+- [Repealed, 2013, c. 40, s. 263]
 
 - 40
 
@@ -166,7 +166,7 @@
 
 - 42
 
-- An Act to incorporate Thousand Islands Bridge Company, S.C. 1934, c. 66
+- [Repealed, 2013, c. 40, s. 263]
 
 - 43
 
@@ -178,7 +178,7 @@
 
 - 45
 
-- An Act to incorporate St. Mary’s River Bridge Company, S.C. 1955, c. 64
+- [Repealed, 2013, c. 40, s. 263]
 
 - 46
 
@@ -198,7 +198,7 @@
 
 - 50
 
-- Blue Water Bridge Authority Act, S.C. 1964-65, c. 6
+- [Repealed, 2013, c. 40, s. 263]
 
 - 51
 
@@ -211,3 +211,9 @@
 - 53
 
 - An Act respecting the acquisition, operation and disposal of the Windsor-Detroit Tunnel by the City of Windsor, S.C. 1987, c. 55
+
+History:
+
+- 2007, c. 1, Sch.
+
+- 2013, c. 40, s. 263
