@@ -64,6 +64,8 @@ Item | Designated place
 
 30 | Creston RCMP detachment, 421 16th Avenue South, Creston
 
+30.1 | Daajing Giids RCMP detachment, 3211 Wharf Street, Daajing Giids
+
 31 | Dawson Creek RCMP detachment, 1230 102nd Avenue, Dawson Creek
 
 32 | Dease Lake RCMP detachment, 50 Boulder Street, Dease Lake
@@ -80,7 +82,7 @@ Item | Designated place
 
 38 | Fort St. James RCMP detachment, 178 Stuart Drive West, Fort St. James
 
-39 | Fort St. John RCMP detachment, 10648 100th Street, Fort St. John
+39 | Fort St. John RCMP detachment, 10712 100th Street, Fort St. John
 
 40 | Fraser Lake RCMP detachment, 15 Carrier Crescent, Fraser Lake
 
@@ -126,7 +128,7 @@ Item | Designated place
 
 61 | Lumby RCMP detachment, 2208 Shuswap Avenue, Lumby
 
-62 | Lytton RCMP detachment, 665 Main Street, Lytton
+62 | Lytton RCMP detachment, 531 Main Street, Lytton
 
 63 | Mackenzie RCMP detachment, 62 Centennial Drive, Mackenzie
 
@@ -152,9 +154,9 @@ Item | Designated place
 
 74 | New Westminster Police Department, 555 Columbia Street, New Westminster
 
-75 | Nootka Sound RCMP detachment, 499 Muchalat Drive, Gold River
+75 | Nootka Sound RCMP detachment, 495 Maquinna Crescent, Gold River
 
-76 | North Cowichan/Duncan RCMP detachment, 6060 Canada Avenue, Duncan
+76 | North Cowichan/Duncan RCMP detachment, 6430 Ford Road, Duncan
 
 77 | North Vancouver RCMP detachment, 147 East 14th Street, North Vancouver
 
@@ -192,7 +194,7 @@ Item | Designated place
 
 94 | Quadra Island RCMP detachment, 738 West Road, Quadra Island
 
-95 | Queen Charlotte RCMP detachment, 3211 Wharf Street, Queen Charlotte, Queen Charlotte Islands
+95 | [Repealed, SOR/2024-234, s. 5]
 
 96 | Quesnel RCMP detachment, 584 Carson Avenue, Quesnel
 
@@ -236,7 +238,7 @@ Item | Designated place
 
 116 | Sunshine Coast RCMP detachment, 5800 Teredo Street, Sechelt
 
-117 | Surrey RCMP detachment, 14355 57th Avenue, Surrey
+117 | Surrey Police Service, 14355 57th Avenue, Surrey
 
 118 | Tahsis RCMP detachment, 166 Harbour View Road, Tahsis
 
@@ -262,7 +264,7 @@ Item | Designated place
 
 129 | Valemount RCMP detachment, 1435 5th Avenue, Valemount
 
-130 | Vancouver International Airport/Richmond RCMP detachment, 6900 Minoru Boulevard, Richmond
+130 | [Repealed, SOR/2024-234, s. 7]
 
 131 | Vancouver Police Department, 236 East Cordova Street, Vancouver
 
@@ -299,3 +301,17 @@ History:
 - SOR/2019-238, s. 4
 
 - SOR/2019-238, s. 5
+
+- SOR/2024-234, s. 1
+
+- SOR/2024-234, s. 2
+
+- SOR/2024-234, s. 3
+
+- SOR/2024-234, s. 4
+
+- SOR/2024-234, s. 5
+
+- SOR/2024-234, s. 6
+
+- SOR/2024-234, s. 7
