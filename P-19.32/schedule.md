@@ -14,10 +14,20 @@
 
 - 4
 
-- Any highway, road, bridge, tunnel or path, and any place adjacent to it, that connects a part of Canada with a part of the United States and any place from which goods are regularly shipped for export to the United States.
+- Any highway, road, bridge, tunnel or path, and any place adjacent to it, that connects a part of Canada with a part of the United States.
+
+- 5
+
+- Any place from which goods are shipped to the United States by using any highway, road, bridge, tunnel or path that connects a part of Canada to a part of the United States.
+
+- 6
+
+- Any place in Canada from which conveyances depart and transport persons to the United States by way of a highway, road, bridge, tunnel or path that connects a part of Canada with a part of the United States.
 
 History:
 
 - 2017, c. 27, Sch.
 
 - SOR/2019-184, s. 1
+
+- SOR/2024-260, s. 1
