@@ -1066,6 +1066,10 @@ Note: For molecular formulae in this Schedule, “n”, “x” and “y” refe
 
 - Plastic manufactured items
 
+- 135
+
+- Coal tars and their distillates
+
 History:
 
 - 1999, c. 33, Sch. 1
@@ -1111,3 +1115,5 @@ History:
 - SOR/2021-89, s. 1
 
 - 2023, c. 12, s. 58
+
+- SOR/2024-275, s. 1
