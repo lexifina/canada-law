@@ -114,6 +114,8 @@
 
 - United States of America
 
+- Uzbekistan
+
 - Venezuela
 
 - Vietnam
@@ -147,3 +149,5 @@ History:
 - SOR/2022-115, s. 1
 
 - SOR/2022-115, s. 2
+
+- SOR/2025-2, s. 1
