@@ -22,7 +22,7 @@ Canada Labour Code Code canadien du travail | subsection 144(3)
 
 Canada–Newfoundland and Labrador Atlantic Accord Implementation Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador | section 119 and subsection 205.086(1)
 
-Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers, L.C. 1988, ch. 28 | section 122 and subsection 210.087(1)
+Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et sur la gestion de l’énergie renouvelable extracôtière, L.C. 1988, ch. 28 | section 122 and subsection 210.087(1)
 
 Canada-Nova Scotia Oil and Gas Agreement Act, S.C. 1984, c. 29 Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, S.C. 1984, ch. 29 | section 53
 
@@ -225,3 +225,5 @@ History:
 - 2024, c. 15, s. 98
 
 - 2024, c. 17, s. 82
+
+- 2024, c. 20, s. 216

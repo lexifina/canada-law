@@ -136,9 +136,9 @@
 
   - Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers
 
-  - Canada-Nova Scotia Offshore Petroleum Board
+  - Canada–Nova Scotia Offshore Energy Regulator
 
-  - Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers
+  - Régie Canada — Nouvelle-Écosse de l’énergie extracôtière
 
   - Canada Revenue Agency
 
@@ -737,5 +737,7 @@ History:
 - 2024, c. 15, s. 327
 
 - 2024, c. 15, s. 328
+
+- 2024, c. 20, s. 217
 
 - SOR/2024-184, s. 1
