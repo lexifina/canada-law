@@ -1066,6 +1066,10 @@ Note: For molecular formulae in this Schedule, “n”, “x” and “y” refe
 
 - Plastic manufactured items
 
+- 133
+
+- 2,4,11,13-Tetraazatetradecanediimidamide, N,N''-bis(4-chlorophenyl)-3,12-diimino- (chlorhexidine), which has the molecular formula C22H30Cl2N10, and its salts
+
 - 135
 
 - Coal tars and their distillates
@@ -1117,3 +1121,5 @@ History:
 - 2023, c. 12, s. 58
 
 - SOR/2024-275, s. 1
+
+- SOR/2025-13, s. 1
