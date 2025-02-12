@@ -1,10 +1,14 @@
 ## SCHEDULE (Subsections 2(1) and (3))
 
+- Aamjiwnaang
+
 - Abegweit
 
 - Abénakis of Wôlinak First Nation
 
 - Acadia
+
+- Acho Dene Koe First Nation
 
 - Adams Lake Indian Band
 
@@ -435,6 +439,8 @@
 - O’Chiese
 
 - Odanak
+
+- Ojibway Nation of Saugeen
 
 - Okanese First Nation
 
@@ -897,3 +903,5 @@ History:
 - SOR/2024-227, s. 9(F)
 
 - SOR/2024-228, s. 1
+
+- SOR/2025-22, s. 1
