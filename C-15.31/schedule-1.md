@@ -1074,6 +1074,14 @@ Note: For molecular formulae in this Schedule, “n”, “x” and “y” refe
 
 - Coal tars and their distillates
 
+- 136
+
+- Benzene, 1,1’-(1,2-ethanediyl) bis [2,3,4,5,6-pentabromo-, which has the molecular formula C14H4Br10
+
+- 137
+
+- 1,4:7,10-Dimethanodibenzo[a,e]cyclooctene, 1,2,3,4,7,8,9,10,13,13,14,14-dodecachloro- 1,4,4a,5,6,6a,7,10,10a,11,12,12a-dodecahydro-, which has the molecular formula C18H12Cl12
+
 History:
 
 - 1999, c. 33, Sch. 1
@@ -1123,3 +1131,5 @@ History:
 - SOR/2024-275, s. 1
 
 - SOR/2025-13, s. 1
+
+- SOR/2025-27, s. 1
