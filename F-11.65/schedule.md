@@ -364,6 +364,10 @@
 
 - Animakee Wa Zhing #37
 
+- 92
+
+- Washagamis Bay
+
 History:
 
 - 2014, c. 5, Sch.
@@ -555,3 +559,5 @@ History:
 - SOR/2024-225, s. 2
 
 - SOR/2024-294, s. 1
+
+- SOR/2025-54, s. 1
