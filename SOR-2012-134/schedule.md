@@ -40,7 +40,7 @@ Item | Regulations | Provisions
 
 17 | [Repealed, SOR/2017-110, s. 39]
 
-18 | 2-Butoxyethanol Regulations | (a) subsection 2(1) (b) section 3 (c) subsection 4(1)
+18 | [Repealed, SOR/2025-36, s. 25]
 
 19 | [Repealed, SOR/2016-252, s. 26]
 
@@ -82,6 +82,8 @@ Item | Regulations | Provisions
 
 38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
 
+39 | Certain Products Containing Toxic Substances Regulations | (a) section 14 (b) subsection 15(1) (c) section 18 (d) section 19 (e) section 22 (f) section 23
+
 History:
 
 - SOR/2014-75, s. 9
@@ -119,3 +121,7 @@ History:
 - SOR/2022-138, s. 12
 
 - SOR/2023-15, s. 12
+
+- SOR/2025-36, s. 25
+
+- SOR/2025-36, s. 26
