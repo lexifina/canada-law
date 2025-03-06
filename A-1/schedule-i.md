@@ -352,6 +352,10 @@
 
   - Commission d’examen des plaintes concernant la police militaire
 
+  - Miscarriage of Justice Review Commission
+
+  - Commission d’examen des erreurs du système judiciaire
+
   - Montreal Port Authority
 
   - Administration portuaire de Montréal
@@ -739,5 +743,7 @@ History:
 - 2024, c. 15, s. 328
 
 - 2024, c. 20, s. 217
+
+- 2024, c. 33, s. 14
 
 - SOR/2024-184, s. 1
