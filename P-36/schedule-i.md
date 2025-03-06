@@ -142,6 +142,10 @@
 
 - Commissaires à temps plein, président-directeur général et personnel de la Régie canadienne de l’énergie
 
+- Full-time commissioners of the Miscarriage of Justice Review Commission and the Commission’s employees
+
+- Commissaires à temps plein et personnel de la Commission d’examen des erreurs du système judiciaire
+
 - Impact Assessment Agency of Canada
 
 - Agence canadienne d’évaluation d’impact
@@ -1073,3 +1077,5 @@ History:
 - SOR/2019-301, s. 2
 
 - 2024, c. 15, s. 215
+
+- 2024, c. 33, s. 18
