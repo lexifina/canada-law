@@ -1268,53 +1268,53 @@ TABLE 5
 
 Rates of charge applicable after March 31, 2023
 
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | Column 11
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6
 
-Item | Type | Unit | Rates of charge applicable for the period beginning on April 1, 2023 and ending on March 31, 2024 | Rates of charge applicable for the period beginning on April 1, 2024 and ending on March 31, 2025 | Rates of charge applicable for the period beginning on April 1, 2025 and ending on March 31, 2026 | Rates of charge applicable for the period beginning on April 1, 2026 and ending on March 31, 2027 | Rates of charge applicable for the period beginning on April 1, 2027 and ending on March 31, 2028 | Rates of charge applicable for the period beginning on April 1, 2028 and ending on March 31, 2029 | Rates of charge applicable for the period beginning on April 1, 2029 and ending on March 31, 2030 | Rates of charge applicable after March 31, 2030
+Item | Type | Unit | Rates of charge applicable for the period beginning on April 1, 2023 and ending on March 31, 2024 | Rates of charge applicable for the period beginning on April 1, 2024 and ending on March 31, 2025 | Rates of charge applicable after March 31, 2025
 
-1 | Aviation gasoline | $/litre | 0.1592 | 0.1959 | 0.2326 | 0.2694 | 0.3061 | 0.3428 | 0.3795 | 0.4163
+1 | Aviation gasoline | $/litre | 0.1592 | 0.1959 | 0
 
-2 | Aviation turbo fuel | $/litre | 0.1678 | 0.2065 | 0.2453 | 0.2840 | 0.3227 | 0.3614 | 0.4001 | 0.4389
+2 | Aviation turbo fuel | $/litre | 0.1678 | 0.2065 | 0
 
-3 | Butane | $/litre | 0.1157 | 0.1424 | 0.1691 | 0.1958 | 0.2225 | 0.2492 | 0.2759 | 0.3026
+3 | Butane | $/litre | 0.1157 | 0.1424 | 0
 
-4 | Ethane | $/litre | 0.0662 | 0.0815 | 0.0968 | 0.1121 | 0.1273 | 0.1426 | 0.1579 | 0.1732
+4 | Ethane | $/litre | 0.0662 | 0.0815 | 0
 
-5 | Gas liquids | $/litre | 0.1081 | 0.1331 | 0.1581 | 0.1830 | 0.2080 | 0.2329 | 0.2579 | 0.2828
+5 | Gas liquids | $/litre | 0.1081 | 0.1331 | 0
 
-6 | Gasoline | $/litre | 0.1431 | 0.1761 | 0.2091 | 0.2422 | 0.2752 | 0.3082 | 0.3412 | 0.3743
+6 | Gasoline | $/litre | 0.1431 | 0.1761 | 0
 
-7 | Heavy fuel oil | $/litre | 0.2072 | 0.2550 | 0.3028 | 0.3506 | 0.3984 | 0.4462 | 0.4941 | 0.5419
+7 | Heavy fuel oil | $/litre | 0.2072 | 0.2550 | 0
 
-8 | Kerosene | $/litre | 0.1678 | 0.2065 | 0.2453 | 0.2840 | 0.3227 | 0.3614 | 0.4001 | 0.4389
+8 | Kerosene | $/litre | 0.1678 | 0.2065 | 0
 
-9 | Light fuel oil | $/litre | 0.1738 | 0.2139 | 0.2540 | 0.2941 | 0.3342 | 0.3743 | 0.4144 | 0.4545
+9 | Light fuel oil | $/litre | 0.1738 | 0.2139 | 0
 
-10 | Methanol | $/litre | 0.0714 | 0.0878 | 0.1043 | 0.1208 | 0.1373 | 0.1537 | 0.1702 | 0.1867
+10 | Methanol | $/litre | 0.0714 | 0.0878 | 0
 
-11 | Naphtha | $/litre | 0.1465 | 0.1803 | 0.2142 | 0.2480 | 0.2818 | 0.3156 | 0.3494 | 0.3832
+11 | Naphtha | $/litre | 0.1465 | 0.1803 | 0
 
-12 | Petroleum coke | $/litre | 0.2452 | 0.3018 | 0.3584 | 0.4149 | 0.4715 | 0.5281 | 0.5847 | 0.6413
+12 | Petroleum coke | $/litre | 0.2452 | 0.3018 | 0
 
-13 | Pentanes plus | $/litre | 0.1157 | 0.1424 | 0.1691 | 0.1958 | 0.2225 | 0.2492 | 0.2759 | 0.3026
+13 | Pentanes plus | $/litre | 0.1157 | 0.1424 | 0
 
-14 | Propane | $/litre | 0.1006 | 0.1238 | 0.1470 | 0.1703 | 0.1935 | 0.2167 | 0.2399 | 0.2631
+14 | Propane | $/litre | 0.1006 | 0.1238 | 0
 
-15 | Coke oven gas | $/cubic metre | 0.0455 | 0.0560 | 0.0665 | 0.0770 | 0.0875 | 0.0980 | 0.1085 | 0.1190
+15 | Coke oven gas | $/cubic metre | 0.0455 | 0.0560 | 0
 
-16 | Marketable natural gas | $/cubic metre | 0.1239 | 0.1525 | 0.1811 | 0.2097 | 0.2383 | 0.2669 | 0.2954 | 0.3240
+16 | Marketable natural gas | $/cubic metre | 0.1239 | 0.1525 | 0
 
-17 | Non-marketable natural gas | $/cubic metre | 0.1654 | 0.2035 | 0.2417 | 0.2799 | 0.3180 | 0.3562 | 0.3944 | 0.4325
+17 | Non-marketable natural gas | $/cubic metre | 0.1654 | 0.2035 | 0
 
-18 | Still gas | $/cubic metre | 0.1396 | 0.1718 | 0.2040 | 0.2362 | 0.2684 | 0.3006 | 0.3328 | 0.3650
+18 | Still gas | $/cubic metre | 0.1396 | 0.1718 | 0
 
-19 | Coke | $/tonne | 206.68 | 254.38 | 302.07 | 349.77 | 397.46 | 445.16 | 492.86 | 540.55
+19 | Coke | $/tonne | 206.68 | 254.38 | 0
 
-20 | High heat value coal | $/tonne | 145.02 | 178.48 | 211.95 | 245.41 | 278.88 | 312.35 | 345.81 | 379.28
+20 | High heat value coal | $/tonne | 145.02 | 178.48 | 0
 
-21 | Low heat value coal | $/tonne | 115.21 | 141.80 | 168.38 | 194.97 | 221.56 | 248.14 | 274.73 | 301.31
+21 | Low heat value coal | $/tonne | 115.21 | 141.80 | 0
 
-22 | Combustible waste | $/tonne | 129.82 | 159.78 | 189.74 | 219.70 | 249.66 | 279.62 | 309.58 | 339.54
+22 | Combustible waste | $/tonne | 129.82 | 159.78 | 0
 
 History:
 
@@ -1341,3 +1341,5 @@ History:
 - SOR/2023-62, s. 1
 
 - SOR/2023-62, s. 2
+
+- SOR/2025-107, s. 1
