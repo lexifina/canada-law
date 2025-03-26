@@ -2,15 +2,17 @@
 
 - Province of Ontario
 
-  - Algoma — Manitoulin — Kapuskasing
+  - Kapuskasing — Timmins — Mushkegowuk
 
-  - Kenora
+  - Kenora — Kiiwetinoong
+
+  - Sault Ste. Marie — Algoma
+
+  - Sudbury East — Manitoulin — Nickel Belt
 
   - Thunder Bay — Rainy River
 
   - Thunder Bay — Superior North
-
-  - Timmins — James Bay
 
 - Province of Quebec
 
@@ -18,23 +20,19 @@
 
   - Abitibi — Témiscamingue
 
-  - Manicouagan
+  - Côte-Nord — Kawawachikamach — Nitassinan
 
 - Province of Manitoba
 
   - Churchill — Keewatinook Aski
 
-  - Dauphin — Swan River — Neepawa
-
-  - Selkirk — Interlake — Eastman
+  - Riding Mountain
 
 - Province of British Columbia
 
   - Cariboo — Prince George
 
-  - Kamloops — Thompson — Cariboo
-
-  - Mission — Matsqui — Fraser Canyon
+  - Kamloops — Thompson — Nicola
 
   - North Island — Powell River
 
@@ -44,9 +42,7 @@
 
 - Province of Saskatchewan
 
-  - Battlefords — Lloydminster
-
-  - Carlton Trail — Eagle Creek
+  - Battlefords — Lloydminster — Meadow Lake
 
   - Desnethé — Missinippi — Churchill River
 
@@ -58,11 +54,9 @@
 
   - Fort McMurray — Cold Lake
 
-  - Grande Prairie — Mackenzie
+  - Grande Prairie
 
   - Lakeland
-
-  - Medicine Hat — Cardston — Warner
 
   - Peace River — Westlock
 
@@ -70,9 +64,7 @@
 
 - Province of Newfoundland and Labrador
 
-  - Bonavista — Burin — Trinity
-
-  - Coast of Bays — Central — Notre Dame
+  - Central Newfoundland
 
   - Labrador
 
@@ -105,3 +97,5 @@ History:
 - Canada Gazette Part I, Extra Volume 149, No. 2
 
 - 2018, c. 31, s. 376
+
+- Canada Gazette Part I, Extra Volume 159, No. 4
