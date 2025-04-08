@@ -1,4 +1,4 @@
-## FORM 32 (Sections 2, 462.34, 490.9, 550, 683, 706, 707, 779, 810, 810.01, 810.1, 810.2, 817 and 832) Recognizance
+## FORM 32 (Sections 2, 462.34, 490.9, 550, 683, 706, 707, 779, 810, 810.01, 810.03, 810.1, 810.2, 817 and 832) Recognizance
 
 Canada,
 
@@ -84,21 +84,27 @@ List of Conditions
 
 - (a) has a surety (sections 462.34, 490.9, 550, 779, 810, 817 and 832 of the Criminal Code);
 
-- (b) agrees to keep the peace and be of good behaviour (sections 83.3, 810, 810.01, 810.1 and 810.2 of the Criminal Code);
+- (b) agrees to keep the peace and be of good behaviour (sections 83.3, 810, 810.01, 810.03, 810.1 and 810.2 of the Criminal Code);
 
-- (c) abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm (sections 83.3, 810, 810.01, 810.1 and 810.2 of the Criminal Code);
+- (c) abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm (sections 83.3, 810, 810.01, 810.03, 810.1 and 810.2 of the Criminal Code);
 
-- (d) participates in a treatment program (sections 810.01, 810.1 and 810.2 of the Criminal Code);
+- (d) participates in a treatment program (sections 810.01, 810.03, 810.1 and 810.2 of the Criminal Code);
 
 - (e) wears an electronic monitoring device (if the Attorney General makes the request) (sections 810.01, 810.1 and 810.2 of the Criminal Code);
 
-- (f) remains within a specified geographic area unless written permission to leave that area is obtained from the judge (sections 810.01 and 810.2 of the Criminal Code);
+- (e.1) wears an electronic monitoring device (if the Attorney General has consented to this condition) (section 810.03 of the Criminal Code);
+
+- (e.2) abstains from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the judge considers necessary (section 810.03 of the Criminal Code);
+
+- (f) remains within a specified geographic area unless written permission to leave that area is obtained from the judge (sections 810.01, 810.03 and 810.2 of the Criminal Code);
+
+- (f.1) refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the judge considers necessary (section 810.03 of the Criminal Code);
 
 - (g) returns to and remains at their place of residence at specified times (sections 810.01, 810.1 and 810.2 of the Criminal Code);
 
-- (h) abstains from the consumption of drugs, except in accordance with a medical prescription (sections 810.01, 810.1 and 810.2 of the Criminal Code);
+- (h) abstains from the consumption of drugs, except in accordance with a medical prescription (sections 810.01, 810.03, 810.1 and 810.2 of the Criminal Code);
 
-- (i) abstains from the consumption of alcohol or of any other intoxicating substance, except in accordance with a medical prescription (sections 810.01, 810.1 and 810.2 of the Criminal Code);
+- (i) abstains from the consumption of alcohol or of any other intoxicating substance, except in accordance with a medical prescription (sections 810.01, 810.03, 810.1 and 810.2 of the Criminal Code);
 
 - (j) abstains from any contact — including communicating by any means — with a person under the age of 16 years, unless doing so under the supervision of a person whom the judge considers appropriate (section 810.1 of the Criminal Code);
 
@@ -143,3 +149,7 @@ History:
 - 2022, c. 17, s. 61(F)
 
 - 2023, c. 32, s. 13.12
+
+- 2024, c. 22, s. 6
+
+- 2024, c. 22, s. 11
