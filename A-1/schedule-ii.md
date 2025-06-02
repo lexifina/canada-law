@@ -20,7 +20,7 @@ Canada Infrastructure Bank Act Loi sur la Banque de l’infrastructure du Canada
 
 Canada Labour Code Code canadien du travail | subsection 144(3)
 
-Canada–Newfoundland and Labrador Atlantic Accord Implementation Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador | section 119 and subsection 205.086(1)
+Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador et sur la gestion de l’énergie renouvelable extracôtière | section 119 and subsection 205.086(1)
 
 Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act, S.C. 1988, c. 28 Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et sur la gestion de l’énergie renouvelable extracôtière, L.C. 1988, ch. 28 | section 122 and subsection 210.087(1)
 
@@ -225,5 +225,7 @@ History:
 - 2024, c. 15, s. 98
 
 - 2024, c. 17, s. 82
+
+- 2024, c. 20, s. 214
 
 - 2024, c. 20, s. 216
