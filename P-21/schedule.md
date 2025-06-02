@@ -132,9 +132,9 @@
 
   - Fondation du Canada pour l’appui technologique au développement durable
 
-  - Canada–Newfoundland and Labrador Offshore Petroleum Board
+  - Canada–Newfoundland and Labrador Offshore Energy Regulator
 
-  - Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers
+  - Régie Canada — Terre-Neuve-et-Labrador de l’énergie extracôtière
 
   - Canada–Nova Scotia Offshore Energy Regulator
 
@@ -737,6 +737,8 @@ History:
 - 2024, c. 15, s. 334
 
 - 2024, c. 15, s. 335
+
+- 2024, c. 20, s. 215
 
 - 2024, c. 20, s. 217
 
