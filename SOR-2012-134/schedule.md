@@ -60,7 +60,7 @@ Item | Regulations | Provisions
 
 27 | Prohibition of Certain Toxic Substances Regulations, 2012 | (a) subsection 4(1) (b) subsection 6(1)
 
-28 | Products Containing Mercury Regulations | (a) paragraphs 3(a) and (b)
+28 | Products Containing Mercury Regulations | (a) subsections 3(1) and (2) (b) section 3.1
 
 29 | Microbeads in Toiletries Regulations | (a) subsections 3(1) and (2)
 
@@ -123,6 +123,8 @@ History:
 - SOR/2022-138, s. 12
 
 - SOR/2023-15, s. 12
+
+- SOR/2024-109, s. 13
 
 - SOR/2025-36, s. 25
 
