@@ -20,6 +20,8 @@
 
 - ?Akisq’nuk First Nation
 
+- Algonquins of Barriere Lake
+
 - Algonquins of Pikwakanagan First Nation
 
 - Animakee Wa Zhing #37 First Nation
@@ -194,6 +196,8 @@
 
 - Gitxaala Nation
 
+- Glen Vowell
+
 - Glooscap First Nation
 
 - Gwa’sala-’Nakwaxda’xw Nations
@@ -297,6 +301,8 @@
 - Lhtako Dene Nation
 
 - Liard First Nation
+
+- Liidlii Kue First Nation
 
 - Lil’wat Nation
 
@@ -488,6 +494,8 @@
 
 - Pictou Landing First Nation
 
+- Piikani Nation
+
 - Pinaymootang First Nation
 
 - Pine Creek
@@ -503,6 +511,8 @@
 - Prophet River First Nation
 
 - Qalipu Mi’kmaq First Nation
+
+- Qualicum First Nation
 
 - Quatsino
 
@@ -590,6 +600,8 @@
 
 - Splatsin
 
+- Spuzzum
+
 - Sq’éwlets
 
 - Squamish Nation
@@ -645,6 +657,8 @@
 - Tk’emlúps te Secwépemc
 
 - Tla-o-qui-aht First Nations
+
+- Tl’etinqox Government
 
 - Tobique First Nation
 
@@ -905,3 +919,5 @@ History:
 - SOR/2024-228, s. 1
 
 - SOR/2025-22, s. 1
+
+- SOR/2025-152, s. 1
