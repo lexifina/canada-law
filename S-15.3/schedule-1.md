@@ -234,9 +234,13 @@
 
   - Mouette blanche
 
-  - Knot rufa subspecies, Red (Calidris canutus rufa)
+  - Knot rufa subspecies, Red (Calidris canutus rufa) Southeastern United States / Gulf of Mexico / Caribbean wintering population
 
-  - Bécasseau maubèche de la sous-espèce rufa
+  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans le sud-est des États-Unis, le golfe du Mexique et les Caraïbes
+
+  - Knot rufa subspecies, Red (Calidris canutus rufa) Tierra del Fuego and Patagonia wintering population
+
+  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans la Terre de Feu et en Patagonie
 
   - Lark, Streaked Horned (Eremophila alpestris strigata)
 
@@ -680,10 +684,6 @@
 
   - Bleu insulaire
 
-  - Borer, Aweme (Papaipema aweme)
-
-  - Perce-tige d’Aweme
-
   - Borer, Hoptree (Prays atomocella)
 
   - Perceur du ptéléa
@@ -835,10 +835,6 @@
   - Sun Moth, False-foxglove (Pyrrhia aurantiago)
 
   - Héliotin orangé
-
-  - Tiger Beetle, Cobblestone (Cicindela marginipennis)
-
-  - Cicindèle des galets
 
   - Tiger Beetle, Northern Barrens (Cicindela patruela)
 
@@ -1280,10 +1276,6 @@
 
   - Physconie pâle
 
-  - Lichen, Seaside Centipede (Heterodermia sitchensis)
-
-  - Hétérodermie maritime
-
   - Lichen, Vole Ears (Erioderma mollissimum)
 
   - Érioderme mou
@@ -1440,9 +1432,9 @@
 
   - Buse rouilleuse
 
-  - Knot roselaari type, Red (Calidris canutus roselaari type)
+  - Knot roselaari subspecies, Red (Calidris canutus roselaari)
 
-  - Bécasseau maubèche du type roselaari
+  - Bécasseau maubèche de la sous-espèce roselaari
 
   - Longspur, McCown’s (Rhynchophanes mccownii)
 
@@ -1756,10 +1748,6 @@
 
   - Cryptanthe minuscule
 
-  - Daisy, Lakeside (Hymenoxys herbacea)
-
-  - Hyménoxys herbacé
-
   - Deerberry (Vaccinium stamineum)
 
   - Airelle à longues étamines
@@ -1917,6 +1905,10 @@
   - Lichen, Seaside Bone (Hypogymnia heterophylla)
 
   - Hypogymnie maritime
+
+  - Lichen, Seaside Centipede (Heterodermia sitchensis)
+
+  - Hétérodermie maritime
 
   - Lichen, Smoker’s Lung (Lobaria retigera)
 
@@ -2090,9 +2082,9 @@
 
   - Grand héron de la sous-espèce fannini
 
-  - Knot islandica subspecies, Red (Calidris canutus islandica)
+  - Knot rufa subspecies, Red (Calidris canutus rufa) Northeastern South America wintering population
 
-  - Bécasseau maubèche de la sous-espèce islandica
+  - Bécasseau maubèche de la sous-espèce rufa population hivernant dans le nord-est de l’Amérique du Sud
 
   - Murrelet, Ancient (Synthliboramphus antiquus)
 
@@ -2524,6 +2516,10 @@
 
   - Mouche tachinide des dunes
 
+  - Tiger Beetle, Cobblestone (Cicindela marginipennis)
+
+  - Cicindèle des galets
+
   - Wasp, Yellow Scarab Hunter (Dielis pilipes)
 
   - Scolie dorée
@@ -2561,6 +2557,10 @@
   - Bulrush, Long’s (Scirpus longii)
 
   - Scirpe de Long
+
+  - Daisy, Lakeside (Tetraneuris herbacea)
+
+  - Hyménoxys herbacé
 
   - Draba, Puvirnituq Mountain (Draba puvirnituqii)
 
@@ -3105,3 +3105,27 @@ History:
 - SOR/2024-135, s. 1
 
 - SOR/2024-135, s. 2
+
+- SOR/2025-157, s. 1
+
+- SOR/2025-157, s. 2
+
+- SOR/2025-157, s. 3
+
+- SOR/2025-157, s. 4
+
+- SOR/2025-157, s. 5
+
+- SOR/2025-157, s. 6
+
+- SOR/2025-157, s. 7
+
+- SOR/2025-157, s. 8
+
+- SOR/2025-157, s. 9
+
+- SOR/2025-157, s. 10
+
+- SOR/2025-157, s. 11
+
+- SOR/2025-157, s. 12
