@@ -368,6 +368,10 @@
 
 - Washagamis Bay
 
+- 93
+
+- Ministikwan Lake Cree Nation
+
 History:
 
 - 2014, c. 5, Sch.
@@ -561,3 +565,5 @@ History:
 - SOR/2024-294, s. 1
 
 - SOR/2025-54, s. 1
+
+- SOR/2025-160, s. 1
