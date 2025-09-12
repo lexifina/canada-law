@@ -372,6 +372,10 @@
 
 - Ministikwan Lake Cree Nation
 
+- 95
+
+- Saint Mary's
+
 History:
 
 - 2014, c. 5, Sch.
@@ -567,3 +571,5 @@ History:
 - SOR/2025-54, s. 1
 
 - SOR/2025-160, s. 1
+
+- SOR/2025-186, s. 1
