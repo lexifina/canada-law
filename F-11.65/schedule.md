@@ -372,6 +372,10 @@
 
 - Ministikwan Lake Cree Nation
 
+- 94
+
+- Paqtnkek Mi'kmaw Nation
+
 - 95
 
 - Saint Mary's
@@ -573,3 +577,5 @@ History:
 - SOR/2025-160, s. 1
 
 - SOR/2025-186, s. 1
+
+- SOR/2025-190, s. 1
