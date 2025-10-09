@@ -16,9 +16,9 @@
 
 - 6 Photofluorographic X-ray equipment being X-ray generating appliances designed primarily for the examination of the human chest and the recording photographically in reduced size of the image produced on a fluorescent screen.
 
-- 7 A laser scanner, being a device that uses scanned laser radiation within the wavelength range of 400 to 1400 nanometres to decipher or generate codes represented by drawn or printed geometrical patterns.
+- 7 Laser products, being devices that can be made to produce or amplify electromagnetic radiation in the wavelength range of 180 nm to 1 mm, primarily by the process of controlled stimulated emission.
 
-- 8 A demonstration laser, being a device that consists of or incorporates a laser and that is primarily intended to be used for demonstrating the principles of optics in educational institutions.
+- 8 [Repealed, SOR/2024-196, s. 3]
 
 - 9 Low Energy Electron Microscopes being electron-optical devices with an operating energy of 500 kilo-electron volts (keV) or less in which a beam of electrons, focused by means of electron lenses, is used to produce an enlarged image of a minute object on a fluorescent screen, photographic plate or any other detector-display system, including both the transmission and scanning types of devices.
 
@@ -67,3 +67,5 @@ History:
 - SOR/2005-33, s. 1
 
 - SOR/2017-228, ss. 1, 2
+
+- SOR/2024-196, s. 3
