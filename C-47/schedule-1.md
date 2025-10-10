@@ -12,7 +12,7 @@
 
     - (iv) subsection 160(3) (bestiality in the presence of a person under 16 or inciting a person under 16 to commit bestiality),
 
-    - (v) section 163.1 (child pornography),
+    - (v) section 163.1 (child sexual abuse and exploitation material),
 
     - (vi) section 170 (parent or guardian procuring sexual activity),
 
@@ -153,3 +153,5 @@ History:
 - 2014, c. 25, s. 35
 
 - 2018, c. 29, s. 76
+
+- 2024, c. 23, s. 12
