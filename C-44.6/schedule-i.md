@@ -54,7 +54,7 @@
 
   - (j) section 160 (bestiality, compelling, in presence of or by child);
 
-  - (j.1) section 163.1 (child pornography);
+  - (j.1) section 163.1 (child sexual abuse and exploitation material);
 
   - (k) section 170 (parent or guardian procuring sexual activity by child);
 
@@ -271,3 +271,5 @@ History:
 - 2019, c. 13, s. 158
 
 - 2019, c. 25, s. 395
+
+- 2024, c. 23, s. 12
