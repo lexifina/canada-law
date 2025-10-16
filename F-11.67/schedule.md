@@ -166,6 +166,8 @@
 
 - Flying Dust First Nation
 
+- Fort McKay First Nation
+
 - Fort McMurray #468 First Nation
 
 - Fort Nelson First Nation
@@ -626,6 +628,8 @@
 
 - Stz’uminus First Nation
 
+- Sucker Creek
+
 - Sumas First Nation
 
 - Sunchild First Nation
@@ -721,6 +725,8 @@
 - Whispering Pines/Clinton Indian Band
 
 - White Bear First Nation
+
+- Whitefish Lake
 
 - Whitefish River First Nation
 
@@ -921,3 +927,5 @@ History:
 - SOR/2025-22, s. 1
 
 - SOR/2025-152, s. 1
+
+- SOR/2025-212, s. 1
