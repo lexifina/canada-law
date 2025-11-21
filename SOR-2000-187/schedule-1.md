@@ -754,23 +754,7 @@ Item | Provision of Plant Protection Act | Short-form Description | Classificati
 
 10 | 36(3) | Fail to comply with the prescribed notice | Very serious
 
-#### DIVISION 2 Potato Production and Sale (Central Caanich) Restriction Regulations (SOR/82-186)
-
-Column 1 | Column 2 | Column 3
-
-Item | Provision of Potato Production and Sale (Central Saanich) Restriction Regulations | Short-form Description | Classification
-
-1 | 3(1)(a) | Seed, plant, grow, produce or harvest potatoes within a prescribed prohibited area | Very serious
-
-2 | 3(1)(b) | Sell or dispose of potatoes seeded, planted, grown, produced or harvested within a prescribed prohibited area | Very serious
-
-#### DIVISION 3 Eggplants and Tomatoes Production (Central Saanich) Restriction Regulations (SOR/82-448)
-
-Column 1 | Column 2 | Column 3
-
-Item | Provision of Eggplants and Tomatoes Production (Central Saanich) Restriction Regulations | Short-form Description | Classification
-
-1 | 2 | Seed, transplant, grow, produce or harvest eggplant or tomato within a prescribed prohibited area | Very serious
+#### DIVISIONS 2 AND 3 [Repealed, SOR/2025-235, s. 1]
 
 #### DIVISION 4 Plant Protection Regulations (SOR/95-212)
 
@@ -864,13 +848,13 @@ Item | Provision of Plant Protection Regulations | Short-form Description | Clas
 
 40 | [Repealed, SOR/2020-14, s. 11]
 
-41 | 50(1) | Move a thing named in Schedule I to the Plant Protection Regulations | Very serious
+41 | 50(1) | Move a thing contrary to the Agency document | Very serious
 
-42 | 50(2) | Move a pest named in Schedule I to the Plant Protection Regulations | Very serious
+42 | [Repealed, SOR/2025-238, s. 2]
 
-43 | 50(3) | Move a pest named in Schedule II to the Plant Protection Regulations within or outside an area specified in that Schedule | Very serious
+43 | [Repealed, SOR/2025-238, s. 2]
 
-44 | 51 | Move a thing without meeting the requirements prescribed in Schedule II to the Plant Protection Regulations | Very serious
+44 | [Repealed, SOR/2025-238, s. 2]
 
 45 | 53(1) | Undertake an activity in contravention of a Ministerial Order or Declaration of Infested Place Notice | Very serious
 
@@ -1585,3 +1569,9 @@ History:
 - SOR/2020-14, s. 10
 
 - SOR/2020-14, s. 11
+
+- SOR/2025-235, s. 1
+
+- SOR/2025-238, s. 1
+
+- SOR/2025-238, s. 2
