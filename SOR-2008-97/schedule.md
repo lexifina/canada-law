@@ -2610,7 +2610,9 @@ Item | Provision of the Environmental Response Regulations | Range of Penalties 
 
 1 | Subsection 11(3) | 260 to 10,000
 
-2 | Subsection 12(1) | 1,300 to 100,000
+2 | Paragraph 12(1)(a) | 1,300 to 100,000
+
+2.1 | Paragraph 12(1)(b) | 260 to 10,000
 
 3 | Subsection 12(2) | 1,300 to 100,000
 
@@ -3097,3 +3099,5 @@ History:
 - SOR/2024-49, s. 5
 
 - SOR/2024-133, s. 606
+
+- SOR/2025-233, s. 12
