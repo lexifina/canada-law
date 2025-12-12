@@ -48,7 +48,7 @@ Item | Regulations | Provisions
 
 21 | [Repealed, SOR/2016-252, s. 26]
 
-22 | PCB Regulations | (a) section 5 (b) section 6
+22 | PCB Regulations | (a) section 5 (b) section 6 (c) subsection 15.1(2) (d) subsection 15.2(2) (e) subsection 15.3(2) (f) section 19 (g) subsection 20(1) (h) subsections 21(1) and (3) (i) section 24 (j) paragraphs 25(a) to (i) and (l) to (o) (k) paragraph 27(b)
 
 23 | Chromium Electroplating, Chromium Anodizing and Reverse Etching Regulations | (a) subsection 3(1)
 
@@ -64,7 +64,7 @@ Item | Regulations | Provisions
 
 29 | Microbeads in Toiletries Regulations | (a) subsections 3(1) and (2)
 
-30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) subsection 26(1) (q) section 27 (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) subsections 37(1) and (2) (w) section 38 (x) subsections 39(1) and (2) (y) section 42 (z) section 43 (z.1) subsection 47(1) (z.2) section 48 (z.3) section 49 (z.4) subsection 50(3) (z.5) section 51 (z.6) section 52 (z.7) section 53
+30 | Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) | (a) subsection 5(1) (b) section 6 (c) section 7 (d) section 8 (e) section 9 (f) section 10 (g) subsection 11(2) (h) section 12 (i) section 14 (j) section 15 (k) paragraphs 19(1)(a), (c), (d), (f), (g) and (h), subsection 19(2) and paragraphs 19(4)(b) and (c) (l) section 20 (m) section 21 (n) section 22 (o) section 25 (p) subsection 26(1) (q) section 27 (r) subsection 30(1) and (3) (s) subsection 32(1) (t) subsection 35(1) (u) section 36 (v) subsections 37(1) and (2) (w) section 38 (x) subsections 39(1) and (2) (y) section 42 (z) section 43 (z.1) [Repealed, SOR/2025-280, s. 24] (z.2) [Repealed, SOR/2025-280, s. 24] (z.3) [Repealed, SOR/2025-280, s. 24] (z.4) [Repealed, SOR/2025-280, s. 24] (z.5) [Repealed, SOR/2025-280, s. 24] (z.6) [Repealed, SOR/2025-280, s. 24] (z.7) [Repealed, SOR/2025-280, s. 24]
 
 31 | Reduction in the Release of Volatile Organic Compounds Regulations (Petroleum Sector) | (a) paragraphs 3(2)(a), (b), (c) and (e) (b) section 11
 
@@ -83,6 +83,8 @@ Item | Regulations | Provisions
 38 | Single-use Plastics Prohibition Regulations | (a) subsections 3(1) and (2) (b) section 4 (c) subsection 5(1) (d) subsections 6(1) and (2)
 
 39 | Certain Products Containing Toxic Substances Regulations | (a) section 14 (b) subsection 15(1) (c) section 18 (d) section 19 (e) section 22 (f) section 23
+
+41 | Landfill Methane Regulations | (a) subsection 7(1) (b) subsections 8(1) and (2) (c) subsections 11(1) and (2) (d) subsections 14(1) and (2) (e) subsection 16(1) (f) subsections 18(1) and (2)
 
 44 | Reduction in the Release of Volatile Organic Compounds (Storage and Loading of Volatile Petroleum Liquids) Regulations | (a) subsections 33(1) and (2) (b) section 35 (c) section 36 (d) section 38 (e) section 39 (f) section 40 (g) section 41 (h) section 42 (i) subsection 43(3) (j) section 46 (k) section 49 (l) section 50 (m) section 52 (n) section 53 (o) subsection 54(1) (p) subsection 56(1) (q) section 57 (r) section 58 (s) section 59 (t) section 60 (u) subsection 61(1) (v) section 62 (w) section 63 (x) subsection 64(1) (y) subsections 65(2) and (3) (z) subsection 66(1) (z.01) section 67 (z.02) section 68 (z.03) section 69 (z.04) subsection 70(1) (z.05) section 71 (z.06) section 72 (z.07) subsection 73(1) (z.08) subsection 74(2) (z.09) subsection 75(1) (z.10) section 76 (z.11) section 77 (z.12) section 78 (z.13) section 79 (z.14) subsections 86(1) and (2) (z.15) subsection 90(1) (z.16) subsection 91(1) (z.17) section 93 (z.18) subsection 94(1) (z.19) subsection 95(1) (z.20) section 96 (z.21) subsections 100(1), (3) and (4) (z.22) section 101 (z.23) subsection 103(1) (z.24) section 104 (z.25) section 105
 
@@ -131,3 +133,9 @@ History:
 - SOR/2025-36, s. 26
 
 - SOR/2025-88, s. 137
+
+- SOR/2025-273, s. 18
+
+- SOR/2025-279, s. 29
+
+- SOR/2025-280, s. 24
