@@ -30,6 +30,8 @@ Item | Name
 
 12 | Zolpidem (N,N,6-trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide) and any salt thereof
 
+13 | Carisoprodol (2-((carbamoyloxy)methyl)-2-methylpentyl isopropylcarbamate)
+
 PART 2
 
 List of Class 2 Targeted Substances
@@ -45,3 +47,5 @@ History:
 - SOR/2017-12, ss. 10, 11
 
 - SOR/2019-170, s. 17
+
+- SOR/2025-222, s. 1
