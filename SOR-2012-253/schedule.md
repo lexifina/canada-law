@@ -1,4 +1,4 @@
-## SCHEDULE (Section 2, paragraph 3(1)(a), subsections 3(2), 4(1), 5(1), 6(1) and 7(1), section 8 and subsection 11(1))
+## SCHEDULE (Section 2, paragraph 3(1)(a) and subsections 3(2) and 11(1))
 
 Item | Column 1 | Column 2
 
@@ -63,3 +63,5 @@ Service | Fee ($)
 History:
 
 - SOR/2014-309, s. 5
+
+- SOR/2026-7, s. 4
