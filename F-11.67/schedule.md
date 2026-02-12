@@ -204,6 +204,8 @@
 
 - Gwa’sala-’Nakwaxda’xw Nations
 
+- Gwichya Gwich'in
+
 - Hagwilget Village Council
 
 - Haisla Nation
@@ -371,6 +373,8 @@
 - Millbrook Band
 
 - Misipawistik Cree Nation
+
+- Mississauga
 
 - Mississaugas of Scugog Island First Nation
 
@@ -662,6 +666,8 @@
 
 - Tla-o-qui-aht First Nations
 
+- Tl'azt'en Nation
+
 - Tl’etinqox Government
 
 - Tobique First Nation
@@ -677,6 +683,8 @@
 - Tseycum First Nation
 
 - Tŝideldel First Nation
+
+- Ts'il Kaz Koh
 
 - Ts’kw’aylaxw First Nation
 
@@ -929,3 +937,5 @@ History:
 - SOR/2025-152, s. 1
 
 - SOR/2025-212, s. 1
+
+- SOR/2026-21, s. 1
