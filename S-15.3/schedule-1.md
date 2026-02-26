@@ -36,11 +36,11 @@
 
   - Gophersnake, Pacific (Pituophis catenifer catenifer)
 
-  - Couleuvre à nez mince du Pacifique
+  - Couleuvre gaufre du Pacifique
 
   - Lizard, Pygmy Short-horned (Phrynosoma douglasii)
 
-  - Iguane pygmée à cornes courtes
+  - Lézard à petites cornes mineur
 
   - Rattlesnake, Timber (Crotalus horridus)
 
@@ -50,7 +50,7 @@
 
   - Tortue boîte de l’Est
 
-  - Turtle, Pacific Pond (Actinemys marmorata)
+  - Turtle, Northwestern Pond (Actinemys marmorata)
 
   - Tortue de l’Ouest
 
@@ -330,7 +330,7 @@
 
   - Pic à tête rouge
 
-  - Woodpecker, White-headed (Picoides albolarvatus)
+  - Woodpecker, White-headed (Dryobates albolarvatus)
 
   - Pic à tête blanche
 
@@ -350,7 +350,7 @@
 
   - Frog, Northern Leopard (Lithobates pipiens) Rocky Mountain population
 
-  - Grenouille léopard population des Rocheuses
+  - Grenouille léopard du Nord population des Rocheuses
 
   - Frog, Oregon Spotted (Rana pretiosa)
 
@@ -390,14 +390,6 @@
 
 - Reptiles
 
-  - Foxsnake, Eastern (Pantherophis vulpinus) Carolinian population
-
-  - Couleuvre fauve de l’Est population carolinienne
-
-  - Foxsnake, Eastern (Pantherophis vulpinus) Great Lakes / St. Lawrence population
-
-  - Couleuvre fauve de l’Est population des Grands Lacs et du Saint-Laurent
-
   - Gartersnake, Butler’s (Thamnophis butleri)
 
   - Couleuvre à petite tête
@@ -434,9 +426,9 @@
 
   - Tortue caouanne
 
-  - Skink, Five-lined (Plestiodon fasciatus) Carolinian population
+  - Skink, Common Five-lined (Plestiodon fasciatus) Carolinian population
 
-  - Scinque pentaligne population carolinienne
+  - Scinque pentaligne commun population carolinienne
 
   - Snake, Sharp-tailed (Contia tenuis)
 
@@ -716,10 +708,6 @@
 
   - Gomphe riverain population des plaines des Grands Lacs
 
-  - Clubtail, Skillet (Gomphus ventricosus)
-
-  - Gomphe ventru
-
   - Crawling Water Beetle, Hungerford’s (Brychius hungerfordi)
 
   - Haliplide de Hungerford
@@ -779,10 +767,6 @@
   - Monarch (Danaus plexippus)
 
   - Monarque
-
-  - Moth, Dusky Dune (Copablepharon longipenne)
-
-  - Noctuelle sombre des dunes
 
   - Moth, Edwards’ Beach (Anarta edwardsii)
 
@@ -1366,10 +1350,6 @@
 
   - Renard véloce
 
-  - Marten, American (Martes americana atrata) Newfoundland population
-
-  - Martre d’Amérique population de Terre-Neuve
-
   - Prairie Dog, Black-tailed (Cynomys ludovicianus)
 
   - Chien de prairie
@@ -1532,9 +1512,17 @@
 
   - Spadefoot, Great Basin (Spea intermontana)
 
-  - Crapaud du Grand Bassin
+  - Crapaud pied-bêche du Grand Bassin
 
 - Reptiles
+
+  - Foxsnake, Eastern (Pantherophis vulpinus) Carolinian population
+
+  - Couleuvre fauve de l’Est population carolinienne
+
+  - Foxsnake, Eastern (Pantherophis vulpinus) Great Lakes / St. Lawrence population
+
+  - Couleuvre fauve de l’Est population des Grands Lacs et du Saint-Laurent
 
   - Gophersnake, Great Basin (Pituophis catenifer deserticola)
 
@@ -1566,7 +1554,7 @@
 
   - Snake, Eastern Hog-nosed (Heterodon platirhinos)
 
-  - Couleuvre à nez plat
+  - Couleuvre à groin de l’Est
 
   - Turtle, Western Painted (Chrysemys picta bellii) Pacific Coast population
 
@@ -1686,6 +1674,10 @@
 
   - Criquet du lac Huron
 
+  - Moth, Dusky Dune (Copablepharon longipenne)
+
+  - Noctuelle sombre des dunes
+
   - Skipper vestris subspecies, Dun (Euphyes vestris vestris)
 
   - Hespérie rurale de la sous-espèce vestris
@@ -1772,10 +1764,6 @@
 
   - Gérardie jaune
 
-  - Gentian, Victorin’s (Gentianopsis virgata ssp. victorinii)
-
-  - Gentiane de Victorin
-
   - Goldenrod, Showy (Solidago speciosa) Boreal population
 
   - Verge d’or voyante population boréale
@@ -1816,9 +1804,9 @@
 
   - Azolle du Mexique
 
-  - Mouse-ear-cress, Slender (Halimolobos virgata)
+  - Mouse-ear-cress, Slender (Crucihimalaya virgata)
 
-  - Halimolobos mince
+  - Arabette mince
 
   - Paintbrush, Cliff (Castilleja rupicola)
 
@@ -1843,10 +1831,6 @@
   - Quillwort, Bolander’s (Isoetes bolanderi)
 
   - Isoète de Bolander
-
-  - Rue-anemone, False (Enemion biternatum)
-
-  - Isopyre à feuilles biternées
 
   - Sanicle, Bear’s-foot (Sanicula arctopoides)
 
@@ -1979,6 +1963,10 @@
   - Cottontail nuttallii subspecies, Nuttall’s (Sylvilagus nuttallii nuttallii)
 
   - Lapin de Nuttall de la sous-espèce nuttallii
+
+  - Marten, American (Martes americana atrata) Newfoundland population
+
+  - Martre d’Amérique population de Terre-Neuve
 
   - Mole, Eastern (Scalopus aquaticus)
 
@@ -2144,9 +2132,9 @@
 
   - Grenouille-à-queue côtière
 
-  - Frog, Northern Leopard (Lithobates pipiens) Western Boreal/Prairie populations
+  - Frog, Northern Leopard (Lithobates pipiens) Western Boreal / Prairie populations
 
-  - Grenouille léopard populations des Prairies et de l’ouest de la zone boréale
+  - Grenouille léopard du Nord populations des Prairies et de l’ouest de la zone boréale
 
   - Frog, Northern Red-legged (Rana aurora)
 
@@ -2202,9 +2190,9 @@
 
   - Couleuvre mince population des Grands Lacs
 
-  - Skink, Five-lined (Plestiodon fasciatus) Great Lakes/St. Lawrence population
+  - Skink, Common Five-lined (Plestiodon fasciatus) Great Lakes / St. Lawrence population
 
-  - Scinque pentaligne population des Grands Lacs et du Saint-Laurent
+  - Scinque pentaligne commun population des Grands Lacs et du Saint-Laurent
 
   - Skink, Prairie (Plestiodon septentrionalis)
 
@@ -2446,7 +2434,7 @@
 
   - Limace gainée
 
-  - Vertigo, Threaded (Nearctula sp.)
+  - Vertigo, Threaded (Vertigo rowellii)
 
   - Vertigo à crêtes fines
 
@@ -2467,6 +2455,10 @@
   - Bumble Bee, Yellow-banded (Bombus terricola)
 
   - Bourdon terricole
+
+  - Clubtail, Skillet (Gomphurus ventricosus)
+
+  - Gomphe ventru
 
   - Dancer, Vivid (Argia vivida)
 
@@ -2574,6 +2566,10 @@
 
   - Dryoptéride côtière
 
+  - Gentian, Victorin’s (Gentianopsis virgata ssp. victorinii)
+
+  - Gentiane de Victorin
+
   - Goldencrest (Lophiola aurea)
 
   - Lophiolie dorée
@@ -2653,6 +2649,10 @@
   - Rose-mallow, Swamp (Hibiscus moscheutos)
 
   - Ketmie des marais
+
+  - Rue-anemone, Eastern False (Enemion biternatum)
+
+  - Isopyre à feuilles biternées
 
   - Rush, New Jersey (Juncus caesariensis)
 
@@ -3129,3 +3129,55 @@ History:
 - SOR/2025-157, s. 11
 
 - SOR/2025-157, s. 12
+
+- SOR/2026-37, s. 1
+
+- SOR/2026-37, s. 2
+
+- SOR/2026-37, s. 3
+
+- SOR/2026-37, s. 4
+
+- SOR/2026-37, s. 5
+
+- SOR/2026-37, s. 6
+
+- SOR/2026-37, s. 7
+
+- SOR/2026-37, s. 8
+
+- SOR/2026-37, s. 9
+
+- SOR/2026-37, s. 10
+
+- SOR/2026-37, s. 11
+
+- SOR/2026-37, s. 12
+
+- SOR/2026-37, s. 13
+
+- SOR/2026-37, s. 14
+
+- SOR/2026-37, s. 15
+
+- SOR/2026-37, s. 16
+
+- SOR/2026-37, s. 17
+
+- SOR/2026-37, s. 18
+
+- SOR/2026-37, s. 19
+
+- SOR/2026-37, s. 20
+
+- SOR/2026-37, s. 21
+
+- SOR/2026-37, s. 22
+
+- SOR/2026-37, s. 23
+
+- SOR/2026-37, s. 24
+
+- SOR/2026-37, s. 25
+
+- SOR/2026-37, s. 26
