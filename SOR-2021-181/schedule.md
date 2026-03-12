@@ -1,0 +1,27 @@
+## SCHEDULE (Section 14)
+
+Prescribed Debt Collection Practices
+
+Item | Debt Collection Practice
+
+1 | An institution that communicates with a debtor in order to collect payment of a debt from the debtor must inform them of the following information: (a) the details of the debt, such as the amount owed and the type of debt; and (b) the identity of, or a unique identifier for, any person who is attempting to collect the payment on behalf of the institution and their relationship with the institution.
+
+2 | (1) Except for the sole purpose of obtaining a debtor’s address or telephone number, an institution may not contact or attempt to contact any member of the debtor’s family or household or any relative, neighbour, friend or acquaintance of the debtor unless (a) that person has guaranteed to pay the debt and is being contacted in relation to that guarantee; or (b) the debtor has given their express consent. (2) If the consent referred to in paragraph (1)(b) is given orally by the debtor, the institution must provide confirmation of that consent to the debtor in writing, in paper or electronic form.
+
+3 | Unless otherwise authorized in writing by the debtor, an institution may contact a debtor’s employer solely for the purpose of confirming that the debtor is employed, the nature of their employment and their business title and business address.
+
+4 | An institution may not contact a debtor at the debtor’s place of employment unless (a) the institution does not have the home address or home telephone number of the debtor; (b) attempts by the institution to contact the debtor at their home telephone number have failed; or (c) the institution obtains written authorization from the debtor to do so.
+
+5 | (1) Except with the written consent of the debtor, an institution may not contact a debtor, any member of the debtor’s family or household, any relative, neighbour, friend or acquaintance of the debtor or the debtor’s employer or guarantor (a) on a Sunday, except between the hours of 1:00 p.m. and 5:00 p.m. local time for the person being contacted; (b) on any other holiday; or (c) on any other day, except between the hours of 7:00 a.m. and 9:00 p.m. local time for the person being contacted. (2) Except if the debtor or any other person referred to in subsection (1) has provided a cellular telephone number as a contact number, an institution may not knowingly communicate or attempt to communicate with the debtor or that person for the purpose of collecting, negotiating or demanding payment of a debt by a means that renders the charges or costs incurred for the communication payable by the debtor or that person, as the case may be.
+
+6 | An institution that has communicated with a debtor in respect of the collection of a debt may not communicate with the debtor again in the course of that collection (a) by a means other than in writing, if the debtor makes a written request by registered mail to the institution to communicate with the debtor only in writing in that regard and provides an address at which they may be contacted; (b) by a means other than through the debtor’s legal advisor, if the debtor makes a written request to the institution to communicate with the debtor in that regard only through the debtor’s legal advisor and provides a telephone number and an address for the legal advisor; or (c) without the debtor’s consent, if the debtor notifies the institution by registered mail that the debt is in dispute and that they intend to take the matter before a dispute resolution body or that they are prepared for the institution to take the matter to court.
+
+7 | An institution may not misrepresent the purpose of a communication in respect of the collection of a debt with any person or give, directly or indirectly, by implication or otherwise, any false or misleading information in the course of that communication.
+
+8 | Despite any agreement to the contrary between a debtor and an institution, any charges made or incurred by the institution in collecting a debt, other than charges referred to in section 627.3 of the Act, are not considered to be a part of the amount owing by the debtor and may not be recovered from the debtor by the institution.
+
+9 | An institution may not collect or attempt to collect payment in respect of a debt from any person who is not liable for the debt.
+
+10 | An institution may not directly or indirectly threaten or state an intention to proceed with any legal action if it does not actually intend to do so.
+
+11 | An institution may not, for the purpose of attempting to collect a debt, use any document that falsely purports to originate from any court within or outside Canada.
