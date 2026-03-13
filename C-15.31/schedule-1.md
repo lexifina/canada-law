@@ -1070,6 +1070,10 @@ Note: For molecular formulae in this Schedule, “n”, “x” and “y” refe
 
 - 2,4,11,13-Tetraazatetradecanediimidamide, N,N''-bis(4-chlorophenyl)-3,12-diimino- (chlorhexidine), which has the molecular formula C22H30Cl2N10, and its salts
 
+- 134
+
+- Hexanoic acid, 2-ethyl-, 2-ethylhexyl ester, which has the molecular formula C16H32O2
+
 - 135
 
 - Coal tars and their distillates
@@ -1133,3 +1137,5 @@ History:
 - SOR/2025-13, s. 1
 
 - SOR/2025-27, s. 1
+
+- SOR/2026-47, s. 1
