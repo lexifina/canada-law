@@ -380,9 +380,17 @@
 
 - Saint Mary's
 
+- 96
+
+- Wikwemikong
+
 - 97
 
 - Bloodvein
+
+- 98
+
+- Semiahmoo
 
 History:
 
@@ -585,3 +593,7 @@ History:
 - SOR/2025-190, s. 1
 
 - SOR/2026-36, s. 1
+
+- SOR/2026-50, s. 1
+
+- SOR/2026-55, s. 1
