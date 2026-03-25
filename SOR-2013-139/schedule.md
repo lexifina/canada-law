@@ -134,11 +134,19 @@ Item | Provision | Short-form Description | Category
 
 40 | 30(1)(b) | Failure to immediately make a preliminary report to the Commission on theft, loss or sabotage of safeguards equipment or samples | B
 
-41 | 30(2) | Failure to file full report within the specified period and with the prescribed information | A
+41 | [Repealed, SOR/2025-196, s. 73]
 
-42 | 31 | Failure to file a report with the Commission within the specified period of an inaccuracy or incompleteness in a record that the licensee is required to keep | A
+42 | 30(3) | Failure to file a report with the Commission on the possession of uranium, plutonium-239 or thorium within the specified time | B
 
-43 | 32(1) | Failure to include name and address of sender or date in report | A
+43 | 30(4) | Failure to file a report with the Commission on any inventory change within the specified time | B
+
+44 | 30(6) | Failure to file a report with the Commission on specified activities within the specified time | B
+
+45 | 30(7) | Failure to retain relevant record | A
+
+46 | 30(8) | Failure to continue to retain record for the specified period | A
+
+47 | 30(10) | Failure to consent and submit to verification activities | B
 
 PART 3
 
@@ -1203,5 +1211,7 @@ History:
 - SOR/2017-199, s. 7
 
 - SOR/2020-237, s. 24
+
+- SOR/2025-196, s. 74
 
 - SOR/2025-219, s. 104
