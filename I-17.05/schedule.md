@@ -212,8 +212,14 @@
 
 - An Act respecting the acquisition, operation and disposal of the Windsor-Detroit Tunnel by the City of Windsor, S.C. 1987, c. 55
 
+- 54
+
+- Bridge To Strengthen Trade Act, S.C. 2012, c. 31
+
 History:
 
 - 2007, c. 1, Sch.
 
 - 2013, c. 40, s. 263
+
+- SOR/2026-46, s. 1
