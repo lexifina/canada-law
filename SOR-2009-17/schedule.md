@@ -36,6 +36,8 @@ Ontario to the states of Michigan, Minnesota or New York
 
 13 | Fort Frances International Falls Bridge (Fort Frances, Ontario — International Falls, Minnesota)
 
+13.1 | Gordie Howe International Bridge (Windsor, Ontario — Detroit, Michigan)
+
 14 | International Rift Bridge (Hill Island, Ontario — Wellesley Island, New York)
 
 15 | Peace Bridge (Fort Erie, Ontario — Buffalo, New York)
@@ -63,3 +65,5 @@ Quebec to Vermont
 History:
 
 - SOR/2012-33, ss. 8, 9(F)
+
+- SOR/2026-46, s. 2
