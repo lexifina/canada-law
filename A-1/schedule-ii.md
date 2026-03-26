@@ -2,7 +2,7 @@
 
 Act | Provision
 
-Aeronautics Act Loi sur l’aéronautique | subsections 4.79(1), 6.5(5), 22(2) and 24.2(4)
+Aeronautics Act Loi sur l’aéronautique | subsection 4.79(1), section 5.32 and subsections 6.5(5), 22(2) and 24.2(4)
 
 Anti-Inflation Act, S.C. 1974-75-76, c. 75 Loi anti-inflation, S.C. 1974-75-76, ch. 75 | section 14
 
@@ -46,6 +46,8 @@ Canadian Transportation Accident Investigation and Safety Board Act Loi sur le B
 
 Competition Act Loi sur la concurrence | subsections 29(1), 29.1(5) and 29.2(5)
 
+Consumer-Driven Banking Act Loi sur les services bancaires axés sur les consommateurs | sections 131 and 132
+
 Corporations and Labour Unions Returns Act Loi sur les déclarations des personnes morales et des syndicats | section 18
 
 Criminal Code Code criminel | sections 187, 193 and 487.3
@@ -57,8 +59,6 @@ Customs Act Loi sur les douanes | sections 107 and 107.1
 Defence Production Act Loi sur la production de défense | section 30
 
 Department of Industry Act Loi sur le ministère de l’Industrie | subsection 16(2)
-
-Digital Services Tax Act Loi sur la taxe sur les services numériques | section 108
 
 DNA Identification Act Loi sur l’identification par les empreintes génétiques | section 6.6
 
@@ -85,6 +85,8 @@ Global Minimum Tax Act Loi sur l’impôt minimum mondial | section 121
 Greenhouse Gas Pollution Pricing Act Loi sur la tarification de la pollution causée par les gaz à effet de serre | section 107 and subsection 255(3)
 
 Hazardous Products Act Loi sur les produits dangereux | section 12
+
+High Speed-Rail Network Act Loi sur le réseau ferroviaire à grande vitesse | subsections 25(1) and (2)
 
 Impact Assessment Act Loi sur l’évaluation d’impact | section 30, subsections 53(4) and (5), section 57 and subsections 119(1) and (2) and 141(4)
 
@@ -114,7 +116,7 @@ Personal Information Protection and Electronic Documents Act Loi sur la protecti
 
 Petroleum Incentives Program Act Loi sur le programme d’encouragement du secteur pétrolier | section 17
 
-Proceeds of Crime (Money Laundering) and Terrorist Financing Act Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes | paragraphs 55(1)(a), (d) and (e)
+Proceeds of Crime (Money Laundering) and Terrorist Financing Act Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes | subsection 9.11(1) and paragraphs 55(1)(a), (d) and (e)
 
 Railway Safety Act Loi sur la sécurité ferroviaire | subsection 39.2(1)
 
@@ -229,3 +231,13 @@ History:
 - 2024, c. 20, s. 214
 
 - 2024, c. 20, s. 216
+
+- 2026, c. 3, s. 129
+
+- 2026, c. 3, s. 193
+
+- 2026, c. 3, s. 225
+
+- 2026, c. 3, s. 497
+
+- 2026, c. 3, s. 586
