@@ -146,6 +146,10 @@
 
 - Commissaires à temps plein et personnel de la Commission d’examen des erreurs du système judiciaire
 
+- Full-time members of the Environmental Protection Tribunal of Canada
+
+- Membres à temps plein du Tribunal de la protection de l’environnement du Canada
+
 - Impact Assessment Agency of Canada
 
 - Agence canadienne d’évaluation d’impact
@@ -1079,3 +1083,5 @@ History:
 - 2024, c. 15, s. 215
 
 - 2024, c. 33, s. 18
+
+- 2026, c. 3, s. 526
