@@ -1,4 +1,4 @@
-## SCHEDULE II (Sections 21, 34, 45, 46, 52, 53, 55, 70, 71, 75 and 78) Pensions for Death
+## SCHEDULE II (Paragraphs 21(1)(b) and (i) and (2)(b) and (d), subsections 34(6) and (11), subparagraph 34(12)(a)(i), subsections 45(2), (2.1) and (3.3), section 46, subsections 47(3) and 52(1), paragraph 52(2)(a), subsections 52(4), 53(2), (5) and (6) and 55(2), sections 70 and 71, subsection 75(3) and section 78) Pensions for Death
 
 Monthly Rate in Dollars
 
@@ -41,3 +41,5 @@ History:
 - 1990, c. 43, s. 31
 
 - 2000, c. 12, ss. 232, 233
+
+- 2026, c. 3, s. 368
