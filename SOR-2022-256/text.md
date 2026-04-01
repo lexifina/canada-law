@@ -1,0 +1,1137 @@
+Social Security Tribunal Rules of Procedure
+
+SOR/2022-256
+
+DEPARTMENT OF EMPLOYMENT AND SOCIAL DEVELOPMENT ACT
+
+Registration 2022-12-02
+
+Social Security Tribunal Rules of Procedure
+
+Whereas, under subsection 45.1(2)a of the Department of Employment and Social Development Actb, the Minister of Employment and Social Development has approved the making of the annexed Social Security Tribunal Rules of Procedure;
+
+- aS.C. 2021, c. 23, s. 221
+
+- bS.C. 2005, c. 34; S.C. 2013, c. 40, s. 205
+
+Therefore, the Chairperson of the Social Security Tribunal makes the annexed Social Security Tribunal Rules of Procedure under subsection 45.1(2)a of the Department of Employment and Social Development Actb.
+
+Ottawa, November 3, 2022
+
+Le président du Tribunal de la sécurité sociale, Paul Aterman Chairperson of the Social Security Tribunal
+
+## Introduction
+
+Marginal note: Purpose of these Rules
+
+1 These Rules set out the procedure for appeals before the Tribunal. The Rules aim to help parties understand the appeal process and their roles and responsibilities. The Rules and the appeal process are meant to promote access to justice.
+
+History:
+
+- SOR/2025-91, s. 1
+
+Marginal note: About the Tribunal
+
+- 2 (1) The Tribunal is an independent administrative tribunal. It consists of the members of the General Division and Appeal Division. The members are appointed under Part 5 of the Department of Employment and Social Development Act. The Tribunal is supported by the Tribunal Secretariat. The Secretariat consists of employees of the Administrative Tribunals Support Service of Canada. The Secretariat carries out some administrative tasks related to these Rules for the Tribunal.
+
+- Marginal note: General Division
+
+- (2) The Tribunal’s General Division decides appeals from reconsideration decisions made under each of the following:
+
+  - (a) the Canada Pension Plan;
+
+  - (a.1) the Canada Disability Benefit Regulations;
+
+  - (b) the Old Age Security Act;
+
+  - (c) the Employment Insurance Act.
+
+- Marginal note: Appeal Division
+
+- (3) The Tribunal’s Appeal Division decides appeals from General Division decisions and Board of Appeal decisions.
+
+History:
+
+- SOR/2025-91, s. 2
+
+- SOR/2025-92, s. 1
+
+- SOR/2026-45, s. 1
+
+Marginal note: Overview of these Rules
+
+3 These Rules are set out in the order that they normally apply, but the order may be different in some appeals. Not every rule applies in every appeal. The Rules are divided into the following Parts:
+
+- (a) Part 1 sets out how to interpret the Rules;
+
+- (b) Part 2 sets out general rules about what the Tribunal can do and how it conducts the appeal process;
+
+- (c) Part 3 sets out the roles and responsibilities of participants and the Tribunal;
+
+- (d) Part 4 sets out how to file documents with the Tribunal and how the Tribunal handles documents;
+
+- (e) Part 5 sets out how to appeal, how the Tribunal handles late appeals, what language the appeal can be in and how the Tribunal adds parties;
+
+- (f) Part 6 sets out various procedures that may apply in the appeal process;
+
+- (g) Part 7 sets out specific rules for Income Security appeals at the General Division and Appeal Division;
+
+- (h) Part 8 sets out specific rules for Employment Insurance appeals at the General Division and Appeal Division; and
+
+- (i) Part 9 sets out specific rules for hearings and decisions.
+
+- (j) [Repealed, SOR/2025-91, s. 3]
+
+- (k) [Repealed, SOR/2025-91, s. 3]
+
+History:
+
+- SOR/2025-91, s. 3
+
+## PART 1 Interpretation
+
+Marginal note: What Part 1 is about
+
+4 This Part sets out definitions for terms and expressions used in these Rules. This Part also sets out how the Tribunal interprets and applies the Rules.
+
+Marginal note: Definitions
+
+5 The following definitions apply in these Rules. To understand the Rules, it is important to first read the definitions and then refer back to them as needed.
+
+- appeal means an appeal to the Tribunal under Part 5 of the Department of Employment and Social Development Act. It includes an application for permission to appeal a General Division decision to the Appeal Division in an Income Security appeal. (appel)
+
+- appellant means
+
+  - (a) the person who appeals a reconsideration decision to the General Division; or
+
+  - (b) the person who appeals a General Division or Board of Appeal decision to the Appeal Division.
+
+- At the Appeal Division, the appellant may be the Minister or the Commission. (appelant)
+
+- argument means a submission that sets out a party’s point of view about what the Tribunal should do in an appeal. A party may file arguments with the Tribunal or make arguments at an oral hearing. (argument)
+
+- Board of Appeal means the Employment Insurance Board of Appeal. (Conseil d’appel)
+
+- business day means a day that is not a Saturday, Sunday or holiday. (jour ouvrable)
+
+- Commission means the Canada Employment Insurance Commission. (Commission)
+
+- contact information means
+
+  - (a) an address;
+
+  - (b) a phone number, if there is one; and
+
+  - (c) an email address, if there is one. (coordonnées)
+
+- Employment Insurance appeal means an appeal from a reconsideration decision that the Commission made under the Employment Insurance Act. It includes an appeal from a General Division Employment Insurance decision or Board of Appeal decision to the Appeal Division. (appel en assurance-emploi)
+
+- evidence means something that a party presents to the Tribunal to prove a fact. It includes documents, photographs, video recordings and sound recordings that a party may file with the Tribunal. It also includes testimony given at an oral hearing. (élément de preuve)
+
+- Income Security appeal means an appeal from a reconsideration decision that the Minister made under the Canada Pension Plan, the Canada Disability Benefit Regulations or the Old Age Security Act. It includes an appeal from a General Division Income Security decision to the Appeal Division. (appel en sécurité du revenu)
+
+- Minister means the Minister of Employment and Social Development. (ministre)
+
+- participant means
+
+  - (a) the parties; and
+
+  - (b) representatives, support persons, witnesses and interpreters who take part in an appeal. (participant)
+
+- party means
+
+  - (a) the appellant and the Minister, for Income Security appeals at the General Division;
+
+  - (b) the appellant and the Commission, for Employment Insurance appeals at the General Division;
+
+  - (c) the appellant and any other party at the General Division or the Board of Appeal, for appeals at the Appeal Division; and
+
+  - (d) any person added as a party under section 33. (partie)
+
+- permission to appeal means leave to appeal a General Division decision to the Appeal Division under section 58.1 of the Department of Employment and Social Development Act. (permission de faire appel)
+
+- reconsideration decision means
+
+  - (a) a decision that the Minister made under section 81 of the Canada Pension Plan, including a decision about more time to make a reconsideration request and a decision to rescind or amend a decision based on new facts;
+
+  - (a.1) a decision that the Minister made under section 18 or 19 of the Canada Disability Benefit Regulations, including a decision about more time to make a reconsideration request;
+
+  - (b) a decision that the Minister made under section 27.1 of the Old Age Security Act, including a decision about more time to make a reconsideration request; or
+
+  - (c) a decision that the Commission made under section 112 of the Employment Insurance Act, including a decision about more time to make a reconsideration request. (décision de révision)
+
+- reconsideration request means a request for the Minister or the Commission to reconsider a decision under
+
+  - (a) section 81(1) or (1.1) of the Canada Pension Plan;
+
+  - (a.1) section 18(1) or (2) of the Canada Disability Benefit Regulations;
+
+  - (b) section 27.1(1) or (1.1) of the Old Age Security Act; or
+
+  - (c) section 112 of the Employment Insurance Act. (demande de révision)
+
+History:
+
+- SOR/2025-91, s. 4
+
+- SOR/2025-92, s. 2
+
+- SOR/2026-45, s. 3
+
+Marginal note: How the Tribunal interprets and applies these Rules
+
+6 The Tribunal must interpret and apply these Rules so that
+
+- (a) the appeal process is simple, quick and fair;
+
+- (b) the Tribunal considers the parties’ particular circumstances;
+
+- (c) every party can participate in the appeal process, even if they do not have a representative; and
+
+- (d) the appeal process is flexible and appropriate for what the Tribunal must decide in each appeal.
+
+## PART 2 General Rules
+
+Marginal note: What Part 2 is about
+
+7 This Part sets out
+
+- (a) how the Tribunal conducts the appeal process;
+
+- (b) what happens if the Tribunal cannot reach a party; and
+
+- (c) how to ask for an accommodation.
+
+### Conducting the Appeal Process
+
+Marginal note: Making the appeal process simple, quick and fair
+
+- 8 (1) The Tribunal must make sure that the appeal process is as simple and quick as fairness allows.
+
+- Marginal note: Using active adjudication
+
+- (2) The Tribunal uses active adjudication as described in section 17(2) to help parties participate fully in the appeal process.
+
+- Marginal note: If a party wants the Tribunal to decide on a procedure
+
+- (3) A party may ask the Tribunal to do or decide something as part of the appeal process. To do this, the party must file a request with the Tribunal. The request must set out what the party wants and why.
+
+- Marginal note: Adapting these Rules
+
+- (4) The Tribunal may adapt these Rules or decide that a party does not need to follow one or more rules if it is in the interest of justice.
+
+- Marginal note: If these Rules do not cover something
+
+- (5) The Tribunal may decide the procedure for anything not in these Rules or the Social Security Tribunal Regulations, 2022.
+
+History:
+
+- SOR/2025-91, s. 5
+
+### Continuing the Appeal Process Without a Party
+
+Marginal note: Contact information on file
+
+- 9 (1) The Tribunal uses the contact information it has on file when it contacts a party or sends a document to a party.
+
+- Marginal note: If the Tribunal cannot reach a party
+
+- (2) The Tribunal may continue the appeal process even if it cannot reach a party using the contact information the party gave it. The Tribunal may do this without giving further notice to the party.
+
+### Asking for an Accommodation
+
+Marginal note: Definition of accommodation
+
+- 10 (1) In this section, accommodation means an arrangement to remove a barrier so a person can participate fully in the appeal process. An accommodation must relate to one of the grounds set out in section 3 of the Canadian Human Rights Act.
+
+- Marginal note: If a participant needs an accommodation
+
+- (2) A participant must notify the Tribunal as soon as possible if they need an accommodation.
+
+## PART 3 Roles and Responsibilities
+
+Marginal note: What Part 3 is about
+
+11 This Part sets out the roles and responsibilities of participants and the Tribunal.
+
+### All Participants
+
+Marginal note: Participants’ responsibilities
+
+12 Participants must
+
+- (a) be respectful and help maintain a safe environment;
+
+- (b) be honest; and
+
+- (c) not act in any way that goes against these Rules, the Social Security Tribunal Regulations, 2022 or the appeal process.
+
+### Parties
+
+Marginal note: How parties participate
+
+- 13 (1) Parties are responsible for participating in the appeal process. This may include
+
+  - (a) preparing documents;
+
+  - (b) filing documents with the Tribunal;
+
+  - (c) presenting evidence or arguments;
+
+  - (d) attending a conference or a hearing;
+
+  - (e) questioning witnesses; and
+
+  - (f) responding to another party’s arguments.
+
+- Marginal note: Following Rules and directions
+
+- (2) Parties must follow these Rules and the Tribunal’s directions. This includes
+
+  - (a) communicating with the Tribunal and responding to its requests; and
+
+  - (b) meeting the deadlines the Tribunal sets out.
+
+- Marginal note: Keeping contact information up to date
+
+- (3) Parties must notify the Tribunal as soon as possible of any changes to their contact information.
+
+### Representatives
+
+Marginal note: What a representative does
+
+- 14 (1) If a party chooses to have a representative under section 63.1 of the Department of Employment and Social Development Act, the representative
+
+  - (a) acts on behalf of the party by presenting their position;
+
+  - (b) may represent the party for all or part of the appeal process; and
+
+  - (c) does not need to be a lawyer.
+
+- Marginal note: How a representative participates
+
+- (2) A representative is responsible for participating in the appeal process in the same way that a party participates as described in section 13.
+
+- Marginal note: Sharing information with a party
+
+- (3) The Tribunal communicates directly with a representative. The representative must share information they receive from the Tribunal with the party they represent.
+
+- Marginal note: Keeping a representative’s contact information up to date
+
+- (4) A representative must notify the Tribunal as soon as possible of any changes to their contact information.
+
+- Marginal note: If a representative stops representing a party
+
+- (5) A representative must notify the Tribunal as soon as possible if they stop representing a party.
+
+### Support Persons
+
+Marginal note: Definition of support person
+
+- 15 (1) In this section and in Part 1, support person means a person who helps a party at an oral hearing by
+
+  - (a) organizing their documents;
+
+  - (b) taking notes for the party; or
+
+  - (c) giving moral and emotional support.
+
+- Marginal note: How a support person participates
+
+- (2) A support person does not represent the party, but they may attend the oral hearing as an observer.
+
+- Marginal note: Sharing information with a support person
+
+- (3) The Tribunal does not communicate directly with a support person outside an oral hearing. A party is responsible for sharing information from the Tribunal with their support person if they want the support person to have the information.
+
+### Witnesses
+
+Marginal note: What a witness does
+
+- 16 (1) A witness testifies at an oral hearing to give relevant evidence.
+
+- Marginal note: How a witness participates
+
+- (2) A witness may be questioned by a party, a representative or the Tribunal. A witness must answer all questions truthfully.
+
+### Tribunal
+
+Marginal note: What the Tribunal does
+
+- 17 (1) The Tribunal hears appeals in a way that allows parties to participate fully in the appeal process. The Tribunal considers all of the parties’ evidence and arguments and gives a decision.
+
+- Marginal note: How the Tribunal actively adjudicates
+
+- (2) The Tribunal actively adjudicates appeals. Active adjudication may include
+
+  - (a) deciding what issues need to be addressed;
+
+  - (b) deciding what procedures are appropriate in the circumstances;
+
+  - (c) helping parties, representatives and witnesses understand the appeal process and these Rules;
+
+  - (d) providing information about the laws that apply to the appeal;
+
+  - (e) providing information about evidence;
+
+  - (f) deciding the order for parties to present evidence or arguments at an oral hearing; and
+
+  - (g) asking parties, representatives and witnesses questions at an oral hearing.
+
+History:
+
+- SOR/2025-91, s. 6
+
+## PART 4 Documents
+
+Marginal note: What Part 4 is about
+
+18 This Part sets out
+
+- (a) how to file documents with the Tribunal and what the Tribunal does with them;
+
+- (b) what the Tribunal can do with electronic documents; and
+
+- (c) when the Tribunal considers that a party has received a document.
+
+### Documents Filed with the Tribunal
+
+Marginal note: How to file documents
+
+- 19 (1) A party that needs to file a document with the Tribunal must file the document in one of the following ways:
+
+  - (a) by email, using the address set out on the Tribunal’s website;
+
+  - (b) by mail, using the address set out on the Tribunal’s website; or
+
+  - (c) electronically, using the electronic filing procedure set out on the Tribunal’s website.
+
+- Marginal note: Filing documents in a specific form and manner
+
+- (1.1) The Tribunal may require a party to file a document in a specific form and manner.
+
+- Marginal note: When a document is filed
+
+- (2) A document is considered filed on the date the Tribunal receives it. On each document, the Tribunal indicates the date it received the document.
+
+- Marginal note: Extending a deadline that falls on a weekend or holiday
+
+- (3) If a filing deadline set by the Tribunal or these Rules falls on a day that is not a business day, the deadline is extended to the next business day.
+
+History:
+
+- SOR/2025-91, s. 7
+
+Marginal note: Adding documents to the appeal record
+
+- 20 (1) When a party files a document to support their position in an appeal, the Tribunal must add it to the appeal record.
+
+- Marginal note: Sending copies to parties
+
+- (2) When a party files a document to support their position in an appeal, the Tribunal must send a copy of it to the other parties as soon as possible.
+
+- Marginal note: Accessing documents in the appeal record
+
+- (3) The public may access the documents in the appeal record unless the Tribunal limits public access to them under section 3 of the Social Security Tribunal Regulations, 2022.
+
+### Electronic Documents
+
+Marginal note: An electronic copy is an original
+
+- 21 (1) An electronic copy of a document is considered the original version of the document.
+
+- Marginal note: Making electronic copies
+
+- (2) The Tribunal may make an electronic copy of any document filed.
+
+- Marginal note: Providing an electronic copy
+
+- (3) The Tribunal may provide an electronic copy of any document filed.
+
+- Marginal note: Certifying an electronic copy as a true copy
+
+- (4) The Tribunal may certify an electronic copy as a true copy.
+
+### Receiving Documents from the Tribunal
+
+Marginal note: When a party receives a document by regular mail
+
+- 22 (1) When the Tribunal sends a document to a party by regular mail, the document is considered received 10 days after the day it was sent.
+
+- Marginal note: When a party receives a document by registered mail or courier
+
+- (2) When the Tribunal sends a document to a party by registered mail or courier, the document is considered received on the date of the delivery confirmation receipt.
+
+- Marginal note: When a party receives a document electronically
+
+- (3) When the Tribunal sends a document to a party by email or another electronic method, the document is considered received on the next business day.
+
+- Marginal note: Exception
+
+- (4) The Tribunal applies sections 22(1) to (3) unless a party shows why the Tribunal should not apply them.
+
+## PART 5 Appealing a Decision
+
+Marginal note: What Part 5 is about
+
+23 This Part sets out
+
+- (a) how to appeal and what information to provide;
+
+- (b) how the Tribunal handles late appeals;
+
+- (c) what language the appeal can be in; and
+
+- (d) how the Tribunal adds parties.
+
+### Appealing a Decision in an Income Security Appeal
+
+History:
+
+- SOR/2026-45, s. 4
+
+Marginal note: How to appeal a reconsideration decision to the General Division
+
+- 24 (1) To appeal a reconsideration decision in an Income Security appeal, an appellant must file a notice of appeal with the Tribunal’s General Division. The notice must include
+
+  - (a) the appellant’s full name;
+
+  - (b) the appellant’s contact information;
+
+  - (c) the appellant’s reasons for appealing; and
+
+  - (d) a copy of the reconsideration decision or the date of the reconsideration decision.
+
+  - (e) [Repealed, SOR/2025-91, s. 8]
+
+- Marginal note: Identifying number
+
+- (2) The Tribunal may ask an appellant to include a social insurance number, a Canada Revenue Agency business number or any other identifying number with their notice of appeal. The appellant must provide the number that the Tribunal asks for.
+
+- Marginal note: When to file the notice of appeal
+
+- (3) The appellant must file the notice of appeal by the deadline set out in section 52 of the Department of Employment and Social Development Act.
+
+- Marginal note: Confirming the notice of appeal was received
+
+- (4) The Tribunal notifies the appellant when it receives their notice of appeal.
+
+History:
+
+- SOR/2025-91, s. 8
+
+- SOR/2026-45, s. 5
+
+25 [Repealed, SOR/2026-45, s. 6]
+
+Marginal note: How to appeal a General Division decision to the Appeal Division
+
+- 26 (1) To appeal a General Division decision, an appellant must file an application for permission to appeal with the Tribunal’s Appeal Division. The application must include
+
+  - (a) the appellant’s full name;
+
+  - (b) the appellant’s contact information;
+
+  - (c) the appellant’s reasons for appealing; and
+
+  - (d) a copy of the General Division decision, the date of the General Division decision or the General Division file number.
+
+- Marginal note: When to file the application for permission to appeal
+
+- (2) The appellant must file the application for permission to appeal by the deadline set out in section 57(1.1) of the Department of Employment and Social Development Act.
+
+- Marginal note: Getting permission to appeal
+
+- (3) To be granted permission to appeal, the appellant must show that at least one of the criteria set out in section 58.1 of the Department of Employment and Social Development Act is met.
+
+- Marginal note: Confirming the application was received
+
+- (4) The Tribunal notifies the appellant when it receives their application for permission to appeal.
+
+History:
+
+- SOR/2026-45, s. 7
+
+### Appealing a Decision in an Employment Insurance Appeal
+
+Marginal note: How to appeal a Board of Appeal decision to the Appeal Division
+
+- 26.1 (1) To appeal a Board of Appeal decision, an appellant must file a notice of appeal with the Tribunal’s Appeal Division. The notice must include
+
+  - (a) the appellant’s full name;
+
+  - (b) the appellant’s contact information;
+
+  - (c) the appellant’s reasons for appealing;
+
+  - (d) a copy of the Board of Appeal decision; and
+
+  - (e) contact information, if known, for any other person, other than the Commission, who was a party at the Board of Appeal.
+
+- Marginal note: Identifying number
+
+- (2) The Tribunal may ask an appellant to include a social insurance number, a Canada Revenue Agency business number or any other identifying number with their notice of appeal. The appellant must provide the number that the Tribunal asks for.
+
+- Marginal note: When to file the notice of appeal
+
+- (3) The appellant must file the notice of appeal by the deadline set out in section 54.2(1) of the Department of Employment and Social Development Act.
+
+- Marginal note: Confirming the notice of appeal was received
+
+- (4) The Tribunal notifies the appellant when it receives their notice of appeal.
+
+- Marginal note: Receiving a Board of Appeal decision
+
+- (5) A Board of Appeal decision is considered received by the appellant
+
+  - (a) 10 days after the day it was sent, if the decision is sent by regular mail;
+
+  - (b) on the date of the delivery confirmation receipt, if the decision is sent by registered mail or courier; or
+
+  - (c) on the next business day, if the decision is sent by email or another electronic method.
+
+- Marginal note: Exception
+
+- (6) The Tribunal applies section 26.1(5) unless the appellant shows why the Tribunal should not do so.
+
+History:
+
+- SOR/2026-45, s. 8
+
+Marginal note: How to appeal a General Division decision to the Appeal Division
+
+- 26.2 (1) To appeal a General Division decision in an Employment Insurance appeal, an appellant must file a notice of appeal with the Tribunal’s Appeal Division. The notice must include
+
+  - (a) the appellant’s full name;
+
+  - (b) the appellant’s contact information;
+
+  - (c) the appellant’s reasons for appealing; and
+
+  - (d) a copy of the General Division decision, the date of the General Division decision or the General Division file number.
+
+- Marginal note: When to file the notice of appeal
+
+- (2) The appellant must file the notice of appeal by the deadline set out in section 57(1) of the Department of Employment and Social Development Act.
+
+- Marginal note: Confirming the notice of appeal was received
+
+- (3) The Tribunal notifies the appellant when it receives their notice of appeal.
+
+History:
+
+- SOR/2026-45, s. 8
+
+### Late Appeal
+
+Marginal note: How to ask for more time
+
+- 27 (1) An appellant who files a notice of appeal or an application for permission to appeal after the deadline must explain why they are late. They must file the explanation with the Tribunal.
+
+- Marginal note: Deciding to give more time to appeal
+
+- (2) The Tribunal gives more time to appeal if the appellant has a reasonable explanation for why they are late. The Tribunal decides whether to give more time without asking the other parties for arguments.
+
+### Language of the Appeal
+
+Marginal note: Choosing English or French
+
+28 A party may choose whether they want the appeal to be in English or French. This rule does not apply to the Minister or the Commission.
+
+Marginal note: Documents not in English or French
+
+29 A party who wants to file a document that is not in English or French must
+
+- (a) get the document translated into English or French; and
+
+- (b) file the translation with the document.
+
+Marginal note: Asking for a translation of an English or French document filed by the Minister or Commission
+
+- 30 (1) A party may ask the Tribunal for a translation of a document into their chosen language for the appeal if the document
+
+  - (a) was filed by the Minister or the Commission;
+
+  - (b) is in English or French; and
+
+  - (c) did not come from the party.
+
+- Marginal note: Filing the translation
+
+- (2) If a party asks for a translation of a document that meets the conditions set out in section 30(1), the Minister or the Commission must file the translation with the Tribunal.
+
+History:
+
+- SOR/2025-91, s. 9
+
+Marginal note: What to include with translated documents
+
+31 If a party files a translation with the Tribunal, the party must include the following information:
+
+- (a) the translator’s full name;
+
+- (b) the translator’s contact information; and
+
+- (c) a statement from the translator that the translation is accurate.
+
+Marginal note: If a party needs an interpreter
+
+- 32 (1) A party must notify the Tribunal as soon as possible if they or any other participant need an interpreter to translate what people say at an oral hearing or conference.
+
+- Marginal note: Tribunal will provide an interpreter
+
+- (2) The Tribunal provides an interpreter if a party asks for one.
+
+### Added Parties
+
+Marginal note: When the Tribunal automatically adds a party
+
+- 33 (1) The Tribunal must add a person as a party to an appeal in the following situations:
+
+  - (a) when the Minister notifies the Tribunal of that person under section 65 of the Department of Employment and Social Development Act; and
+
+  - (b) when an employer is appealing a reconsideration decision about that person’s entitlement to benefits under the Employment Insurance Act.
+
+- Marginal note: Other situations when the Tribunal could add a party
+
+- (2) The Tribunal may decide to add a person as a party to an appeal if the person has a direct interest in the decision.
+
+- Marginal note: How to ask to be added as a party
+
+- (3) A person who wants to be added as a party to an appeal must file a request with the Tribunal. The request must include
+
+  - (a) their full name;
+
+  - (b) their contact information; and
+
+  - (c) an explanation of how they have a direct interest in the decision.
+
+- Marginal note: Deciding without arguments from other parties
+
+- (4) The Tribunal decides whether to add a person without asking the other parties for arguments.
+
+## PART 6 Procedures that Apply in Certain Situations
+
+Marginal note: What Part 6 is about
+
+34 This Part sets out various procedures that may apply in the appeal process.
+
+### Joining Appeals
+
+Marginal note: When the Tribunal may join appeals
+
+35 The Tribunal may deal with two or more appeals together if
+
+- (a) the appeals raise a common question; and
+
+- (b) joining the appeals is not unfair to the parties.
+
+### Limiting Public Access to the Appeal
+
+Marginal note: If a party wants to limit public access
+
+- 36 (1) A party may ask the Tribunal to limit public access to an oral hearing or the appeal record. To do this, the party must file a request with the Tribunal.
+
+- Marginal note: What information to include with the request
+
+- (2) The party’s request must set out
+
+  - (a) the serious risk described in section 3 of the Social Security Tribunal Regulations, 2022 that is leading the party to ask the Tribunal to limit public access;
+
+  - (b) the information or documents they want to limit public access to; and
+
+  - (c) the reasons why reasonable alternative measures cannot adequately reduce the serious risk.
+
+### Holding Conferences
+
+Marginal note: What a conference may cover
+
+- 37 (1) The Tribunal may hold a conference with the parties to talk about the appeal. A conference may include discussions about any matter, such as
+
+  - (a) the step the appeal is at and the next steps in the appeal process;
+
+  - (b) the issues in the appeal;
+
+  - (c) the Tribunal’s authority to do or decide something;
+
+  - (d) the deadlines for filing documents; and
+
+  - (e) ways to settle the appeal without a hearing.
+
+- Marginal note: How a conference takes place
+
+- (2) A conference may take place
+
+  - (a) by phone;
+
+  - (b) by video or other type of telecommunication; or
+
+  - (c) in person.
+
+Marginal note: If a conference is a settlement conference
+
+- 38 (1) If a conference is a settlement conference, documents related to the conference and discussions at the conference must not be disclosed. The documents are not part of the appeal record.
+
+- Marginal note: Exception
+
+- (2) If all parties agree, the documents and discussions may be disclosed and the documents may be included in the appeal record.
+
+- Marginal note: If there is a hearing after a settlement conference
+
+- (3) The Tribunal member who holds a settlement conference must not hear the appeal unless all parties agree.
+
+History:
+
+- SOR/2025-91, s. 10(F)
+
+### Deciding Based on an Agreement
+
+Marginal note: If the parties reach an agreement
+
+- 39 (1) A party may ask the Tribunal to make a decision based on an agreement that the parties have reached and signed. To do this, the party must file a request and the agreement with the Tribunal.
+
+- Marginal note: Exception
+
+- (2) The party does not need to file a request or an agreement if they reach the agreement at a settlement conference.
+
+History:
+
+- SOR/2025-91, s. 11
+
+### Having a Witness Participate
+
+Marginal note: Having a witness at an oral hearing
+
+40 A party may have a witness testify at an oral hearing in the following types of appeals:
+
+- (a) an Employment Insurance appeal at the General Division;
+
+- (b) an Income Security appeal at the General Division;
+
+- (c) an Income Security appeal at the Appeal Division; and
+
+- (d) an Employment Insurance appeal at the Appeal Division, if the appeal is from a Board of Appeal decision and is about a question of constitutional law.
+
+History:
+
+- SOR/2026-45, s. 11
+
+Marginal note: How to notify the Tribunal about a witness
+
+- 41 (1) If a party wants to have a witness testify in an Income Security appeal or in an Employment Insurance appeal that is about a question of constitutional law, the party must file a notice with the Tribunal by the filing deadline. The notice must include the following information:
+
+  - (a) the witness’s full name;
+
+  - (b) the relationship between the party and the witness; and
+
+  - (c) the language the witness will use to testify.
+
+- Marginal note: Other information to include about certain witnesses
+
+- (2) If a witness is testifying as a professional, the notice must also include the following:
+
+  - (a) the witness’s résumé; and
+
+  - (b) a list of the documents filed with the Tribunal that the witness will testify about or a summary of what the witness will testify about.
+
+- Marginal note: Exception
+
+- (3) Section 41(2) does not apply to a witness who is a health care professional who treated the party seeking benefits.
+
+- Marginal note: Admitting evidence from a professional
+
+- (4) The Tribunal does not qualify any witness as an expert before admitting the witness’s evidence.
+
+- Marginal note: Exception
+
+- (5) If a party wants to testify, they do not need to file a notice.
+
+History:
+
+- SOR/2026-45, s. 12
+
+### Handling Late Evidence or Written Arguments
+
+History:
+
+- SOR/2025-91, s. 12
+
+Marginal note: If a party files evidence or written arguments after a deadline
+
+- 42 (1) The Tribunal must not consider any evidence or written argument that a party files after a filing deadline set by the Tribunal or these Rules unless it gives the party permission to use that evidence or written argument.
+
+- Marginal note: What factors the Tribunal considers
+
+- (2) When deciding whether to give a party permission, the Tribunal must consider any relevant factor. For example, the Tribunal considers whether
+
+  - (a) the evidence or argument is relevant;
+
+  - (b) the evidence or argument is new;
+
+  - (c) the party could have filed the evidence or argument earlier;
+
+  - (d) giving permission would be unfair to a party; and
+
+  - (e) giving permission would cause delays.
+
+- Marginal note: Deciding without arguments from other parties
+
+- (3) The Tribunal decides whether to give permission without asking the other parties for arguments unless fairness requires the Tribunal to ask.
+
+History:
+
+- SOR/2025-91, s. 13
+
+### Rescheduling a Hearing
+
+Marginal note: Asking to reschedule a hearing
+
+- 43 (1) A party may ask the Tribunal to reschedule a hearing. The Tribunal must reschedule the party’s hearing when
+
+  - (a) they are asking for the first time;
+
+  - (b) the original hearing was not scheduled according to their availability or their representative’s availability;
+
+  - (c) they ask at least five business days before the original hearing date; and
+
+  - (d) they are available for a hearing within two weeks before or after the original hearing date.
+
+- Marginal note: Explaining why the hearing needs to be rescheduled
+
+- (2) If a party wants to reschedule a hearing but does not meet the conditions set out in section 43(1), the party must file a request with the Tribunal. The request must explain why they want the hearing rescheduled.
+
+- Marginal note: Rescheduling for fairness reasons
+
+- (3) The Tribunal may reschedule the hearing only if it is necessary for a fair hearing. The Tribunal decides whether to reschedule without asking the other parties for arguments unless fairness requires the Tribunal to ask.
+
+History:
+
+- SOR/2025-91, s. 14
+
+### Withdrawing an Appeal
+
+Marginal note: How to withdraw an appeal
+
+44 An appellant may withdraw their appeal. They may do this by notifying the Tribunal anytime
+
+- (a) before the hearing ends, when there is an oral hearing; or
+
+- (b) before the Tribunal gives its decision, when there is a hearing in writing.
+
+History:
+
+- SOR/2025-91, s. 15(F)
+
+## PART 7 Income Security Appeal Process
+
+Marginal note: What Part 7 is about
+
+45 This Part sets out specific rules for Income Security appeals at the General Division and Appeal Division.
+
+### Income Security Appeals at the General Division
+
+Marginal note: Filing the reconsideration file
+
+- 46 (1) The Minister must file the reconsideration file with the Tribunal within 20 days after the day the Minister receives a copy of the notice of appeal.
+
+- Marginal note: Filing in a single organized file
+
+- (1.1) The reconsideration file must be filed in a single organized file. The Tribunal may require that it be filed in a specific form and manner.
+
+- Marginal note: What to include with the reconsideration file
+
+- (2) The reconsideration file must include a copy of the following:
+
+  - (a) the application that led to the reconsideration request;
+
+  - (b) the reconsideration request;
+
+  - (c) the reconsideration decision; and
+
+  - (d) all other relevant documents, including, if applicable,
+
+    - (i) the notification referred to in section 46 or 46.1 of the Canada Pension Plan Regulations,
+
+    - (ii) a document that sets out the information referred to in section 54(2) of the Canada Pension Plan Regulations,
+
+    - (iii) the notice referred to in section 60(7) of the Canada Pension Plan, and
+
+    - (iv) the notice referred to in section 16 or 24 of the Old Age Security Act.
+
+History:
+
+- SOR/2025-91, s. 16
+
+Marginal note: Sending filing deadlines
+
+- 47 (1) The Tribunal must send the parties the deadlines for filing evidence, arguments or any other documents.
+
+- Marginal note: If a party is filing evidence, arguments or other documents
+
+- (2) Parties must file any evidence, arguments or other documents by the filing deadlines.
+
+- Marginal note: Changing the filing deadlines
+
+- (3) The Tribunal may change the filing deadlines if it considers the change necessary. The Tribunal must then send the parties the new deadlines.
+
+- Marginal note: Two-year limit
+
+- (4) The Tribunal must not set a filing deadline that falls more than two years after the day the appellant filed the notice of appeal unless there are exceptional circumstances.
+
+History:
+
+- SOR/2025-91, s. 17(F)
+
+### Income Security Appeals at the Appeal Division
+
+Marginal note: Asking for more information — permission to appeal
+
+- 48 (1) The Tribunal may ask an appellant for more information before it decides whether to grant permission to appeal a General Division decision.
+
+- Marginal note: Deciding without arguments from other parties
+
+- (2) The Tribunal decides whether to grant permission to appeal without asking the other parties for arguments.
+
+Marginal note: Sending filing deadlines
+
+- 49 (1) If it grants permission to appeal, the Tribunal must send the parties the deadlines for filing evidence, arguments or any other documents.
+
+- Marginal note: If a party is filing evidence, arguments or other documents
+
+- (2) Parties must file any evidence, arguments or other documents by the filing deadlines.
+
+- Marginal note: Changing the filing deadlines
+
+- (3) The Tribunal may change the filing deadlines if it considers the change necessary. The Tribunal must then send the parties the new deadlines.
+
+## PART 8 Employment Insurance Appeal Process
+
+Marginal note: What Part 8 is about
+
+50 This Part sets out specific rules for Employment Insurance appeals at the General Division and Appeal Division.
+
+### Employment Insurance Appeals at the General Division
+
+Marginal note: Filing the reconsideration file
+
+- 51 (1) The Commission must file the reconsideration file with the Tribunal within seven business days after the day the Commission receives a copy of the notice of appeal.
+
+- Marginal note: What to include with the reconsideration file
+
+- (2) The reconsideration file must include a copy of the following:
+
+  - (a) the reconsideration request;
+
+  - (b) the reconsideration decision;
+
+  - (c) all other relevant documents; and
+
+  - (d) a document that sets out the Commission’s arguments, if it has any.
+
+Marginal note: If a party is filing evidence
+
+52 Parties must file any evidence before the hearing ends.
+
+Marginal note: Asking the Commission to investigate and report
+
+53 The Tribunal may ask the Commission to investigate and report on any question related to a claim for benefits. The Tribunal may do this anytime before giving its decision.
+
+### Employment Insurance Appeals at the Appeal Division
+
+Marginal note: Notifying the Board of Appeal
+
+- 54 (1) The Tribunal notifies the Board of Appeal when an appellant files a notice of appeal from a Board of Appeal decision.
+
+- Marginal note: Sending the Tribunal the appeal record
+
+- (2) Within seven business days after the day the Tribunal notifies the Board of Appeal, the Board of Appeal must send the Tribunal
+
+  - (a) contact information for any party, if the Tribunal asks for it; and
+
+  - (b) the appeal record, which must include a copy of the following:
+
+    - (i) the Commission’s reconsideration file sent to the Board of Appeal,
+
+    - (ii) all other documents that were before the Board of Appeal members when reaching their decision, including all documents a party sent the Board of Appeal (such as forms, letters, evidence and arguments) and all documents the Board of Appeal sent a party (such as notices, letters and decisions), and
+
+    - (iii) any recording of the hearing.
+
+- Marginal note: Filing in a single organized file
+
+- (3) The documents referred to in section 54(2)(b)(ii) must be filed in a single organized file.
+
+- Marginal note: Filing in a specific form and manner
+
+- (4) The Tribunal may require that the Board of Appeal file any document referred to in section 54(2)(b)(ii) or any recording referred to in section 54(2)(b)(iii) in a specific form and manner.
+
+- Marginal note: Sending copies to parties
+
+- (5) The Tribunal must send the parties a copy of the documents in the appeal record. If the appeal record includes a recording of the hearing and a party asks for a copy of it, the Tribunal must send a copy to all parties.
+
+History:
+
+- SOR/2026-45, s. 15
+
+Marginal note: Sending filing deadlines
+
+- 55 (1) The Tribunal must send the parties the deadlines for filing arguments.
+
+- Marginal note: Questions of constitutional law
+
+- (2) If an appeal is about a question of constitutional law, the deadlines may include deadlines for filing evidence.
+
+- Marginal note: If a party is filing evidence or arguments
+
+- (3) Parties must file any evidence or arguments by the filing deadlines.
+
+- Marginal note: Changing the filing deadlines
+
+- (4) The Tribunal may change the filing deadlines if it considers the change necessary. The Tribunal must then send the parties the new deadlines.
+
+History:
+
+- SOR/2026-45, s. 15
+
+## PART 9 Hearing and Decision
+
+Marginal note: What Part 9 is about
+
+56 This Part sets out specific rules for hearings and decisions.
+
+Marginal note: Hearing details
+
+57 If there will be a hearing, the Tribunal must send the parties a notice that sets out the hearing details.
+
+Marginal note: When an oral hearing may take place without a party
+
+58 An oral hearing may take place without a party if the Tribunal is of the opinion that the party received the notice of hearing.
+
+Marginal note: When the Tribunal gives its decision
+
+59 The Tribunal must give its decision as soon as possible after the hearing. The Tribunal must give reasons for its decision.
+
+## PART 10 [Repealed, SOR/2025-91, s. 18]
+
+Marginal note: Sending a copy of the decision to the Board of Appeal
+
+60 For Employment Insurance appeals at the Appeal Division, the Appeal Division sends a copy of its final decision to the Board of Appeal if the appeal is from
+
+- (a) a Board of Appeal decision; or
+
+- (b) a General Division Employment Insurance decision that is being referred back to the Board of Appeal for reconsideration.
+
+History:
+
+- SOR/2026-45, s. 16
+
+61 [Repealed, SOR/2025-91, s. 18]
+
+62 [Repealed, SOR/2025-91, s. 18]
+
+63 [Repealed, SOR/2025-91, s. 18]
+
+64 [Repealed, SOR/2025-91, s. 18]
+
+## PART 11 [Repealed, SOR/2025-91, s. 18]
+
+65 [Repealed, SOR/2025-91, s. 18]
