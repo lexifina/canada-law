@@ -72,6 +72,12 @@ Item | Band | Number of Acres
 
 34 | Pasqua First Nation | 32,504.59
 
+35 | Ahtahkakoop Cree Nation | 40,659.97
+
+36 | Mistawasis Nêhiyawak | 29,394.18
+
+37 | Zagimē Anishinabēk | 18,620.42
+
 History:
 
 - SI/97-139, s. 1
@@ -81,3 +87,5 @@ History:
 - SI/2008-82, s. 1
 
 - SI/2010-26, s. 1
+
+- SI/2026-14, s. 3
