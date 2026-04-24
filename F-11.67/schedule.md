@@ -408,6 +408,8 @@
 
 - Nadleh Whut’en Band
 
+- Nahanni Butte
+
 - Nak’azdli Whut’en
 
 - Namgis First Nation
@@ -638,6 +640,8 @@
 
 - Sunchild First Nation
 
+- Swan Lake First Nation
+
 - Swan River First Nation
 
 - Sweetgrass
@@ -709,6 +713,8 @@
 - Wahgoshig First Nation
 
 - Wahnapitae First Nation
+
+- Walpole Island
 
 - Wasagamack First Nation
 
@@ -939,3 +945,5 @@ History:
 - SOR/2025-212, s. 1
 
 - SOR/2026-21, s. 1
+
+- SOR/2026-76, s. 1
