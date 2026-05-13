@@ -162,7 +162,7 @@
 
 - 41
 
-- Zagimē Anishinabēk
+- [Repealed, SOR/2026-86, s. 1]
 
 - 42
 
@@ -597,3 +597,5 @@ History:
 - SOR/2026-50, s. 1
 
 - SOR/2026-55, s. 1
+
+- SOR/2026-86, s. 1
