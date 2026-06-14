@@ -14,6 +14,8 @@ Canada Business Corporations Act Loi canadienne sur les sociétés par actions |
 
 Canada Deposit Insurance Corporation Act Loi sur la Société d’assurance-dépôts du Canada | subsection 45.3(1)
 
+Canada Development Investment Corporation Act Loi sur la Corporation de développement des investissements du Canada | section 21
+
 Canada Elections Act Loi électorale du Canada | section 540
 
 Canada Infrastructure Bank Act Loi sur la Banque de l’infrastructure du Canada | section 28
@@ -237,6 +239,8 @@ History:
 - 2026, c. 3, s. 193
 
 - 2026, c. 3, s. 225
+
+- 2026, c. 3, s. 387
 
 - 2026, c. 3, s. 497
 
