@@ -1,0 +1,45 @@
+## SCHEDULE (Section 1) Navigable Waters
+
+PART 1
+
+Lakes
+
+Column 1 | Column 2
+
+Item | Name | Approximate Location
+
+1 | Lake 1 | 52°52′53.61″ N, 66°46′51.20″ W
+
+2 | Lake 3 | 52°51′52.56″ N, 66°47′9.78″ W
+
+3 | Lake 4 | 52°51′42.25″ N, 66°47′16.18″ W
+
+4 | Lake 5 | 52°51′26.64″ N, 66°47′4.23″ W
+
+5 | Lake 7 | 52°51′26.35″ N, 66°46′50.88″ W
+
+6 | Lake 8 | 52°51′6.84″ N, 66°46′55.63″ W
+
+7 | Lake 10 | 52°51′1.54″ N, 66°46′29.02″ W
+
+8 | Lake 17 | 52°51′27.86″ N, 66°46′24.92″ W
+
+9 | Lake 18 | 52°51′26.53″ N, 66°46′0.44″ W
+
+10 | Lake 19 | 52°51′6.18″ N, 66°45′48.44″ W
+
+Note: The water boundary of each lake includes the mouths of all connecting waterways.
+
+PART 2
+
+Other Navigable Waters
+
+Column 1 | Column 2 | Column 3
+
+Item | Name | Approximate Downstream Point | Approximate Upstream Point
+
+1 | Stream 9 | 52°51′11.21″ N, 66°45′54.90″ W | 52°51′8.80″ N, 66°45′52.53″ W
+
+2 | Stream 16 | 52°51′15.81″ N, 66°46′10.14″ W | 52°51′11.97″ N, 66°46′27.79″ W
+
+3 | Stream 17 | 52°50′54.20″ N, 66°45′35.15″ W | 52°50′32.29″ N, 66°45′20.17″ W
