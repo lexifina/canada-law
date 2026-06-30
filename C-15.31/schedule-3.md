@@ -10,11 +10,23 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - 2
 
-- Polybrominated biphenyls that have the molecular formula C12H(10-n)Brn in which “n” is greater than 2
+- Polybrominated biphenyls that have the molecular formula C12H(10-n)Brn in which “n” is greater than 2, including
+
+  - (a)
+
+  - Hexabromobiphenyl (CAS 36355-01-8)
+
+  - (b)
+
+  - Octabromobiphenyl (CAS 27858-07-7)
+
+  - (c)
+
+  - Decabromobiphenyl (CAS 13654-09-6)
 
 - 3
 
-- Polychlorinated terphenyls that have the molecular formula C18H(14-n)Cln in which “n” is greater than 2
+- Polychlorinated terphenyls that have the molecular formula C18H(14-n)Cln in which “n” is greater than 2 (CAS 61788-33-8)
 
 - 4
 
@@ -26,7 +38,15 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - 6
 
-- Phosphamidon (2-chloro-2-diethylcarbamoyl-1-methylvinyl dimethyl phosphate) (CAS 13171-21-6)
+- Phosphamidon (2-chloro-2-diethylcarbamoyl-1-methylvinyl dimethyl phosphate) (CAS 13171-21-6) and its isomers
+
+  - (a)
+
+  - (Z)-isomer (CAS 23783-98-4)
+
+  - (b)
+
+  - (E)-isomer (CAS 297-99-4)
 
 - 7
 
@@ -34,7 +54,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 - 8
 
-- 2,3,4,5-bis(2-butylene)tetrahydro-2-furfural (CAS 126-15-8)
+- 2,3,4,5-bis(2-butylene)tetrahydro-2-furaldehyde (CAS 126-15-8)
 
 - 9
 
@@ -110,7 +130,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 - 9
 
-- Dinoseb and its salts and esters
+- Dinoseb (CAS 88-85-7) and its salts and esters
 
 - 10
 
@@ -142,7 +162,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 - 17
 
-- Pentachlorophenol and its salts and esters
+- Pentachlorophenol (CAS 87-86-5) and its salts and esters
 
 - 18
 
@@ -210,7 +230,19 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 - 29
 
-- Dinitro-ortho-cresol (DNOC) and its salts (CAS 534-52-1; CAS 2980-64-5; CAS 5787-96-2; CAS 2312-76-7)
+- Dinitro-ortho-cresol (DNOC) (CAS 534-52-1) and its salts, including
+
+  - (a)
+
+  - DNOC-ammonium (CAS 2980-64-5)
+
+  - (b)
+
+  - DNOC-potassium (CAS 5787-96-2)
+
+  - (c)
+
+  - DNOC-sodium (CAS 2312-76-7)
 
 - 30
 
@@ -258,11 +290,19 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 - 34
 
-- Endosulfan (CAS 115-29-7)
+- Endosulfan (CAS 115-29-7) and its isomers
+
+  - (a)
+
+  - Alpha-endosulfan (CAS 959-98-8)
+
+  - (b)
+
+  - Beta-endosulfan (CAS 33213-65-9)
 
 - 35
 
-- Perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls, including:
+- Perfluorooctane sulfonate and its salts and compounds that contain one of the following groups: C8F17SO2, C8F17SO3 or C8F17SO2N, including
 
   - (a)
 
@@ -311,6 +351,58 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
   - (l)
 
   - Perfluorooctane sulfonyl fluoride (CAS 307-35-7)
+
+- 36
+
+- Hexabromocyclododecane, which has the molecular formula C12H18Br6 (CAS 25637-99-4), including
+
+  - (a)
+
+  - 1,2,5,6,9,10-hexabromocyclododecane (CAS 3194-55-6)
+
+  - (b)
+
+  - Alpha-hexabromocyclododecane (CAS 134237-50-6)
+
+  - (c)
+
+  - Beta-hexabromocyclododecane (CAS 134237-51-7)
+
+  - (d)
+
+  - Gamma-hexabromocyclododecane (CAS 134237-52-8)
+
+- 37
+
+- Perfluorooctanoic acid, which has the molecular formula C7F15CO2H, and its salts and compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which n = 7 or 8 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
+
+- 38
+
+- Phorate (CAS 298-02-2)
+
+- 39
+
+- Polybrominated diphenyl ethers that have the molecular formula C12H(10-n)BrnO in which 4 ≤ n ≤ 10, including
+
+  - (a)
+
+  - Tetrabromodiphenyl ether (CAS 40088-47-9)
+
+  - (b)
+
+  - Pentabromodiphenyl ether (CAS 32534-81-9)
+
+  - (c)
+
+  - Hexabromodiphenyl ether (CAS 36483-60-0)
+
+  - (d)
+
+  - Heptabromodiphenyl ether (CAS 68928-80-3)
+
+  - (e)
+
+  - Decabromodiphenyl ether (CAS 1163-19-5)
 
 ## PART 3 Restricted Substances
 
@@ -368,7 +460,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 - 18
 
-- Phorate (CAS 298-02-2)
+- [Repealed, SOR/2026-28, s. 11]
 
 - 19
 
@@ -377,6 +469,14 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 - 20
 
 - Chrysotile asbestos (CAS 12001-29-5)
+
+- 21
+
+- Perfluorocarboxylic acids that have the molecular formula CnF2n+1CO2H in which 8 ≤ n ≤ 20, and their salts and compounds that consist of a perfluorinated alkyl group that has the molecular formula CnF2n+1 in which 8 ≤ n ≤ 20 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
+
+- 22
+
+- Ferbam (CAS 14484-64-1)
 
 History:
 
@@ -397,3 +497,27 @@ History:
 - SOR/2016-327
 
 - SOR/2018-193
+
+- SOR/2026-28, s. 1
+
+- SOR/2026-28, s. 2
+
+- SOR/2026-28, s. 3
+
+- SOR/2026-28, s. 4
+
+- SOR/2026-28, s. 5(F)
+
+- SOR/2026-28, s. 6
+
+- SOR/2026-28, s. 7
+
+- SOR/2026-28, s. 8
+
+- SOR/2026-28, s. 9
+
+- SOR/2026-28, s. 10
+
+- SOR/2026-28, s. 11
+
+- SOR/2026-28, s. 12
