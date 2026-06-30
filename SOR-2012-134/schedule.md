@@ -58,7 +58,7 @@ Item | Regulations | Provisions
 
 26 | Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations | (a) subsection 3(1) (b) subsection 6(5) (c) paragraph 10(e) (d) subsection 14(5)
 
-27 | Prohibition of Certain Toxic Substances Regulations, 2012 | (a) subsection 4(1) (b) subsection 6(1)
+27 | Prohibition of Certain Toxic Substances Regulations, 2025 | (a) subsection 5(1) (b) [Repealed, SOR/2025-270, s. 14]
 
 28 | Products Containing Mercury Regulations | (a) subsections 3(1) and (2) (b) section 3.1
 
@@ -133,6 +133,8 @@ History:
 - SOR/2025-36, s. 26
 
 - SOR/2025-88, s. 137
+
+- SOR/2025-270, s. 14
 
 - SOR/2025-273, s. 18
 
