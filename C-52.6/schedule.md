@@ -30,8 +30,6 @@ Jordan | CJFTA | Jordan Tariff rates of customs duty under the Customs Tariff
 
 Korea | CKFTA | Korea Tariff rates of customs duty under the Customs Tariff
 
-NAFTA country | NAFTA | United States Tariff, Mexico Tariff or Mexico–United States Tariff rates of customs duty under the Customs Tariff
-
 Panama | CPAFTA | Panama Tariff rates of customs duty under the Customs Tariff
 
 Peru | CPFTA | Peru Tariff rates of customs duty under the Customs Tariff
@@ -64,8 +62,6 @@ CPTPP | paragraph 12 of Article 3.27 of the Trans-Pacific Partnership Agreement 
 
 CUSMA | paragraph 17 of Article 5.9
 
-NAFTA | Article 514
-
 PART 3
 
 Column 1 | Column 2
@@ -87,8 +83,6 @@ Honduras | paragraph 1 of Article 5.10 or paragraph 11 of Article 6.2 of CHFTA
 Jordan | paragraph 10 of Article 6-2 of CJFTA
 
 Korea | paragraph 1 of Article 4.10 of CKFTA
-
-NAFTA country | paragraph 1 of Article 509 of NAFTA
 
 Panama | paragraph 10 of Article 5.02 of CPAFTA
 
@@ -164,8 +158,6 @@ CUKTCA | Protocol on Rules of Origin and Origin Procedures of CETA as incorporat
 
 CUSMA | Chapters 4 to 7
 
-NAFTA | Chapters Three and Five
-
 History:
 
 - R.S., 1985, c. 1 (2nd Supp.), Sch.
@@ -178,13 +170,21 @@ History:
 
 - 2018, c. 23, ss. 27 to 30
 
+- 2020, c. 1, s. 128
+
 - 2020, c. 1, s. 129
 
+- 2020, c. 1, s. 130
+
 - 2020, c. 1, s. 131
+
+- 2020, c. 1, s. 132
 
 - 2020, c. 1, s. 133
 
 - 2020, c. 1, s. 134
+
+- 2020, c. 1, s. 135
 
 - 2020, c. 1, s. 136
 
