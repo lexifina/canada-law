@@ -64,7 +64,7 @@ Province of
 
 - 7 Variation and Replacement
 
-- The conditions of this undertaking may be varied with the written consent of the prosecutor and yourself. In addition, you or the prosecutor may apply to a justice of the peace to replace this undertaking with a release order under section 515 of the Criminal Code.
+- The conditions of this undertaking may be varied with the written consent of the prosecutor and yourself. In addition, you or the prosecutor may apply to a justice of the peace to replace this undertaking with a release order under section 515 of the Criminal Code. Finally, you or the prosecutor may apply to a justice of the peace to vary this undertaking.
 
 - 8 Conditions in effect
 
@@ -84,7 +84,7 @@ Province of
 
 - It is not a lawful excuse to an offence under subsection 145(4) of the Criminal Code that this undertaking does not accurately describe the offence that you are alleged to have committed (subsection 145(6) of the Criminal Code).
 
-- If you do not comply with this undertaking or are charged with committing an indictable offence after you have been released, this undertaking may be cancelled and, as a result, you may be detained in custody (subsection 524(4) of the Criminal Code).
+- If you do not comply with this undertaking or are charged with committing an offence after you have been released, this undertaking may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the Criminal Code).
 
 - If you do not comply with this undertaking, the funds or valuable security promised or deposited by you or your surety could be forfeited (subsection 771(2) of the Criminal Code).
 
@@ -123,3 +123,5 @@ History:
 - 2022, c. 17, s. 59
 
 - 2023, c. 32, s. 13.10
+
+- 2026, c. 11, s. 51

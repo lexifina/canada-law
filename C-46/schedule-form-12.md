@@ -66,6 +66,14 @@ Province of ,
 
 - As a surety for the accused, I am willing to (promise or deposit) to the court the amount of
 
+- 7.1 Financial Information
+
+- Annual Income ...................
+
+- Assets (nature and value) ...................
+
+- Other ...................
+
 - 8 Acknowledgment
 
 - I understand that failure on the part of the accused to follow any of the conditions in their release order or recognizance could lead to the forfeiture of the amount of money that has been promised or deposited.
@@ -99,3 +107,5 @@ History:
 - 2018, c. 29, s. 72
 
 - 2019, c. 25, s. 337
+
+- 2026, c. 11, s. 54

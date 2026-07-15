@@ -24,7 +24,7 @@ Saskatchewan | The Court of Queen’s Bench | The Local Registrar of the Court o
 
 Alberta | The Court of Queen’s Bench | The Clerk of the Court of Queen’s Bench
 
-Newfoundland and Labrador | The Trial Division of the Supreme Court | The Registrar of the Supreme Court
+Newfoundland and Labrador | The Supreme Court | The Registrar of the Supreme Court
 
 Yukon | The Supreme Court | The Clerk of the Supreme Court
 
@@ -49,3 +49,5 @@ History:
 - 2015, c. 3, ss. 57 to 59
 
 - 2019, c. 25, s. 312
+
+- 2026, c. 11, s. 46

@@ -68,7 +68,7 @@ Province of
 
 - If you commit an offence under section 145 of the Criminal Code, a warrant for your arrest may be issued (sections 512 and 512.3 of the Criminal Code) and you may be liable to a fine or to imprisonment, or to both.
 
-- If you do not comply with this release order or are charged with committing an indictable offence after you have been released, this release order may be cancelled and, as a result, you may be detained in custody (subsection 524(4) of the Criminal Code).
+- If you do not comply with this release order or are charged with committing an offence after you have been released, this release order may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the Criminal Code).
 
 - If you do not comply with this release order, the money or other valuable security promised or deposited by you or your surety could be forfeited (subsection 771(2) of the Criminal Code).
 
@@ -121,3 +121,5 @@ History:
 - 2019, c. 25, s. 337
 
 - 2023, c. 32, s. 13.11
+
+- 2026, c. 11, s. 53

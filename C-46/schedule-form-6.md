@@ -20,7 +20,7 @@ You are warned that, unless you have a lawful excuse, it is an offence under sub
 
 If you commit an offence under subsection 145(3) of the Criminal Code, a warrant for your arrest may be issued (Section 512 or 512.1 of the Criminal Code) and you may be liable to a fine or to imprisonment, or to both.
 
-If you do not comply with this summons or are charged with committing an indictable offence after it has been issued to you, this summons may be cancelled and, as a result, you may be detained in custody (Subsection 524(4) of the Criminal Code).
+If you do not comply with this summons or are charged with committing an offence after it has been issued to you, this summons may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the Criminal Code).
 
 Signed on (date), at (place).
 
@@ -37,3 +37,5 @@ History:
 - 2018, c. 29, s. 69
 
 - 2019, c. 25, s. 334
+
+- 2026, c. 11, s. 47

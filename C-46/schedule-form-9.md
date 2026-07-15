@@ -48,7 +48,7 @@ Province of
 
 - It is not a lawful excuse to an offence under subsection 145(3) of the Criminal Code that this appearance notice does not accurately describe the offence that you are alleged to have committed (subsection 145(6) of the Criminal Code).
 
-- If you do not comply with this appearance notice or are charged with committing an indictable offence after you have been released, this appearance notice may be cancelled and, as a result, you may be detained in custody (subsection 524(4) of the Criminal Code).
+- If you do not comply with this appearance notice or are charged with committing an offence after you have been released, this appearance notice may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the Criminal Code).
 
 - 7 Signatures
 
@@ -81,3 +81,5 @@ History:
 - 2018, c. 29, s. 70
 
 - 2019, c. 25, s. 337
+
+- 2026, c. 11, s. 50

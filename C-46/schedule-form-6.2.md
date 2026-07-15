@@ -16,7 +16,7 @@ You are warned that, unless you have a lawful excuse, it is an offence under sub
 
 If you commit an offence under subsection 145(3) of the Criminal Code, a warrant for your arrest may be issued (section 512 or 512.1 of the Criminal Code) and you may be liable to a fine or to imprisonment, or to both.
 
-If you are on interim release and do not comply with this summons or are charged with committing an indictable offence after it has been issued to you, any summons, appearance notice, undertaking or release order to which you are subject may be cancelled and, as a result, you may be detained in custody (section 524 of the Criminal Code).
+If you are on interim release and do not comply with this summons or are charged with committing an offence after it has been issued to you, any summons, appearance notice, undertaking or release order to which you are subject may be cancelled and, as a result, you may be detained in custody (section 524 of the Criminal Code).
 
 Signed on (date), at (place).
 
@@ -27,3 +27,5 @@ Signed on (date), at (place).
 History:
 
 - 2022, c. 17, s. 58
+
+- 2026, c. 11, s. 48

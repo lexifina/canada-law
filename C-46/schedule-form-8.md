@@ -20,9 +20,9 @@ And because (check those that are applicable):
 
 - □ (c) the application by the prosecutor for a review of the release order has been allowed and that release order has been vacated, and the prosecutor has shown cause why the detention of the accused in custody is justified [521];
 
-- □ (d) the accused has contravened or was about to contravene a (summons or appearance notice or undertaking or release order) and it was cancelled, and the detention of the accused in custody is justified [515(10), 523.1(3), 524(3) and (4)];
+- □ (d) the accused has contravened or was about to contravene a (summons or appearance notice or undertaking or release order) and it was cancelled, and the detention of the accused in custody is justified [515(10), 523.1(3), 524(3), (4) and (6.2)];
 
-- □ (e) there are reasonable grounds to believe that the accused has committed an indictable offence after having become subject to the (summons or appearance notice or undertaking or release order) and the detention of the accused in custody is justified [515(10), 524(3) and (4)];
+- □ (e) there are reasonable grounds to believe that the accused has committed an offence after having become subject to the (summons or appearance notice or undertaking or release order) and the detention of the accused in custody is justified [515(10), 524(3), (4) and (6.2)];
 
 - □ (f) (if none of the above applies, reproduce the provisions of the statute that authorize this warrant).
 
@@ -45,3 +45,5 @@ History:
 - R.S., 1985, c. 27 (1st Supp.), ss. 184, 203
 
 - 2019, c. 25, s. 336
+
+- 2026, c. 11, s. 49
