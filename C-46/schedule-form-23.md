@@ -1,4 +1,4 @@
-## FORM 23 (Sections 810 and 810.1) Warrant of Committal for Failure To Furnish Recognizance To Keep the Peace
+## FORM 23 (Sections 83.3, 810, 810.01, 810.011, 810.03, 810.1 and 810.2) Warrant of Committal for Failure To Furnish Recognizance To Keep the Peace
 
 Canada,
 
@@ -27,3 +27,5 @@ History:
 - R.S., 1985, c. 27 (1st Supp.), ss. 184, 203
 
 - 1993, c. 45, s. 12
+
+- 2026, c. 19, s. 85
