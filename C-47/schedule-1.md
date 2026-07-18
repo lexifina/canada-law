@@ -6,7 +6,7 @@
 
     - (i) section 151 (sexual interference with a person under 16),
 
-    - (ii) section 152 (invitation to a person under 16 to sexual touching),
+    - (ii) section 152 (invitation to a person under 16 to sexual touching or exposure),
 
     - (iii) section 153 (sexual exploitation of a person 16 or more but under 18),
 
@@ -155,3 +155,7 @@ History:
 - 2018, c. 29, s. 76
 
 - 2024, c. 23, s. 12
+
+- 2026, c. 19, s. 94
+
+- 2026, c. 19, s. 95(F)
