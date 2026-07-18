@@ -1,5 +1,7 @@
 ## SCHEDULE (Sections 2, 4, 6 and 8) Designated States or Entities
 
+- European Public Prosecutor’s Office
+
 - International Criminal Court
 
 - The International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994, established by Resolution 955 (1994) of the Security Council of the United Nations
@@ -19,3 +21,5 @@ History:
 - 1999, c. 18, s. 128
 
 - SOR/2005-228
+
+- 2026, c. 19, s. 200
