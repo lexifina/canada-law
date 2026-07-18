@@ -42,7 +42,7 @@
 
   - (e) section 151 (sexual interference);
 
-  - (f) section 152 (invitation to sexual touching);
+  - (f) section 152 (invitation to sexual touching or exposure);
 
   - (g) section 153 (sexual exploitation);
 
@@ -273,3 +273,7 @@ History:
 - 2019, c. 25, s. 395
 
 - 2024, c. 23, s. 12
+
+- 2026, c. 19, s. 94
+
+- 2026, c. 19, s. 95(F)
