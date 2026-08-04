@@ -320,6 +320,10 @@
 
 - Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
+- Foreign Influence Transparency Commissioner
+
+- Commissaire à la transparence en matière d’influence étrangère
+
 - Governor General’s Secretary and Office of the Governor General’s Secretary
 
 - Secrétaire du gouverneur général et Secrétariat du gouverneur général
@@ -1081,6 +1085,8 @@ History:
 - SOR/2019-301, s. 2
 
 - 2024, c. 15, s. 215
+
+- 2024, c. 16, s. 114
 
 - 2024, c. 33, s. 18
 
