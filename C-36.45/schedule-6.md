@@ -1,3 +1,3 @@
-## SCHEDULE 6 (Paragraphs 47(4)(c) and (e))
+## SCHEDULE 6
 
-[Amendment]
+[Repealed, 2026, c. 7, s. 22]

@@ -1,3 +1,3 @@
-## SCHEDULE 9 (Paragraphs 47(7)(c) and (e))
+## SCHEDULE 9
 
-[Amendment]
+[Repealed, 2026, c. 7, s. 22]

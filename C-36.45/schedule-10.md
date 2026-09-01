@@ -1,3 +1,3 @@
-## SCHEDULE 10 (Paragraphs 47(8)(c) and (e))
+## SCHEDULE 10
 
-[Amendment]
+[Repealed, 2026, c. 7, s. 22]
