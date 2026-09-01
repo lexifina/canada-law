@@ -10,7 +10,7 @@ Articles 10.19 or 10.20 | Free Trade Agreement between Canada and the Republic o
 
 Article 8.18 or 8.19 | Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014
 
-Article 9.19 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1 | Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018
+Article 9.19 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1 | Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018, and any accession protocol that is listed in the schedule to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act
 
 Article 17.23 | Free Trade Agreement between Canada and Ukraine, done at Ottawa on September 22, 2023
 
@@ -23,3 +23,5 @@ History:
 - 2018, c. 23, s. 31
 
 - 2024, c. 3, s. 27
+
+- 2026, c. 7, s. 2
