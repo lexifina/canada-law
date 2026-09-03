@@ -16,7 +16,7 @@ Province:
 
   - (iii) the period that becomes a period referred to in the schedule to the Canadian Chicken Marketing Quota Regulations and that immediately follows the period referred to in section 1 of this form;
 
-- b) as one of the product categories set out in column 1 of the table to section 1 of Schedule 2 to the Canadian Chicken Licensing Regulations, not derived from mature chicken or spent fowl; and
+- (b) as one of the product categories set out in column 1 of the table to section 1 of Schedule 2 to the Canadian Chicken Licensing Regulations, that is not derived from mature chicken or spent fowl and whose outer shipping packaging and accompanying documentation bear the word “broiler” or any other word allowed by CFC under paragraph 5(3.1)(a) of those Regulations, unless CFC provided an exemption under paragraph 5(3.1)(b); and
 
 - c) to the buyers, and for the end-uses, referred to in section 3 of Schedule 2 to the Canadian Chicken Licensing Regulations
 
@@ -37,3 +37,5 @@ History:
 - SOR/2011-244, s. 6
 
 - SOR/2015-227, s. 4
+
+- SOR/2026-184, s. 2
