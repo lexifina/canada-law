@@ -30,7 +30,7 @@
 
 - Province of British Columbia
 
-  - Cariboo — Prince George
+  - Cariboo—Prince George—Omineca
 
   - Kamloops — Thompson — Nicola
 
@@ -64,7 +64,7 @@
 
 - Province of Newfoundland and Labrador
 
-  - Central Newfoundland
+  - Coast of Bays—Central—Notre Dame
 
   - Labrador
 
@@ -99,3 +99,7 @@ History:
 - 2018, c. 31, s. 376
 
 - Canada Gazette Part I, Extra Volume 159, No. 4
+
+- 2026, c. 20, s. 88.1
+
+- 2026, c. 20, s. 88.2
