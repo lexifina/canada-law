@@ -1388,10 +1388,6 @@
 
   - Petit Blongios
 
-  - Bobolink (Dolichonyx oryzivorus)
-
-  - Goglu des prés
-
   - Bunting, Lark (Calamospiza melanocorys)
 
   - Bruant noir et blanc
@@ -1407,10 +1403,6 @@
   - Gull, Ross’s (Rhodostethia rosea)
 
   - Mouette rosée
-
-  - Hawk, Ferruginous (Buteo regalis)
-
-  - Buse rouilleuse
 
   - Knot roselaari subspecies, Red (Calidris canutus roselaari)
 
@@ -1436,6 +1428,10 @@
 
   - Petite Nyctale de la sous-espèce brooksi
 
+  - Owl, Short-eared (Asio flammeus)
+
+  - Hibou des marais
+
   - Pipit, Sprague’s (Anthus spragueii)
 
   - Pipit de Sprague
@@ -1456,10 +1452,6 @@
 
   - Hirondelle de rivage
 
-  - Swallow, Barn (Hirundo rustica)
-
-  - Hirondelle rustique
-
   - Swift, Chimney (Chaetura pelagica)
 
   - Martinet ramoneur
@@ -1472,10 +1464,6 @@
 
   - Grive des bois
 
-  - Warbler, Canada (Cardellina canadensis)
-
-  - Paruline du Canada
-
   - Warbler, Golden-winged (Vermivora chrysoptera)
 
   - Paruline à ailes dorées
@@ -1483,10 +1471,6 @@
   - Waterthrush, Louisiana (Parkesia motacilla)
 
   - Paruline hochequeue
-
-  - Whip-poor-will, Eastern (Antrostomus vociferus)
-
-  - Engoulevent bois-pourri
 
   - Woodpecker, Lewis’s (Melanerpes lewis)
 
@@ -2034,6 +2018,10 @@
 
   - Quiscale rouilleux
 
+  - Bobolink (Dolichonyx oryzivorus)
+
+  - Goglu des prés
+
   - Curlew, Long-billed (Numenius americanus)
 
   - Courlis à long bec
@@ -2066,9 +2054,9 @@
 
   - Gros-bec errant
 
-  - Heron fannini subspecies, Great Blue (Ardea herodias fannini)
+  - Hawk, Ferruginous (Buteo regalis)
 
-  - Grand héron de la sous-espèce fannini
+  - Buse rouilleuse
 
   - Knot rufa subspecies, Red (Calidris canutus rufa) Northeastern South America wintering population
 
@@ -2085,10 +2073,6 @@
   - Owl, Flammulated (Otus flammeolus)
 
   - Petit-duc nain
-
-  - Owl, Short-eared (Asio flammeus)
-
-  - Hibou des marais
 
   - Phalarope, Red-necked (Phalaropus lobatus)
 
@@ -2121,6 +2105,18 @@
   - Sparrow princeps subspecies, Savannah (Passerculus sandwichensis princeps)
 
   - Bruant des prés de la sous-espèce princeps
+
+  - Swallow, Barn (Hirundo rustica)
+
+  - Hirondelle rustique
+
+  - Warbler, Canada (Cardellina canadensis)
+
+  - Paruline du Canada
+
+  - Whip-poor-will, Eastern (Antrostomus vociferus)
+
+  - Engoulevent bois-pourri
 
   - Wood-pewee, Eastern (Contopus virens)
 
@@ -3181,3 +3177,11 @@ History:
 - SOR/2026-37, s. 25
 
 - SOR/2026-37, s. 26
+
+- SOR/2026-201, s. 1
+
+- SOR/2026-201, s. 2
+
+- SOR/2026-201, s. 3
+
+- SOR/2026-201, s. 4
