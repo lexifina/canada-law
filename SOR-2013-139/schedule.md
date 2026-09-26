@@ -1202,7 +1202,9 @@ Column 1 | Column 2 | Column 3
 
 Item | Provision | Short-form Description | Category
 
-1 | 4(3) | Failure to submit a written report to the Commission concerning the export of a controlled nuclear substance within the specified period and with the specified information | B
+1 | 3.1 | Failure to retain a record relevant to any import or export under a licence for the specified period | A
+
+2 | 4(3) | Failure to submit a written report to the Commission concerning the export of a controlled nuclear substance within the specified period and with the specified information | B
 
 History:
 
@@ -1213,5 +1215,7 @@ History:
 - SOR/2020-237, s. 24
 
 - SOR/2025-196, s. 74
+
+- SOR/2025-196, s. 75
 
 - SOR/2025-219, s. 104
