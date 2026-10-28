@@ -1,0 +1,40 @@
+{
+  "corpus": "ca/federal/acts",
+  "name": "Canadian federal law: Personal Information Protection and Electronic Documents Act (P-8.6) and Access to Information Act (A-1)",
+  "acts": [
+    "P-8.6",
+    "A-1"
+  ],
+  "history_from": "2002-12-31",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted"
+    ],
+    "time": "12:00 America/Toronto (Ottawa; UTC-5, UTC-4 in daylight time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retrospectivity; immediate application to procedure",
+      "meaning": "an enactment is presumed not to apply to facts completed before it came into force, or to interfere with vested rights, unless Parliament says so expressly or by necessary implication; procedural provisions apply immediately to pending matters; a repeal does not affect rights acquired or proceedings begun under the repealed enactment; in criminal law, no one may be found guilty of an act that was not an offence when committed, and a person found guilty is entitled to the lesser punishment where it was varied between the offence and sentencing",
+      "authority": "Interpretation Act, R.S.C. 1985, c. I-21, s. 43 (effect of repeal) and s. 44 (repeal and substitution); Canadian Charter of Rights and Freedoms, s. 11(g) and 11(i); R. v. Dineley, 2012 SCC 58, [2012] 3 S.C.R. 272; Tran v. Canada (Public Safety and Emergency Preparedness), 2017 SCC 50, [2017] 2 S.C.R. 289",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/on_date.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2026-06-14",
+  "citation": {
+    "file": "([A-Z]-[0-9.]+)/s-0*([0-9]+(?:\\.[0-9]+)*)\\.md",
+    "cites": "([Ss]ections?|[Ss]ubsections?|[Pp]aragraphs?|ss?\\.) ?{n}([^0-9.]|\\.[^0-9]|$)"
+  },
+  "label": "Canada (federal)",
+  "language": "en",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source on 2026-10-28: every point-in-time version, file by file and word for word. English text only.",
+  "path_pattern": "<act id>/s-<section, whole part padded to 3 digits>.md; <act id>/schedule-<n>.md; <act id>/intro.md"
+}

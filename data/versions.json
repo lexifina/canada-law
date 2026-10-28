@@ -1,0 +1,2249 @@
+{
+ "built": "2026-10-28",
+ "source": "https://laws-lois.justice.gc.ca",
+ "acts": [
+  {
+   "id": "P-8.6",
+   "title": "Personal Information Protection and Electronic Documents Act",
+   "short": "PIPEDA",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "to": "2003-07-01",
+     "laws": [],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20030101/P1TT3xt3.html",
+     "sha256": "6bcce7336ffd69a4ecee987b1db67f859625377b4a7f1f5cc5cfb3dfd4fb849c"
+    },
+    {
+     "from": "2003-07-02",
+     "to": "2004-05-10",
+     "laws": [
+      "S.C. 2002, c. 8"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20030702/P1TT3xt3.html",
+     "sha256": "8279e322f004d13d911e0f8be91d9bb0cbeb8db0b74c1b95d20dbc53e680e243"
+    },
+    {
+     "from": "2004-05-11",
+     "to": "2004-12-12",
+     "laws": [
+      "S.C. 2004, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20040511/P1TT3xt3.html",
+     "sha256": "08370a65ca4b39f0952b7cb60ae023792925eaed03abb9df781be607e8fb648b"
+    },
+    {
+     "from": "2004-12-13",
+     "to": "2005-11-27",
+     "laws": [
+      "SOR/2004-309"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20041213/P1TT3xt3.html",
+     "sha256": "17a3941c202b7abe78d95d403cce65bc3c6e33e53c23ea0719ae9d6908718b25"
+    },
+    {
+     "from": "2005-11-28",
+     "to": "2007-04-14",
+     "laws": [
+      "SOR/2005-407"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20051128/P1TT3xt3.html",
+     "sha256": "805ba8114b995cf40081499d08e771fe74d83044538d5a1f330fcee5388b4b29"
+    },
+    {
+     "from": "2007-04-15",
+     "to": "2008-04-16",
+     "laws": [
+      "S.C. 2005, c. 46",
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20070415/P1TT3xt3.html",
+     "sha256": "c4d62d7abdbb70b5467d305dd451adb69047dc51c382654640d9b6c5e1919673"
+    },
+    {
+     "from": "2008-04-17",
+     "to": "2009-05-31",
+     "laws": [
+      "SOR/2008-114"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20080417/P1TT3xt3.html",
+     "sha256": "8640428c196a0be18e4f65a469cde4a52eb5a3dd1af289b8c09b7c404dd8cc7c"
+    },
+    {
+     "from": "2009-06-01",
+     "to": "2011-03-31",
+     "laws": [],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20090601/P1TT3xt3.html",
+     "sha256": "94d269659207b03686a4e2ea8ef02a041df7571463f0af7d365f5fe10fdc9b2f"
+    },
+    {
+     "from": "2011-04-01",
+     "to": "2014-06-30",
+     "laws": [
+      "S.C. 2010, c. 23"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20110401/P1TT3xt3.html",
+     "sha256": "95fbcdea9bcb8001170e3cda3bc18636452c9339f51ebd7669f2bb97a98b289b"
+    },
+    {
+     "from": "2014-07-01",
+     "to": "2015-06-17",
+     "laws": [
+      "S.C. 2010, c. 23"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20140701/P1TT3xt3.html",
+     "sha256": "3467971dae1a36204e689cc737438c5e9e2d2c853aa03ac97e100b5e144c990c"
+    },
+    {
+     "from": "2015-06-18",
+     "to": "2015-06-22",
+     "laws": [
+      "S.C. 2015, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20150618/P1TT3xt3.html",
+     "sha256": "0cce2a3baa53a615e2f0c4ae6490a558e8b838b18c68d17ae0e9cca090e2736c"
+    },
+    {
+     "from": "2015-06-23",
+     "to": "2018-10-31",
+     "laws": [
+      "S.C. 2015, c. 36"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20150623/P1TT3xt3.html",
+     "sha256": "70647a532aa39fedd654b5c79831d2ecc54118e4747bf1bbd516cd5e221a4610"
+    },
+    {
+     "from": "2018-11-01",
+     "to": "2019-03-31",
+     "laws": [
+      "S.C. 2015, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20181101/P1TT3xt3.html",
+     "sha256": "0ac349fb142e11c12ee334304fb4b8ee92b71ef0b1caab1179e04d0b444515f1"
+    },
+    {
+     "from": "2019-04-01",
+     "to": "2019-06-20",
+     "laws": [
+      "SOR/2019-84"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20190401/P1TT3xt3.html",
+     "sha256": "11636e41944b472168d446a797d4531b439aa796bb04688cf5696d5062f673b7"
+    },
+    {
+     "from": "2019-06-21",
+     "to": "2024-08-18",
+     "laws": [
+      "S.C. 2019, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20190621/P1TT3xt3.html",
+     "sha256": "00d09ffee8a91a7a0d43a334f10aaa789c43f088a8018b5dd89bb35ba1f166cf"
+    },
+    {
+     "from": "2024-08-19",
+     "to": "2025-03-03",
+     "laws": [
+      "S.C. 2024, c. 16"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20240819/P1TT3xt3.html",
+     "sha256": "7c05ab1209735a0b81ed716ddc9c1cdfa1a4dd5a473b15e4afe3b55f368604b8"
+    },
+    {
+     "from": "2025-03-04",
+     "to": "2026-09-30",
+     "laws": [
+      "S.C. 2024, c. 17"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/20250304/P1TT3xt3.html",
+     "sha256": "9579a6ee7d8dc2654d50847bd35fa5429b6244329f9030ebd44da6f01cf16c27"
+    }
+   ]
+  },
+  {
+   "id": "A-1",
+   "title": "Access to Information Act",
+   "short": "Access to Information Act",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "to": "2003-03-31",
+     "laws": [],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20021231/P1TT3xt3.html",
+     "sha256": "c82ce0a541e8ff81e858ba6900e6ce413e6e27348501a57dd120a6e9e5d4013a"
+    },
+    {
+     "from": "2003-04-01",
+     "to": "2003-04-13",
+     "laws": [
+      "S.C. 2002, c. 7"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20030401/P1TT3xt3.html",
+     "sha256": "7d78e4541882c7154c43634ce852eacd156ab93d8c773a2c09bdcbda1aedd471"
+    },
+    {
+     "from": "2003-04-14",
+     "to": "2003-05-12",
+     "laws": [
+      "SOR/2003-148"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20030414/P1TT3xt3.html",
+     "sha256": "d006fcc78b388aee88018139333ef673c17a1ce5e32a884262e191235b3f1517"
+    },
+    {
+     "from": "2003-05-13",
+     "to": "2003-07-01",
+     "laws": [
+      "S.C. 2003, c. 7"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20030513/P1TT3xt3.html",
+     "sha256": "a2cad767c4be7cd3530973425b8903724a2ebe8fdac5a7404c2862298b8d21ee"
+    },
+    {
+     "from": "2003-07-02",
+     "to": "2003-11-19",
+     "laws": [
+      "S.C. 2002, c. 8"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20030702/P1TT3xt3.html",
+     "sha256": "caff139845125c68056d21137b2a2d0ef3de93b766304995af8c43d8b71f5c27"
+    },
+    {
+     "from": "2003-11-20",
+     "to": "2003-12-11",
+     "laws": [
+      "S.C. 2003, c. 22"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20031120/P1TT3xt3.html",
+     "sha256": "cfa42a29bceebda5072284723409d9ef4cda469c517ade8eafe58092a9f10bb3"
+    },
+    {
+     "from": "2003-12-12",
+     "to": "2004-03-31",
+     "laws": [
+      "SOR/2003-423",
+      "SOR/2003-428",
+      "SOR/2003-435",
+      "SOR/2003-440"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20031212/P1TT3xt3.html",
+     "sha256": "90712d3a60d89aed23de18b0ec436ea12c384df771bc80b65eb00e76e48a6dc4"
+    },
+    {
+     "from": "2004-04-01",
+     "to": "2004-04-21",
+     "laws": [
+      "S.C. 2003, c. 22",
+      "SOR/2004-24"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040401/P1TT3xt3.html",
+     "sha256": "a2c19e9788b2aa3de87cfb071be12ef2e6876c11ece1c0927ea9b320ac540023"
+    },
+    {
+     "from": "2004-04-22",
+     "to": "2004-05-10",
+     "laws": [
+      "S.C. 2004, c. 2"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040422/P1TT3xt3.html",
+     "sha256": "a146aef94ddfc6b55b2914962fc641926b595beae3a284fb52a20c10452ae53d"
+    },
+    {
+     "from": "2004-05-11",
+     "to": "2004-05-16",
+     "laws": [
+      "S.C. 2004, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040511/P1TT3xt3.html",
+     "sha256": "9abe1fda51167b4ed9a0911ebb238c3e04ba52bad19dd3b27ea33e7185d742e6"
+    },
+    {
+     "from": "2004-05-17",
+     "to": "2004-05-20",
+     "laws": [
+      "S.C. 2004, c. 7"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040517/P1TT3xt3.html",
+     "sha256": "b3223d6209b051b19c05996823fc922aaf0cf515a13effd54dadd1ecfd1523ee"
+    },
+    {
+     "from": "2004-05-21",
+     "to": "2004-09-23",
+     "laws": [
+      "S.C. 2004, c. 11"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040521/P1TT3xt3.html",
+     "sha256": "ca05ca51e32293bc3bbcb20400d7b260c055bdc451fbd5764ec143b9c3eb2d3a"
+    },
+    {
+     "from": "2004-09-24",
+     "to": "2004-12-14",
+     "laws": [
+      "SOR/2004-207"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20040924/P1TT3xt3.html",
+     "sha256": "6b16c74d46c7687292f3bc5f3f40f5ce674bc2c5ba64fbf70fb8afbbe985ad99"
+    },
+    {
+     "from": "2004-12-15",
+     "to": "2005-03-31",
+     "laws": [
+      "S.C. 2004, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20041215/P1TT3xt3.html",
+     "sha256": "77d5f071e5b8b0252e8af0249847d8534739542bf4455510449487f432af1e75"
+    },
+    {
+     "from": "2005-04-01",
+     "to": "2005-04-03",
+     "laws": [
+      "S.C. 2003, c. 22",
+      "S.C. 2004, c. 17"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20050401/P1TT3xt3.html",
+     "sha256": "294a2b737b68c1877d907733188d9d04158eb482e63ccedcf2a864917c5cf7a9"
+    },
+    {
+     "from": "2005-04-04",
+     "to": "2005-06-30",
+     "laws": [
+      "S.C. 2005, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20050404/P1TT3xt3.html",
+     "sha256": "b7d644fe2814cb52f076140c48ebd373f77b0f65967900e6bca2ed146fb01cd4"
+    },
+    {
+     "from": "2005-07-01",
+     "to": "2005-08-03",
+     "laws": [
+      "S.C. 2004, c. 26"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20050701/P1TT3xt3.html",
+     "sha256": "00af8b1a6dce4fcba9a9b0a37abf09b87579925ff601ea9b998e9823d8163d70"
+    },
+    {
+     "from": "2005-08-04",
+     "to": "2005-08-30",
+     "laws": [
+      "S.C. 2005, c. 1"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20050804/P1TT3xt3.html",
+     "sha256": "e90e0a85fb9930f11febadd81bd5d0bfee86da7163f30b2583ddaa62e1f71ffd"
+    },
+    {
+     "from": "2005-08-31",
+     "to": "2005-10-02",
+     "laws": [
+      "SOR/2005-251"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20050831/P1TT3xt3.html",
+     "sha256": "dabd871fe054e2e05e2df06d20b1ba2e97eb66eea04136271a7b240d08a9461d"
+    },
+    {
+     "from": "2005-10-03",
+     "to": "2005-10-04",
+     "laws": [
+      "S.C. 2005, c. 30"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20051003/P1TT3xt3.html",
+     "sha256": "de94fa27d6586a8fec80778c85f71f6dd698214241d3564b4d7fac4ea8e70ed2"
+    },
+    {
+     "from": "2005-10-05",
+     "to": "2005-11-30",
+     "laws": [
+      "S.C. 2005, c. 34",
+      "S.C. 2005, c. 35"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20051005/P1TT3xt3.html",
+     "sha256": "0fd6cdcc3057b0a83591a44cf766418c6bdbb88596e3947edbf71e549fc996ea"
+    },
+    {
+     "from": "2005-12-01",
+     "to": "2005-12-11",
+     "laws": [
+      "S.C. 2005, c. 27"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20051201/P1TT3xt3.html",
+     "sha256": "80dd4c07ec6fedddee10a06423fec40568b7caf2b5d482e486f77e3af2a34c14"
+    },
+    {
+     "from": "2005-12-12",
+     "to": "2006-01-11",
+     "laws": [
+      "S.C. 2005, c. 38"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20051212/P1TT3xt3.html",
+     "sha256": "c31d776d66166ecca3a144e1d1a5ebadd68306e469b2b39ecbec67493fb9dbee"
+    },
+    {
+     "from": "2006-01-12",
+     "to": "2006-02-05",
+     "laws": [
+      "S.C. 2004, c. 2"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060112/P1TT3xt3.html",
+     "sha256": "28e6e4463266ba1a146dab76a2bcfa88d2b582146481f992b3a83586824ae9bb"
+    },
+    {
+     "from": "2006-02-06",
+     "to": "2006-03-31",
+     "laws": [
+      "SOR/2006-24",
+      "SOR/2006-28",
+      "SOR/2006-34"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060206/P1TT3xt3.html",
+     "sha256": "4391f740c3b01d9b3ade97bab3c75f1bdeadfd1fc575fd270ce2f82d6867451e"
+    },
+    {
+     "from": "2006-04-01",
+     "to": "2006-04-20",
+     "laws": [
+      "S.C. 2005, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060401/P1TT3xt3.html",
+     "sha256": "0963cdd4803b7b6f2f47c6732939ad78578a79d6b1496e5657c5b8e6e57636d5"
+    },
+    {
+     "from": "2006-04-21",
+     "to": "2006-05-16",
+     "laws": [
+      "SOR/2006-70"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060421/P1TT3xt3.html",
+     "sha256": "445f858ac2a0afa3131e547beb4e0bf9531c88421099e589663ef52501d966ee"
+    },
+    {
+     "from": "2006-05-17",
+     "to": "2006-09-20",
+     "laws": [
+      "SOR/2006-99"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060517/P1TT3xt3.html",
+     "sha256": "565be44e9b3134afa2646bfa7a1971348c5f632d88d4fb692300277409e43d81"
+    },
+    {
+     "from": "2006-09-21",
+     "to": "2006-11-09",
+     "laws": [
+      "SOR/2006-217"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20060921/P1TT3xt3.html",
+     "sha256": "7b388bae5dcb8bda1085fc1fe8e0799db021acbf206381bf41a39c732bf5ab42"
+    },
+    {
+     "from": "2006-11-10",
+     "to": "2006-12-11",
+     "laws": [
+      "S.C. 2006, c. 4"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20061110/P1TT3xt3.html",
+     "sha256": "307c1c6dbe29620ddc9d8a7278b9cc2286b5d59ca2e6fd9824c21458b704b9ee"
+    },
+    {
+     "from": "2006-12-12",
+     "to": "2006-12-13",
+     "laws": [
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20061212/P1TT3xt3.html",
+     "sha256": "885b8368b0b087e7d12d4547e9c4f98714553cab663ce0263eadd60a2277e17f"
+    },
+    {
+     "from": "2006-12-14",
+     "to": "2007-02-28",
+     "laws": [
+      "S.C. 2006, c. 13"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20061214/P1TT3xt3.html",
+     "sha256": "ef21b0f8ebc4a9ca8cac19f7bb2c1f8be94ca5e8c0927a886ecb73d725470732"
+    },
+    {
+     "from": "2007-03-01",
+     "to": "2007-03-31",
+     "laws": [
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070301/P1TT3xt3.html",
+     "sha256": "cf6f9ab80f2c9fc89af51b19d1f70c7fef2695d7246d79fd435b28af2e575b72"
+    },
+    {
+     "from": "2007-04-01",
+     "to": "2007-04-14",
+     "laws": [
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070401/P1TT3xt3.html",
+     "sha256": "b65781cf85a0839a207e7d4e75f12e49157613b30741f51fb06432e4d02fd834"
+    },
+    {
+     "from": "2007-04-15",
+     "to": "2007-06-21",
+     "laws": [
+      "S.C. 2005, c. 46",
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070415/P1TT3xt3.html",
+     "sha256": "bef6fa77769ca7575aea9847732694aec1fc3bd5a78e9bf68b645289eb32fbe2"
+    },
+    {
+     "from": "2007-06-22",
+     "to": "2007-08-02",
+     "laws": [
+      "S.C. 2007, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070622/P1TT3xt3.html",
+     "sha256": "27dd23e95f8c4333e212718d4d59d7ea165d291a520479a219213b1bb5d8e73e"
+    },
+    {
+     "from": "2007-08-03",
+     "to": "2007-08-31",
+     "laws": [
+      "S.C. 2007, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070803/P1TT3xt3.html",
+     "sha256": "b39a0eb82aa18302edfc44c5e12fe22dc0a722b1be3c47e35c32df1ea9c7890f"
+    },
+    {
+     "from": "2007-09-01",
+     "to": "2007-09-26",
+     "laws": [
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070901/P1TT3xt3.html",
+     "sha256": "46ac06cb3964afb459084799af6712a071434ff2caebd2799a2d31058ab42fe1"
+    },
+    {
+     "from": "2007-09-27",
+     "to": "2007-11-21",
+     "laws": [
+      "SOR/2007-215"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20070927/P1TT3xt3.html",
+     "sha256": "b5e606baaa150777b2a2fc81d5698a517c904d84d5fe6a676eebdaef0c03816b"
+    },
+    {
+     "from": "2007-11-22",
+     "to": "2008-05-31",
+     "laws": [
+      "S.C. 2006, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20071122/P1TT3xt3.html",
+     "sha256": "8482b2f75fdf2b395e0c2024d5ca6e025bc168225d07c5d9016e83d7ec5c319f"
+    },
+    {
+     "from": "2008-06-01",
+     "to": "2008-07-01",
+     "laws": [
+      "SOR/2008-130",
+      "SOR/2008-135"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20080601/P1TT3xt3.html",
+     "sha256": "6abf7facf6a12667a70a657e5484063dfe2aac45207dce53b2a7a0b17ec03793"
+    },
+    {
+     "from": "2008-07-02",
+     "to": "2008-08-09",
+     "laws": [
+      "S.C. 2006, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20080702/P1TT3xt3.html",
+     "sha256": "d8522e4efba5890a427a8c264f43341808a3c01e8be6bf060669b646a787f22d"
+    },
+    {
+     "from": "2008-08-10",
+     "to": "2008-10-15",
+     "laws": [
+      "S.C. 2008, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20080810/P1TT3xt3.html",
+     "sha256": "74a8de6f1c627c975c70a18aeda6652d35bb5702fc0d97c6933d8cc2b54648a2"
+    },
+    {
+     "from": "2008-10-16",
+     "to": "2009-04-02",
+     "laws": [
+      "S.C. 2008, c. 22"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20081016/P1TT3xt3.html",
+     "sha256": "47b1a1119700047de1d16b4e0fe212cc4a10fb1aa7cbf220f0d376edd9a7069e"
+    },
+    {
+     "from": "2009-04-03",
+     "to": "2009-06-30",
+     "laws": [
+      "S.C. 2008, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20090403/P1TT3xt3.html",
+     "sha256": "e11f6337b42f19004d192be69591e1b03ebfd5d7f3587010e0e49fd56ec2c558"
+    },
+    {
+     "from": "2009-07-01",
+     "to": "2009-08-12",
+     "laws": [
+      "S.C. 2009, c. 2",
+      "SOR/2009-174"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20090701/P1TT3xt3.html",
+     "sha256": "a8dafae08bdd7d393278527f6005fa8b669c72aab8c50027e16be036b84368f3"
+    },
+    {
+     "from": "2009-08-13",
+     "to": "2009-08-17",
+     "laws": [
+      "SOR/2009-243"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20090813/P1TT3xt3.html",
+     "sha256": "d0a557a6fdef9259176d7d56bdd238466f1460c3961a2956cc55a6432ba1b6c6"
+    },
+    {
+     "from": "2009-08-18",
+     "to": "2010-10-19",
+     "laws": [
+      "SOR/2009-248"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20090818/P1TT3xt3.html",
+     "sha256": "8efc284f854ad01eab6b90c754df830cfef3c9837b7f91e60f19f904454cb76c"
+    },
+    {
+     "from": "2010-10-20",
+     "to": "2010-11-24",
+     "laws": [
+      "S.C. 2008, c. 28"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20101020/P1TT3xt3.html",
+     "sha256": "fdd4ccdd862fef14ea4face7d8060c5f400245dee5411273a1b74329ce680630"
+    },
+    {
+     "from": "2010-11-25",
+     "to": "2011-03-31",
+     "laws": [
+      "S.C. 2010, c. 7"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20101125/P1TT3xt3.html",
+     "sha256": "8a07a63c0fb0966b26f8e0562aad213bb228708f1d71a30d468c189c841dfc3b"
+    },
+    {
+     "from": "2011-04-01",
+     "to": "2011-08-03",
+     "laws": [
+      "S.C. 2009, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20110401/P1TT3xt3.html",
+     "sha256": "48ca3817543ed41a38e9d734aa82a8c68c049ba700758f1cefa500383ae885ab"
+    },
+    {
+     "from": "2011-08-04",
+     "to": "2011-11-15",
+     "laws": [
+      "SOR/2011-162"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20110804/P1TT3xt3.html",
+     "sha256": "4ac6d52317a71c56fd6db8267833fc42e54652e0016cb36bd7dbeee2d6432b5a"
+    },
+    {
+     "from": "2011-11-16",
+     "to": "2012-03-15",
+     "laws": [
+      "SOR/2011-258"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20111116/P1TT3xt3.html",
+     "sha256": "e6198478d5b8f252c24f146fcaa5527362d2418902907beb5bd0d122a7d7a169"
+    },
+    {
+     "from": "2012-03-16",
+     "to": "2012-06-28",
+     "laws": [
+      "S.C. 2010, c. 12"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20120316/P1TT3xt3.html",
+     "sha256": "35d0e08abeb8f4a991d0dcf86976a44675ca2eb24b3c1e20106c3cfaa3e5b0dc"
+    },
+    {
+     "from": "2012-06-29",
+     "to": "2012-07-05",
+     "laws": [
+      "S.C. 2012, c. 19"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20120629/P1TT3xt3.html",
+     "sha256": "cd931c52c7e572d9c79fb1ea6d8bf861f91cb479701dd15511b5654821261494"
+    },
+    {
+     "from": "2012-07-06",
+     "to": "2012-07-26",
+     "laws": [
+      "S.C. 2012, c. 19"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20120706/P1TT3xt3.html",
+     "sha256": "6c2834e72c146257935159d83b2aa1702fecd794700dd51d72c4442e2faf9e82"
+    },
+    {
+     "from": "2012-07-27",
+     "to": "2012-09-29",
+     "laws": [
+      "S.C. 2012, c. 19"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20120727/P1TT3xt3.html",
+     "sha256": "a3a60ed573bcde02fd525a27d89c86d10957624c4208590fbf0b977346187b48"
+    },
+    {
+     "from": "2012-09-30",
+     "to": "2013-02-27",
+     "laws": [
+      "S.C. 2012, c. 19"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20120930/P1TT3xt3.html",
+     "sha256": "005a5435d8ff8f7a599291d6c2bb1b34e5a93d4ac16bafc55b724af64764dc10"
+    },
+    {
+     "from": "2013-02-28",
+     "to": "2013-02-28",
+     "laws": [
+      "S.C. 2012, c. 1"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130228/P1TT3xt3.html",
+     "sha256": "998992739f0a07cb2da2c028ba578f57f326ddf673d2395fe06aab34b0365131"
+    },
+    {
+     "from": "2013-03-01",
+     "to": "2013-03-31",
+     "laws": [
+      "S.C. 2012, c. 19"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130301/P1TT3xt3.html",
+     "sha256": "7f17b7eed9488a66591bb17ebee0a6fe049b915089697b9a8ddce450415d0b9a"
+    },
+    {
+     "from": "2013-04-01",
+     "to": "2013-05-31",
+     "laws": [
+      "S.C. 2012, c. 19",
+      "S.C. 2012, c. 31"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130401/P1TT3xt3.html",
+     "sha256": "886070948e5a5cc12b50cf9ea3bac678ff0c2d10f40ed570ffb3c8bd8e5d3402"
+    },
+    {
+     "from": "2013-06-01",
+     "to": "2013-06-18",
+     "laws": [],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130601/P1TT3xt3.html",
+     "sha256": "8cad0e9b6aee4dd2c9cd2fcd9b86009f429eaeec7b878eeda187bcbf0f4b90ef"
+    },
+    {
+     "from": "2013-06-19",
+     "to": "2013-06-25",
+     "laws": [
+      "S.C. 2013, c. 14",
+      "S.C. 2013, c. 24"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130619/P1TT3xt3.html",
+     "sha256": "b14f25952f3ce3e14e2b4316ad2ab8b47b531bb98741e06e488679345349cfb8"
+    },
+    {
+     "from": "2013-06-26",
+     "to": "2013-10-29",
+     "laws": [
+      "S.C. 2013, c. 33"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20130626/P1TT3xt3.html",
+     "sha256": "f5c3350853be3c9763af22822fe77116a47d34b0666ab925d331f5505bdb4813"
+    },
+    {
+     "from": "2013-10-30",
+     "to": "2013-12-11",
+     "laws": [
+      "S.C. 2012, c. 31"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20131030/P1TT3xt3.html",
+     "sha256": "5a0f643357430a0e961c74d517e585897c28af07510e2c4a3ab0b080c8eb3f9b"
+    },
+    {
+     "from": "2013-12-12",
+     "to": "2014-03-24",
+     "laws": [
+      "S.C. 2013, c. 38",
+      "S.C. 2013, c. 40"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20131212/P1TT3xt3.html",
+     "sha256": "d94fd0a77fcc6ea3cb4f843b953c5a99a8349474f0064ee8355e4800a420dcef"
+    },
+    {
+     "from": "2014-03-25",
+     "to": "2014-03-31",
+     "laws": [
+      "SOR/2014-66"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20140325/P1TT3xt3.html",
+     "sha256": "3980bb63ad61c5df279a325dacaa66134cea400d61f14abf6bc7a451ce0afd50"
+    },
+    {
+     "from": "2014-04-01",
+     "to": "2014-06-30",
+     "laws": [
+      "S.C. 2012, c. 19",
+      "S.C. 2014, c. 2"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20140401/P1TT3xt3.html",
+     "sha256": "91aaa24eb79743f886e5cd7464b9d355755b4fe2f774113e37cfe0e9856fac28"
+    },
+    {
+     "from": "2014-07-01",
+     "to": "2014-09-30",
+     "laws": [
+      "S.C. 2014, c. 1"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20140701/P1TT3xt3.html",
+     "sha256": "e54364ab289b788deeb6c32f83d4fe668ebd9063cfd245159ca64904edd0988c"
+    },
+    {
+     "from": "2014-10-01",
+     "to": "2014-10-31",
+     "laws": [
+      "S.C. 2014, c. 12"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20141001/P1TT3xt3.html",
+     "sha256": "8f32f49fae871d8d013666ae447b081adb6398e7f8c4fc21c5e6d09ddb5c7d3f"
+    },
+    {
+     "from": "2014-11-01",
+     "to": "2014-11-27",
+     "laws": [
+      "S.C. 2013, c. 29",
+      "S.C. 2013, c. 40",
+      "S.C. 2014, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20141101/P1TT3xt3.html",
+     "sha256": "bba2d1eb2e167fecb7ee136c02f29877532e2cd80d5f5e5ab93bd64322e32813"
+    },
+    {
+     "from": "2014-11-28",
+     "to": "2014-12-30",
+     "laws": [
+      "S.C. 2013, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20141128/P1TT3xt3.html",
+     "sha256": "a26021062efbb10de8f89f0d708db2c540fb5c97bf00d6abfcd074fa581db50d"
+    },
+    {
+     "from": "2014-12-31",
+     "to": "2015-02-06",
+     "laws": [
+      "S.C. 2014, c. 13"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20141231/P1TT3xt3.html",
+     "sha256": "40e3bb4b5244c68ff4b111fea2f36f19a7047a4b098a45882541c2fb008ec1d6"
+    },
+    {
+     "from": "2015-02-07",
+     "to": "2015-02-25",
+     "laws": [
+      "S.C. 2014, c. 29"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150207/P1TT3xt3.html",
+     "sha256": "2f38aa515fc5aef328532d5ee9bf03e47ba52d6f4ee975763f27b5cd10bd6548"
+    },
+    {
+     "from": "2015-02-26",
+     "to": "2015-04-22",
+     "laws": [
+      "S.C. 2015, c. 3"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150226/P1TT3xt3.html",
+     "sha256": "3be9f1636de6a719026c4ada33e66b4a8bde09a4fe6285162d3d4b08b8129b4e"
+    },
+    {
+     "from": "2015-04-23",
+     "to": "2015-05-31",
+     "laws": [
+      "S.C. 2015, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150423/P1TT3xt3.html",
+     "sha256": "1b1cb70ecfe0bbcbdcf0fb6e08215e43d89ee38b51cbc8c19628f187a1947714"
+    },
+    {
+     "from": "2015-06-01",
+     "to": "2015-07-08",
+     "laws": [
+      "S.C. 2014, c. 39"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150601/P1TT3xt3.html",
+     "sha256": "ac20e5feb4b1c3bbe811ba749d902b92ede03641e70b5521780ae48272967285"
+    },
+    {
+     "from": "2015-07-09",
+     "to": "2015-07-29",
+     "laws": [
+      "S.C. 2013, c. 14"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150709/P1TT3xt3.html",
+     "sha256": "c6e03a1fdba41d62acd7a241af6e3e1488c61bfe1d372a9dee6d2ecbf82f76cf"
+    },
+    {
+     "from": "2015-07-30",
+     "to": "2016-04-04",
+     "laws": [
+      "S.C. 2011, c. 25"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20150730/P1TT3xt3.html",
+     "sha256": "5f4c9522ba3c1fef01179e5eec6519023cfd634aa05edd97a76e9f14953da3e0"
+    },
+    {
+     "from": "2016-04-05",
+     "to": "2017-06-21",
+     "laws": [
+      "S.C. 2014, c. 11"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20160405/P1TT3xt3.html",
+     "sha256": "595f44a1aadaaf535b4c225b2ee4d7a6452640d6edbef2e6af44b3e11f93d6f0"
+    },
+    {
+     "from": "2017-06-22",
+     "to": "2017-09-20",
+     "laws": [
+      "S.C. 2017, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20170622/P1TT3xt3.html",
+     "sha256": "92005352489892232960bec50259613cbeead1ebbd4613251eb64333dc590814"
+    },
+    {
+     "from": "2017-09-21",
+     "to": "2017-10-05",
+     "laws": [
+      "S.C. 2017, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20170921/P1TT3xt3.html",
+     "sha256": "c39bec23c2f15e61634fd9825cc2c45645074857fd810a4c66f4570807e15d1d"
+    },
+    {
+     "from": "2017-10-06",
+     "to": "2017-11-29",
+     "laws": [
+      "S.C. 2017, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20171006/P1TT3xt3.html",
+     "sha256": "465bf50920100c69e73905bc9695e65c37ec3a3bef07de6764bbc247c7cbaea1"
+    },
+    {
+     "from": "2017-11-30",
+     "to": "2018-02-11",
+     "laws": [
+      "SOR/2017-257"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20171130/P1TT3xt3.html",
+     "sha256": "29aebb1cfff3fb120cf975799371eb877017290f36fcc170053fb0388400a36d"
+    },
+    {
+     "from": "2018-02-12",
+     "to": "2018-03-05",
+     "laws": [
+      "SOR/2018-23"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180212/P1TT3xt3.html",
+     "sha256": "2d60e8accae164d786a26c7098956ce898e5945c8338c6cdd625a49ab14b037f"
+    },
+    {
+     "from": "2018-03-06",
+     "to": "2018-03-11",
+     "laws": [
+      "S.C. 2014, c. 39"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180306/P1TT3xt3.html",
+     "sha256": "3746e6e08e5ac7902d42f16c0eac8be293ce537729e3342e2df2bea5adadd82c"
+    },
+    {
+     "from": "2018-03-12",
+     "to": "2018-03-28",
+     "laws": [
+      "S.C. 2017, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180312/P1TT3xt3.html",
+     "sha256": "c84d868d11423fc1d9b4f0b8848125a800db4fab4d718b9e9d88680d5203fe68"
+    },
+    {
+     "from": "2018-03-29",
+     "to": "2018-03-31",
+     "laws": [
+      "S.C. 2018, c. 4"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180329/P1TT3xt3.html",
+     "sha256": "602e4988ee9e363f823b7ee9ed004eb451b84917d76b64d785a3356ea2386d04"
+    },
+    {
+     "from": "2018-04-01",
+     "to": "2018-06-20",
+     "laws": [
+      "S.C. 2017, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180401/P1TT3xt3.html",
+     "sha256": "eb6e64327bcd5135be278f09353373f3d907612276a543830645d183cb3a375d"
+    },
+    {
+     "from": "2018-06-21",
+     "to": "2018-10-31",
+     "laws": [
+      "S.C. 2018, c. 12"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20180621/P1TT3xt3.html",
+     "sha256": "388de424336951a7cea02befe2a40227bd259094b82daa88e86491b59ec1660a"
+    },
+    {
+     "from": "2018-11-01",
+     "to": "2018-11-04",
+     "laws": [
+      "S.C. 2015, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20181101/P1TT3xt3.html",
+     "sha256": "9b329139137f1cb6916dd4372bdca68a297c672eae9e720720a96cc2ee77fdeb"
+    },
+    {
+     "from": "2018-11-05",
+     "to": "2018-12-12",
+     "laws": [
+      "S.C. 2014, c. 39"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20181105/P1TT3xt3.html",
+     "sha256": "b93df1bdd46b2ed06c94df4a2a9da984663c92765a68fd33e70333d107a86918"
+    },
+    {
+     "from": "2018-12-13",
+     "to": "2019-03-31",
+     "laws": [
+      "S.C. 2018, c. 27"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20181213/P1TT3xt3.html",
+     "sha256": "a30c4f65837f46d8f92ce987effc6a4311274689d2572f37b98a239f99e0f4f2"
+    },
+    {
+     "from": "2019-04-01",
+     "to": "2019-06-16",
+     "laws": [
+      "S.C. 2018, c. 31"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190401/P1TT3xt3.html",
+     "sha256": "94582b490689d2052c6f1f4179cc95ee3f84411d8f2edd12ef6294bf31d67d9d"
+    },
+    {
+     "from": "2019-06-17",
+     "to": "2019-06-17",
+     "laws": [
+      "S.C. 2014, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190617/P1TT3xt3.html",
+     "sha256": "e017ce17fa7d46bfc68a873b4c53b9e1b15932430abf983ad86ee47a0dfb237c"
+    },
+    {
+     "from": "2019-06-18",
+     "to": "2019-06-20",
+     "laws": [
+      "S.C. 2014, c. 32"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190618/P1TT3xt3.html",
+     "sha256": "32e434aa3bc7246014f86a38ad5909c30a6a6cc804a547a55dbb124b9b380548"
+    },
+    {
+     "from": "2019-06-21",
+     "to": "2019-07-10",
+     "laws": [
+      "S.C. 2018, c. 27",
+      "S.C. 2018, c. 31",
+      "S.C. 2019, c. 14",
+      "S.C. 2019, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190621/P1TT3xt3.html",
+     "sha256": "c0771b92a00cd64cd7c49f9740e7ca9d82d7d3a3f32f5ea2bb7a5a624e659fa9"
+    },
+    {
+     "from": "2019-07-11",
+     "to": "2019-07-11",
+     "laws": [
+      "S.C. 2019, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190711/P1TT3xt3.html",
+     "sha256": "391ef26c8dc9dceb0923a8259596515a9856cfd8aa7cffcfa3d5746162b9b829"
+    },
+    {
+     "from": "2019-07-12",
+     "to": "2019-07-14",
+     "laws": [
+      "S.C. 2019, c. 13"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190712/P1TT3xt3.html",
+     "sha256": "37671c46cb9c6d2330f1df74d6fe77aa087ad411cdedf32a392dce0ea5828225"
+    },
+    {
+     "from": "2019-07-15",
+     "to": "2019-08-27",
+     "laws": [
+      "S.C. 2019, c. 29"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190715/P1TT3xt3.html",
+     "sha256": "ef67e4ea92e0828e873b32b565d47ff21f84ab2a2ebd91be6371b8bdc3bc7f58"
+    },
+    {
+     "from": "2019-08-28",
+     "to": "2020-06-20",
+     "laws": [
+      "S.C. 2019, c. 28"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20190828/P1TT3xt3.html",
+     "sha256": "378bff1e6d463c4774d8b58761296a798cd9ff1c587a4abda673f1239d9e289c"
+    },
+    {
+     "from": "2020-06-21",
+     "to": "2021-08-05",
+     "laws": [
+      "S.C. 2019, c. 18"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20200621/P1TT3xt3.html",
+     "sha256": "1c7792d21c4dc0d197d403b4c886e6b58c20916d4d90ebd0ec005b1b60525f88"
+    },
+    {
+     "from": "2021-08-06",
+     "to": "2021-08-11",
+     "laws": [
+      "SOR/2021-188"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20210806/P1TT3xt3.html",
+     "sha256": "4ed8dd4c273e02fc93a416d6d6864f80092cccdd2b63aa109d692d107d57ce0a"
+    },
+    {
+     "from": "2021-08-12",
+     "to": "2021-11-22",
+     "laws": [
+      "SOR/2021-193"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20210812/P1TT3xt3.html",
+     "sha256": "7a09c570215d354123b5401285e8f239440888f150f4579ebd4b5d8b2230a355"
+    },
+    {
+     "from": "2021-11-23",
+     "to": "2022-06-08",
+     "laws": [
+      "S.C. 2019, c. 29"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20211123/P1TT3xt3.html",
+     "sha256": "a629d7aa38b974089c93947ba4a8e1eaa2740091a3a56ce06c488a0802c944cf"
+    },
+    {
+     "from": "2022-06-09",
+     "to": "2022-07-25",
+     "laws": [
+      "S.C. 2022, c. 5"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20220609/P1TT3xt3.html",
+     "sha256": "db0ae9d0a00f7ec009f994367b2443b631a77089fb7ebf8f0df4559950aa29c6"
+    },
+    {
+     "from": "2022-07-26",
+     "to": "2022-08-31",
+     "laws": [
+      "S.C. 2022, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20220726/P1TT3xt3.html",
+     "sha256": "8d9a9fb6c751d7e53a824cb146652402cbcf2abfe0084f6319fe610687f1fc1e"
+    },
+    {
+     "from": "2022-09-01",
+     "to": "2022-09-30",
+     "laws": [
+      "S.C. 2022, c. 10"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20220901/P1TT3xt3.html",
+     "sha256": "9303ac8b12d1742854e75980e91a4b3c89aa28d8fbed829ab13c0b456fee669e"
+    },
+    {
+     "from": "2022-10-01",
+     "to": "2023-04-26",
+     "laws": [
+      "S.C. 2022, c. 9"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20221001/P1TT3xt3.html",
+     "sha256": "4a3f1a83b89b606e4bb8c286e1c3ff2a86dc8a0322bdf353ffda8d1ca0268ed5"
+    },
+    {
+     "from": "2023-04-27",
+     "to": "2023-06-19",
+     "laws": [
+      "S.C. 2023, c. 8"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20230427/P1TT3xt3.html",
+     "sha256": "b424f6123713c12c4dcbc9e14746809937c620397fd7cfc1e122487bc9a58b3c"
+    },
+    {
+     "from": "2023-06-20",
+     "to": "2023-06-21",
+     "laws": [
+      "S.C. 2023, c. 16"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20230620/P1TT3xt3.html",
+     "sha256": "808f7c62f74c34506918b32aa61ad04c6485bcfa3dc34eb43389f8fe232c0f2a"
+    },
+    {
+     "from": "2023-06-22",
+     "to": "2023-08-31",
+     "laws": [
+      "S.C. 2023, c. 23"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20230622/P1TT3xt3.html",
+     "sha256": "e40f50e958b9fcf477aab611458411444f7fcf419efc5b408e2209098958cce6"
+    },
+    {
+     "from": "2023-09-01",
+     "to": "2024-01-21",
+     "laws": [
+      "S.C. 2023, c. 22"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20230901/P1TT3xt3.html",
+     "sha256": "08027de07594d3be2cf38f2465f08fafce4713ab1cc5dc9a4910ee67d5dd0ab7"
+    },
+    {
+     "from": "2024-01-22",
+     "to": "2024-06-19",
+     "laws": [
+      "S.C. 2023, c. 29"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20240122/P1TT3xt3.html",
+     "sha256": "bba8283421bbe0cdbf33e826e9c8cd64767fa24fb978354ab574d47b71accb2b"
+    },
+    {
+     "from": "2024-06-20",
+     "to": "2024-06-27",
+     "laws": [
+      "S.C. 2024, c. 15",
+      "S.C. 2024, c. 17"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20240620/P1TT3xt3.html",
+     "sha256": "ee96e3174036882357110432d9c224d2b57164affac558c2cd93216b8b525f7a"
+    },
+    {
+     "from": "2024-06-28",
+     "to": "2024-08-18",
+     "laws": [
+      "S.C. 2024, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20240628/P1TT3xt3.html",
+     "sha256": "652afdf45b3637e1c9b7aae1d7f5aeaba5f5cf13fcca5245c4d1a089274df2c5"
+    },
+    {
+     "from": "2024-08-19",
+     "to": "2024-09-19",
+     "laws": [
+      "S.C. 2024, c. 16"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20240819/P1TT3xt3.html",
+     "sha256": "7bb12c0b9e80dd1bd16dd0434ec45b1e671c8431ca5eca6b6064f9914d1379d4"
+    },
+    {
+     "from": "2024-09-20",
+     "to": "2024-10-14",
+     "laws": [
+      "SOR/2024-184"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20240920/P1TT3xt3.html",
+     "sha256": "6bcce61ae7aa40633b6388c700b1c097fefb8380fe06ce8ea5520bf27cca89ca"
+    },
+    {
+     "from": "2024-10-15",
+     "to": "2025-01-30",
+     "laws": [
+      "S.C. 2024, c. 15"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20241015/P1TT3xt3.html",
+     "sha256": "54ecd450f28b4e534737b99174ebab9291e5fa4a50afa00996f1bc44f2f27537"
+    },
+    {
+     "from": "2025-01-31",
+     "to": "2025-03-05",
+     "laws": [
+      "S.C. 2024, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20250131/P1TT3xt3.html",
+     "sha256": "f5670ac3a02c39fbbb9f079b50ed978d7e50c43008217390cb1262afe552f8f1"
+    },
+    {
+     "from": "2025-03-06",
+     "to": "2025-06-01",
+     "laws": [
+      "S.C. 2024, c. 33"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20250306/P1TT3xt3.html",
+     "sha256": "7091605a4a1785febd7b356703f1b1e67f6b9ad73682688048ea5a947f5ebb8d"
+    },
+    {
+     "from": "2025-06-02",
+     "to": "2026-03-25",
+     "laws": [
+      "S.C. 2024, c. 20"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20250602/P1TT3xt3.html",
+     "sha256": "30dc36abeef610c0e46e1d0669d8385d366c11ce31006edec0a6500a3f5ed651"
+    },
+    {
+     "from": "2026-03-26",
+     "to": "2026-06-13",
+     "laws": [
+      "S.C. 2026, c. 3"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20260326/P1TT3xt3.html",
+     "sha256": "542d6b8835edba184c403c77ca7a832705d97f2d56f4eff7f0186e44a80a791f"
+    },
+    {
+     "from": "2026-06-14",
+     "to": "2026-09-30",
+     "laws": [
+      "S.C. 2026, c. 3"
+     ],
+     "html": "https://laws-lois.justice.gc.ca/eng/acts/A-1/20260614/P1TT3xt3.html",
+     "sha256": "aa777dd05a0aaeed88f2c8c704b117c79e3f07452f8fbd699a610ef92a7d3395"
+    }
+   ]
+  }
+ ],
+ "laws": [
+  {
+   "key": "S.C. 2002, c. 7",
+   "label": "S.C. 2002, c. 7",
+   "title": "Yukon Act",
+   "assented": "2002-03-27",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2002_7/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2002, c. 8",
+   "label": "S.C. 2002, c. 8",
+   "title": "Courts Administration Service Act",
+   "assented": "2002-03-27",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2002_8/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2003, c. 7",
+   "label": "S.C. 2003, c. 7",
+   "title": "Yukon Environmental and Socio-economic Assessment Act",
+   "assented": "2003-05-13",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2003_7/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2003, c. 22",
+   "label": "S.C. 2003, c. 22",
+   "title": "Public Service Modernization Act",
+   "assented": "2003-11-07",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2003_22/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 2",
+   "label": "S.C. 2004, c. 2",
+   "title": "Assisted Human Reproduction Act",
+   "assented": "2004-03-29",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_2/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 7",
+   "label": "S.C. 2004, c. 7",
+   "title": "An Act to amend the Parliament of Canada Act (Ethics Commissioner and Senate Ethics Officer) and other Acts in consequence",
+   "assented": "2004-03-31",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_7/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 10",
+   "label": "S.C. 2004, c. 10",
+   "title": "An Act respecting the registration of information relating to sex offenders, to amend the Criminal Code and to make consequential amendments to other Acts",
+   "assented": "2004-04-01",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_10/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 11",
+   "label": "S.C. 2004, c. 11",
+   "title": "An Act to establish the Library and Archives of Canada, to amend the Copyright Act and to amend certain Acts in consequence",
+   "assented": "2004-04-01",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_11/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 15",
+   "label": "S.C. 2004, c. 15",
+   "title": "An Act to amend certain Acts of Canada, and to enact measures for implementing the Biological and Toxin Weapons Convention, in order to enhance public safety",
+   "assented": "2004-05-06",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_15/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 17",
+   "label": "S.C. 2004, c. 17",
+   "title": "An Act to give effect to the Westbank First Nation Self Government Agreement",
+   "assented": "2004-05-06",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_17/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2004, c. 26",
+   "label": "S.C. 2004, c. 26",
+   "title": "Canada Education Savings Act",
+   "assented": "2004-12-15",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2004_26/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 1",
+   "label": "S.C. 2005, c. 1",
+   "title": "Tlicho Land Claims and Self-Government",
+   "assented": "2005-02-15",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_1/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 9",
+   "label": "S.C. 2005, c. 9",
+   "title": "First Nations Fiscal and Statistical Management Act",
+   "assented": "2005-03-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_9/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 10",
+   "label": "S.C. 2005, c. 10",
+   "title": "Department of Public Safety and Emergency Preparedness Act",
+   "assented": "2005-03-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_10/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 27",
+   "label": "S.C. 2005, c. 27",
+   "title": "Labrador Inuit Land Claims Agreement Act",
+   "assented": "2005-06-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_27/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 30",
+   "label": "S.C. 2005, c. 30",
+   "title": "Budget Implementation Act, 2005",
+   "assented": "2005-06-29",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_30/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 34",
+   "label": "S.C. 2005, c. 34",
+   "title": "Department of Human Resources and Skills Development Act",
+   "assented": "2005-07-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_34/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 35",
+   "label": "S.C. 2005, c. 35",
+   "title": "Department of Social Development Act",
+   "assented": "2005-07-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_35/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 38",
+   "label": "S.C. 2005, c. 38",
+   "title": "Canada Border Services Agency Act",
+   "assented": "2005-11-03",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_38/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2005, c. 46",
+   "label": "S.C. 2005, c. 46",
+   "title": "Public Servants Disclosure Protection Act",
+   "assented": "2005-11-25",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2005_46/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2006, c. 4",
+   "label": "S.C. 2006, c. 4",
+   "title": "Budget Implementation Act, 2006",
+   "assented": "2006-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2006_4/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2006, c. 9",
+   "label": "S.C. 2006, c. 9",
+   "title": "Federal Accountability Act",
+   "assented": "2006-12-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2006_9/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2006, c. 10",
+   "label": "S.C. 2006, c. 10",
+   "title": "First Nations Jurisdiction over Education in British Columbia Act",
+   "assented": "2006-12-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2006_10/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2006, c. 13",
+   "label": "S.C. 2006, c. 13",
+   "title": "Softwood Lumber Products Export Charge Act, 2006",
+   "assented": "2006-12-14",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2006_13/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2007, c. 15",
+   "label": "S.C. 2007, c. 15",
+   "title": "Emergency Management Act",
+   "assented": "2007-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2007_15/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2007, c. 18",
+   "label": "S.C. 2007, c. 18",
+   "title": "Sales Tax Amendments Act, 2006",
+   "assented": "2007-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2007_18/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2008, c. 9",
+   "label": "S.C. 2008, c. 9",
+   "title": "An Act to amend the Museums Act and to make consequential amendments to other Acts",
+   "assented": "2008-03-13",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2008_9/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2008, c. 22",
+   "label": "S.C. 2008, c. 22",
+   "title": "Specific Claims Tribunal Act",
+   "assented": "2008-06-18",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2008_22/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2008, c. 28",
+   "label": "S.C. 2008, c. 28",
+   "title": "Budget Implementation Act, 2008",
+   "assented": "2008-06-18",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2008_28/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2008, c. 32",
+   "label": "S.C. 2008, c. 32",
+   "title": "Tsawwassen First Nation Final Agreement Act",
+   "assented": "2008-06-26",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2008_32/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2009, c. 2",
+   "label": "S.C. 2009, c. 2",
+   "title": "Budget Implementation Act, 2009",
+   "assented": "2009-03-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2009_2/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2009, c. 18",
+   "label": "S.C. 2009, c. 18",
+   "title": "Maanulth First Nations Final Agreement Act",
+   "assented": "2009-06-18",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2009_18/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2010, c. 7",
+   "label": "S.C. 2010, c. 7",
+   "title": "Creating Canada’s New National Museum of Immigration at Pier 21 Act",
+   "assented": "2010-06-29",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2010_7/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2010, c. 12",
+   "label": "S.C. 2010, c. 12",
+   "title": "Jobs and Economic Growth Act",
+   "assented": "2010-07-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2010_12/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2010, c. 23",
+   "label": "S.C. 2010, c. 23",
+   "title": "An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act",
+   "assented": "2010-12-15",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2010_23/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2011, c. 25",
+   "label": "S.C. 2011, c. 25",
+   "title": "Marketing Freedom for Grain Farmers Act",
+   "assented": "2011-12-15",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2011_25/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2012, c. 1",
+   "label": "S.C. 2012, c. 1",
+   "title": "Safe Streets and Communities Act",
+   "assented": "2012-03-13",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2012_1/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2012, c. 19",
+   "label": "S.C. 2012, c. 19",
+   "title": "Jobs, Growth and Long-term Prosperity Act",
+   "assented": "2012-06-29",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2012_19/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2012, c. 31",
+   "label": "S.C. 2012, c. 31",
+   "title": "Jobs and Growth Act, 2012",
+   "assented": "2012-12-14",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2012_31/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 14",
+   "label": "S.C. 2013, c. 14",
+   "title": "Northern Jobs and Growth Act",
+   "assented": "2013-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_14/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 18",
+   "label": "S.C. 2013, c. 18",
+   "title": "Enhancing Royal Canadian Mounted Police Accountability Act",
+   "assented": "2013-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_18/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 24",
+   "label": "S.C. 2013, c. 24",
+   "title": "Strengthening Military Justice in the Defence of Canada Act",
+   "assented": "2013-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_24/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 29",
+   "label": "S.C. 2013, c. 29",
+   "title": "Safer Witnesses Act",
+   "assented": "2013-06-26",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_29/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 33",
+   "label": "S.C. 2013, c. 33",
+   "title": "Economic Action Plan 2013 Act, No. 1",
+   "assented": "2013-06-26",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_33/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 38",
+   "label": "S.C. 2013, c. 38",
+   "title": "Canadian Museum of History Act",
+   "assented": "2013-12-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_38/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2013, c. 40",
+   "label": "S.C. 2013, c. 40",
+   "title": "Economic Action Plan 2013 Act, No. 2",
+   "assented": "2013-12-12",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2013_40/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 1",
+   "label": "S.C. 2014, c. 1",
+   "title": "Sioux Valley Dakota Nation Governance Act",
+   "assented": "2014-03-04",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_1/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 2",
+   "label": "S.C. 2014, c. 2",
+   "title": "Northwest Territories Devolution Act",
+   "assented": "2014-03-25",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_2/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 11",
+   "label": "S.C. 2014, c. 11",
+   "title": "Tla’amin Final Agreement Act",
+   "assented": "2014-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_11/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 12",
+   "label": "S.C. 2014, c. 12",
+   "title": "Fair Elections Act",
+   "assented": "2014-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_12/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 13",
+   "label": "S.C. 2014, c. 13",
+   "title": "Offshore Health and Safety Act",
+   "assented": "2014-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_13/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 20",
+   "label": "S.C. 2014, c. 20",
+   "title": "Economic Action Plan 2014 Act, No. 1",
+   "assented": "2014-06-19",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_20/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 29",
+   "label": "S.C. 2014, c. 29",
+   "title": "Safeguarding Canada’s Seas and Skies Act",
+   "assented": "2014-12-09",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_29/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 32",
+   "label": "S.C. 2014, c. 32",
+   "title": "Combating Counterfeit Products Act",
+   "assented": "2014-12-09",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_32/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2014, c. 39",
+   "label": "S.C. 2014, c. 39",
+   "title": "Economic Action Plan 2014 Act, No. 2",
+   "assented": "2014-12-16",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_39/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2015, c. 3",
+   "label": "S.C. 2015, c. 3",
+   "title": "Miscellaneous Statute Law Amendment Act, 2014",
+   "assented": "2015-02-26",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2015_3/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2015, c. 9",
+   "label": "S.C. 2015, c. 9",
+   "title": "Protection of Canada from Terrorists Act",
+   "assented": "2015-04-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2015_9/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2015, c. 32",
+   "label": "S.C. 2015, c. 32",
+   "title": "Digital Privacy Act",
+   "assented": "2015-06-18",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2015_32/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2015, c. 36",
+   "label": "S.C. 2015, c. 36",
+   "title": "Economic Action Plan 2015 Act, No. 1",
+   "assented": "2015-06-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2015_36/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2017, c. 15",
+   "label": "S.C. 2017, c. 15",
+   "title": "National Security and Intelligence Committee of Parliamentarians Act",
+   "assented": "2017-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2017_15/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2017, c. 20",
+   "label": "S.C. 2017, c. 20",
+   "title": "Budget Implementation Act, 2017, No. 1",
+   "assented": "2017-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2017_20/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2017, c. 32",
+   "label": "S.C. 2017, c. 32",
+   "title": "Anishinabek Nation Education Agreement Act",
+   "assented": "2017-12-14",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2017_32/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2018, c. 4",
+   "label": "S.C. 2018, c. 4",
+   "title": "An Act to give effect to the Agreement on Cree Nation Governance between the Crees of Eeyou Istchee and the Government of Canada, to amend the Cree-Naskapi (of Quebec) Act and to make related and consequential amendments to other Acts",
+   "assented": "2018-03-29",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2018_4/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2018, c. 12",
+   "label": "S.C. 2018, c. 12",
+   "title": "Budget Implementation Act, 2018, No. 1",
+   "assented": "2018-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2018_12/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2018, c. 27",
+   "label": "S.C. 2018, c. 27",
+   "title": "Budget Implementation Act, 2018, No. 2",
+   "assented": "2018-12-13",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2018_27/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2018, c. 31",
+   "label": "S.C. 2018, c. 31",
+   "title": "Elections Modernization Act",
+   "assented": "2018-12-13",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2018_31/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 10",
+   "label": "S.C. 2019, c. 10",
+   "title": "Accessible Canada Act",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_10/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 13",
+   "label": "S.C. 2019, c. 13",
+   "title": "National Security Act, 2017",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_13/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 14",
+   "label": "S.C. 2019, c. 14",
+   "title": "An Act to amend the Fisheries Act and other Acts in consequence",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_14/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 18",
+   "label": "S.C. 2019, c. 18",
+   "title": "An Act to amend the Access to Information Act and the Privacy Act and to make consequential amendments to other Acts",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_18/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 28",
+   "label": "S.C. 2019, c. 28",
+   "title": "An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_28/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2019, c. 29",
+   "label": "S.C. 2019, c. 29",
+   "title": "Budget Implementation Act, 2019, No. 1",
+   "assented": "2019-06-21",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_29/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2022, c. 5",
+   "label": "S.C. 2022, c. 5",
+   "title": "Economic and Fiscal Update Implementation Act, 2021",
+   "assented": "2022-06-09",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2022_5/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2022, c. 9",
+   "label": "S.C. 2022, c. 9",
+   "title": "An Act to give effect to the Anishinabek Nation Governance Agreement, to amend the Sechelt Indian Band Self-Government Act and the Yukon First Nations Self-Government Act and to make related and consequential amendments to other Acts",
+   "assented": "2022-06-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2022_9/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2022, c. 10",
+   "label": "S.C. 2022, c. 10",
+   "title": "Budget Implementation Act, 2022, No. 1",
+   "assented": "2022-06-23",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2022_10/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2023, c. 8",
+   "label": "S.C. 2023, c. 8",
+   "title": "Online Streaming Act",
+   "assented": "2023-04-27",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2023_8/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2023, c. 16",
+   "label": "S.C. 2023, c. 16",
+   "title": "An Act to amend the First Nations Fiscal Management Act, to make consequential amendments to other Acts, and to make a clarification relating to another Act",
+   "assented": "2023-06-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2023_16/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2023, c. 22",
+   "label": "S.C. 2023, c. 22",
+   "title": "Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act",
+   "assented": "2023-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2023_22/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2023, c. 23",
+   "label": "S.C. 2023, c. 23",
+   "title": "Online News Act",
+   "assented": "2023-06-22",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2023_23/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2023, c. 29",
+   "label": "S.C. 2023, c. 29",
+   "title": "An Act to amend the Canada Business Corporations Act and to make consequential and related amendments to other Acts",
+   "assented": "2023-11-02",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2023_29/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2024, c. 15",
+   "label": "S.C. 2024, c. 15",
+   "title": "Fall Economic Statement Implementation Act, 2023",
+   "assented": "2024-06-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2024_15/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2024, c. 16",
+   "label": "S.C. 2024, c. 16",
+   "title": "Countering Foreign Interference Act",
+   "assented": "2024-06-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2024_16/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2024, c. 17",
+   "label": "S.C. 2024, c. 17",
+   "title": "Budget Implementation Act, 2024, No. 1",
+   "assented": "2024-06-20",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2024_17/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2024, c. 20",
+   "label": "S.C. 2024, c. 20",
+   "title": "An Act to amend the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts",
+   "assented": "2024-10-03",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2024_20/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2024, c. 33",
+   "label": "S.C. 2024, c. 33",
+   "title": "Miscarriage of Justice Review Commission Act (David and Joyce Milgaard’s Law)",
+   "assented": "2024-12-17",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2024_33/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "S.C. 2026, c. 3",
+   "label": "S.C. 2026, c. 3",
+   "title": "Budget 2025 Implementation Act, No. 1",
+   "assented": "2026-03-26",
+   "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2026_3/",
+   "kind": "Act of Parliament"
+  },
+  {
+   "key": "SOR/2003-148",
+   "label": "SOR/2003-148",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2003-423",
+   "label": "SOR/2003-423",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2003-428",
+   "label": "SOR/2003-428",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2003-435",
+   "label": "SOR/2003-435",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2003-440",
+   "label": "SOR/2003-440",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2004-24",
+   "label": "SOR/2004-24",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2004-207",
+   "label": "SOR/2004-207",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2004-309",
+   "label": "SOR/2004-309",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2005-251",
+   "label": "SOR/2005-251",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2005-407",
+   "label": "SOR/2005-407",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-24",
+   "label": "SOR/2006-24",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-28",
+   "label": "SOR/2006-28",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-34",
+   "label": "SOR/2006-34",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-70",
+   "label": "SOR/2006-70",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-99",
+   "label": "SOR/2006-99",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2006-217",
+   "label": "SOR/2006-217",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2007-215",
+   "label": "SOR/2007-215",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2008-114",
+   "label": "SOR/2008-114",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2008-130",
+   "label": "SOR/2008-130",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2008-135",
+   "label": "SOR/2008-135",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2009-174",
+   "label": "SOR/2009-174",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2009-243",
+   "label": "SOR/2009-243",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2009-248",
+   "label": "SOR/2009-248",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2011-162",
+   "label": "SOR/2011-162",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2011-258",
+   "label": "SOR/2011-258",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2014-66",
+   "label": "SOR/2014-66",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2017-257",
+   "label": "SOR/2017-257",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2018-23",
+   "label": "SOR/2018-23",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2019-84",
+   "label": "SOR/2019-84",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2021-188",
+   "label": "SOR/2021-188",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2021-193",
+   "label": "SOR/2021-193",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  },
+  {
+   "key": "SOR/2024-184",
+   "label": "SOR/2024-184",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Regulation (SOR)"
+  }
+ ]
+}
