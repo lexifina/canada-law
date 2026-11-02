@@ -117,14 +117,21 @@ class Smoke:
 
     # 5
     def lexifina(self):
-        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        # The history grows append-only: each append ends with a documentation commit of its own, so there is one per
+        # append, and the last commit is one.
+        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn%x09%(trailers:key=Kind,valueonly,separator=)',
+                        'main').splitlines()
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert by_lex and by_lex[0] == rows[0], 'the last commit is not a documentation commit by Lexifina'
+        assert all(r.split('\t')[4].strip() == 'documentation' for r in by_lex), \
+            'a commit by Lexifina that is not a documentation commit'
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        assert all(r.split('\t')[2].endswith('.invalid') for r in rows[1:]), 'an author address not ending .invalid'
-        authors = {r.split('\t')[1] for r in rows[1:]}
+        law_rows = [r for r in rows if r.split('\t')[1] != 'Lexifina']
+        assert all(r.split('\t')[2].endswith('.invalid') for r in law_rows), 'an author address not ending .invalid'
+        authors = {r.split('\t')[1] for r in law_rows}
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors - {PUBLISHER}}'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(authors)} distinct authors'
+        return (f'only the {len(by_lex)} documentation commits (the last {rows[0][:10]}) are by Lexifina; '
+                f'{len(authors)} distinct authors')
 
     # 6
     def readme(self):
@@ -153,7 +160,7 @@ def main():
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every commit', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check("only documentation commits are by Lexifina", s.lexifina)
     s.check('README commands run', s.readme)
     ok = all(r[1] for r in s.results)
     print(f'{sum(r[1] for r in s.results)}/{len(s.results)} passed')

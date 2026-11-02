@@ -31,8 +31,33 @@ def order(path: str) -> tuple:
     if name.startswith('schedule'):
         rest = name[len('schedule'):].lstrip('-')
         roman = {'i': 1, 'ii': 2, 'iii': 3, 'iv': 4, 'v': 5, 'vi': 6, 'vii': 7, 'viii': 8, 'ix': 9, 'x': 10}
-        return (2, int(rest) if rest.isdigit() else roman.get(rest, 0), (rest,))
+        if rest.isdigit() or rest in roman or not rest or re.fullmatch(r'[0-9a-z.]+', rest):
+            return (2, int(rest) if rest.isdigit() else roman.get(rest, 0), (rest,))
+        # Other labels ('schedule-to-part-xx.1', 'schedule-form-5.0031'): those to a Part, then the rest, then forms;
+        # numbers by value (decimal parts as written), Roman numerals by value.
+        rank = 0 if rest.startswith('to-part') else 2 if rest.startswith('form') else 1
+        return (2, 1000 + rank, natural(rest))
     return (3, 0, (name,))
+
+
+ROMAN = re.compile(r'(?=[ivxlcdm])m*(c[md]|d?c{0,3})(x[cl]|l?x{0,3})(i[xv]|v?i{0,3})')
+
+
+def natural(rest: str) -> tuple:
+    vals = {'i': 1, 'v': 5, 'x': 10, 'l': 50, 'c': 100, 'd': 500, 'm': 1000}
+    out = []
+    for t in re.findall(r'[0-9]+(?:\.[0-9]+)*|[a-z]+', rest):
+        if t[0].isdigit():
+            whole, _, frac = t.partition('.')
+            out.append((0, int(whole), frac))
+        elif ROMAN.fullmatch(t):
+            n = 0
+            for a, b in zip(t, t[1:] + ' '):
+                n += -vals[a] if b != ' ' and vals[b] > vals[a] else vals[a]
+            out.append((0, n, ''))
+        else:
+            out.append((1, 0, t))
+    return tuple(out)
 
 
 def file_for(key: str) -> str:

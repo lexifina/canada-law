@@ -1,9 +1,10 @@
 {
   "corpus": "ca/federal/acts",
-  "name": "Canadian federal law: Personal Information Protection and Electronic Documents Act (P-8.6) and Access to Information Act (A-1)",
+  "name": "Canadian federal law: consolidated Acts of Parliament",
   "acts": [
     "P-8.6",
-    "A-1"
+    "A-1",
+    "C-46"
   ],
   "history_from": "2002-12-31",
   "built": "2026-10-28",
@@ -26,15 +27,19 @@
   },
   "tool": "tools/on_date.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-06-14",
+  "record_to": "2026-07-18",
   "citation": {
     "file": "([A-Z]-[0-9.]+)/s-0*([0-9]+(?:\\.[0-9]+)*)\\.md",
     "cites": "([Ss]ections?|[Ss]ubsections?|[Pp]aragraphs?|ss?\\.) ?{n}([^0-9.]|\\.[^0-9]|$)"
   },
   "label": "Canada (federal)",
   "language": "en",
-  "checked_on": "2026-10-28",
+  "checked_on": "2026-11-02",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28: every point-in-time version, file by file and word for word. English text only.",
-  "path_pattern": "<act id>/s-<section, whole part padded to 3 digits>.md; <act id>/schedule-<n>.md; <act id>/intro.md"
+  "record_note": "Checked against the official source on 2026-11-02: every version, file by file and word for word. English text only.",
+  "path_pattern": "<act id>/s-<section, whole part padded to 3 digits>.md; <act id>/schedule-<n>.md; <act id>/intro.md",
+  "sources": [
+    "Justice Laws Website point-in-time versions (P-8.6, A-1)",
+    "Justice Canada, consolidated Acts and regulations in XML (github.com/justicecanada/laws-lois-xml)"
+  ]
 }

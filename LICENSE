@@ -1,17 +1,24 @@
 The legal text
 ==============
 
-The text of the Acts in this repository is reproduced from the Justice Laws Website (https://laws-lois.justice.gc.ca),
-Department of Justice Canada, under the Reproduction of Federal Law Order, SI/97-5:
+The text of the Acts in this repository is reproduced from the Department of Justice Canada's consolidation of the
+federal Acts and regulations, published on the Justice Laws Website (https://laws-lois.justice.gc.ca) and, as XML, in
+Justice Canada's repository of the consolidated Acts and regulations (https://github.com/justicecanada/laws-lois-xml).
+
+It is reproduced under the Reproduction of Federal Law Order, SI/97-5:
 
   "Anyone may, without charge or request for permission, reproduce enactments and consolidations of enactments of the
   Government of Canada, and decisions and reasons for decisions of federally-constituted courts and administrative
   tribunals, provided due diligence is exercised in ensuring the accuracy of the materials reproduced and the
   reproduction is not represented as an official version."
 
+The XML repository is published under the Open Government Licence - Canada
+(https://open.canada.ca/en/open-government-licence-canada). Contains information licensed under the Open Government
+Licence - Canada. Copyright (c) Government of Canada.
+
 This reproduction is NOT an official version. It is not produced in affiliation with, or with the endorsement of, the
 Government of Canada. The Department of Justice Canada assumes no responsibility for the accuracy or reliability of
-any reproduction derived from the legislative material on its site. For all purposes of interpreting and applying the
+any reproduction derived from the legislative material it publishes. For all purposes of interpreting and applying the
 law, consult the original and amending Acts as passed by Parliament (the "Assented to" Acts service, Part III of the
 Canada Gazette and the annual Statutes of Canada) and the original and amending regulations as registered and
 published in Part II of the Canada Gazette.

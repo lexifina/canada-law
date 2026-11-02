@@ -1,0 +1,262 @@
+{
+ "source": "https://github.com/justicecanada/laws-lois-xml",
+ "transform": "xslt/LIMS2HTML.xsl",
+ "transform_sha256_after_patches": "caadf600f5af32e7abb9b3f7f9d97d2b6d742ee935edde8ec5777245659dfff9",
+ "acts": {
+  "C-46": [
+   {
+    "from": "2020-07-01",
+    "commit": "1fb8069ccea31210a735312bf041770d11454c0f",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "26c52ccc65e17636446903696a0157d770f299ca9f310c3e61efa701b5249e95",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2021-03-17",
+    "commit": "d73013a4c568e6a250b2f507f1971c867b9dcf3c",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "930a7f137ce6571e9f4ba379cd0921fedde18f44b6025891b14f26fe279bbba4",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2021-05-06",
+    "commit": "f61e218b558d039cb358d52a1a790714c2eee691",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "0aca8f456ce7083abbc9a38c07cade495f645a03d3e99fb9fe84818c84f31dbf",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2021-08-27",
+    "commit": "aa9b8406ed69576151c04686cf93f72f007fa623",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "c513e1b72a1b57f6886fd82c11273194517455aef4a7ebe682d4d113f51a0c76",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-01-07",
+    "commit": "f2a2fee9ca9cc92eab9567a186b82907445aeb21",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "f7dc5b4a4d853c1b163ce05b390f0f2897cab48f1b6d48f591c66d52e6f84e8e",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-01-16",
+    "commit": "779eef8e9074957659600a138ea77fc5bff8ac70",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "e2b206354a7b66bd364327285233aee74900cd67d36b1a19f18a10586abe42ef",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-06-09",
+    "commit": "6edbad19bf5b9c5ea9ed16d904c2eafb50057e88",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2022-06-20",
+    "commit": "6edbad19bf5b9c5ea9ed16d904c2eafb50057e88",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "83b2abafa3cb344d2de8c7602d6689d59d16badadd1df5d0afd9abcd803c2b68",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-06-23",
+    "commit": "2550c5ed22c36a4616bb13c72bd63c9ed565ada8",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "6666f4933a13c1d3ebb54d1ed0a3e56fd344bc03bb7680540b86d67c90868c58",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-10-01",
+    "commit": "6dcc35e28f23943974d58c8de05d6d48ea23d952",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "63a5f7fa2523a291399993199dfa0679950737e7bbfac001701a33d78e8b49d3",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-10-26",
+    "commit": "8309543c3674a4ca8bb0c630d9e5542cbb52af72",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "3c9493c0d610fad18b4cc1089841f2438627886d1e8c9fda030ccdfe93707293",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-11-17",
+    "commit": "a4ce41498e49c776848205541899e07a21915a49",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "ce1417db508d13d24f89244f134757cdc8f689ffd06ee98e5f4c3e268480f437",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-12-15",
+    "commit": "372a3f4bbf785323265756e4833368e91e6cbcc5",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "8a643d758f2c264abdf12737e91ed64b62ecd831d56ab5a778420fc6ab3c7c80",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-01-14",
+    "commit": "b3ade27f838b1281a0cdd42732379f5370c44a5a",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2023-01-16",
+    "commit": "b3ade27f838b1281a0cdd42732379f5370c44a5a",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "cf5bc456831467b01f5e149c802413db1b04ec125c01dec0b884074406ed9189",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-05-27",
+    "commit": "e2af30076aecb484ef7976b21b21d0b7da92d7db",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "8378a80fe226a8657c92a912a294bf5c992e00b302a9090925b4969ed43ef6ea",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-06-20",
+    "commit": "76b1500f99c7f4b5420402c57b130722bcadc7ea",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "28fd9a029bb3a809f0b7ec6c945a50775c7a12aaece379b14f49d65a9925cb35",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-09-20",
+    "commit": "be99a9e95986600a8fe3bcf47c4ed2c43015bd75",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "c83f33d8b7b6b07fc23238717d26d82e09a742e2790aac207c10d7a7b04e88bb",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-10-26",
+    "commit": "26d7311e828d4c1b11d8db4a86abf11c7f4cca4c",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "ddf11e255c08524e35bdc069e23a7283dad9fe8dc32045faa71146ee874e79df",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2023-12-15",
+    "commit": "b7983fb22dd6183205694fd9afbe43013ae7e9cc",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "216e9d460074bf06cbf14407a1da7ece33adb9240a19e8cedba32724bc8b5b66",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2024-01-04",
+    "commit": "ff626e98bf1c3c98012cf0ec30249010f04f1a4d",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2024-01-14",
+    "commit": "ff626e98bf1c3c98012cf0ec30249010f04f1a4d",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "fb36955f2162fdd04d9fc2c72b6133e9f67da4c7190097a9d32f611ea7e07bf2",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2024-06-20",
+    "commit": "83e1b369e2091e7cfc1caca21a20e086686ad96a",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "f1b8886ea51d18ee153205a915769dbd206a2b2c48810b33e8fb1531045af7c7",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2024-07-20",
+    "commit": "f51f6f9c0e6fedcac9d4cb7d7f60b4bd0d8cfb84",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "044dc32a25694399a6b261e6c258983b17242e12f761b0b1bd2cd4656e4393b4",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2024-08-19",
+    "commit": "23e74238b22a29d15d3c423da22b3c5903ce48be",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2024-09-01",
+    "commit": "23e74238b22a29d15d3c423da22b3c5903ce48be",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "4f3fd5e18ad38bef1cc281b265aca943fef29f2576f4c032c411b6ac9f7ddc61",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2024-09-18",
+    "commit": "b19effdd14fe41a9267c2489969c0ef0df17aa29",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "fc9af69a55fdf1297102bf99a4a9b4aa740fdd6d7bf7712773638ada020ed773",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2025-01-01",
+    "commit": "9378866d29dcccd47a652f4adcbfc4f2b8c5a6c4",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "4ba8c94bd6059414d45f8c56323c8f4bed873c727613f49fdc024176384ab4d1",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2025-03-06",
+    "commit": "a9d2d4c6d963c7cf767a751ce8b5aa4ccffc964a",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "282f71ab6bd0fc5a0835f9940fe9d792f5107b5ba81920cd41ceee1c146ffd29",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2025-04-08",
+    "commit": "8a24eec3e703239754f87031726fcba77b4dac18",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "1fa4c0a2535e4b084f8e10ba9bce06a86e61623d8624341425cb2a22235ba44d",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2025-10-10",
+    "commit": "b4bdc2c236f0448809ab026e7a62918fbf574e5f",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "379636489094d0b977e9bc754f5385ca75ff17bace23b63ca34e760067f8b0b8",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2026-03-26",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "cd87d9a3332891c6c5baed980057cda27457dac5de542d90021ac657573e3d20",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2026-06-15",
+    "commit": "076f5b3c3dc9b0c62d72900496b3643d75e412c2",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "118f008c0feb50bdbc99d44f78b025d88d25a1eff8712696722abab5df2ed257",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2026-07-15",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2026-07-17",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "",
+    "kind": "rebuilt from the provisions' in-force days"
+   },
+   {
+    "from": "2026-07-18",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/acts/C-46.xml",
+    "sha256": "acfbc183b0281f0e2817193a002a4a1893bb15abf8ebef5e761d3657b794e518",
+    "kind": "consolidation"
+   }
+  ]
+ },
+ "read_up_to": "0507465393c224c0491fc8c17c88340217acc656"
+}

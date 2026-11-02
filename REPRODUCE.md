@@ -1,77 +1,58 @@
 # How this history was made, and how to make it again
 
-This file records exactly how the repository was built: the sources, the commands, the software, the decisions made
-by hand, and what an AI model did and did not do. The build writes it, so it describes the build that made this
-commit.
+This file records how the repository was built: the sources, the commands, the software, the decisions made by hand,
+and what an AI model did and did not do.
+
+The history only grows. The first build (2026-10-28) wrote PIPEDA (P-8.6) and the Access to Information Act (A-1) from
+the Justice Laws Website's point-in-time versions. Each later batch of Acts from Justice Canada's XML repository was
+appended on top of the published `main` as new commits, followed by a new documentation commit; nothing published was
+rewritten, re-sorted or re-dated, and no tag was moved.
 
 ## Short version
 
 ```sh
 git clone https://github.com/lexifina/canada-law && cd canada-law
 pip install lxml
+git clone https://github.com/justicecanada/laws-lois-xml ../laws-lois-xml
+# the first two Acts, from the Justice Laws Website:
 python -X utf8 tools/build.py --repo ../rebuilt --today 2026-10-28
-git -C ../rebuilt rev-parse main        # the same hash as this repository's main
-python -X utf8 tools/check_repo.py --repo ../rebuilt --no-record
-python -X utf8 tools/test_repo.py --repo ../rebuilt
 ```
 
-`tools/build.py` needs Python 3.12 or later with `lxml`, and git. It reads the Justice Laws Website (or its own cache,
-`.cache/` next to the script) and writes this repository into `--repo`, which must be empty or a git repository. With
-the same data and the same `--today` it gives the same commits with the same hashes. `data/versions.json` lists every
-version page it read with the sha256 of the HTML, so a rebuild can show it read the same bytes; the site may change
-its pages, and then the hashes change too.
+Each later batch is appended to the published head it names below, from the XML repository read up to the commit it
+names, by the method described under "the Acts from the XML repository". With the same head and the same XML commit
+the append gives the same commits with the same hashes: author dates are noon in Ottawa on the in-force day, committer
+dates the published head's committer time plus one second per appended commit. The append tool itself is added to
+`tools/` in a later documentation commit.
 
 ## Sources
 
-All legal text and all information about versions and amending laws come from the **Justice Laws Website**
-(laws-lois.justice.gc.ca) of the Department of Justice Canada. Nothing was typed in, summarised or rewritten. The build
-read 2 version lists, 141 versions and 86 pages of the Annual Statutes:
+All legal text and all information about versions and amending laws come from the Department of Justice Canada.
+Nothing was typed in, summarised or rewritten.
 
-| What | Where |
+| What | Source |
 | --- | --- |
-| Each act's point-in-time versions ("Previous Versions"), with the days each applies from and to | `https://laws-lois.justice.gc.ca/eng/acts/<id>/PITIndex.html` |
-| The full English text of each version, with each section's historical note (the citations of the provisions that enacted and amended it) | `https://laws-lois.justice.gc.ca/eng/acts/<id>/<yyyymmdd>/P1TT3xt3.html`, listed with sha256 in `data/versions.json` |
-| Each amending Act's title and day of Royal Assent (statutes from 2001 only; 86 of 118 laws) | `https://laws-lois.justice.gc.ca/eng/AnnualStatutes/<year>_<chapter>/` |
+| P-8.6 and A-1: each point-in-time version ("Previous Versions"), with the days it applies from and to, and its full English text with each section's historical note | Justice Laws Website, `https://laws-lois.justice.gc.ca/eng/acts/<id>/PITIndex.html` and `.../<id>/<yyyymmdd>/P1TT3xt3.html` |
+| The other Acts: every state of the Act's XML file in the history of Justice Canada's XML repository of the consolidated Acts and regulations, each a consolidated version, with the day it applies from (`lims:lastAmendedDate`), each provision's in-force day (`lims:inforce-start-date`) and each section's historical note | [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-xml), `eng/acts/<id>.xml`; each commit names the exact file in its `Consolidated:` trailer |
+| The layout of the text: the repository's own transform to HTML, a modified copy of the one that makes the Justice Laws Website's pages | `xslt/LIMS2HTML.xsl` in the same repository |
+| Each amending Act's title and day of Royal Assent (statutes from 2001) | the Annual Statutes on the Justice Laws Website, `https://laws-lois.justice.gc.ca/eng/AnnualStatutes/<year>_<chapter>/` (listed in `data/law-titles.json`); where there is none, the Annual Statute's XML in `annual-statutes-lois-annuelles/en/` of the XML repository |
 
-| Act | Title | Folder | Versions | In force from | Files today |
-| --- | --- | --- | ---: | --- | ---: |
-| P-8.6 | Personal Information Protection and Electronic Documents Act | `P-8.6/` | 17 | 2003-01-01 to 2025-03-04 | 76 |
-| A-1 | Access to Information Act | `A-1/` | 124 | 2002-12-31 to 2026-06-14 | 175 |
+## The batches
 
-The data was retrieved on 2026-10-28, at most four requests at a time and a request started at most every 0.25
-seconds, with gzip, and the user agent `lexifina-watch/1.0 (+https://lexifina.com/watch; corpus@lexifina.com)`. The
-site has no robots.txt (the address answers 404) and needs no login. Point-in-time versions exist only as HTML: the
-XML the site publishes (`/eng/XML/<id>.xml`, and the justicecanada/laws-lois-xml repository on GitHub, whose history
-begins in 2021) holds only the current consolidation.
+Each batch was appended to the published head named here, read the XML repository up to the commit named, and was checked before it was published.
 
-## The build, step by step
+| Batch | Appended to | XML repository read up to | Acts | Commits | New tags | Versions checked | Files | Words | Mismatches | Smoke test |
+| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| 1 (2026-11-02) | `f5b5dc1dc665` | `0507465393c2` | C-46 | 49 | 69 | 36 | 59714 | 14582505 | 0 | 6/6 |
 
-1. `python -X utf8 scripts/canada-law/build.py` in Lexifina's own repository fetched the data into its cache and wrote
-   this repository. `tools/build.py` here is the same file as `scripts/canada-law/build.py` there (git blob
-   `e247d3521b142513e5b441cb380f4aeb960059c5`), with `tools/fetchlib.py` (the cached fetcher), `tools/reproduce.py`, which writes this file,
-   `tools/check_repo.py` and `tools/test_repo.py`. Every later build ran with `--offline`, from the cache.
-2. `python -X utf8 scripts/canada-law/check_repo.py` read every version of each act back from this repository with
-   `tools/on_date.py`, on the day it took effect, and compared it file by file with the official text parsed afresh
-   from the cached HTML; then it compared the whole act, word for word, with all the words of the version's text on
-   the page, read without the build's parser. Result: `141 versions checked (14749 files), 0 mismatches; 141 versions word for word (3559819 words) against the whole official text, 0 mismatches`.
-3. `python -X utf8 scripts/canada-law/test_repo.py --record` ran the functional smoke test against this repository
-   (6 of 6 passed):
-   - pass: blame names a law: P-8.6/s-007.md lines by Justice Laws Website (Department of Justice Canada), S.C. 2004, c. 15, S.C. 2015, c. 32, S.C. 2024, c. 17
-   - pass: text before and after an amendment: P-8.6/s-007.md 2025-03-03 != 2025-03-04; A-1/s-013.md 2023-08-31 != 2023-09-01
-   - pass: log --follow in date order: P-8.6/s-007.md 4 commits; A-1/s-013.md 14 commits; A-1/schedule-i.md 79 commits
-   - pass: tags resolve, In-force on every commit: 271 tags resolve; all 147 commits carry In-force
-   - pass: only the documentation commit is by Lexifina: only the documentation commit 0299cbe1f4 is by Lexifina; 104 distinct authors
-   - pass: README commands run: 10 README commands ran and printed output
-4. `python -X utf8 scripts/canada-law/build.py --offline --verify-rebuild` built the repository a second time from the
-   same cache into a temporary folder and compared the hashes. A second build from the same cache into an empty folder gave the same history: the last law commit was `dccbf236e7abd5b4603f3c67a62bc7423c39e952` in both, and every one of the 146 law commits and 271 tags had the same hash.
-5. The build was run once more to write these results into this file, and the final `main` was rebuilt again in a
-   temporary folder and compared hash for hash before it was pushed.
-6. `git push origin main --tags` published it to the private GitHub repository `lexifina/canada-law`.
+Batch 1:
 
-It ran with Python 3.12.10, lxml 6.1.3 and git version 2.46.0.windows.1 on Windows 11. No network service other than the Justice Laws Website is
-involved.
+- C-46 (Criminal Code): 36 versions, 2020-07-01 to 2026-07-18; 30 from consolidations in the XML repository, 6 rebuilt between two of them from the provisions' in-force days (8 commits carry Dated-by).
+- Commits: 1 first version (publisher), 38 by 32 amending laws, 9 credited to neither of two laws (Candidate trailers), 1 with no amending law cited (s. 183, 2026, publisher).
+- Two versions were re-issued by the publisher with a different text on the same day (2025-01-01, 2026-03-26); the later text is used.
+- Checks on the appended repository: every version file by file, 0 mismatches (59,714 files); every consolidation word for word, 0 mismatches (14,582,505 words); P-8.6 and A-1 rechecked against their point-in-time pages, 141 versions, 0 mismatches file by file (14,749 files) and word for word (3,559,819 words); tools/test_repo.py 6 of 6.
+- Corrections: none. No version main already held was changed; P-8.6 and A-1 get no new versions from the XML repository (it holds none after their last In-force day).
 
-## How the text and the commits are derived
+## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 
 Everything below is done by `tools/build.py`, deterministically.
 
@@ -118,14 +99,14 @@ Everything below is done by `tools/build.py`, deterministically.
     then, and the site publishes no earlier version. Publisher commits are labelled in the subject.
   - Author and committer dates are noon in Ottawa on the day the change took effect: UTC-5, or UTC-4 in daylight time
     (from the second Sunday in March to the first Sunday in November since 2007; from the first Sunday in April to the
-    last Sunday in October before), written into the code because the build machine has no time-zone database. The
+    last Sunday in October before). The
     committer is `Lexifina <canada-law@lexifina.com>`. 0 commits are before 1970.
   - Trailers: `Evidence:`, `Kind:`, `Enacted:` (Royal Assent, statutes from 2001), `In-force:`, `Citation:` (each
     citation the law added to a note, one per line), `Source:` (the Annual Statute), `Affecting:` (one line per
     provision, `A-1 s. 2`), `Candidate:` and `Consolidated:` (the exact version page the text came from).
   - Tags: each act's days (`A-1/2019-06-21`) and each amending law (`sc/2019-c18`; a law that took effect on several
     days has one tag per day, `sc/2010-c23/2014-07-01`); 271 in all.
-- **Documentation commit.** Dated 2026-10-28, the day the data was retrieved, not the day of the run, so a later rebuild
+- **Documentation commit.** Dated 2026-10-28, the day of the source data, not the day of the run, so a later rebuild
   of the same data gives the same hash. It carries `In-force: 2026-10-28` and `Kind: documentation`.
 
 Changes credited by date only:
@@ -169,6 +150,60 @@ Changes whose new text equals an earlier version of the same file (labelled as a
 
 - none
 
+## How the text and the commits are derived: the Acts from the XML repository
+
+Everything below is done deterministically, with the parser, the rules and the commit messages of `tools/build.py`
+above.
+
+- **Versions.** Every commit of the XML repository that changed the Act's file is a state of it. A state is a
+  consolidated version; the day it applies from is its root element's `lims:lastAmendedDate` (the `pit-date` beside
+  it can be later, when a version changes nothing in the English text). A later state with the same day and the same
+  text is the same version; with the same day and a different text, the later state stands (listed below); a state
+  dated before the one before it is not used (listed below). For every state of P-8.6 and A-1 since 2021 the day is
+  the "From" day of the point-in-time version on the Justice Laws Website, and the text, through the steps below, is
+  identical, file for file, to that version in this repository (23 versions of A-1, 3 of P-8.6, 0 differences).
+- **Versions between two states.** States are days or weeks apart, so an Act can have more than one version between
+  two of them. Each provision in the XML carries the day it came into force in its current form
+  (`lims:inforce-start-date`, on the provision and each of its parts). A file that changed between two states is
+  dated by the latest such day in its section and the headings before it, when that day falls after the earlier
+  state's version and before the later one's; the version of that day is rebuilt from the earlier state with the
+  files changed by then. Its commits carry `Dated-by:`. Tried on A-1 with every second (and every third) state left
+  out: of 21 (18) versions, 19 (15) were identical to the published point-in-time versions, and 2 (3) differed in
+  one file each, where a file changed twice between the states kept.
+- **Text.** The XML goes through the repository's transform (`xslt/LIMS2HTML.xsl`) to HTML, and the HTML through
+  `build.read_version`, the parser of the point-in-time pages. Where the transform differs from the site's pages in
+  layout, it is put right: the chapter line (`R.S.C., 1985`, `S.C. 2000`, not `R.S.C, 1985`, `S.C 2000`, and no
+  unofficial consolidated number after an annual chapter), the day of assent written in full (`2000-04-13`), the list
+  that holds a section with subsections marked as a section, no full stop after a historical note, and the
+  "Related Provisions" and "Amendments Not in Force" schedules and the list of recent amending Acts left out (the
+  point-in-time text has none of them). The rest is as the transform makes it.
+- **Notes.** Historical notes of the older Acts also cite the Revised Statutes of 1970 (`R.S., c. B-2, s. 1`), list
+  several citations in one item separated by `;`, or hold an editorial note (`[NOTE: Application provisions are not
+  included in the consolidated text; ...]`). These are read as citations of `R.S.C. 1970, c. ...`, as separate
+  citations, and as no citation. A schedule labelled other than `SCHEDULE <n>` (`SCHEDULE TO PART XX.1`, `FORM 5.0031`)
+  is `schedule-to-part-xx.1.md`, `schedule-form-5.0031.md`; such files are ordered schedules to a Part, then other
+  schedules, then forms, by number.
+- **Causes, dates and messages** as above, per Act: the first version is committed by the publisher; then one commit
+  per amending law per day, then the changes with two candidate laws and those nothing explains. The `Consolidated:`
+  trailer names the exact file in the XML repository's history (`.../blob/<commit>/eng/acts/<id>.xml`).
+- **Titles of the amending Acts** and their days of assent: as for P-8.6 and A-1, each statute's Annual Statutes page
+  on the Justice Laws Website (`https://laws-lois.justice.gc.ca/eng/AnnualStatutes/<year>_<chapter>/`, its title and
+  "Assented to" day), listed in `data/law-titles.json`; where there is none, the Annual Statute in the XML repository
+  (`annual-statutes-lois-annuelles/en/`, its short title, else its long title, and the day of assent; each listed
+  below). The two can differ: for 5 of the 72 statutes of P-8.6 and A-1 in both, the page's title is the long title
+  where the XML gives the short title.
+- **Order and dates.** Each Act is one block on top of what was published: its first version, then its changes in the
+  order they took effect. Author dates are noon in Ottawa on the in-force day, as above. Committer dates are the
+  published head's committer time plus one second per commit.
+- **Tags.** `<act>/<day>` for each day of each Act, and `<law>/<day>` for each amending law and day (an existing tag
+  of a law, `sc/2019-c18`, is never moved, and a law that has a bare tag gets no day tags beside it). No published
+  tag was moved or deleted.
+- **Checks.** File by file: every version (states and rebuilt versions), read back from git with `tools/on_date.py` on
+  its day, is exactly the files the parser makes from it. Word for word: for every state, the whole Act printed by
+  `tools/on_date.py`, with its markdown marks removed, has the same words in the same order as all the text of the
+  state's HTML, read without the parser (the definition-term index, text only for screen readers and the version's
+  date line left out, as for the point-in-time pages).
+
 ## Decisions made by hand
 
 These choices were made when the tool was written, after looking at the data. They are in the code.
@@ -188,26 +223,37 @@ These choices were made when the tool was written, after looking at the data. Th
    to the publisher.
 6. **English only.** Both languages are equally authoritative; this record holds the English text. A change to the
    French version alone shows here only as a new citation in a note, marked `(F)`.
+7. **Append only.** From 2026-11-02 the published history is never rewritten: each further Act is added on top, as
+   one block, and each batch ends with its own documentation commit. Anything that would change a version `main`
+   already holds is a correction; it is not published by an append, and is listed here instead.
+8. **The other Acts come from the XML repository.** The Justice Laws Website publishes point-in-time versions only as
+   HTML pages, one per version; Justice Canada's XML repository holds every consolidation since February 2021 in its
+   git history. Its states are the versions of the other Acts, so their record begins with the version in force in
+   early 2021 (or when the Act first appears there).
+9. **The provisions' own in-force days** date a change between two states; this is the only date the record infers,
+   and those commits say so (`Dated-by:`).
+10. **Order of the Acts:** the most-cited Acts first (Criminal Code, Income Tax Act, Canada Labour Code, Bank Act, ...),
+    then all other Acts, then the regulations.
 
 ## What an AI model did
 
-This repository was built on 2026-10-28 in **Claude Code**, Anthropic's coding tool, by the model **Claude Opus 5.5**
-(model id `claude-opus-5-5`), working from a brief by the user at Lexifina: a private "git for law" repository for
-Canada to the same standard as Lexifina's other corpora.
+The first build (2026-10-28) and each append were made in **Claude Code**, Anthropic's coding tool, by the model
+**Claude Opus 5.5** (model id `claude-opus-5-5`), working from briefs by the user at Lexifina.
 
 The model:
 
-- **Researched the source:** the Justice Laws Website's point-in-time pages, the shape of their HTML and historical
-  notes, the Reproduction of Federal Law Order, the site's notices, and the site's XML.
-- **Wrote all the code and text in this repository:** `tools/build.py`, `tools/fetchlib.py`, `tools/reproduce.py`,
-  `tools/check_repo.py`, `tools/test_repo.py`, `tools/on_date.py`, the README, this file and the licence, and chose
-  the design described in them.
+- **Researched the sources:** the Justice Laws Website's point-in-time pages, Justice Canada's XML repository and its
+  transform, the shape of the historical notes, the Reproduction of Federal Law Order and the Open Government Licence -
+  Canada.
+- **Wrote all the code and text in this repository:** the tools, the README, this file and the licence, and chose
+  the design described in them; and checked, on P-8.6 and A-1, that the XML gives the same text and the same days as
+  the point-in-time pages.
 - **Ran the commands above** and checked the results.
 
 The model did **not**:
 
 - **Write or edit any legal text.** Every word of every provision, every date and every law's title is copied by the
-  script from the Justice Laws Website.
+  scripts from Justice Canada's publications.
 - **Take part in building the history.** No AI model is called when the history is built or checked.
 
 The user decided what was in scope and decides whether the repository is ever made public. The work was not reviewed
@@ -218,8 +264,8 @@ registered.
 ## Prior art
 
 - [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-xml): the Department of Justice's own XML of
-  the current consolidation, in git since 2021, one commit per site update (not per law, and not dated by when law took
-  effect).
+  the consolidation, in git since 2021, one commit per update of the consolidation (not per law, and not dated by when
+  law took effect). The source of every Act here other than P-8.6 and A-1.
 - [sandole/legalize-ca](https://github.com/sandole/legalize-ca): Canadian federal Acts as Markdown, one file per Act,
   one dated commit per amendment. Not read for this build and no code copied; this repository instead keeps one file
   per section and credits each change to the law its historical note cites.
