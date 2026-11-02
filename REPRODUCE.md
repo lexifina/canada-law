@@ -21,8 +21,18 @@ python -X utf8 tools/build.py --repo ../rebuilt --today 2026-10-28
 Each later batch is appended to the published head it names below, from the XML repository read up to the commit it
 names, by the method described under "the Acts from the XML repository". With the same head and the same XML commit
 the append gives the same commits with the same hashes: author dates are noon in Ottawa on the in-force day, committer
-dates the published head's committer time plus one second per appended commit. The append tool itself is added to
-`tools/` in a later documentation commit.
+dates the published head's committer time plus one second per appended commit. The tools:
+
+```sh
+python -X utf8 tools/append.py --xml ../laws-lois-xml --upto <XML commit> --repo ../rebuilt --acts <ids>     --today <day> --docs-date <day> --docs <documentation folder> --titles data/law-titles.json
+python -X utf8 tools/check_xml.py --xml ../laws-lois-xml --repo ../rebuilt --acts <ids> --today <day>
+```
+
+`tools/lawtext.py` is the parser, the rules and the commit messages (from 2026-11-02 the part of `tools/build.py` that
+reads a version and writes the commits; `tools/build.py` is the first build's script as it was on 2026-10-28);
+`tools/xmlsource.py` reads the versions from the XML repository; `tools/append.py` appends; `tools/check_xml.py` checks
+the appended Acts; `tools/check_repo.py` checks P-8.6 and A-1 against the point-in-time pages (it needs those pages,
+which `tools/build.py` reads).
 
 ## Sources
 

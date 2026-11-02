@@ -101,14 +101,12 @@ class Smoke:
 
     # 4
     def tags_and_trailers(self):
-        tags = self.git('tag').split()
+        # One for-each-ref for every tag (not one process per tag): each must name a commit, or a tag object of one.
+        rows = [l.split(' ') for l in self.git('for-each-ref', '--format=%(refname:short) %(objecttype) %(*objecttype)',
+                                               'refs/tags').splitlines() if l]
+        tags = [r[0] for r in rows]
         assert tags, 'no tags'
-        bad_tags = []
-        for t in tags:
-            out = subprocess.run(['git', 'rev-parse', '--verify', '-q', f'{t}^{{commit}}'], cwd=self.repo,
-                                 capture_output=True)
-            if out.returncode:
-                bad_tags.append(t)
+        bad_tags = [r[0] for r in rows if not (r[1] == 'commit' or (r[1] == 'tag' and r[2:] == ['commit']))]
         assert not bad_tags, f'tags that do not resolve: {bad_tags[:5]}'
         rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
         bad = [r for r in rows if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]

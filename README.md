@@ -119,7 +119,8 @@ table), and `schedule-form-<n>.md` each form. A repealed section stays, as the c
 ## How it is built
 
 `tools/build.py` writes the history of P-8.6 and A-1. Each further Act is added from the XML repository on top of
-the published history, with the same parser, the same rules and the same commit messages; the method, the checks and
+the published history by `tools/append.py` (with `tools/xmlsource.py`), with the same parser, the same rules and the
+same commit messages (`tools/lawtext.py`), and checked by `tools/check_xml.py`; the method, the checks and
 the decisions made by hand are in [`REPRODUCE.md`](REPRODUCE.md). [`corpus.json`](corpus.json) describes the corpus for tools that read several of Lexifina's law repositories.
 
 ## Licence
