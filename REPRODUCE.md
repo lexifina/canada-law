@@ -69,6 +69,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | 15 (2026-11-03) | `64fa36e9f9ca` | `0507465393c2` | P-19.32, P-19.45, P-24, P-24.501, P-24.8, P-31.6, P-31.7, P-33.01, P-33.3, P-36, P-38.2, P-4.4, P-6, P-7.01, R-10, R-11, R-2, R-4.2, R-4.5, R-4.7, R-8, R-8.55, S-1.1, S-14.5, S-15, S-15.3, S-15.36, S-19.6, S-22.7, S-23, S-3, S-6.6, S-6.7, S-6.9, S-8.3, S-8.4, S-8.7, T-11.1, T-11.2, T-11.5, T-19.8, T-2, T-21.5, T-3, T-3.4, U-0.5, U-2.2, V-1, V-2, W-0.8, W-11, W-11.2, W-6, W-9, Y-1.5, Y-2.01 | 200 | 0 | 200 | 24328 | 5392131 | 0 | 6/6 |
 | 16 (2026-11-03) | `cfce26b9ab69` | `0507465393c2` | SI-2005-114 | 2 | 0 | 2 | 12 | 1057 | 0 | 6/6 |
 | 17 (2026-11-03) | `fbbf5cf7ebee` | `0507465393c2` | C.R.C.,_c._1036, C.R.C.,_c._1049, C.R.C.,_c._1112, C.R.C.,_c._1232, C.R.C.,_c._1245, C.R.C.,_c._1370, C.R.C.,_c._1522, C.R.C.,_c._478 | 19 | 0 | 19 | 460 | 281099 | 0 | 6/6 |
+| 18 (2026-11-03) | `dec07b9b3607` | `0507465393c2` | C.R.C.,_c._612, C.R.C.,_c._954, C.R.C.,_c._987, C.R.C.,_c._992, SI-2021-49, SI-2021-50, SI-2021-51 | 14 | 0 | 14 | 98 | 10501 | 0 | 6/6 |
 
 Batch 1:
 
@@ -173,6 +174,12 @@ Batch 17:
 - History pass: the earlier versions of 8 regulations (C.R.C.,_c._1036 to C.R.C.,_c._478), from the XML repository's history, appended behind their current text as 19 correction commits (11 earlier versions and 8 restores, Kind: correction).
 - Two passes gave the same law commits (49c451952dab). check_xml: 19 versions file by file, 0 mismatches (460 files); 19 consolidations word for word, 0 mismatches (281099 words). Shared Reader: reader (world-law-ops correction rule): 8 laws, 19 versions, 54 days read, 962 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
 - Held back from the history pass so far: 358; with no earlier version: 1139.
+
+Batch 18:
+
+- History pass: the earlier versions of 7 regulations (C.R.C.,_c._612 to SI-2021-51), from the XML repository's history, appended behind their current text as 14 correction commits (7 earlier versions and 7 restores, Kind: correction).
+- Two passes gave the same law commits (b81ae02c815d). check_xml: 14 versions file by file, 0 mismatches (98 files); 14 consolidations word for word, 0 mismatches (10501 words). Shared Reader: reader (world-law-ops correction rule): 7 laws, 14 versions, 42 days read, 976 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
+- Held back from the history pass so far: 479; with no earlier version: 1411.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 
