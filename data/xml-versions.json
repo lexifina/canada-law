@@ -16825,6 +16825,4497 @@
     "sha256": "b9f3227586d79823117921f1a03a1bf5651b10db6283167f6316996730e5fe50",
     "kind": "consolidation"
    }
+  ],
+  "C.R.C.,_c._818": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._818.xml",
+    "sha256": "e32fcfd117d62a000df89296ff8a1fd7c1550e2a0061b72d067c49314ff7b40b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._82": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._82.xml",
+    "sha256": "c8a6b17138b83e3d6d81030d7990044b86d2d99ce593bf267851c40165276e67",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._828": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._828.xml",
+    "sha256": "7b08f67611dde5aeaa613b65105b2c08f714182c07450e1a311e7549e25d278e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._829": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._829.xml",
+    "sha256": "a6aafcd7d16ec4225c6ad045ed7e9c1c67d2fdb5d964b92ae037919d3e44aebe",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._83": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._83.xml",
+    "sha256": "3921ab784fd5e902146390000aa073ca9b392ccb3ed6901e9f4129d8747ad75e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._836": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._836.xml",
+    "sha256": "9449446ec0b9ad88cfa6839a01cd2a71aa865b670133d67313e527e15a91966b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._837": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._837.xml",
+    "sha256": "d9f47aef767d6daf15b27f34a9780ef3cde33cd33407565e90b24be54cce1654",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._84": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._84.xml",
+    "sha256": "422df5ec3e2fd8b72d33689f6e2d871574b722b8f0ccd24ee32dfde19eb5d979",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._847": [
+   {
+    "from": "2020-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._847.xml",
+    "sha256": "c8e1ef6a3190bac7a8bb23bf12cf637a238b8c25f1c02a63427114d0f04d6d68",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._854": [
+   {
+    "from": "2023-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._854.xml",
+    "sha256": "302971320f790f909c635643baf83b5cd2d6cbf7666c8d2b3c8087815ff4966d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._864": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._864.xml",
+    "sha256": "ff5b0dd9e73a6a357cd60604e5f74ed7a5e53d4e30779ac8e244c60ae8d7dc0b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._868": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._868.xml",
+    "sha256": "7dc0b70846141839c7cf8eb31a4a6f76c1f1a20fc9ffaa10dd66cffbf4659486",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._869": [
+   {
+    "from": "2026-04-12",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/C.R.C.,_c._869.xml",
+    "sha256": "33dcc3d0dd76a135cd4aa23c28cd0c5c8a2074c0f4928b3f53b479c8df61864d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._87": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._87.xml",
+    "sha256": "5e2ed9bb4375b651622db3b43caf0fa8b9f73ce40bda752a9324946c4ec795c9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._879": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._879.xml",
+    "sha256": "94a840b8e624f155d03e2f20641d78fb88fc5bc12e14361800bac81c1a49fe19",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._88": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._88.xml",
+    "sha256": "7376ac51daa55df00b32871936a966ee762228175dfc1b595a16f5038ae39091",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._880": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._880.xml",
+    "sha256": "0d4bc6cb6cbee39babc9dcfb4037030444bb0f57ab4cbab5f538a1377c90ce12",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._886": [
+   {
+    "from": "2009-06-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._886.xml",
+    "sha256": "af904904c71a1d12b528dd5ce226592e159696ee0161fffc2c6a908700532b0b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._887": [
+   {
+    "from": "2011-02-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._887.xml",
+    "sha256": "df0bbb4258c66881a0959f84c41b1ae375ef31f2f58d2e1d2686baed5a90bc8e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._889": [
+   {
+    "from": "2026-08-01",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/C.R.C.,_c._889.xml",
+    "sha256": "6d1ab1fbf3bc0609983cb1d1560b1498cd982a46686618b7732944dae015f69f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._89": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._89.xml",
+    "sha256": "6eeef48b6daab199c501b31b7f03ae6d7e41f4584dc646f2569c31d0b1e29de9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._890": [
+   {
+    "from": "2025-08-01",
+    "commit": "1fe537625e058b19184779bd47de75b36c7ee0c3",
+    "file": "eng/regulations/C.R.C.,_c._890.xml",
+    "sha256": "bd125447e889e760889e92c1303f300fcea753fea674441b222ee09f5c3c7280",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._90": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._90.xml",
+    "sha256": "fe07dfe958dd3fe8d69ae21ed7ebac2de377b0d2a4161bae09e97eb2ea41377d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._91": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._91.xml",
+    "sha256": "bbd181e1b0b3e1c183c28ffaf65f3b301797ab751ff67943fce01b4b1dc605ab",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._910": [
+   {
+    "from": "2013-10-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._910.xml",
+    "sha256": "f3f17760b2fc9e16bcc13af76365b86b0650a7eda1f9974d7095793fc68e09e1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._911": [
+   {
+    "from": "2013-10-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._911.xml",
+    "sha256": "ddddb454201b5c044b6849d4cbe2ee349540179ced196b723cc151f0d98dee04",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._915": [
+   {
+    "from": "2013-10-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._915.xml",
+    "sha256": "e330d63495a54e8e8cc1c2d7e1816adaaac2369b1db2956d6aa9d754dd44dac7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._92": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._92.xml",
+    "sha256": "c46565906cb32679877a7aff7ec4f1675e312b3302cae94c637526c0ac620260",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._923": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._923.xml",
+    "sha256": "3995ef41f27b9414daaec574fc442bd9474bf3a260b90b29c010d0de498fb9cf",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._924": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._924.xml",
+    "sha256": "2b3feeada0098c34f94c04f1daa04db5046e64083b98d3c66419a3067b2ef8b8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._927": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._927.xml",
+    "sha256": "2dd2015e5d6514545c8676e84e2e08566a827147f61948c1ef29dd07f4371a27",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._929": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._929.xml",
+    "sha256": "65d0149b95b7ef9551d41cd33fde3fbc3de9780346db380d0292eb7ad66875c4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._93": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._93.xml",
+    "sha256": "eea560673d4e11a669b6057871adb7aae77a290d03cec5825587643937e8bc3a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._930": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._930.xml",
+    "sha256": "d426a1c6674d13b978a97bbd5dd9a35d6e1bb140cee0f09336c054a3deebeb22",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._931": [
+   {
+    "from": "2011-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._931.xml",
+    "sha256": "cb4b2d725aa77ea87ca2eaf491f832c4c60aeed7ae19557721ecc724bdab3399",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._932": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._932.xml",
+    "sha256": "ee833085377f96b21548a59ce7489cc260cf12b6d4091e2724aff3ae2c736d83",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._933": [
+   {
+    "from": "2009-04-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._933.xml",
+    "sha256": "56afd7fb5e1987a7946ba64a307b40bcc1bf915fe0a897b604819fca1e95426e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._934": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._934.xml",
+    "sha256": "de61f72fa1808763316b12761958ac48f007eed6bd5a326f2d975df80d7f9c3c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._945": [
+   {
+    "from": "2026-06-18",
+    "commit": "a782c13dbf0c710f33d8b2adc3e42377c94d0626",
+    "file": "eng/regulations/C.R.C.,_c._945.xml",
+    "sha256": "d8cb64d6f568b9ed2046f4a4c6c7c1fa9eb5f8d41854a479e946009abccdda32",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._946": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._946.xml",
+    "sha256": "86ea1d3a31a0d7f8b9d730c06e071d7a954bcc47882b49ae4b3d4043509cdc59",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._948": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._948.xml",
+    "sha256": "fe3e7d9f27117738da981fe772d661e24f327e2b48eb24cfab2e8646af9e0321",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._949": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._949.xml",
+    "sha256": "f3696fed6c043ff9d5f83d5e65f9dd0675497ff760395f37c0fdc1a5e2562453",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._95": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._95.xml",
+    "sha256": "2136a112c0dd6dbdb1606d5620c0bbe70ac129699e220356e48f54d96efc3c59",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._950": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._950.xml",
+    "sha256": "da7c8dfa77df04ecea290046be3668927ced5ea45c07bfbaad971d8fb851d414",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._952": [
+   {
+    "from": "2018-12-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._952.xml",
+    "sha256": "010445d3a439ae06b5c2291f3081a0408fd15e1cf504936d208efb03b41f3db5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._953": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._953.xml",
+    "sha256": "358abb26ac23e8d97eba20c8d4b282e0a15025becbd75871f82b6f480c3cefa7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._954": [
+   {
+    "from": "2024-12-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._954.xml",
+    "sha256": "952c0f6c548ebf6610a6b9a7b03c5dc3e815ed9bcedf03f8e953d65f5be3c064",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._956": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._956.xml",
+    "sha256": "1b3d77cc89a04d7440b06229f0865fe10a4c22cc266f1355fcb866f2727bc2a9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._957": [
+   {
+    "from": "2024-12-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._957.xml",
+    "sha256": "8be9680f74caa9490e3e65e8248f3f49b351b429baf619918bbf6c4689f243ba",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._959": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._959.xml",
+    "sha256": "3c449a17b82548e7f6cfb3c9906f1e5a25e704b463e594fd7efcfea60de7ed93",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._96": [
+   {
+    "from": "2017-10-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._96.xml",
+    "sha256": "b9249c1ab10b1e1b2eb7adeeddf5e1da65a50f4d864c570ee9c5cbf587235a6e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._960": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._960.xml",
+    "sha256": "9285299c8a0abd4b5bddaa5ccd349b9e46a082859e62e78a9126a59244415c98",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._961": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._961.xml",
+    "sha256": "9f5001f80535d83a2d3fdfa013f86bf47d0a279089090853d5b93a3f5fcf29d7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._966": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._966.xml",
+    "sha256": "96a02e351cc9e44e3095b0f6b645a704c15aa172d372a2fd2f999d5d9bce245c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._967": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._967.xml",
+    "sha256": "01ea3592edecbc5a277ebaa59028595f3022ce070a0f240b3ca9eff639176090",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._968": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._968.xml",
+    "sha256": "22520510b36a5c4e5714c08fc570a04b4398c9b51e986644923c6ed758908f20",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._969": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._969.xml",
+    "sha256": "10bafebb8495b68f1c024cf67c3cf15eac8488fe1f606a2f76aefc3fe1d0ed62",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._970": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._970.xml",
+    "sha256": "65663cf48c8f273406b18a83cdc10d6752ac71399804e6eb6ae1e0c2daa7ac80",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._971": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._971.xml",
+    "sha256": "aea5e67b1c15363c07c31a280e37a28084133c65f2dc2a75f48605cc8822cba9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._972": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._972.xml",
+    "sha256": "10a25d4ff1dcd1d6f2a1d7d0afa4dd71428631a5037ff0ea03ba07587a7bbaf0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._98": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._98.xml",
+    "sha256": "812b8fb4a11fa9af0eec03283aea83c405dcc1fcdb1f36f469f7fabee5b9986b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._982": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._982.xml",
+    "sha256": "d33bb809fc0a571e69d945148f4a63bbb6f0cdc86a0ef8b2aaeddc9d67c92732",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._984": [
+   {
+    "from": "2008-04-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._984.xml",
+    "sha256": "7e336b3609cb10f4ca6a205a6b1df52626868b63728864d4ff22714265892b86",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._985": [
+   {
+    "from": "2019-04-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._985.xml",
+    "sha256": "e20b4cefb12297377c4f23847441dc6ce970b704de83d7166dec1b038c1bc13c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._986": [
+   {
+    "from": "2025-12-12",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/C.R.C.,_c._986.xml",
+    "sha256": "1d7be68da44697b626037f857f88a204aa555ca287a9ed53898dd3dc985d0d5a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._987": [
+   {
+    "from": "2021-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._987.xml",
+    "sha256": "b9178167187c217e0e99d42c38735fdc3edb566d8bb24fbc302dcbc454c0242a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._99": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._99.xml",
+    "sha256": "dae097958a34282200d43a74a53404660e146eb365c7b3e7bd3f50b91bb44df8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._990": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._990.xml",
+    "sha256": "9951fcff9a187ed985c5ab4c5654c768e7d916a6e1a46c5653fd623062510e6e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._991": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._991.xml",
+    "sha256": "d3f7422a93f87b616c07bfcbe07574ff8d89653b17ffec434a2404fb9e2ea1f4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._992": [
+   {
+    "from": "2021-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._992.xml",
+    "sha256": "bb856402ef89ed7c853ab8e0e5efc1a85228c729acc7ddc316290095dae6c5e5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2015-99": [
+   {
+    "from": "2015-11-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2015-99.xml",
+    "sha256": "7a982cd963e03fa2cb969f994552db845c87964005137879bd84a543205bacf1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-18": [
+   {
+    "from": "2016-03-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-18.xml",
+    "sha256": "b4c0b205ae925a219934c01a3f2ccb88b21aaabc160cd48eceef7fc57e3470f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-19": [
+   {
+    "from": "2018-09-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-19.xml",
+    "sha256": "700727a2503d237b626ce9b3effd8aa61c5aa4e10f752402e87f30fa8a9ff679",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-20": [
+   {
+    "from": "2018-09-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-20.xml",
+    "sha256": "8e86b5848dc524e313b68dc20f1f7af783c0eb91cf431fa4423b28e2b3631e56",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-21": [
+   {
+    "from": "2016-04-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-21.xml",
+    "sha256": "54919facb9c5633f4f279395c99f77d755f98a3349a59b656c709826ed3e1cdf",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-29": [
+   {
+    "from": "2019-05-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-29.xml",
+    "sha256": "ac1ba91b7c199ad04ea90f1ac7dc72bdc009d00343d2a8df061678a569ff99dc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-31": [
+   {
+    "from": "2016-06-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-31.xml",
+    "sha256": "a48c27b037ded5215563f3413db85ba006d25ffa2024f2d2c5bb645d3fe7eadc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-32": [
+   {
+    "from": "2019-02-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-32.xml",
+    "sha256": "bbefe586d59d9afa89cc94e3cdc73b1db57bce1cad91006a2da4168db5bcf131",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-34": [
+   {
+    "from": "2016-10-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-34.xml",
+    "sha256": "1d027361be6cb247e66eb9475a3b361f6275b9353d80ce822a49f7e6620da81c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-39": [
+   {
+    "from": "2016-06-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-39.xml",
+    "sha256": "b8c607e53b0af1c6730bc18414629eb708c834e0f51ecdbf0b1fc2459bc24eb4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-40": [
+   {
+    "from": "2016-06-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-40.xml",
+    "sha256": "8a2729ca6a88bb258b9e5b78de1d80b7d884b6788775e665a2db3a6e55eb3221",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-43": [
+   {
+    "from": "2017-01-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-43.xml",
+    "sha256": "b98f5d3cf934d15ca7fcca017e0a36b440b2d6440defe70fde46dbd64ba7ed16",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-44": [
+   {
+    "from": "2016-06-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-44.xml",
+    "sha256": "15c55289ecd47f9fc2ec63d531fe5ab06ad8075e5fb5ef555d3a6049af1bb39f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-46": [
+   {
+    "from": "2016-07-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-46.xml",
+    "sha256": "5abb6f4338db95e17046564a4ee744fe1e13a4d0952a17ea44d6ab6f6c0b455d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-48": [
+   {
+    "from": "2016-08-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-48.xml",
+    "sha256": "99fc3f15cbd92a27c01d685b9cb934b67f7ac7dea75060703e1bff4577909142",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-49": [
+   {
+    "from": "2016-08-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-49.xml",
+    "sha256": "58f4561e16f61df2ada7ea8423badf901344fc986e533e9dbc7bc951b04f23ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-55": [
+   {
+    "from": "2016-09-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-55.xml",
+    "sha256": "3e85ce8d7738006b3abd0a5196982ac9f793ab71df2c2bdb7b91d0cfc1a5d173",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-63": [
+   {
+    "from": "2016-11-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-63.xml",
+    "sha256": "3a4cd04e98184ad7160dc438418c85fbb9cc79648b89b6a30800831f0bda527c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-71": [
+   {
+    "from": "2016-12-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-71.xml",
+    "sha256": "f8fc9f6634274b97279f08e0129d8065cdf9fafe5f26953714476560fde280f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2016-8": [
+   {
+    "from": "2016-02-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2016-8.xml",
+    "sha256": "3b71a1ae70abae3519eb375109100794bec05a165247a41cdc5e39b90060b1b3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-10": [
+   {
+    "from": "2017-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-10.xml",
+    "sha256": "c55b0b5ce553f637ee1587d49e77662dffdbc036fa2bceb0898a12c3adc3a12d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-11": [
+   {
+    "from": "2017-08-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-11.xml",
+    "sha256": "56f98a34de604f585753dd2986ee4af598842cc3fd842def45746504dcf37e3a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-12": [
+   {
+    "from": "2017-08-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-12.xml",
+    "sha256": "20baf3e836246d17ee195fd29c59e1527f9a9a19e2b363d447dfe1c64d4dbc13",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-15": [
+   {
+    "from": "2017-02-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-15.xml",
+    "sha256": "f7dde6cd61fac64164e6f0bbe2da87987a2ab18abae761c9debf06f459b6ddbd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-17": [
+   {
+    "from": "2017-02-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-17.xml",
+    "sha256": "b923deea0b998e3fdbabf90728830e795a2232b7628c4583408b685b38280aa0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-24": [
+   {
+    "from": "2019-08-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-24.xml",
+    "sha256": "10264d9bff56f220247f0915d13af7e3b8c83336023ad810c0b54bf44518ae4f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-25": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-25.xml",
+    "sha256": "7ad86655df40c6e6fc4729606905e75d42f2ebecdfd5a2c99149a04354319180",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-29": [
+   {
+    "from": "2017-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-29.xml",
+    "sha256": "2db1bf549d54af9c5f5aebcb7e471afb20e99d6704fc3bf543e38077cec4bf86",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-30": [
+   {
+    "from": "2017-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-30.xml",
+    "sha256": "475d591c08694b22e3aaf595599cf469b8531dfb40aa24393f42507b60e59568",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-35": [
+   {
+    "from": "2017-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-35.xml",
+    "sha256": "f7ebd3639bb03fc2250a26939de9b7ad1180b28f170fb3dabf580525a72fb26a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-36": [
+   {
+    "from": "2017-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-36.xml",
+    "sha256": "81c9f0dcf51ba84f89229cafddb5953354a329796cd291c72a2d254ae64bf6e5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-4": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-4.xml",
+    "sha256": "66ca73ac94afe0a2febaf6adc2506417e1d827d9390f124f704db708564ece63",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-40": [
+   {
+    "from": "2017-07-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-40.xml",
+    "sha256": "589646e33b289521ce086d20d8b21df643dc06bc6d155ee7020b70989affddac",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-41": [
+   {
+    "from": "2017-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-41.xml",
+    "sha256": "47ba94b6dace8ee9131ee5bb99f616333fd42e205c027c69c541098fca6531c9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-45": [
+   {
+    "from": "2018-01-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-45.xml",
+    "sha256": "f235be1a3b62fa25b73e4201282088497b83f510a48bcee33d6aa61ebf998e1c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-46": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-46.xml",
+    "sha256": "51b786713eeb37630cacdbae82a31438af34c2313a446933f4c091270ecaba4f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-49": [
+   {
+    "from": "2017-09-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-49.xml",
+    "sha256": "6961bfe1290a4c0af4576b206aa42a07ddd1f505c740a76bc56dec3b14de06fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-5": [
+   {
+    "from": "2017-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-5.xml",
+    "sha256": "887ca223dbea1b147fecc68fd7581b47632f52b7cae457d1a50376fa424d3936",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-50": [
+   {
+    "from": "2017-09-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-50.xml",
+    "sha256": "8eff0d2eaf7be31e2af79a825e0a7f26a5ee4529e62d878396d28b4dc32ed451",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-55": [
+   {
+    "from": "2017-09-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-55.xml",
+    "sha256": "f69b54571c1f65c340f2e4904e8c7dce034af2bc900807c35f3eb05be5e0eba9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-56": [
+   {
+    "from": "2019-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-56.xml",
+    "sha256": "7dd4503e37d5bbdd89d2fdd6864d75560ef772d99a8937846bb15eef5090339e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-6": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-6.xml",
+    "sha256": "0df0de0ff62429b390f625c5de9eacf023d6dcbed01dea76e207b4e8a93142ff",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-61": [
+   {
+    "from": "2017-10-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-61.xml",
+    "sha256": "328ac306a5f5b409628f2522b89af5b191b70866a9cc6e3db7a966236e3935b0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-64": [
+   {
+    "from": "2017-10-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-64.xml",
+    "sha256": "0743bc8e8aab0b3dd2354512d69f7d4d1a481a2a89378d5b5ead11bb5e83f09b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-7": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-7.xml",
+    "sha256": "69afbfffb205f34b37dabf30a8aa0bd065e4725accdd823230f2ad2adb97801e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-71": [
+   {
+    "from": "2017-11-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-71.xml",
+    "sha256": "537790a5af7d751778d69302d35f7b679081a03b37db27cde584b8113a24288b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-72": [
+   {
+    "from": "2017-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-72.xml",
+    "sha256": "b44718f97f31c61e8aedad282dd16728bb25a651fa9aff06e284714c8d9ca545",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-74": [
+   {
+    "from": "2017-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-74.xml",
+    "sha256": "19b9c95886b52b99973b3e712a7e3ec995a87a09fc1218206a50cb922d45eaf3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-75": [
+   {
+    "from": "2017-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-75.xml",
+    "sha256": "41b9c2c08c77608050cf6d82f982fc7a207cf4624485e6f1e9fad239e36dfc1a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-76": [
+   {
+    "from": "2017-12-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-76.xml",
+    "sha256": "464fd8aa351029690bb91465af1bdcf654b28ee117c380fe407dff447ff6ced4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-77": [
+   {
+    "from": "2017-11-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-77.xml",
+    "sha256": "40cd101fbf7b7de63cb04f13306d4215b4874c8f4a65d342ffb4b1054ac73ae1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-78": [
+   {
+    "from": "2017-11-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-78.xml",
+    "sha256": "a593e6de39eb37600b988e7457b18d9f5b02d68f5855c7f2205b345ec33a4fa5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-79": [
+   {
+    "from": "2017-11-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-79.xml",
+    "sha256": "22cc52078eec613dec60aec58515e25f03f7b5abd1d0494bdca46f892d417b78",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-8": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-8.xml",
+    "sha256": "5aa57b131815ffeb1a198327da29c9b39e524511491e33bc5f40b196dffde99d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2017-9": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2017-9.xml",
+    "sha256": "9c5e997d47204474c21a49a3b2769ec8e73fca07dee53ac549f92fab1d97911d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-102": [
+   {
+    "from": "2018-11-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-102.xml",
+    "sha256": "c01f371c313eb30390713c812e2b2a90eca03c6560a4784149d5b151d3b625ef",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-103": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-103.xml",
+    "sha256": "845f6453eccb81fe88578ddcac9a34cf97a916779136c0023d6a9290f92e8e77",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-104": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-104.xml",
+    "sha256": "3b7b5da600490bb3fc1969ea7151bf25983a06fb6086e18c1350a7f32cd6d593",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-105": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-105.xml",
+    "sha256": "0bc322062a46cbdf415831f2163e8e50f6ad9cdf229da809f8fddce4af7d80f9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-106": [
+   {
+    "from": "2018-11-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-106.xml",
+    "sha256": "a553d03b578cbdb6f49d4862fe0a0b9b5839ff55dda17b01e6a914cbba50fb9d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-107": [
+   {
+    "from": "2018-11-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-107.xml",
+    "sha256": "46cea6db9bc33fa406df0b2fedbc9cd0da379df77bac47661c9c703b300f5a35",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-112": [
+   {
+    "from": "2018-12-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-112.xml",
+    "sha256": "26b53b9de3ea3583280296d8accb53a8eb06d894d2d64c14e535c1d18ab3580f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-13": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-13.xml",
+    "sha256": "2650ebd5382603e3b2db71bb5f742947e7bb26a1f5a321f12087fe6a87bd0541",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-14": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-14.xml",
+    "sha256": "08955fe33f7e5bd50b76ad6386c5e254dbc5d6820e87003ccce1b9a06ce83eb4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-16": [
+   {
+    "from": "2026-06-25",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SI-2018-16.xml",
+    "sha256": "2fa646e096fa535e9c59923c7fb7e66d16f5341d368a7ff8261909b9b8059d6f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-17": [
+   {
+    "from": "2018-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-17.xml",
+    "sha256": "dc9f1d3322c03d0c54baf16fc54bc828be5d1a3a2c04592e50ba46c4dd1a2a1e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-20": [
+   {
+    "from": "2018-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-20.xml",
+    "sha256": "e223e67940e404c95dca8b1276e9b2f36cdd93c24f7ba8c720210f1d55042970",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-30": [
+   {
+    "from": "2018-03-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-30.xml",
+    "sha256": "4aef3f69a6c8dd03eb20a2d465c2d5c91e278dabf5d2ec84261c317a10f48701",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-33": [
+   {
+    "from": "2018-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-33.xml",
+    "sha256": "0e9bc88c1aabc9f85f22c6cc61cf0034fd3e6c62b3df96f36bcaf2903486afd5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-34": [
+   {
+    "from": "2018-08-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-34.xml",
+    "sha256": "a50b782fb6206f719bad889a43b674c2a97092f3a0db9c30bdcb4e7c051eb766",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-40": [
+   {
+    "from": "2018-05-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-40.xml",
+    "sha256": "c4e6b2d9dc86b2dfa790bde29913b1c424d160c1f1902a554a0c97850bd906fe",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-43": [
+   {
+    "from": "2018-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-43.xml",
+    "sha256": "b3e7930a4a2cd955033c311751c6a642c6fdb863d05e87bf2ef4a4cb556847fc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-44": [
+   {
+    "from": "2018-06-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-44.xml",
+    "sha256": "085ebbe68aa77c3ffb94415a4fe870875de8899af1ba8513606fa043e76ba1ef",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-51": [
+   {
+    "from": "2018-11-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-51.xml",
+    "sha256": "82eb545312e3be25a94b5e6730011eef6244c7aa2d8b86a1b551f8d94328c93f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-55": [
+   {
+    "from": "2018-06-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-55.xml",
+    "sha256": "9fae582e767176af0536f2de04e1b14be20977f2873992a51fd87a31e9729ea8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-58": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-58.xml",
+    "sha256": "082e0263b389237fe3219561c64115de208e0a5ebf8bd0c52ffec706bfdfe076",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-59": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-59.xml",
+    "sha256": "ecbd279401c3171860e9cd4e39410a015287d284178cad15d4d0dc32614f1f89",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-60": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-60.xml",
+    "sha256": "d8a00b6eb71354a2719fc5d9acca4b40602bfbf0295799c5273ce7122b2529f0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-61": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-61.xml",
+    "sha256": "dbf2a6a11be024999ec24221b960ff4963367b4cc8091b0fa078ba435f427924",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-62": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-62.xml",
+    "sha256": "89f76f34136b20203112a24732dceea8c9fe2823301a9c6d3dcf258fa4ed9f9c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-63": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-63.xml",
+    "sha256": "23eb7c8c735fc8f6b47762820174fea637fe6c9b076963e7d898bdeff33d926f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-66": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-66.xml",
+    "sha256": "de590b2abdfc45dd22049bbefb1c850c1f196491e52374eac0c69f755f60481c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-67": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-67.xml",
+    "sha256": "3cf1ae26ad0fef23e0b956f80185ce7767e1a238687f582c458b3c9692ec0553",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-68": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-68.xml",
+    "sha256": "2efdf6e19d897bafc4ea4751ad4349fdc5cfda26da4b575560733401c8918732",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-69": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-69.xml",
+    "sha256": "2a881f300aeaaec32b41317a61725ae4c5c53329ecc2623f337f3f3d59856d15",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-70": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-70.xml",
+    "sha256": "3f5252edfdbb67e119e30accfec9300f4643cebf44664f95bb61e6c443d6fccc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-71": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-71.xml",
+    "sha256": "641eb7553db3c145f358b8443ab89c0b84b35fd8e162eccf5f9c56829691e1dd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-72": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-72.xml",
+    "sha256": "1edf305ef20f8af3dc26bd85069f3043e1cbe7cb0a4d39c0cc7fa4bba9908ae5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-73": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-73.xml",
+    "sha256": "3a5483d2df95d707dca102e3f244a3271511aca8a5fcb43b5a4274b31e984d71",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-74": [
+   {
+    "from": "2018-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-74.xml",
+    "sha256": "7ca19e1852aceb9882ea4a03479e20d74ee23b5c755929feba312822a6525b79",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-75": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-75.xml",
+    "sha256": "da3b8e2aced2f4a99e528457c05eab9356ff06e9af39db2b8d6ee1ae97434488",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-76": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-76.xml",
+    "sha256": "192626a2564966ba26d04c4c03119dd7326c5318c6dec6640fffc449ac3ffe0c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-77": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-77.xml",
+    "sha256": "44c17a61961dc355031de70b9975612cd2d625289c115870568ff169c68d8b60",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-78": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-78.xml",
+    "sha256": "4091cdcfecdb04f2945e0288faddf05b4343040280274f6149e0aec604a9b42a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-79": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-79.xml",
+    "sha256": "b731e0bb53ff03d83d4276d1fcc821dbb2d8ed523e909713e0df1cd218ca216e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-80": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-80.xml",
+    "sha256": "214a47cf6c099feb84a57b2914e88734d7ba49eedc78a7723f0e6c31ddad7cf5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-86": [
+   {
+    "from": "2018-09-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-86.xml",
+    "sha256": "d781c5d5db72e07a0d80116dea2e3bb848ab449e3b4b2c7829cc514862b427d7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-88": [
+   {
+    "from": "2019-04-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-88.xml",
+    "sha256": "e97d94e0483605e55b449ada9f26a57e6f0f5b32fb272e31e486264df2d24016",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-89": [
+   {
+    "from": "2019-04-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-89.xml",
+    "sha256": "4cc204d6628cfc9c6425bb82ff01ab61d69badb427cdcdd64ce5cb4be26faf5c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-90": [
+   {
+    "from": "2018-09-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-90.xml",
+    "sha256": "18018ed99f932093863bb1575f5b030b6491e57b7da26ce87a3219928f218231",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2018-91": [
+   {
+    "from": "2022-01-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2018-91.xml",
+    "sha256": "b01fa7fbf2b8a34f2128896c095855086d600da39a2edd9b6423c3d1a0a39e7b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-10": [
+   {
+    "from": "2019-02-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-10.xml",
+    "sha256": "9b5f9f50565a8155a36ed2bc4c291fb353440afc6325c9ed22e062c81ba1ed56",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-105": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-105.xml",
+    "sha256": "213badbe658f67719307406dbd9c7e375ddce67c6b9835ce426a70c0da2b032d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-107": [
+   {
+    "from": "2020-09-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-107.xml",
+    "sha256": "05220a718bed96f3ab0d272de004ad90478431c0d8c8c84ad10c62a73f2456ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-108": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-108.xml",
+    "sha256": "ec752a19aab5ecf22aef9a9ec251e931a82b32eba5095f2cb76a546c750f5222",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-114": [
+   {
+    "from": "2023-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-114.xml",
+    "sha256": "c9e4f685aa3e7edec4f3f11457b313f615c3e5f7bb2c967ddecbbf31f045eb7a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-115": [
+   {
+    "from": "2023-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-115.xml",
+    "sha256": "522e151e30ef546aec1dbb41d252c113ab6c2a2ac49824ce7edfbf3a1c89838f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-116": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-116.xml",
+    "sha256": "fe1f58b5e726b5d44049296d2b65b46095a860eccd404370771239f1eae0bb13",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-117": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-117.xml",
+    "sha256": "97b7a6aa67c74fb4a4f5844e306821f6947045074db0fd2dc85530ea5ec55204",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-118": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-118.xml",
+    "sha256": "2d654308f55a67be20a9ba7927b7da2312281fb05ddd42bcaf7147ca746c416f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-119": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-119.xml",
+    "sha256": "efca5dfa941e17fd76a1e541ccc4a512e896cee0a8329c97ec2bcb7e31b1e8cc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-12": [
+   {
+    "from": "2019-02-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-12.xml",
+    "sha256": "5bab875254728fd601189ba5d674e27529a1ba4eebea1877b6a55d2ed80d5cc1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-120": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-120.xml",
+    "sha256": "6f818c8657ac5b3f685c858e4381e9d0ddfbe838c7ccae8d524a35966f417b49",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-121": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-121.xml",
+    "sha256": "be1b50103fc3fba7d3c61c31160910e5a968aa065d22f23057702c933d50ee23",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-122": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-122.xml",
+    "sha256": "24e96f4dcb944006a1ea4d716f67614061b22403c8a234d93da10066814ba557",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-123": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-123.xml",
+    "sha256": "13c7faad6fd4e7a610230c57a234317bbee18a1323e5a8db40ca7a818ef106f1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-124": [
+   {
+    "from": "2020-09-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-124.xml",
+    "sha256": "89227cfdff87f550ab7de015c2bfec3c53a85ae62c1526d7536b3569a0acf8a1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-125": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-125.xml",
+    "sha256": "51dd53474bcb8b41e492941108ce7cf03aa2823cfd883c18dca56ec5b40ee2d2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-126": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-126.xml",
+    "sha256": "2d76edb9d8b059ca13022481dc84c3f696e83965b4ad440924a55dcef40ba44d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-127": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-127.xml",
+    "sha256": "bd4a5dbe2050074b7ccb3b71934c9850092a82ae71dd512fc08c07605e590f6f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-128": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-128.xml",
+    "sha256": "6d68df856a7cc3b8cd2d9c4fdec7dd49ac0f4bf6c105176724a3175742c70ca9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-129": [
+   {
+    "from": "2023-10-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-129.xml",
+    "sha256": "667bab038ad669d1d6d18a4e3e7c816bc947869ae7e9cd3bddd53bb3bc018b17",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-13": [
+   {
+    "from": "2019-02-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-13.xml",
+    "sha256": "981f646f8da9c640183bcf207ba08ea490c3f3d74a563cb0ffd9f6b6bf1d5ed3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-130": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-130.xml",
+    "sha256": "291c6b54914b47a3f67f5f38920758e02e71e0acf27c2242e9114697beca07a5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-131": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-131.xml",
+    "sha256": "77d586a5d79335ff96c62e70bb0ec9d4b68c63d1a9485eb9ce2640095f31397c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-132": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-132.xml",
+    "sha256": "92a9ffa6599d0bb7349cc42afd7fd445d57b1946ffa61a34aa0298d50d63839b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-133": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-133.xml",
+    "sha256": "1b95301a6e9fef654f61a07d6281b4481b0d5f5519bcaca9dfcd3e1094c6ee2d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-134": [
+   {
+    "from": "2019-12-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-134.xml",
+    "sha256": "936449f5bd0a5500ade72d1ad7e1cdaa4e1a64b18321f6c4b20cad44988c6c6d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-22": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-22.xml",
+    "sha256": "7b85d18b1e5e20239d1ac8a7d06ad40a14b91d31562917471986b9abeb6fc2e7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-23": [
+   {
+    "from": "2019-11-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-23.xml",
+    "sha256": "ec501b2065fb4570cc1db0c1230d33432bc12765de0b298cf59ff66c394614f3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-24": [
+   {
+    "from": "2019-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-24.xml",
+    "sha256": "0c91b5121c975ced43e321e68ac7dbd5669b75578fe9072d4b06f8a9b508bf55",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-29": [
+   {
+    "from": "2024-05-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-29.xml",
+    "sha256": "19128abd2bae6fb8c102da4d565d509b6de3cee45c2a5ad6ae175ebcfa48e9fe",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-33": [
+   {
+    "from": "2019-05-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-33.xml",
+    "sha256": "d47a73a2a64ec66ac5b0b9ae6512514e91ee0ba803164811b8d4da5e4abf1536",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-51": [
+   {
+    "from": "2019-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-51.xml",
+    "sha256": "ba32c746a626023baf1d61870432f367768e6e3908f3802ce95818487eb1b10d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-52": [
+   {
+    "from": "2019-07-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-52.xml",
+    "sha256": "ebaa93a154840ac7346995f31510a8432c658dec0fe8d42d9413d3a0d5b1435c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-56": [
+   {
+    "from": "2023-10-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-56.xml",
+    "sha256": "96b4a5fb8a9fffb5c83d3622a55637b242bbb9dca1aba01c0574eee1fb9aa821",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-57": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-57.xml",
+    "sha256": "078a397539ff390c6fb2624cd7ffef162b662267899593a84ae10531d54ca38c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-59": [
+   {
+    "from": "2020-03-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-59.xml",
+    "sha256": "2eaa2f75ac41c3ab185cf0aa382780f10e5ce669699d54c707e406c7c6841aa2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-60": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-60.xml",
+    "sha256": "20f00d1d3cea5f36fae8ee9f4602cf7757579945297cd1d9f86669214908a976",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-61": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-61.xml",
+    "sha256": "616d3ebba56b790c9d00aae081a7578a3f4086c5374b8f5259a0abba67084527",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-63": [
+   {
+    "from": "2020-03-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-63.xml",
+    "sha256": "cd3a7f4adf57941c9e15b1dd9ad72227a2d904a6642b47d338157cf12933d3d1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-65": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-65.xml",
+    "sha256": "01426a610a8c65054bb62d5d12e2030762ebaf5317d65f7adad9d62915395755",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-66": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-66.xml",
+    "sha256": "7b0a1a55038f77a86fea627432d06eeb8c0e697822548048292db5f555675039",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-68": [
+   {
+    "from": "2019-07-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-68.xml",
+    "sha256": "93dd648edce305213fc817c457c684f5d8a545b5a1bca3b00428ed7cd62856f5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-69": [
+   {
+    "from": "2019-07-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-69.xml",
+    "sha256": "183176c5ee6573cd8a58a5222266f5ec09cc620a906b1698a44ae3de39e5acfd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-72": [
+   {
+    "from": "2019-07-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-72.xml",
+    "sha256": "318998d7d0a568a3c7c948c8c010dc1ac937f28ef077b29dff1df38c4f0140bc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-75": [
+   {
+    "from": "2019-07-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-75.xml",
+    "sha256": "c2f8b99a885859d490b50c5a8fb9f5a05c664eacdc4f31bb890ee1bd1faeef5a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2019-89": [
+   {
+    "from": "2019-07-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2019-89.xml",
+    "sha256": "f8cd6b0d156ed849ab6019b6c108580a616488e6591f6f4799079c18f688004b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-12": [
+   {
+    "from": "2020-01-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-12.xml",
+    "sha256": "2bcc5bfb531ca57dce5a523305445707efadbeb2135356ce233cfe1e78553c2e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-23": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-23.xml",
+    "sha256": "4c60880d25514ecfc4e92dfa39070b27fe18c4df978907acdd9431ea491eac53",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-24": [
+   {
+    "from": "2020-03-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-24.xml",
+    "sha256": "cace9fbe4df14248f8c5331f38bde2041af428c241be2cf277cdcce7fcd76b34",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-25": [
+   {
+    "from": "2020-03-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-25.xml",
+    "sha256": "caad6e88f451368365bba1c6fd1b53b50eeaa6d74299f0ca5d50ae50c66ad5f5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-28": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-28.xml",
+    "sha256": "3ff13584bc9fdf0157c31611130717609da4319883ba60edb264453b599e1080",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-29": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-29.xml",
+    "sha256": "11bdb6653ac3740106d4f8af214a616511831b124520e40dacf3b5fabb7eb91e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-30": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-30.xml",
+    "sha256": "d38745d92420d73ee4439c93c812debc02296f958ff2804361dbe0014d88efff",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-37": [
+   {
+    "from": "2020-05-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-37.xml",
+    "sha256": "f7d445d258962080e7b0f574c9199d346c39085a7077202a0dcffccf6ae36e30",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-41": [
+   {
+    "from": "2020-12-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-41.xml",
+    "sha256": "c764b00375ef850f07e073865e36632ae9b0fd486f141fab2236b175c25ae7b5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-50": [
+   {
+    "from": "2020-07-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-50.xml",
+    "sha256": "63eb3821829a85714bc985ab955021acc01256ef8ad8c3d7c8c586ea79bc4768",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-53": [
+   {
+    "from": "2020-06-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-53.xml",
+    "sha256": "b76572a1a431fd6361a8b11cc34947c7b7b1d1fd0431a21393e4dead45ac4a72",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-54": [
+   {
+    "from": "2020-06-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-54.xml",
+    "sha256": "5f04ecc385cb488ff293aa58aeaa7ff1812f123e88bbf178b9d9bd5de1cea2eb",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-61": [
+   {
+    "from": "2020-08-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-61.xml",
+    "sha256": "a11d5a2cfe4fc8f93dc814d737746c8c2ad3ad1a67ef7056da55045ad309f44b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-65": [
+   {
+    "from": "2020-09-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-65.xml",
+    "sha256": "98e31bcc1455b57cb58f3d9fec212e6ced3db127b6b273cdd8d0594a8bd90f5b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-67": [
+   {
+    "from": "2022-01-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-67.xml",
+    "sha256": "c5e6600ae1d24143ec467988cff7fce4ba42c8d4716b23db5ddbaab10eba0ac5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-70": [
+   {
+    "from": "2020-10-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-70.xml",
+    "sha256": "39dbf101adecbff5b29c0753996b89284d822518a2826f18a2f0b47809a49682",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2020-77": [
+   {
+    "from": "2020-12-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2020-77.xml",
+    "sha256": "7ca3af15de778489c2568105414f05cb4fa02f93609a2c9098ca2a74b3d44fe3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-17": [
+   {
+    "from": "2021-04-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-17.xml",
+    "sha256": "9061632cab8fc1e87451216d1134927dbae364d7fd86aac0193288f2c1cab3b8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-18": [
+   {
+    "from": "2021-04-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-18.xml",
+    "sha256": "e5f7f100cf441e9af1a05fc5a41b7fd45786a256e0ca7da5f10558520be45cbe",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-19": [
+   {
+    "from": "2021-04-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-19.xml",
+    "sha256": "6ee0eed76e8395b40c9cb0983b36bfa3217ea54d941e2ad111820e358793010e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-2": [
+   {
+    "from": "2020-12-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-2.xml",
+    "sha256": "a162c037d74115084c551ec29d0248d15169572d4ba4a05b5dc9bf224c8b38c5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-20": [
+   {
+    "from": "2021-05-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-20.xml",
+    "sha256": "cd88ebdfce3121755256ee04056200200af128272e0923d87aef709e2832a721",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-21": [
+   {
+    "from": "2021-05-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-21.xml",
+    "sha256": "ffe6d36c81a298dc15c2921aa1ca6a00bf7a99246a5e3579a033156fa0eae9d3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-22": [
+   {
+    "from": "2021-05-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-22.xml",
+    "sha256": "17004e4d8d1d2e73e6c3ee050fcb5eaf682bf9191fcb529e1fbff60d19e651e7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-23": [
+   {
+    "from": "2021-05-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-23.xml",
+    "sha256": "63c30bba16f4d5f35ee1a60bb167267b3360702082b41f52e6aa0aeca81618cc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-24": [
+   {
+    "from": "2021-05-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-24.xml",
+    "sha256": "b00392f18006dab65cab08d1d60d1f94c7a583d065f4af4e1b374155808456ea",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-32": [
+   {
+    "from": "2021-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-32.xml",
+    "sha256": "75db225aa9ac20bbea8c5f93a1d8698d5fbed2086c26f4e23e921495360495f9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-33": [
+   {
+    "from": "2021-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-33.xml",
+    "sha256": "9a0f13b35af4d69070b4ad7cfa28d7c4883a20d30225b37d54bdfe7ef0c9d53e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-37": [
+   {
+    "from": "2021-06-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-37.xml",
+    "sha256": "3072673e3f4b7c17b7221bd12788704024ec8845fb0605928aa9bc3cbf1f4369",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-38": [
+   {
+    "from": "2021-06-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-38.xml",
+    "sha256": "2931786fc4b8492713bbca7973d02d1672222edd95832dc2aa99617d5ad1d9f5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-41": [
+   {
+    "from": "2021-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-41.xml",
+    "sha256": "ff9ba98374f34578537ba2fc922beeb05ad7c7f81a12b214ede066108a6af4ee",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-43": [
+   {
+    "from": "2021-08-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-43.xml",
+    "sha256": "dfd1dd1e7f831dd3d814314a4f9b5b9942cb2818567487f22936e3578decd026",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-44": [
+   {
+    "from": "2021-08-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-44.xml",
+    "sha256": "0de04e47e54f9ab61c8a6b980163f6f7448d0391d1ae2deb5f2d482f2637e0b1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-45": [
+   {
+    "from": "2021-08-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-45.xml",
+    "sha256": "dc15bf345715efd822ac13a1013c558aed834c567d9efb89b080de24546f647a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-49": [
+   {
+    "from": "2021-08-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-49.xml",
+    "sha256": "f4e4474fd60d65a8125eef56e1e0a487f4b281e9033acf8b3f25914c652eedd2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-5": [
+   {
+    "from": "2021-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-5.xml",
+    "sha256": "97194bbc858ff0ca9c44ad302d4ad2049538b202fd61503b982420899cd35d69",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-50": [
+   {
+    "from": "2021-08-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-50.xml",
+    "sha256": "7a23cc094314cdeae9a5fcf06a65e6e58be4321dbcdfe11ab318a389c8fd172a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-51": [
+   {
+    "from": "2021-08-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-51.xml",
+    "sha256": "058c4d1c47ec8ded9910757c456d45d2d605a79f411b3e7d65f65a11cdff7e9e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-58": [
+   {
+    "from": "2021-08-11",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-58.xml",
+    "sha256": "3a49dfc8077ec5b2b67291177d993a9e9b194ddd87be2d37e10ab0225166bda8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-59": [
+   {
+    "from": "2021-08-11",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-59.xml",
+    "sha256": "d03f33c411274ed528fe4e8bf25dc553c07e0bc48b4f0842ff0e25d6a76c780c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-6": [
+   {
+    "from": "2021-02-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-6.xml",
+    "sha256": "3b096fef2884453ad8c2e19fb79e8ae4c3b88afee167fcf4778403548472dc51",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-75": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-75.xml",
+    "sha256": "b4c14f664f2e94f976e73ceee8b06f36922032dca2d51d7f9cffc7ae4a28b956",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-76": [
+   {
+    "from": "2022-01-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-76.xml",
+    "sha256": "531daa78db223398724bc05b4777f3375e8a596230ce033174f5dade4c9da6e6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-77": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-77.xml",
+    "sha256": "1f4624d60ee383253bd49842263d5be9a0c085b057a0e3d1a2056943d991f724",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-78": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-78.xml",
+    "sha256": "01a3efb1e60e82922bf3a4b4663c2a101e086e43338ed2341053db3e03bae112",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-79": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-79.xml",
+    "sha256": "3d988fd9f0d49dd4655ede2303c219fec657c8222881f92f742d76f8e0fc50dd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-8": [
+   {
+    "from": "2021-03-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-8.xml",
+    "sha256": "986ecef18c0281c62a0898f059c46b94e835cc568f20d7819d9bbd08eb8b7b94",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-80": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-80.xml",
+    "sha256": "dbb2dd1d78b57d65a6cff067054113ecda43ade5021a8a8351db98267574e308",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-81": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-81.xml",
+    "sha256": "acd6eebc734e65f79356731fd930dd67fb5010ab1f5548ee23447962405ddf58",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-82": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-82.xml",
+    "sha256": "a7a60f9d12b826d80abdb2019ee421ee657172231f2a6db0fc0a6bbef7dd94be",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-83": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-83.xml",
+    "sha256": "992ae4ccad9d7ad88c3424444184f3ee89822bf9764e671b57352b5a7f7dd130",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-84": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-84.xml",
+    "sha256": "8b82f03e141bbe38b730694a4f5db985d7747590d31f10abeae421cb24ad9eee",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-85": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-85.xml",
+    "sha256": "5bd7ae46061ec682567d89ad8873441ed498e30e1be1ba26f770673d10db9697",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-86": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-86.xml",
+    "sha256": "f07fc1cee1c92d2aae67811d9a87c28b5ae5041c6bf85e5b7b533381c4d57cad",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-87": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-87.xml",
+    "sha256": "bf5bce3429a9c2fbf259223947d474a82f273a33ec96b5e84adb1f3c3a036be2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-88": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-88.xml",
+    "sha256": "34b3573402e777247429a9abe4746e7ece74c19c2cc9d7b1d269f795c6ccee65",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-89": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-89.xml",
+    "sha256": "cff45b571c89b6cc0a7311790d541acf6d5ea16c0efae0326cce47fa17107559",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-9": [
+   {
+    "from": "2021-03-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-9.xml",
+    "sha256": "1368cc511139d5ecc3bda39b0ed3d5480e3d4ce423129051668f7d4a07982c64",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-90": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-90.xml",
+    "sha256": "bf0f258c341424e10003121c4a6e2d858f585f3522025221dc896ef567996a56",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-91": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-91.xml",
+    "sha256": "0d4b62abe4e39d44940e6ccfb1bcd31e4c0ad1ec4c6cf6e66ef74edc31bc191a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-92": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-92.xml",
+    "sha256": "3465b1e3d089fdbb9089655892c681faaa2a432ce1504351cd2d3797b9caae51",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-93": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-93.xml",
+    "sha256": "2574c192b36e0d05bd78b5460292b0b08daa9520b36156fec385d49f8acff097",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-94": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-94.xml",
+    "sha256": "04ea9814ce57cd9edf1017bdac9c2ec8b4d77d0e4c9934622fec0de0026d2fd7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-95": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-95.xml",
+    "sha256": "46286305339b3140dd3d35d76c8e1f83e5591b73b5421ca0ec570ee46f67f655",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-96": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-96.xml",
+    "sha256": "f5a63d607ed2cc7c28599ebb6ee6141bbe2f7432978b0595c6ada307a88ce4fc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-97": [
+   {
+    "from": "2021-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-97.xml",
+    "sha256": "083653cc47be3db9170bcf29b2d3fa122d9bb26b6c1f0c1591277d48e6f2c841",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2021-98": [
+   {
+    "from": "2021-11-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2021-98.xml",
+    "sha256": "f7f1a4b4f11a9bfedee1d8c2a014142ce9d3ef52f95acfa31261754755033798",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-10": [
+   {
+    "from": "2022-02-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-10.xml",
+    "sha256": "3d955fd3054625c4d3d27ab88f70355d622fdba83b91c3e672bce747f726ba38",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-11": [
+   {
+    "from": "2022-02-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-11.xml",
+    "sha256": "278d8b9a254b49676e5ff9c02085133ff0e36140092950a282eb7c5ec1f23ab5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-18": [
+   {
+    "from": "2022-03-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-18.xml",
+    "sha256": "7ab06a703363a4e4874abe0c9f5b2ce834e0aaea0db4304150f4fa2b7bdd6b52",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-2": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-2.xml",
+    "sha256": "750fec8d09a51d950be3e32dec9f718fab1af115b3cabc293b5253451e6004d9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-21": [
+   {
+    "from": "2022-03-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-21.xml",
+    "sha256": "e7a40a4f6a68f753e585e0386b35878464df1dcd838f1d8e1a59fbb60d56b6cf",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-23": [
+   {
+    "from": "2022-04-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-23.xml",
+    "sha256": "93ddf633ce98b6f04de7475f6b246796d80de6179a3e89cd3e97e59755f961c7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-25": [
+   {
+    "from": "2022-05-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-25.xml",
+    "sha256": "445f4119753d04793f0d41140686d1b76902b70113fae23b43736f6ffc639f2a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-26": [
+   {
+    "from": "2022-05-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-26.xml",
+    "sha256": "1f17ed39b66685f602ab5472013eb80d99153a648c038ab396b0fba20ce37173",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-27": [
+   {
+    "from": "2022-05-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-27.xml",
+    "sha256": "cf6585815b4945be19d3cc20d5758206618a9a7e1edea2a48949edaf4f0395f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-3": [
+   {
+    "from": "2023-10-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-3.xml",
+    "sha256": "a3692de712922186a1e87adf6324a530252a07b33f2b8fec99e15dd476142f71",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-31": [
+   {
+    "from": "2022-05-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-31.xml",
+    "sha256": "ce88f851a7861f61c296d08eb0c93bc33ff82039baabc3d2ee1ece7287b68a39",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-32": [
+   {
+    "from": "2022-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-32.xml",
+    "sha256": "490cd2387bc91b0af0b78468799c1246d3602ad875e09bd065e18854683d00d5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-34": [
+   {
+    "from": "2022-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-34.xml",
+    "sha256": "f1f5e9d4960ba41d83c08d8896bf39b20f9b3eedfe23440ab2e460d35e872cd4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-4": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-4.xml",
+    "sha256": "d7edd022c4c70040d35e5dc648f883fbea4d5e34db85a0335b4a99c97cdfeeb9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-42": [
+   {
+    "from": "2022-09-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-42.xml",
+    "sha256": "6fa6021253a1f9bc94701505cace4bdaceefc6f3c6249192d9fa5a4842a1edfa",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-43": [
+   {
+    "from": "2022-09-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-43.xml",
+    "sha256": "0218ee405ce60a9e033f7f995f21f18e21f9fd67844a79de1b3d4f287891776a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-47": [
+   {
+    "from": "2022-10-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-47.xml",
+    "sha256": "379f92057891e35f9651da6ac38d588c869b987a8ec75cb149be3790584d36b4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-5": [
+   {
+    "from": "2022-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-5.xml",
+    "sha256": "02701cc3a0abc7315f46ce7e5e5e7b69e1ef83c925c004644c480b37b1a633c1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-52": [
+   {
+    "from": "2022-10-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-52.xml",
+    "sha256": "16b78bff02d3fe47c9ed58491e2482ad8d22ed60de7268bff4679a927449a435",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-53": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-53.xml",
+    "sha256": "17fe9e036ed47a9d69d290f2bc4883396b94711df36a072e68ae9ec7946f282d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-6": [
+   {
+    "from": "2022-02-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-6.xml",
+    "sha256": "bba98373a885a1c2bab0df14d4cfb7170062c1dcbc0f3e8c51ca3adf4ac56ebe",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2022-7": [
+   {
+    "from": "2022-02-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2022-7.xml",
+    "sha256": "c4488487bf93e9730c3f33284774a30d8d5085a991b6946777a959776c6b2a4b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-13": [
+   {
+    "from": "2023-04-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-13.xml",
+    "sha256": "b6a8fc9447803b616e1bcee4499245b08cb4a3d23b904869ac7a2337261e9825",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-15": [
+   {
+    "from": "2023-05-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-15.xml",
+    "sha256": "4f1326771ea4b925c843d1d1dab31f7db8cb59946988222bd5987a163b787322",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-16": [
+   {
+    "from": "2023-05-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-16.xml",
+    "sha256": "a71d0607ae90bfc90160987c196f89cf612c99c9b5f09f23f846293143316afb",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-18": [
+   {
+    "from": "2023-06-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-18.xml",
+    "sha256": "fc63808660f40c93ff31cca9ad84225c9620479c584717c777779d36f4ac5286",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-23": [
+   {
+    "from": "2023-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-23.xml",
+    "sha256": "80342e45e82866c68d2f28811466c610ad75c1dd02454c252189256981a14a00",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-24": [
+   {
+    "from": "2023-06-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-24.xml",
+    "sha256": "8ceed214735384618f0a3ed31de50be38a55329dda783f817ba53c6c91b39b72",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-35": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-35.xml",
+    "sha256": "d37b71dc0f5b6d038160d9de87e4d32a74e31c89272822d9d6d6287ce5f8c2e3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-36": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-36.xml",
+    "sha256": "327b3586fdff880d68d2214242a8028b3277f289eca62000d80aa6291b5d2bcd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-37": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-37.xml",
+    "sha256": "0924661ac988663da4079010ae15f582aec7aab64513d06bdeb02c4dfa67c6cc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-38": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-38.xml",
+    "sha256": "14bb253f9f010e97567bd46dc252b47a5155cacd520e21ca59c3841b8978f5e3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-39": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-39.xml",
+    "sha256": "cf5c2afc3fac4df162dd2d20f0da5c25905498b3589977383011b1538cdea4a5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-40": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-40.xml",
+    "sha256": "3308496c53cb93472358227d71fa6af1dd3a04d8b1e39ab52f1b6bd5d86df333",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-41": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-41.xml",
+    "sha256": "fd6605cea735763b2af651ba6a53bf9b5dce3dec7f0c954afa2b882a043d0b9f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-42": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-42.xml",
+    "sha256": "790088d2d61b0cd2679076e7b71e15b10142491e7e9406501a7bbf9e1dd4ffc6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-43": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-43.xml",
+    "sha256": "1b0175bb6520df1d2e2113fed4a3a1f29c4b3ac4a07dd4fc52f31b0c73b2c3b7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-44": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-44.xml",
+    "sha256": "542232287f149bdd5dc4abb5b6433cd9974c927a278672398d63c3db7d146b3b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-45": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-45.xml",
+    "sha256": "d5ad4959d2804824ed75ac82d0677403cf97a64096aae24e2c3cbbabf5952b2d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-46": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-46.xml",
+    "sha256": "1d765d98c1329d85f93cc1e4368365dd1ab935a34dbfaea28cf7383e2a702583",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-47": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-47.xml",
+    "sha256": "9cf8ab737b0649f1f17523279441c4009aaa9117e4004baf6b3cad0c763d5c6f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-48": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-48.xml",
+    "sha256": "1de1d4c408948e273b92f12153d17824fbb350a5c13cc2fdc8246cb6dae649fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-49": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-49.xml",
+    "sha256": "3e6a0d073596e02c220db869313a02a1ed844698e9fd2dba45af1e7fc28aa889",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-5": [
+   {
+    "from": "2023-03-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-5.xml",
+    "sha256": "85faee5348a420a91bb9a5331da2352eb6accda44a31c4c8acf8afc81e14dd68",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-50": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-50.xml",
+    "sha256": "7e753654f2834bb51eda219a2b6a7634ccfe3768ff463ac5dc962fe823b09422",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-51": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-51.xml",
+    "sha256": "9fc358d3a8b15aaea9e4de9c9b23f3975f8f8c49dfe2b2f781a3b6c65de0bd32",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-52": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-52.xml",
+    "sha256": "a9ed045ce8ca6f8e901900aa884b92857edd56c722f46520b042cb57ed0aeaa2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-53": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-53.xml",
+    "sha256": "aa59ef762a49628e2d357a517a9282df410ec37b8b751978a23d16274bca0164",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-54": [
+   {
+    "from": "2023-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-54.xml",
+    "sha256": "914e872d0dac1497e28cb29bda4c3eaec64568bbea2c66a5973a6f5276d50d3b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-57": [
+   {
+    "from": "2023-09-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-57.xml",
+    "sha256": "3429339eab9bd81c81fe82f22b61e978f59541621d98994e90bc045df84895f7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-6": [
+   {
+    "from": "2023-03-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-6.xml",
+    "sha256": "f7fcfb5edb13b66c247815190c0c8dafa67bddf7e859d1e95f8b23721c7ceaa6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-63": [
+   {
+    "from": "2023-09-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-63.xml",
+    "sha256": "15c328a4333239c822fcbeaac2649931df837b63599d452049083aff95b93c64",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-66": [
+   {
+    "from": "2023-10-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-66.xml",
+    "sha256": "7d37279a54dd79178e32e071eb9b5367e9b265830f16f217e9b09a7e234cae99",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-67": [
+   {
+    "from": "2023-10-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-67.xml",
+    "sha256": "499c3685c3668a7cb17d0fc5ce20cbe0118b19ab8253eec78b7ead5e89d67674",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-7": [
+   {
+    "from": "2023-03-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-7.xml",
+    "sha256": "57c38af566a0cd50886be5078a652cde0e3401e0b479550bafcd6038b19ec674",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-71": [
+   {
+    "from": "2023-10-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-71.xml",
+    "sha256": "7d8cc02fb7ec9966e2322ebb0bd72dfc3b7f4e6b375feddcfaeb36f19b431473",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-72": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-72.xml",
+    "sha256": "5ef0f1bb18c0f29d21d0b030bd9c111513adc6f60615b8142a69fcd3f7aca308",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-73": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-73.xml",
+    "sha256": "24687235093ee7715be7bafb6e3b31a71cd525b81d9a5f18441f754b73679c6b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-74": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-74.xml",
+    "sha256": "3f20d7c88750dcf1bfd2a3c78ed9e3a9d67b1e51d6e806740fe4ad5beb0b0816",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-75": [
+   {
+    "from": "2023-11-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-75.xml",
+    "sha256": "b1b3ad343e7d6a7bfe236db5cc7776bce80aa97045e127b6426094794055b8ad",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2023-76": [
+   {
+    "from": "2023-11-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2023-76.xml",
+    "sha256": "9aa275201f2021ba1b5851590cd4aa08bcde30b04e8e1cf79f58818dfc21d483",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-1": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-1.xml",
+    "sha256": "8a3862816a6ffe56f2c223b9c5b0305be4ffaea0c313d122036fbcfbcf0d61c9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-14": [
+   {
+    "from": "2024-03-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-14.xml",
+    "sha256": "58cba1050d46502bc0ab6d3796116ee3bb67768879e2f3dbf7aa526530a21025",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-15": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-15.xml",
+    "sha256": "d3692380bda98c47fe5d1b9e2502b0968c8004433891fc9b5e40dc5068cf390b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-17": [
+   {
+    "from": "2024-04-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-17.xml",
+    "sha256": "528aabe1c574dd0761c17fad2c611f466f280763bf5e243759ee14e5dd3b3ae7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-18": [
+   {
+    "from": "2024-04-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-18.xml",
+    "sha256": "38165ae9ea9423dca8a933759a18ca8ed95f77b7cb5421f0cb6578a7cc185846",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-19": [
+   {
+    "from": "2024-04-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-19.xml",
+    "sha256": "9663ecac8a41d4c694398aac37272b13a0fd5f948e1c22594199fac9a5eaf59e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-20": [
+   {
+    "from": "2024-04-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-20.xml",
+    "sha256": "54839c0692cdc61448fe0a0eb343ba15db55096e7ddc95197f02a406070e01e7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-22": [
+   {
+    "from": "2024-05-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-22.xml",
+    "sha256": "f95dc874d2a2bd813c19e468f940a49371bf1fa46f840e20ad4ec39b3e8de94f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-29": [
+   {
+    "from": "2024-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-29.xml",
+    "sha256": "c8b59b36cde95567d2fd2ac57fd8f212446109b523c1b08a394d506017333005",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-34": [
+   {
+    "from": "2026-04-17",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SI-2024-34.xml",
+    "sha256": "7f9fd01c5f3d7d4ac0e1a5faa5c26b2f068a7a5efa06efb0d4d946df12106143",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-35": [
+   {
+    "from": "2026-04-17",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SI-2024-35.xml",
+    "sha256": "f2b7e77e449cf55847886ef251ec09893467d18425ca9e8a462b1ca67120ab0c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-36": [
+   {
+    "from": "2024-07-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-36.xml",
+    "sha256": "dadc10b3d8b0bb29761c05329e4c9fe457b1d128607c377df7f6740a269a1841",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-4": [
+   {
+    "from": "2024-01-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-4.xml",
+    "sha256": "db05540abc522f28035b976d46cc2b2b57779941170bed2e293bdf3b0f15f589",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-47": [
+   {
+    "from": "2024-09-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-47.xml",
+    "sha256": "3fd7abfd999731144fcd51a3c021b1ed47d8fe7d93d68825acf4764ab757f698",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-48": [
+   {
+    "from": "2024-10-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-48.xml",
+    "sha256": "1fc7163cb9f1c3757014266bbad5aa389d010bc90b2dc9dc16aeef50d57d0667",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-5": [
+   {
+    "from": "2024-01-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-5.xml",
+    "sha256": "d4bbb920b6e4ef6dad98a075a8a3d395d93f29e657ca528afd9110629a1530ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-51": [
+   {
+    "from": "2025-03-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-51.xml",
+    "sha256": "1d63a4ca87ac440af092837d69c528dee0ebd5b9bc60e7b68e7e96dc2eae6309",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-52": [
+   {
+    "from": "2024-10-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-52.xml",
+    "sha256": "f94cccca8cd624c82cb49d4f07ce50a327887bf8a3388250975d091c326e0ad1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-57": [
+   {
+    "from": "2024-11-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-57.xml",
+    "sha256": "28841bf40405721e3df1c87546667d32c704249c85d0a86eb12e6fe0259252a6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-58": [
+   {
+    "from": "2024-11-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-58.xml",
+    "sha256": "d791e30c7f53732d7ecf6de48b748279ff85714101e67e4b522a4bb8d9b3a53e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-6": [
+   {
+    "from": "2024-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-6.xml",
+    "sha256": "a76dc56daedc4c3e78855a3cd3d02a0da0a00945897a90376927bc1b8e918745",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-61": [
+   {
+    "from": "2024-12-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-61.xml",
+    "sha256": "639f0594c3fb156d38c7e94c81e0ba61cf767f7c8313e65742a526b92cada010",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-62": [
+   {
+    "from": "2024-12-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-62.xml",
+    "sha256": "c0fa7ded0f59128d22153516335ddb7bdf26d5535335f4f23312a58027add94a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-65": [
+   {
+    "from": "2024-12-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-65.xml",
+    "sha256": "64abf5540fed69de26e56a186a1f4f5116548f97aa2a8ce1efe24946b74c48fa",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-66": [
+   {
+    "from": "2024-12-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-66.xml",
+    "sha256": "affc0d734632cfeffd33d4063b1567ce78cb9f7c53c00704ecfc92a3143ffc72",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-67": [
+   {
+    "from": "2024-12-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-67.xml",
+    "sha256": "b75e1ffe1b0a848af96dddae00cabd3587860c96148dc14ab614e78e5ab72ab6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2024-7": [
+   {
+    "from": "2024-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2024-7.xml",
+    "sha256": "282279a9cdd897944610b04d97407d3ec24a85e0c4fc300950d03b4c11d78c53",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-103": [
+   {
+    "from": "2025-10-10",
+    "commit": "069b3064b126a53d5a8e7e16fbf9e322eb757ae5",
+    "file": "eng/regulations/SI-2025-103.xml",
+    "sha256": "a2c83c5eb7f994dfc5a95d112230be52ebea5de714ea088e1ff8745d3d87a8ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-109": [
+   {
+    "from": "2025-11-28",
+    "commit": "5b8b2cb421e5d2ac575e5bbed596d9eec69d8174",
+    "file": "eng/regulations/SI-2025-109.xml",
+    "sha256": "7d5f49a741c490c2c87ea22f64b7f3db14ca2adb088ea7d136f96f354ffdd252",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-110": [
+   {
+    "from": "2025-11-28",
+    "commit": "5b8b2cb421e5d2ac575e5bbed596d9eec69d8174",
+    "file": "eng/regulations/SI-2025-110.xml",
+    "sha256": "35a03c79a11a01b83c0655b5206053bd57583b8710105b9ede1769863c9bb692",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-111": [
+   {
+    "from": "2025-12-04",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-111.xml",
+    "sha256": "5c15cf7942c37ef68910e6084e0488214c5f51f983f51fe8fe981965c018cbf4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-113": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-113.xml",
+    "sha256": "a83ede76b9b80f92b4e755afcdec1944951f19c3b8cfdcdd83fe617972c9096a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-114": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-114.xml",
+    "sha256": "025877fe79c0060fdecea5f352a0e39a2614f7fe7dbc9112317978c57fb85f90",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-115": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-115.xml",
+    "sha256": "2ba8a2f487cbd33dbf8e375d1d255fd786bed2e3de51e2928b83b7c177b1c86c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-116": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-116.xml",
+    "sha256": "50249c4cb947867f56e3eb275f9344512589f859843ca7a75fe9b913c086d339",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-117": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-117.xml",
+    "sha256": "255bc43eef7f668092abf534206c3d1da56945e3af5a3ab9e7f47d88155c90c6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-118": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-118.xml",
+    "sha256": "7d857d9317483ea84904b81b19b46a6daab4ce758da4f23d3452800cc6111ce2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-119": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-119.xml",
+    "sha256": "9ce8ea7e06cb50a01e66c4941800ff995ae846be6211cff77eda94c2bfcc8f22",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-120": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-120.xml",
+    "sha256": "0e1b9e7f5845472afd3e6df2a9fb65a40de09053321032cb9532606b36ae911a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-121": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-121.xml",
+    "sha256": "efd1feb6d52bee22bf6bde9468a68bd97240e07c229db2d3d6c748710b268e6e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-122": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-122.xml",
+    "sha256": "c721250b205568ae1e65214f78f41a463c82a172b13508466d9fba4ec83ddca1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-123": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-123.xml",
+    "sha256": "27ac7f41dc6dee3df3731a63e944dccc46232ad2565406d2c6e0cc62a8593bc9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-124": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-124.xml",
+    "sha256": "ab79c8385121370d2d0faeb4ec76fcf377b80ae26b97ee27e589ec6364dd3594",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-125": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-125.xml",
+    "sha256": "e133b60688e06fe29ef96010b3373eebbdc9bb5ea52623345e06a1ce177c0a6d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-126": [
+   {
+    "from": "2025-12-05",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-126.xml",
+    "sha256": "52d598bdfc3686884a71d75013d89d9f89db1ec52fe0f1cb501f410c17e97c55",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-127": [
+   {
+    "from": "2025-12-03",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/SI-2025-127.xml",
+    "sha256": "86a8f0293fc3f3b791a6ee941c918b28a4d0394b3a57d8d3130e9ee5bae6ecc2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-13": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-13.xml",
+    "sha256": "5b2319e7010e833c85a1717f922a64e88f20221b5195a40b2657858d0babae59",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-130": [
+   {
+    "from": "2025-12-18",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/SI-2025-130.xml",
+    "sha256": "cb8b5f1363e0c628d8ae260f18920c7f6ddaf33dadae73917ef930df2349efb7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-131": [
+   {
+    "from": "2025-12-18",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/SI-2025-131.xml",
+    "sha256": "ed1b82146b64d8331b73107bc5fcea26655078eab407414869ed64719f82dd13",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-132": [
+   {
+    "from": "2025-12-18",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/SI-2025-132.xml",
+    "sha256": "9ea3d0ede750cf594f19fe52bd296cd34dc3891d7feee329967586a46191fa30",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-133": [
+   {
+    "from": "2025-12-18",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/SI-2025-133.xml",
+    "sha256": "e054a3dc70713b4de6b0d46788410a3d1eb46b78fd23c35ffc8d01588a38ed4a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-14": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-14.xml",
+    "sha256": "7f868b623bd6f33831a88749986b7fb22798e475344d3cd4361d905955f71d70",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-15": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-15.xml",
+    "sha256": "2e42ce9dc9c689a22f522448a1561c6eaee4991822e78e56de2d344d00c93baf",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-16": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-16.xml",
+    "sha256": "7c7454edb89fef277b7da37d944e922b1d578145cb5259af37118eeaa0037d89",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-17": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-17.xml",
+    "sha256": "12376f2ef2b1040521b91e60acb8e47bbdb60334cd1b0e0e4f2e603408810a24",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-18": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-18.xml",
+    "sha256": "60675d4f2116df9f05cca0a16bed8b286c3b4e5305f46234b4143793331d1df4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-19": [
+   {
+    "from": "2025-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-19.xml",
+    "sha256": "aba1b1eb6c9fb92124489f25484c946a10000f7ea3e4f0ef20243c99341bcbcf",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-20": [
+   {
+    "from": "2025-02-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-20.xml",
+    "sha256": "d9469558cd4058667a59ebe90af38797ed14b0442d4c1a088f5b0b1ba962bb31",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-31": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-31.xml",
+    "sha256": "5fe8d5587c8819e2145f24e573ec0edbc48c617ab9d50299e84c12eef6659c27",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-32": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-32.xml",
+    "sha256": "14d50aff0bff39b8d33f5476d304e9b13122bbd9179c365ae89627bbcf171019",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-33": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-33.xml",
+    "sha256": "edc96e57164409f0176fa4b4925ce5cab9f3ccdf623a938ad3168eae0d589d6b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-34": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-34.xml",
+    "sha256": "4264487fbdbc2cee597bb1eb723bf86f536ebd7665cf2db4cb899d5dbbef7f00",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-35": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-35.xml",
+    "sha256": "5781a70ccc3b2ccadcaaf2ad646ab9c1999ca8dd0015b4d0e17b54af754cf5e7",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-36": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-36.xml",
+    "sha256": "12a8ad4657f8e58061a6ee10cdf1f0d87273c7e1bd61a58d98b5e85699906647",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-37": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-37.xml",
+    "sha256": "06aa91d3fd93965eac5ad780980677e0847ab54bb3006bc77009a452b74d3b79",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-38": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-38.xml",
+    "sha256": "a9e2e298ffb7d57375ff15bf32f3a6fa71b3b76aece935cec74dd3bdc36c01e0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-39": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-39.xml",
+    "sha256": "96e8e2b4e9806b0de5ee6e9215eca5af229d200a0a4c8db3e2c70fa3f2a4fdf1",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-40": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-40.xml",
+    "sha256": "dd3ae02ee6106bbe61771e329611c160f9ae7e963d978c21519666c775c568ba",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-41": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-41.xml",
+    "sha256": "0780a0df959c4fc0081ce8166fe356ddd222a55618aed66c54137af3f0697fe5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-42": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-42.xml",
+    "sha256": "1bb1a8a2cf586d32c15f2df4f27ff9a4fb3bf571702a5a210f42bc358018f8da",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-43": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-43.xml",
+    "sha256": "c191d2f187d8d65323575cec0b41836b09d0073335795e90c954fe7b22800ad9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-44": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-44.xml",
+    "sha256": "c06a4190cfc4fd8f8898517c6665f7df74f03108fc882af5f5b023487c465bf5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-45": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-45.xml",
+    "sha256": "f5ed9db41db301a4aac0b77e70149c9c5ccbf294d6741098a5bcb9cda608ddb5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-46": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-46.xml",
+    "sha256": "592a709f3d0719e16dec2cfe3891b68e66b8bb5d1de19da6230e65fcd6fe29d8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-47": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-47.xml",
+    "sha256": "a961e64662041e2f381b55b711ed6600010dc014a41f1c831960cdf5e38f0e80",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-48": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-48.xml",
+    "sha256": "7834840ef05143f511251778c51326c369383be6e7a0f0a8fb73232cccd960a5",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-49": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-49.xml",
+    "sha256": "c5056e4ac14e6e4072c9fd44111f5bf3592e576067aa37254a06d83b0f1e3c88",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-50": [
+   {
+    "from": "2025-03-14",
+    "commit": "b4bdc2c236f0448809ab026e7a62918fbf574e5f",
+    "file": "eng/regulations/SI-2025-50.xml",
+    "sha256": "dc18ce7a749c7d867ad7f3cc749398a52cc41f5f67ca9dfddc01bc69a14e8c8c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-51": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-51.xml",
+    "sha256": "33fbe3b07682226e5722bd3cc67b9bb545eec7f103c51656589cbc7dced3e65b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-52": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-52.xml",
+    "sha256": "6784a33eeab20902327e8d00277ba7d26ac01b7cd5b5461e67b4e8aa406c3dc6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-53": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-53.xml",
+    "sha256": "0b6f114055358305a6ccfd925a5580b5c6ab14b1dcd3e4e6fb688bc66e904cba",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-54": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-54.xml",
+    "sha256": "018100aa1fcd2f64fec9ac1e5bbc204395e998a1f568f05275d5b8c62dee7899",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-55": [
+   {
+    "from": "2025-03-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-55.xml",
+    "sha256": "f559fc8e4d71a8c45544a346c9664b2b271d473f78b01ebe3094b1a4f55a04a6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-60": [
+   {
+    "from": "2025-10-23",
+    "commit": "52ab78de85ef619e03510c0064ba8df3e37f0ce6",
+    "file": "eng/regulations/SI-2025-60.xml",
+    "sha256": "9b132f64bad0593f5c1daf67001ea864c68da5a7af1186c85c7b045f9e6a4b65",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-7": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2025-7.xml",
+    "sha256": "6ef1a19bf6d8362efaf3b7214b105ed64f689194b470cb251dc861a44c6838ba",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-74": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-74.xml",
+    "sha256": "b630069724b862770840f82066cdee10397e8b96c64dc027a68f6412d8b1c072",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-75": [
+   {
+    "from": "2025-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-75.xml",
+    "sha256": "e8b522badafe7b8fee164b9d89a52734e62f2fc2a92fa52529a3d0c9e3b2c5fc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-76": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-76.xml",
+    "sha256": "780fb59b2df5aee5ed4edd675c34fb32d6c511ab85fee180d62379ac8e8d3966",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-77": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-77.xml",
+    "sha256": "fff9620fc4820a34597fe9d7f25cbb78285ba67278ead5ec9bbc06898f8a3205",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-78": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-78.xml",
+    "sha256": "14a992353674ae591071d0792dc0f616bc2fce40fc8be635e43b09d53e8fe82a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-79": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-79.xml",
+    "sha256": "86f317b25f4737fdd0648bdecd082d2abf981ebfd511d0883d34808f0ef43176",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-80": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-80.xml",
+    "sha256": "065c14dd09f348b7dd963d9b7a0bc3bc3c24578ee5f3a0f81af45e37c226b194",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-81": [
+   {
+    "from": "2025-05-13",
+    "commit": "1d32a2167c769eea0c986b7df09bbb777e35b89d",
+    "file": "eng/regulations/SI-2025-81.xml",
+    "sha256": "7e75b8ddffb14f693b3b09a0d45223a2f529d285d14cbeb673a787b1f3776b52",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-82": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-82.xml",
+    "sha256": "ce627fc6942018ac9697f2b246ba3de356d4e58a9e4f5224402376a66c90cb87",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-83": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-83.xml",
+    "sha256": "a257cd600749adf6cf93bd66895a41090864eeb9c1f7d3793ac8d62a7c3c5097",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-84": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-84.xml",
+    "sha256": "cca38b9d0be3962269b43ffad673d0340d99c01c576e77e0c448d21e49ea8adc",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-85": [
+   {
+    "from": "2025-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-85.xml",
+    "sha256": "98808dcf50abbd7f40a19b9d767136a0d19c5ce40a2b48703b6918992fc4fd19",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-89": [
+   {
+    "from": "2025-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-89.xml",
+    "sha256": "1dd858754fbaed1c427f9ab2745a3d6373307718724027a28b44b95b7f0910e4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-90": [
+   {
+    "from": "2025-07-03",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/SI-2025-90.xml",
+    "sha256": "c4aaad32180dc40ddc4c4f8d5c2bcaad4a8fa815ae98fbde7430f7f4f0ce6c02",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-91": [
+   {
+    "from": "2025-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-2025-91.xml",
+    "sha256": "6020c19c2f75d2914a8cc962fb8cda95c75ad4272da24d9f34a444b3eb1fe9f0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-92": [
+   {
+    "from": "2025-07-25",
+    "commit": "1fe537625e058b19184779bd47de75b36c7ee0c3",
+    "file": "eng/regulations/SI-2025-92.xml",
+    "sha256": "b89662f751db3537a640aae4388585f4129f3cb4ee25459bd7ad1202351d7d2a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2025-96": [
+   {
+    "from": "2025-09-02",
+    "commit": "2a754ae3bc41ddcafd90e09483936a9379856f31",
+    "file": "eng/regulations/SI-2025-96.xml",
+    "sha256": "8b70f65f7c027e1a41ec83ae04fb9340f26d5fd04b948e5a0f31aeae06bf7aa6",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-1": [
+   {
+    "from": "2026-01-26",
+    "commit": "6f57fc2b00bdba9b085db81253a379031b3dd76a",
+    "file": "eng/regulations/SI-2026-1.xml",
+    "sha256": "f7731d68a188626bbec007241335c54ed61e8ad9e49f9a7f7d40f5e6a4152467",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-10": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-10.xml",
+    "sha256": "eb93b8095fe664e84c1514f48a73121050d28d07b46f5236756690bd6f0d6712",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-11": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-11.xml",
+    "sha256": "e06de858895eed43394e4d8e40a87823bd3329f83e59c09478869383be4e9246",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-12": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-12.xml",
+    "sha256": "3a95ea79ddfca866c9ebffe8c7b3c2b348215d256e4e1df909485dd5842163ea",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-13": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-13.xml",
+    "sha256": "3cb45e423b239494b105d1d5f208fdc7eadf3fdbe16ec383a40950d2935d6c28",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-15": [
+   {
+    "from": "2026-04-17",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SI-2026-15.xml",
+    "sha256": "e7da1c2024849412921c3bb84947bd50a6d0857c53be91bd5938d0d2321be7c3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-16": [
+   {
+    "from": "2026-04-17",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SI-2026-16.xml",
+    "sha256": "a157a1272c68cb45b44930fddc775f8d75ceed61439e19f2dbe9866cc67643c2",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-17": [
+   {
+    "from": "2026-04-17",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SI-2026-17.xml",
+    "sha256": "da32d23214ee7563a85ffd0480c968a7d7acf5e33387599814cb03ac954eec45",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-2": [
+   {
+    "from": "2026-01-26",
+    "commit": "6f57fc2b00bdba9b085db81253a379031b3dd76a",
+    "file": "eng/regulations/SI-2026-2.xml",
+    "sha256": "6113b9c812f54f1118b4521fdf8501c75a0a1b692b9a1335c17d77fe4a589eb4",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-22": [
+   {
+    "from": "2026-04-29",
+    "commit": "069b3064b126a53d5a8e7e16fbf9e322eb757ae5",
+    "file": "eng/regulations/SI-2026-22.xml",
+    "sha256": "6edd9ff28a6f8ab78f32fff7e661f37dbb68fd8576b8e438a0e338c0190df736",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-23": [
+   {
+    "from": "2026-04-30",
+    "commit": "069b3064b126a53d5a8e7e16fbf9e322eb757ae5",
+    "file": "eng/regulations/SI-2026-23.xml",
+    "sha256": "bf773aaaa331284f18976e9d2e3480d41975d5579be0cae7b5b9aff456d18f39",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-27": [
+   {
+    "from": "2026-06-04",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/regulations/SI-2026-27.xml",
+    "sha256": "680dbfec5ac1ad0fd83a0f0fc1aace1ced1fa13c7b8540d074737c1b6a94c85e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-28": [
+   {
+    "from": "2026-06-04",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/regulations/SI-2026-28.xml",
+    "sha256": "cb31560e49f6690adb2d14bfd477415f0a3cf411972cef81e32d3cd3545b443d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-29": [
+   {
+    "from": "2026-06-08",
+    "commit": "076f5b3c3dc9b0c62d72900496b3643d75e412c2",
+    "file": "eng/regulations/SI-2026-29.xml",
+    "sha256": "7dcf55e5e11d80c1bd770b86295a0bf430fa948aed63a09ad232fa509c124edb",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-3": [
+   {
+    "from": "2026-02-26",
+    "commit": "364726c551e1ecd1466511e8545a03759c0babd0",
+    "file": "eng/regulations/SI-2026-3.xml",
+    "sha256": "3b4fc60067a80a60431e02357c513baf13128b17db639c326f791f9d9c8a5a02",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-34": [
+   {
+    "from": "2026-06-25",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SI-2026-34.xml",
+    "sha256": "880d745578251051efe2f8109905a2167915a26cdd827d56f1456a4aa291a284",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-40": [
+   {
+    "from": "2026-07-07",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SI-2026-40.xml",
+    "sha256": "7075c2ce2fb662623d201dd859f4addb8a13b5d277cd45881b6b52f47fe5847d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-41": [
+   {
+    "from": "2026-07-09",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SI-2026-41.xml",
+    "sha256": "2609f94cfbd6bda267f6c4a275d2bac89112dad0bc80cb90ae0b7e840de1da42",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-42": [
+   {
+    "from": "2026-07-09",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SI-2026-42.xml",
+    "sha256": "2a52be6d3c718f2e1641c5317cf63db921e527fe161244dd2c8a57b3823b24f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-43": [
+   {
+    "from": "2026-07-22",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/SI-2026-43.xml",
+    "sha256": "7ff802cd1ebf54e7826272bdf7e399dc8ea7e77146966e972f6babf1b633ef3e",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-5": [
+   {
+    "from": "2026-03-25",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-5.xml",
+    "sha256": "d9989f8c6f90dc73e1ee38773b449df874d54d85737917f56241b489dd02ccb3",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-50": [
+   {
+    "from": "2026-09-25",
+    "commit": "0507465393c224c0491fc8c17c88340217acc656",
+    "file": "eng/regulations/SI-2026-50.xml",
+    "sha256": "b981dc3190b897559405cf42a7e9731c57f74cc18d35b86a27899ca4dfd00959",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-52": [
+   {
+    "from": "2026-09-25",
+    "commit": "0507465393c224c0491fc8c17c88340217acc656",
+    "file": "eng/regulations/SI-2026-52.xml",
+    "sha256": "a2c6c3525a6677fc5775066b1db2a616b36e1668849ea0a50a6ca9b0698b8594",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-55": [
+   {
+    "from": "2026-09-25",
+    "commit": "0507465393c224c0491fc8c17c88340217acc656",
+    "file": "eng/regulations/SI-2026-55.xml",
+    "sha256": "c4489c0879bfaa9065582d27075c3bf4580897d638f25e6e73c8ed51f8ae9949",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-57": [
+   {
+    "from": "2026-09-28",
+    "commit": "0507465393c224c0491fc8c17c88340217acc656",
+    "file": "eng/regulations/SI-2026-57.xml",
+    "sha256": "306a98ee4479f49f7e5f3e3fca446abd8f87b2b3ba3fd5df2d0c615bbea00042",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-7": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-7.xml",
+    "sha256": "045f2b532cefde62a166738c5514a9b2402cc3db8b4acb99577e7bea3417d2ca",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-8": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-8.xml",
+    "sha256": "c7265f98052285b4e4ac9a885bdaacf7132ed30fd296b7f64d1f68c9295be21b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-2026-9": [
+   {
+    "from": "2026-03-30",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SI-2026-9.xml",
+    "sha256": "801d774cb47a23ce5daebad0f87117cffc46ed973655b1fa7437957d0c57919b",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-45-7421": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-45-7421.xml",
+    "sha256": "0bfe0e2c8774ec448ccb239fb7329da9539dd66761121eaef85d7497be482a4a",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-76-31": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-76-31.xml",
+    "sha256": "8e2db112a98c909c1b36d5d7521aa555879aaf8b059233753c07bda1b63608ec",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-77-174": [
+   {
+    "from": "2018-08-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-77-174.xml",
+    "sha256": "fd6bf248f5f402e1090f5bcb8e550132d7fd0cdea80ee822beb9953aac43670d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-162": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-162.xml",
+    "sha256": "cc7e8e91fc3d6dd62e0a1839af67f58405eb7e9d1fada22e8f2fa72f98bf72d9",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-165": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-165.xml",
+    "sha256": "d256ed6d07ba882b814866aa3e1879f9fbdde349700ada746ae8271a89fe796f",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-179": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-179.xml",
+    "sha256": "a6b9a448e34ad6042ff7893c592c04afe3368b4d60f45c83f9a3ba643afef8f0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-57": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-57.xml",
+    "sha256": "071e956e4d0229e36099295fd46ca4229628ffe979feb63ea7a321881da23a5c",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-65": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-65.xml",
+    "sha256": "40b6f9f88b15df4ce6a322813a7c57c827055c4b21e8911134e376fba7147903",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-78-75": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-78-75.xml",
+    "sha256": "4f33e5040258d2d591edb75dff4a7930a87ee7bb4e504d44ec7cebfeb0cddd27",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-10": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-10.xml",
+    "sha256": "f7527e39b77ad4eb831f51547afe9df96e232f33e47f6d32930a69ced4e51893",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-19": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-19.xml",
+    "sha256": "9cd20a5935128b1058da3f04ad4973f73eb82d735fb1447a9312a47bacfdd082",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-2": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-2.xml",
+    "sha256": "7582937ef8e6e82466aa30ad95a2532b3570fb9e9287037d6180aedd7b8e56ac",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-39": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-39.xml",
+    "sha256": "ffbbc028e5d15071c8651bde34f712cc93bcce0208c482018e7a7cce61233336",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-40": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-40.xml",
+    "sha256": "c5d56ae57196fcc369b256ae692c56d69c98ff40b292d6efeb1f91689b4608cd",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-7": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-7.xml",
+    "sha256": "1f08d801e4a3f58986a4b8e2d12935c82db1154829205b58ac43bf866115e8f0",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-72": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-72.xml",
+    "sha256": "f37bb4737c673445f7b8f7c09491ac81c2b2ff22cb12727094231698412a6975",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-79-73": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-79-73.xml",
+    "sha256": "f4e46223ac051f1d80607ddbd0403ba91d347210691f773bc6bc272ac2a6d250",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-108": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-108.xml",
+    "sha256": "5c9ca57428d84c3815ccabf57196fc70e1f4ac30b2603afec17c5d157ae7d705",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-11": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-11.xml",
+    "sha256": "a20a342473e3034243973de4d8a2eaac5557e8d50648643ef455d21dd3f47376",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-114": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-114.xml",
+    "sha256": "c07927fad8be3fb6de7827e1e8b9369efc7ba2a4175f16ee9983e041fe086980",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-117": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-117.xml",
+    "sha256": "49bc0c39d62b9bde06e95be5e6f2daf9c8106f435832265ba788a9c39a75c0ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-125": [
+   {
+    "from": "2016-12-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-125.xml",
+    "sha256": "c1ee565b6d37430e8c74bfc5c1248c2cfc2dc893ef18a0eb116ec5fa12e4931d",
+    "kind": "consolidation"
+   }
+  ],
+  "SI-80-127": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SI-80-127.xml",
+    "sha256": "82aac26edf23d1ff636206ccfbe7864a777fd07a44013c764a849c9384ebabb2",
+    "kind": "consolidation"
+   }
   ]
  },
  "read_up_to": "0507465393c224c0491fc8c17c88340217acc656"
