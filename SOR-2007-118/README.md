@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2007-118/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-11-24: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2020-02-04 (the latest from 2023-11-24).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -42,8 +42,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
-| s. 36 | [s-036.md](s-036.md) | 0 |  |
-| s. 37 | [s-037.md](s-037.md) | 0 |  |
+| s. 36 | [s-036.md](s-036.md) | 1 | 2023-11-24 |
+| s. 37 | [s-037.md](s-037.md) | 2 | 2023-11-24 |
 | s. 38 | [s-038.md](s-038.md) | 0 |  |
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
 | s. 40 | [s-040.md](s-040.md) | 0 |  |
@@ -71,7 +71,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 62 | [s-062.md](s-062.md) | 0 |  |
 | s. 63 | [s-063.md](s-063.md) | 0 |  |
 | s. 64 | [s-064.md](s-064.md) | 0 |  |
-| s. 65 | [s-065.md](s-065.md) | 0 |  |
+| s. 65 | [s-065.md](s-065.md) | 1 | 2023-11-24 |
 | s. 66 | [s-066.md](s-066.md) | 0 |  |
 | s. 67 | [s-067.md](s-067.md) | 0 |  |
 | s. 68 | [s-068.md](s-068.md) | 0 |  |

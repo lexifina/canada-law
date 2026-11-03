@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-219/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-06-22: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2016-03-11 (the latest from 2026-06-22).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,7 +11,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
-| s. 5 | [s-005.md](s-005.md) | 0 |  |
+| s. 5 | [s-005.md](s-005.md) | 1 | 2026-06-22 |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2005-379/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-02-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-02-01 (the latest from 2021-02-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2021-02-26 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |

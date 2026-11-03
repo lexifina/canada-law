@@ -72,6 +72,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | 18 (2026-11-03) | `dec07b9b3607` | `0507465393c2` | C.R.C.,_c._612, C.R.C.,_c._954, C.R.C.,_c._987, C.R.C.,_c._992, SI-2021-49, SI-2021-50, SI-2021-51 | 14 | 0 | 14 | 98 | 10501 | 0 | 6/6 |
 | 19 (2026-11-03) | `80a13b1de028` | `0507465393c2` | SI-2025-60, SI-85-181, SI-85-182 | 6 | 0 | 6 | 36 | 3905 | 0 | 6/6 |
 | 20 (2026-11-03) | `1f2a60a768a4` | `0507465393c2` | SI-94-47, SOR-2000-112, SOR-2000-187, SOR-2000-202, SOR-2000-204, SOR-2000-207, SOR-2000-210, SOR-2000-217, SOR-2000-77, SOR-2000-92, SOR-2001-132, SOR-2001-269, SOR-2001-360, SOR-2001-473, SOR-2002-133, SOR-2002-138, SOR-2002-180 | 52 | 0 | 52 | 1141 | 405934 | 0 | 6/6 |
+| 21 (2026-11-03) | `80d0b2cfff73` | `0507465393c2` | SOR-2002-22, SOR-2002-284, SOR-2002-336, SOR-2002-35, SOR-2002-421, SOR-2003-115, SOR-2003-203, SOR-2003-219, SOR-2003-323, SOR-2003-346, SOR-2003-363, SOR-2003-75, SOR-2004-102, SOR-2004-197, SOR-2004-221, SOR-2004-222, SOR-2004-62, SOR-2004-99, SOR-2005-151, SOR-2005-2, SOR-2005-22, SOR-2005-334, SOR-2005-346, SOR-2005-379, SOR-2006-243, SOR-2006-244, SOR-2006-245, SOR-2006-254, SOR-2006-287, SOR-2007-118, SOR-2007-125, SOR-2007-126, SOR-2007-204, SOR-2007-239, SOR-2007-241, SOR-2007-242, SOR-2007-243, SOR-2007-245, SOR-2007-277, SOR-2007-44, SOR-2007-99, SOR-2008-121 | 162 | 0 | 162 | 3097 | 719626 | 0 | 6/6 |
 
 Batch 1:
 
@@ -194,6 +195,12 @@ Batch 20:
 - History pass: the earlier versions of 17 regulations (SI-94-47 to SOR-2002-180), from the XML repository's history, appended behind their current text as 52 correction commits (35 earlier versions and 17 restores, Kind: correction).
 - Two passes gave the same law commits (6648847f7c69). check_xml: 52 versions file by file, 0 mismatches (1141 files); 52 consolidations word for word, 0 mismatches (405934 words). Shared Reader: reader (world-law-ops correction rule): 17 laws, 52 versions, 138 days read, 1034 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
 - Held back from the history pass so far: 624; with no earlier version: 2046.
+
+Batch 21:
+
+- History pass: the earlier versions of 42 regulations (SOR-2002-22 to SOR-2008-121), from the XML repository's history, appended behind their current text as 162 correction commits (120 earlier versions and 42 restores, Kind: correction).
+- Two passes gave the same law commits (49e2f52da3b4). check_xml: 162 versions file by file, 0 mismatches (3097 files); 162 consolidations word for word, 0 mismatches (719626 words). Shared Reader: reader (world-law-ops correction rule): 42 laws, 162 versions, 408 days read, 1196 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
+- Held back from the history pass so far: 728; with no earlier version: 2300.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 

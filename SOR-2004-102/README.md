@@ -1,8 +1,8 @@
-# Tax Court of Canada Rules of Procedure respecting the Excise Act, 2001 (Informal Procedure) (SOR-2004-102)
+# Rules of Practice and Procedure of the Tax Court of Canada in Respect of Appeals Under the Excise Act, 2001 (Informal Procedure) (SOR-2004-102)
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2004-102/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-07-05: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2014-02-07 (the latest from 2023-07-05).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,7 +10,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
-| s. 3.1 | [s-003.1.md](s-003.1.md) | 0 |  |
+| s. 3.1 | [s-003.1.md](s-003.1.md) | 1 | 2023-07-05 |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 4.1 | [s-004.1.md](s-004.1.md) | 0 |  |
 | s. 4.2 | [s-004.2.md](s-004.2.md) | 0 |  |
