@@ -12424,6 +12424,4407 @@
     "sha256": "c767aaa6a4727690b860d815c960f3c961623345908df96546da7d4c8c3fc4e0",
     "kind": "consolidation"
    }
+  ],
+  "C.R.C.,_c._10": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._10.xml",
+    "sha256": "9fd9783060662e45c48974cce25cc9671c64c74fea2c71f2659af520bc66e8ad",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._100": [
+   {
+    "from": "2010-07-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._100.xml",
+    "sha256": "49dea10af857f09e1b0ae99c03d7830595e71f07666a14d70949336579372bb9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._101": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._101.xml",
+    "sha256": "9a21e9cbe7117f4604c5f74df89592ba14bd4eea1c83e0c029b04b2fe75a3710",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1013": [
+   {
+    "from": "2010-10-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1013.xml",
+    "sha256": "47e6738970c1cae8d74943e618268604237ac977f7e54ed767135080861b1b09",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1015": [
+   {
+    "from": "2014-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1015.xml",
+    "sha256": "0b9fab6f50dbe302510b4e858d72d1dbffb76cab942562a192cb83df65a50798",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._102": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._102.xml",
+    "sha256": "17347642698d4b55587387bbebd970a16967db8a30e5924c5415e6234e4acfc6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1021": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1021.xml",
+    "sha256": "dd4683d6059ab3b8828adcac9582876d2be747ba260e1db796136f96470f45c4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1022": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1022.xml",
+    "sha256": "280ef40bc9fca8bf2ff8d62a3d694eee0ad9e2f9d2ca9183e24f2fa9cc68db70",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1023": [
+   {
+    "from": "2022-10-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1023.xml",
+    "sha256": "6dd985def667347e549d718f5479e0d8f7a84847df55ed2441ba8f0cc7548287",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1026": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1026.xml",
+    "sha256": "f56b46776a88c060ff355c26c2c16c62dd7e2059d1ecec39195d320b5c9b59a3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1027": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1027.xml",
+    "sha256": "2f9fe2f73599be3d6aa7fe00a8708f0a826c114f050e30950c0237a94adccd08",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._103": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._103.xml",
+    "sha256": "7988c8e978125db9035d259736fe263d909d41c73347d2f9bc707d557fefb016",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1033": [
+   {
+    "from": "2020-08-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1033.xml",
+    "sha256": "6d556d8b5dd9f535b51003511ca652f43c2a7abd378f6816aff15dde9dcbcfd0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1035": [
+   {
+    "from": "2022-07-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1035.xml",
+    "sha256": "481c55d974cb9e7f506cdf3889d0567db40a67db60ca9e10c0a8f6424696ad82",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1036": [
+   {
+    "from": "2025-03-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1036.xml",
+    "sha256": "fa35d2e0b114ac5b34ee5a2c3c4609bf332eb2b966b1435544913f8ccc3c896e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._104": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._104.xml",
+    "sha256": "8c606d93323347cfe5867b78ceb52a62b23e1de97009db476b8d313c96ebfd7e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1041": [
+   {
+    "from": "2024-06-05",
+    "commit": "5b8b2cb421e5d2ac575e5bbed596d9eec69d8174",
+    "file": "eng/regulations/C.R.C.,_c._1041.xml",
+    "sha256": "a28a8dd2d5ba646b651e1bd5e42d3d423a20f48ffab12da93c2358a1df8580cb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1044": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1044.xml",
+    "sha256": "4b0708b0d94b2b05f299c43357c840b27bd288dc90dc35b60e59934e82d33a84",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1045": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1045.xml",
+    "sha256": "9e6a55d7318d0474055c17983ee464018750b2e56ac6604250b7a451e7d2b343",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1046": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1046.xml",
+    "sha256": "22385c87bb5d10eaa254960f156288714e61c415b188bd5a01f55b499dfd029c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1048": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1048.xml",
+    "sha256": "75aa5421f509ca1e5e5be5d292d0934d270feec8b54eb8fe900b5edd17a4e05f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1049": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1049.xml",
+    "sha256": "e04ad6862ad504824f59af32b9a265d234ce1771422fdfdec4945eb2816eccc8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._105": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._105.xml",
+    "sha256": "f2865940f0f7e65738eaf098bbe0c3920f5dca0469bde222a544c4c248d158ca",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1050": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1050.xml",
+    "sha256": "d753f805a3c401f07e19e7086d11d5803b3dcc47837295fe5ed4e19bb3c0b3db",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1055": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1055.xml",
+    "sha256": "a3fa5444154e4df6cdd2a514907ce8bc788dd3830e7d5280976c2292cf42015c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1058": [
+   {
+    "from": "2020-03-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1058.xml",
+    "sha256": "d096d2f873a2351fec008f3ee371658bba1886944a0b3f2b420e3bb23805636e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._106": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._106.xml",
+    "sha256": "63b62fb0bc6e87cfa828e1bf1e29b1cc92dcbef89c9edef0298058f505446553",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._109": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._109.xml",
+    "sha256": "11dc2a78682c3f7f989894548f7645c058491307b1c127613005db9ae8f5d9d6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1105": [
+   {
+    "from": "2016-09-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1105.xml",
+    "sha256": "9aafce7b8b7a52da17afc4a6b89fafd63f5025b0e056bd77ed35947183f517d4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1107": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1107.xml",
+    "sha256": "a8776e2f886df7c0b15a5e2081b8045d766bbee89d9ab7a699521ca939f96503",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._111": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._111.xml",
+    "sha256": "1fa515f8eb1ca5c34f0d041b1fdc58bcbeeb63a5ef5aa3ebde14d3edf4de9227",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1111": [
+   {
+    "from": "2024-12-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1111.xml",
+    "sha256": "8611c134ab229d4e32ca5f11876ad533cdda020d6e07a747077b1f2ad446a530",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1112": [
+   {
+    "from": "2026-08-07",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/C.R.C.,_c._1112.xml",
+    "sha256": "35124f2e0cefc49304101bdf680d3aab70070a838cc0a493a90414d8b1af2e2d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1114": [
+   {
+    "from": "2024-12-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1114.xml",
+    "sha256": "0ff59d318775c16b14c48ef587572ca1a0f800a10077c3e0bee214a223276c1a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._112": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._112.xml",
+    "sha256": "c7c44754dcdcb06b9df13b5d527c1f5a34c2c2bc9d67e2ab585e099359017369",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1120": [
+   {
+    "from": "2018-11-23",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/C.R.C.,_c._1120.xml",
+    "sha256": "ca97d8329551c7080ccb6712dde68d72da97a4b0455034ac099017009e03171d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1126": [
+   {
+    "from": "2010-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1126.xml",
+    "sha256": "278f088543bf2b29ee6e83df9f61523708796a86c067936673ca1946836bbb42",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._113": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._113.xml",
+    "sha256": "a02d5610d3e2e9d03e7fce9047d69db1d4367cfc5d665fe07f036f7ffde062fd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1130": [
+   {
+    "from": "2024-12-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1130.xml",
+    "sha256": "ffff002bf9fe382344e47ee3c6e3c3bbe0d540a5b57898cdc4c14c28b59bef70",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1134": [
+   {
+    "from": "2018-11-23",
+    "commit": "8fc074323b212f1e9bfa7b514f03ff73368a92a5",
+    "file": "eng/regulations/C.R.C.,_c._1134.xml",
+    "sha256": "b82453b23349bbec094227f2304e99db9bd79820325864329b7298439542a69b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._114": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._114.xml",
+    "sha256": "c8e938678c60a6c6e13723a29c47d76e57f70b4104528a925344112caf7ab643",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1145": [
+   {
+    "from": "2025-12-31",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/C.R.C.,_c._1145.xml",
+    "sha256": "a286165ed6a0920da0c422e292357db69f3bf5cfe75a88ade69519f5b0021a34",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1146": [
+   {
+    "from": "2025-12-31",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/C.R.C.,_c._1146.xml",
+    "sha256": "0ed5f89cf0fefbed98c1d359f212d04afcdc25ace5d848e5c349302cbf0ceda1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1147": [
+   {
+    "from": "2025-12-31",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/C.R.C.,_c._1147.xml",
+    "sha256": "a1bf93b78062ad197e073454a190363de1ec7d28ee835ac1b8485c663bbc28bc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1148": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1148.xml",
+    "sha256": "1f3586802c7fd3974409fada8df1ab6f00c6c0046fb1475feb30667c984c278a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._115": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._115.xml",
+    "sha256": "0f95b2930702f203137a95f69fecc6ee0961e59a16ffafefc0fb94448a172151",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1151": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1151.xml",
+    "sha256": "369fa0a0002cd64b5db7b3cb548dd02e784732285d2f4b3bee6eb47ddf577231",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1152": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1152.xml",
+    "sha256": "b3c777055d04b901a4dc5013078e204df9b9032e80427dc43ff0ae1152e54494",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._116": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._116.xml",
+    "sha256": "6f6c05325bab7d569862a1632663cfe9d228789067cd13ccefbefdb7d058974a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._117": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._117.xml",
+    "sha256": "8d09da0d3ba061d7ff1a8eb7d93321d8a4d9f6baba4cbc2aa9ba9809e65b933b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1171": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1171.xml",
+    "sha256": "9e2d4c6d6f43bdc8a13dd8b0038e5811fa8aa84157cb61311d48288bea68e32d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._118": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._118.xml",
+    "sha256": "567b96579c727e0d13e2815fa6afe4755dc3c808f765626128e0a7c83f2258b0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1182": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1182.xml",
+    "sha256": "8ea11282ea94df2f4dc69eebd9349e95f30a8052bfdd1aa4460c0fa38885f609",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1183": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1183.xml",
+    "sha256": "0bb3168d8273768e0712c7cfb46f0ed0b7c20e748da7b66b05b601093492cb3c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1185": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1185.xml",
+    "sha256": "f897fdcf796cce2c50f429d587fb31f64256d8724f6da5a4ba139932b0796108",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1195": [
+   {
+    "from": "2015-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1195.xml",
+    "sha256": "946d331a3c033d6798d19975763daff2269b7739cb42a074b7186f22ac90c3cb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._121": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._121.xml",
+    "sha256": "884f69a902a86276007fa598c312acd4b782344ca21a9312411d1331f113d9e7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._122": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._122.xml",
+    "sha256": "b4d519bbc54fa131ef8ff9420fdd0bde50f01f3422798bf1577287719fb0fc05",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1225": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1225.xml",
+    "sha256": "ce0dfe3e7349f2aac0ccdeda261c1fc107ed158295933216abbff2a472fab303",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._123": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._123.xml",
+    "sha256": "3c4b477d8b9bfe4f196c81b7d22f7df902159fa774a696dedcc5b5988ce2ac90",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1231": [
+   {
+    "from": "2019-08-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1231.xml",
+    "sha256": "1f48871e8f404e3185fcc218666952f6a5f4fd141c6e73099ffe4e9c8397dd1a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1232": [
+   {
+    "from": "2024-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1232.xml",
+    "sha256": "b6f39a201ec13990c20c9adcc632fe14390c1cd3f05e18a168af559ff1374803",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1235": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1235.xml",
+    "sha256": "0595a910944fdbc2e4028921aee4358e4acf453378857bfd106f94e4fdb1f279",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1236": [
+   {
+    "from": "2014-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1236.xml",
+    "sha256": "78d89f6a13e9b73d13feb7d73b3d94ede3f24583db189a940c3eda5d7178e25a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1238": [
+   {
+    "from": "2014-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1238.xml",
+    "sha256": "ba8519b06adf33a9d000a738ab88e9b71ac5f022ce30807cdd7bef9739905ecc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1239": [
+   {
+    "from": "2014-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1239.xml",
+    "sha256": "eeaa9d502be3848ebe99be0e06ddc70fd4f25b89d7d90671bc1a9c49c7a07b8d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1240": [
+   {
+    "from": "2017-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1240.xml",
+    "sha256": "f4b4b8dbbec35921e8e9ba52dc7b4ce36821ba28d5d7d28f593301fb03e01ddc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1241": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1241.xml",
+    "sha256": "19a3df886de53d29f0a007b1ca0625c740c7899c0a15a57971d4187c5c03fbc4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1242": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1242.xml",
+    "sha256": "7c612a867d7abc02a76d6e8b6828d58dbdec28ad15d05bd258ec0d2467da03dd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1244": [
+   {
+    "from": "2006-03-22",
+    "commit": "2a754ae3bc41ddcafd90e09483936a9379856f31",
+    "file": "eng/regulations/C.R.C.,_c._1244.xml",
+    "sha256": "db229dfe11a2c0219548fe663cdb2ea62d47edf60a6da4b32654ff4828d7874b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1245": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1245.xml",
+    "sha256": "53de7b645efa7eee2c75074c1699d74c620346099347d1ed40d2eeed2085f484",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1246": [
+   {
+    "from": "2026-06-12",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/regulations/C.R.C.,_c._1246.xml",
+    "sha256": "fc323f86b326e90cfe721fa84ebfa9669b4abf899ca67f2c4d8adff03c4946d3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1247": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1247.xml",
+    "sha256": "32bad646d9c7499941f572737c80d780743a67089313cb2b73e5c129ecbf289e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._125": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._125.xml",
+    "sha256": "0bc60130cef4727999e38ff82721b2ba73e8950c6102cea336ea0a12a686f79d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1253": [
+   {
+    "from": "2006-06-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1253.xml",
+    "sha256": "fb9fdd4206e6a00b21649591902bd9b496ea28efd00ba8d5f7e6c0111a477e21",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1254": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1254.xml",
+    "sha256": "a38e6b8a19a4fb60ec26c0bfd4ff4e69703014ee408fc064a11295f0cb95a4ab",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1264": [
+   {
+    "from": "2022-05-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1264.xml",
+    "sha256": "5f7d6e90fcf0722e01f5895bb8aa6649ddf40d3f810a4ac25ba9e6ce8bc23782",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1266": [
+   {
+    "from": "2022-05-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1266.xml",
+    "sha256": "454546c9282eade76f94bf94041fc52d794cdd84d60d0b6316479fbdc234a40b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1268": [
+   {
+    "from": "2022-05-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1268.xml",
+    "sha256": "da40b60e14b7c49981f42e3749de17d98f32046fd7362c8552acd4878312a002",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1270": [
+   {
+    "from": "2022-05-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1270.xml",
+    "sha256": "e4f1881aa1159443e470858fa6885f6a13db742e54aaffe1d01a9db1055ef37b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1274": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1274.xml",
+    "sha256": "e4bbf59f46f2df044a82b1766faab19bc2e3a9252c04e827e17006aa091ff46b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._128": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._128.xml",
+    "sha256": "14e3ec2e5784ed684c72d7d28c1127a42675bdceee8f89b60bee3cac9c9f012b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1283": [
+   {
+    "from": "2008-09-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1283.xml",
+    "sha256": "077fcc2412aebe526e4fba020c32da27624ff6301925305ff6e40630c6cbb113",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1288": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1288.xml",
+    "sha256": "636d166bbd902247e57f7f7166a5837358842ac66f16aaa6e4da8e7ca8bb1272",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._129": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._129.xml",
+    "sha256": "c771ccd654ca134ebc364e235de138d550e8cd7aeee6bd98280101380b15037d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1292": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1292.xml",
+    "sha256": "3c59d9263a5fc45715287c5cdf787e88118249e2a6389cf3040ba4e8edb0993b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1295": [
+   {
+    "from": "2008-09-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1295.xml",
+    "sha256": "8898c247e692222aac44b2e65005e9f9717ce697791a42f400657f69269b6fc5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1296": [
+   {
+    "from": "2025-01-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1296.xml",
+    "sha256": "429ad8353091731317a6738048b4765be1bd31a134165945e61336e2d24ce904",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1298": [
+   {
+    "from": "2010-12-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1298.xml",
+    "sha256": "a87dcce00a73e57f2cdcfbbc35b99df4edbe04737869809fd70e3b44e7a22dc5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._130": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._130.xml",
+    "sha256": "12453df81ceb104a0e5ad06b63990ec2f0510001cee35fe4054953a2e07a9a81",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1301": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1301.xml",
+    "sha256": "aea2096456197047f700c2556fe5e298f29a718101bf89e2224f8c01e43ac40c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1302": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1302.xml",
+    "sha256": "4fe13722ce8951321b583458615a4a5d851e0cc28fc8f5053230f4e4ae79566c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1303": [
+   {
+    "from": "2019-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1303.xml",
+    "sha256": "8c0db015518fef97978a8963a2a63e862bfa49ca4917d93bfa1cdbd5caef9f96",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1304": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1304.xml",
+    "sha256": "a1af54bb8917e3cea3ebdbb7ba57a3d8389d02160b3bf5b936a3ecb066850c29",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1305": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1305.xml",
+    "sha256": "4942d2b93c8b1d53f5a9e72f4c6025382af451802d4d6c53870d8976970ee959",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1306": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1306.xml",
+    "sha256": "f61ca9ee5612c6bfb79ce66d0343c9f4ad7b638ba52cf6b322d30aa0f6b36d99",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1307": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1307.xml",
+    "sha256": "65a7884ec529f80205c790fb10d07808f3b8817628a84a181b7c58662039d5ae",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1308": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1308.xml",
+    "sha256": "43fe7545b2e2e65fe7fbb97e208a59c6d47ce52067b0e2dda31fa2ff1eb2b367",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1309": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1309.xml",
+    "sha256": "6fda0dbd4dfd2a2ec24b369470cd386b367f30e3f25c5cc6041b8a0c2d62c3bd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1310": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1310.xml",
+    "sha256": "931e2cab58aae1262aee7e7dea9b759888d68bab16ae950eac03dacdb94e8383",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1311": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1311.xml",
+    "sha256": "27844d0fba9351adc60d1646266702d851a1136fe1b7ba67ff4773f327545646",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1312": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1312.xml",
+    "sha256": "7820f4954b2051a9fac5c62c58eec37ba13a78cae91aad2bba91ea1d666741b4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1314": [
+   {
+    "from": "2023-03-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1314.xml",
+    "sha256": "863632d6ff9aeb8e7787f923da4bbf4012b205eb1c52e89a488a30c9503b4af8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1315": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1315.xml",
+    "sha256": "7856ef6a9f74eba2c951ba6322164b9d2e6cbde1adb08f6bb04302d150749065",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1316": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1316.xml",
+    "sha256": "c3d7707fa07455e9b2fe69a52e70cc6144d993f3ee5d46121d38ca978f972533",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1317": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1317.xml",
+    "sha256": "f71dcdbd2c2eafa735fdeb97a1ad6b006639d81d67b1d60de61697e60b364a83",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1318": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1318.xml",
+    "sha256": "0355c271ac1f2d030be4f051972bba503a9b3cd0821b6b9666f0d726b88c655e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1319": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1319.xml",
+    "sha256": "e8862cc6d7885f44124ee314c7a1264283e3b0f05ebe5397caeef821ec986134",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1320": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1320.xml",
+    "sha256": "86f9dc386bdfb50816cc4cab2588e496dcc1a3758c5ea60700766e9af385793a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1321": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1321.xml",
+    "sha256": "db83bbae9869d69808076a8ed05edf43d0b1bacd92c477756847ca76c8f30660",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1326": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1326.xml",
+    "sha256": "6e0a70202130c80e4489a34f54c63f212ef7f932a7fd2da34f5c7bfbe0cec545",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1328": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1328.xml",
+    "sha256": "542d772a0f8ae6aa70bb65fec6532b7dd5ab2d21201a57e325a1960d7cee04fa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._133": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._133.xml",
+    "sha256": "f49d5db85b93fe46aa1cfcf039da9126c4224f8308ebb82ba2bb42e39a9e35ad",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1330": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1330.xml",
+    "sha256": "466e39410de7c6485c0a6420b24d7bd481bf898e79beab552ed8a2c38869e0d9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1331": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1331.xml",
+    "sha256": "7bca8436e9a9c5a398bd8f8462756d979c6396d8e95938346e5cfe9d687bf3bd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1333": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1333.xml",
+    "sha256": "b3d46365dc5e1d438c1e1e25572c33858d22081e3375291ebe8149a52de8450c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1335": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1335.xml",
+    "sha256": "3973152e184f4f3f67e1bde6e44de2b5a89edf5fe5f324473a3de1377b0bd18f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1336": [
+   {
+    "from": "2015-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1336.xml",
+    "sha256": "8dbf25b87f85627a2c901cb241cb0cfc4f4d0f0710292b1df6f61ccca42a3de6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._134": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._134.xml",
+    "sha256": "e82d304eb1c201b8e9725ebdde3ded069342e0c80f835ef471c3d9b2d17fc442",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1341": [
+   {
+    "from": "2024-03-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1341.xml",
+    "sha256": "34853d92bd748ac72a1780cd0720c9f87ea4a16f6c2ea179914f4e1d1a0f026e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1342": [
+   {
+    "from": "2024-03-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1342.xml",
+    "sha256": "4286538fc6eccc582e15fbd34f1b66eee8feee3aff60002a4ec4650004000996",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._135": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._135.xml",
+    "sha256": "3eb0e74f55062eeaf445f603917613bd5f7967bbe0777175f726302e9a52a34a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1352": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1352.xml",
+    "sha256": "0681349eed6a10f9154866a25f3db868e772de523e2b1f5bc144873a4723aac4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1354": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1354.xml",
+    "sha256": "0654d732b0869fd77bb67ee7853bbfa25f0f62113ca7d50bce5297d8b0a7b305",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1355": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1355.xml",
+    "sha256": "3818a66df4ee726260575b95906048570844fa436bb44d7c10879dddbb4b4260",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1356": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1356.xml",
+    "sha256": "d36237e487ca805edaa6c53b6966d4850657a17980bb155725e0fe69754f2283",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1357": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1357.xml",
+    "sha256": "e708a72f7b08b98108dab85099ca6fee0d53d50882e6d107bc9d21dff948b646",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1358": [
+   {
+    "from": "2024-10-11",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1358.xml",
+    "sha256": "92143eff87741c505bb2453ad88d9cbbf5871271025c71d17a0e6873c05a012d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1359": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1359.xml",
+    "sha256": "9c5cc433e2413ab47c5d7146890b7393d53e7db7c83378a47f370bc93535c83d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1360": [
+   {
+    "from": "2024-06-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1360.xml",
+    "sha256": "9401733fd3f2eacdf45ee5ed888d9a1cd029e26854a3ff9bfb573833cd6de15b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1365": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1365.xml",
+    "sha256": "e38e8256d7fdd4d7ff71cd216042df611da825404c7b41ca4b6ff927e944ea64",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1367": [
+   {
+    "from": "2019-06-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1367.xml",
+    "sha256": "8e0910cf0b5de2c1d377c73c923185edfbab3541455fc469467bcd184d30f3d9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1368": [
+   {
+    "from": "2006-12-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1368.xml",
+    "sha256": "2ea7a3a5451af040d6167a46edc792e0aae7d44b2355b620a8d3c652a5a8dd7d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1370": [
+   {
+    "from": "2025-10-09",
+    "commit": "b4bdc2c236f0448809ab026e7a62918fbf574e5f",
+    "file": "eng/regulations/C.R.C.,_c._1370.xml",
+    "sha256": "ecdcc68b5c2720aef601b6ff516c3899c5a775a5eb712fc1e61dd5962a4ca2a7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1375": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1375.xml",
+    "sha256": "aa0429e15d359ecb4a4a7b7016dec417ca961eb924b24673e973e09340d94ef3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1376": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1376.xml",
+    "sha256": "c5ce6bcd83a9d33fd0ccb118dfce5fefdef20e185669193d627d5e41df346698",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1377": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1377.xml",
+    "sha256": "1a33705242d60180d02ddffa25ce06f136cd665490965fdef572b1e245bfdc08",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1378": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1378.xml",
+    "sha256": "1639b04cb1d73a6337985bd9f86c20d5d5bb1067eaafe4c7828d70e7372a7935",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1379": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1379.xml",
+    "sha256": "6663aee21f6d10ba23eb6eb200affeec6784dc27b5c7e39e74abf6fc8596c7d9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1380": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1380.xml",
+    "sha256": "dbb03a0fb02f2c2ed77eeb1552b4d55cb6cae003bb8efc610d549fd382603c07",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1381": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1381.xml",
+    "sha256": "3b49d2d517651c4e84c5e0daedbc6d8f22cead92662c4571914a83e887dae011",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1382": [
+   {
+    "from": "2016-12-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1382.xml",
+    "sha256": "a6d903e508bff47abf1b0edb3a4e7b31a1e458066dde8990df2fe5ed1c981a6b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1384": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1384.xml",
+    "sha256": "90a57c1e6cce039b357fb66ce706943520f6f938d4e18c3162a1ad8395da8616",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1385": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1385.xml",
+    "sha256": "ecabce9ef2f022276ccc2817e183148dc50bf414f0122d1c737e45313653a270",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1386": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1386.xml",
+    "sha256": "0d780f61dbf595523321f74d2da3178188e48d8c0f8fa9bc5a0cbd0bad90d0be",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1387": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1387.xml",
+    "sha256": "542b8e72a102d1f3e720558e56f458114d23cfb4cb4edaf519813a03495e35f6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1388": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1388.xml",
+    "sha256": "c849ac7be685d0b7e09300301a6876e0d0a40b240af9b2b1443e0332219518d4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1390": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1390.xml",
+    "sha256": "f4ffb08a5915b082e2f6701e30c11b05c8d2cd7ca58a6b74cb8ddb1348a213d5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1392": [
+   {
+    "from": "2013-06-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1392.xml",
+    "sha256": "a002527db80a56c943122995d8d4a2a2754b26270f7d8d3407a57d0cb8d846dc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1393": [
+   {
+    "from": "2026-06-22",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/C.R.C.,_c._1393.xml",
+    "sha256": "b1ea7bf92eb71abde1734b1cc987cd7f2cb78521d29be19729a71120656aa0f3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1394": [
+   {
+    "from": "2016-04-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1394.xml",
+    "sha256": "eaa3158e26d5fc3113388dde526499d0422116eb500404b1f82b330ecd82eb75",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._14": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._14.xml",
+    "sha256": "8e8d2a6f5add2d48dba04d837f815086b676987a36a89cbecdcdef6430d36a58",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._140": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._140.xml",
+    "sha256": "41fd397b3551ccfc336ac85ada3446f965431f879df81b24092a32a13d80bcaf",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1400": [
+   {
+    "from": "2025-02-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1400.xml",
+    "sha256": "95314cefa842285a65c3f0038a8641e5499fad38d7af30d45d9bb97e757c5993",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1403": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1403.xml",
+    "sha256": "e14f97381ce2f58c04b7a02bb28814c78a3d120bf3c624e89d78bac6b53a5b14",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1404": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1404.xml",
+    "sha256": "831f429d24098c8fc15421ea05dad81aa41e3b3808f686b6afb2320eab05a8eb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1405": [
+   {
+    "from": "2021-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1405.xml",
+    "sha256": "1a59bb412c7966f0e8cd9267d84d089742af6485c136ca5527d7147920a17d60",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1407": [
+   {
+    "from": "2008-04-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1407.xml",
+    "sha256": "54733cd621fee53c5aceb91712432c57735d96ec839199dbb88a30e5c8377fdb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1418": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1418.xml",
+    "sha256": "453a216f095a9365fe81567bd75b06af847054a96a87e5f04365f542f0b0a057",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._142": [
+   {
+    "from": "2007-09-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._142.xml",
+    "sha256": "e02318791f5b32eff8c28538bf790d7a7400e5d28edc634f77e1356450288410",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1422": [
+   {
+    "from": "2017-02-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1422.xml",
+    "sha256": "6fea1b576641e780f8853e902a6b95596b2fb09f063e3c8f3109f1e84a4a2bf4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1424": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1424.xml",
+    "sha256": "d7cd5312fd0aac6bf5eba4bd9392e0f1bc22f74e68fa4fd58b7542be2d809b13",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1425": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1425.xml",
+    "sha256": "e8807878dddc304166b5a5a72318d3731dc0c45709be878f7e913b21fc9279d9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1427": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1427.xml",
+    "sha256": "2bf7087283c4a475a6493db623687a33bcdf91e6f6c030ff671c1a4498b4fe73",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1429": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1429.xml",
+    "sha256": "4283ab82c2f3c8562dcf96679794e85ba96475a0ef1fa2c2e1b5c4ed917120d1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1430": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1430.xml",
+    "sha256": "721ddb3ab707af78e4c079ac64a77a63c21c25d974c07494879fbd703fc9cf79",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1431": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1431.xml",
+    "sha256": "21184c760a0209e103828bec1656a8109f6dbb5d0a3aca954b2c93bc8b28842f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1432": [
+   {
+    "from": "2021-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1432.xml",
+    "sha256": "8237ac7fbdf0757efc0de41f16e62c9c70dd2c0e73bb2f3be3d692d73155a6e0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1435": [
+   {
+    "from": "2023-02-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1435.xml",
+    "sha256": "affd835cfad12296c4e11d03646f77d03358f26883df939b5724968a5e81c90e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1436": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1436.xml",
+    "sha256": "d1e4887a293f275a7c3e21a709517c7b15585a6ced92de2f7de3fa65873cea60",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1440": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1440.xml",
+    "sha256": "f7fde709b62336252c30980fe91486112a8b292a1978bc3d14504bc6f5b9895e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1441": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1441.xml",
+    "sha256": "6fa63ec0bb3843ec8ff85b2aada5b2f8ff79fb17678e5fc77afc54725118640e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1442": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1442.xml",
+    "sha256": "d9ff646233b5aab3578b1d45935d5452602a782fa08fc6cc4b81b6b8edd7070e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1448": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1448.xml",
+    "sha256": "4757d16db0013c9f294de39be0451379cd148d71c25ab39acf00b148afbf69d8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1458": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1458.xml",
+    "sha256": "8f7762f1790748d15369b81ad11e9f647522066762e8b777f198cdaadd111419",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1465": [
+   {
+    "from": "2024-11-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1465.xml",
+    "sha256": "3535589f875ece03b1af3244e50b3e4162bb6e6982e3a0e8abc158bb3184dc27",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1467": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1467.xml",
+    "sha256": "1d174eb51ab3db208c3edfde2c8d750e47147aa6d65b56432d98bacdc8fd61ac",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._147": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._147.xml",
+    "sha256": "e30bf28c3a03b87fa350761eed84ff9ab0eb9fd0c051c30a8f8094ea1168be80",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1472": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1472.xml",
+    "sha256": "84f305b11e29593b3c384792d8df0124404d46ce00c43acdb5f4d506a5e2dee1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1479": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1479.xml",
+    "sha256": "a7cac207e7cd025fd9937ec0c21810b325e0e1d62838f16b60ed752c6c46d135",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._148": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._148.xml",
+    "sha256": "3ff3696354e2e42c48b30e0b0346e40a4df462a90c9ae186f9e637850bf18b5e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1480": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1480.xml",
+    "sha256": "28a3176e69b083bd12997c1b580ce267d941662b36830f618a454604ba037a90",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1482": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1482.xml",
+    "sha256": "5fc62fafcdc1bf0e9301eed705f256f03af6b5955d1f7567eff36c6967406a8f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1486": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1486.xml",
+    "sha256": "e47f9bfeeac0f99f26e44388f6cd10b5f44d4046f526bda9196bc4a1e6532a74",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1487": [
+   {
+    "from": "2010-04-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1487.xml",
+    "sha256": "c6a26dd50bb8338060b9ce171afe1b96e8d08fa54c349f837507748834c0c98f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._149": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._149.xml",
+    "sha256": "aee4268f3f92bae513a7bf7e7b083dd29c19f2ab04859c665e8d1df1bf3b5772",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1494": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1494.xml",
+    "sha256": "18fd81afc289f47b31c8f7be661153c7b55e97bdc4218fbfd7b290c2ee29ce07",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1495": [
+   {
+    "from": "2019-03-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1495.xml",
+    "sha256": "1a60cdb0a7a09e72626233c8e4cd00cdb1c3a656f80d09d87037d51e1f33ceaa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1496": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1496.xml",
+    "sha256": "5cb40f8e7144589b0fbe502b25a92a0380722dbca791e38b3e8d54a46a9d11a3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1498": [
+   {
+    "from": "2023-12-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1498.xml",
+    "sha256": "0b04c616fc42253a4188d157e19fa7533744905639552dbce78ef30aa4f63ef8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._15": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._15.xml",
+    "sha256": "61ea407943f28b6ae23a46f1ea79c943337e45c310927e546012250d6d0d820f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._150": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._150.xml",
+    "sha256": "3e838568ec74cb11538ebeb3044d897a63de107d66401d3f31b710f3c88e1e11",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1501": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1501.xml",
+    "sha256": "1ab0d594cb6c31706cfa3c9babb3ac6c5517e2304740810a40a900ee3fbf5e1c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1504": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1504.xml",
+    "sha256": "992fc8bd31c464ac166eb266410757643ebcdbd68da00928d25cc92ee29a84db",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1509": [
+   {
+    "from": "2025-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1509.xml",
+    "sha256": "0bad6de77aec0b6f54b5afcbb9deb6b20b28a72c79c767ea5185dc06145d9d9c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1511": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1511.xml",
+    "sha256": "7ede3c21931f0a49ce62afafa5cebde34aab60267e03096ba970c2ed8a3343cc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1516": [
+   {
+    "from": "2014-03-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1516.xml",
+    "sha256": "f5d1cd5545001712e90ea1785f6f1ae981d5ca4026af14551a823eccc18db5e8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1517": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1517.xml",
+    "sha256": "e86b7c9bdc719b6895a9883a0ea9f4370d0fbd485b75eec4456674db2bf3be54",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1518": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1518.xml",
+    "sha256": "3b73d6a8bd3c79579805473e8bd12173eeff99b36eb58b36d431a7c5c6e96479",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._152": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._152.xml",
+    "sha256": "f9311883e39fe65ddc70bbcd567738e5f8c24e6753478882b0578d0c7ade9d76",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1520": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1520.xml",
+    "sha256": "66cfbc29b4e8bec674806c8062d60513b045153030bcb933332a1312e04f6f29",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1521": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1521.xml",
+    "sha256": "b7027dfb5bfe5b1864ec207854be2e2a7bcdb7cba984735bb613bbd9737fdf56",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1522": [
+   {
+    "from": "2024-12-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1522.xml",
+    "sha256": "0d5fe5836e20e50c6660bc07d8704cabbbd2bf9ab5cab86af1f2fdb308132f9b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1523": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1523.xml",
+    "sha256": "35857589f2b63b74b3b4aa7964edfe1810e092bd0efd68eef3f185e8256ff108",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1524": [
+   {
+    "from": "2024-12-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1524.xml",
+    "sha256": "8cbfe0fe255ef71697e7d786b5e346dc4976de732030cbbd5efbb8e162fba64b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1525": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1525.xml",
+    "sha256": "bfae82d7bd7283b2994d48477a194c03847aed7d5eee6b7e8ea2fd77484b8383",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1526": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1526.xml",
+    "sha256": "593da0237a1e25968c6443c021e449495d7d817a475969133b2d1ebdade46481",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1527": [
+   {
+    "from": "2016-06-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1527.xml",
+    "sha256": "0830a7f0b17ab2e8fdfb506fdbf7cf3b14d9ea9bfe4b2cff2d33f1d01519f874",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1530": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1530.xml",
+    "sha256": "b60ee7f4d6dfa08354773aff5532612097d5c96606ecd6f7bedd4f39ee489c1a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1533": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1533.xml",
+    "sha256": "050ae7c1b639b8e4cc9535ba8f6091ed4c7fc96e10ef99000e07c05a460a5043",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1535": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1535.xml",
+    "sha256": "1be0a119cdabf6581610e45ae9198a0eb46eb06173b1ef7de935f52a9cef9ab6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1537": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1537.xml",
+    "sha256": "03959c42daaff3a2285c7463bd262d046385c925e95927bbdf69a6e8d4013c5f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1539": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1539.xml",
+    "sha256": "829ace3a3c675ed10a1aa4740663eaeb2d7f58553871e2408d0703e6846b2302",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._154": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._154.xml",
+    "sha256": "898ccd787c033a84e7a03f7d31f517b0facbab9403d42e1a60332c404c878570",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1540": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1540.xml",
+    "sha256": "2b98b0ca40ca2cc75517632a069505461f227aeb6036650c9199636bbcef4d4e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1541": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1541.xml",
+    "sha256": "83d9ad2c3263406c55cf1f21d668b7ced0178f3ec9222fb00bed50a75b58a0b5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1547": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1547.xml",
+    "sha256": "3d9350562715e537c8c9a8f05494e469aa7753015dd70d6be1a73788693689d1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1548": [
+   {
+    "from": "2009-01-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1548.xml",
+    "sha256": "b771ed652a7fe09786e1026c389b954b8c7fe04ff029ba91af156518ec6b63a0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1549": [
+   {
+    "from": "2009-01-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1549.xml",
+    "sha256": "9c50cb5243be4fb88d0f3a43998c7643caeebfc0b1aec905d34d8cea9a42d9ca",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._155": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._155.xml",
+    "sha256": "6d3403565e708708d85d811bc7234cc55c94665a5336dd49b40911401a39ed38",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1550": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1550.xml",
+    "sha256": "0fc6c9b6eb5b05415338cad7a4f6464fccf3d7d8330c294c5aeb56765df0e152",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1551": [
+   {
+    "from": "2019-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1551.xml",
+    "sha256": "9e35e30486e19dba62278cdd1a2fc74237dd04bce27f33003a41a4b80e172d9d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1552": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1552.xml",
+    "sha256": "d3fe7a71371bdaf0d5f3ef029983bf3f12fcf183ea74d042528412167553c5ad",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1560": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1560.xml",
+    "sha256": "3a39e35ca725b8d890bc591e714d63251366b0afd96845d07095c9b38c89d48b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1561": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1561.xml",
+    "sha256": "245e83fe78c6b280c011329dcb21917f056a79023d9c3f0e733d4833f22e257d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1563": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1563.xml",
+    "sha256": "eecbfead938fa8de23d23762a0a9c9868e332202d8057300a5ee1aa67e84771d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1564": [
+   {
+    "from": "2008-09-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1564.xml",
+    "sha256": "d7086b6981fd3be08222148814e3a36e785b4024c5b1274eacd35b51b323dca0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1566": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1566.xml",
+    "sha256": "0fd9cbc2a7a9d63d5739f75b48841d9dc9cde45d46cba13da78b00d552735d01",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1575": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1575.xml",
+    "sha256": "20b6a97c67c673255d3ab38c0460471f2545774bc71e43665ee2086873dd1de7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1578": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1578.xml",
+    "sha256": "a99a95d7f1a820d4582198d094c32e5e0127c68842f6fa530da3178679ca700e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1579": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1579.xml",
+    "sha256": "1a5b63a39306807bf5539eb32c2acd21003a028be8b9a282645ca9ed98dbd9d1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1581": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1581.xml",
+    "sha256": "cc6a0f968d4bba365b11bab203112ba3fcc577d97e84ca553f321d222969f096",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1582": [
+   {
+    "from": "2009-07-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1582.xml",
+    "sha256": "3d69f86f0746c6414802a25ac012180e41a30cf0913a524513cf50399fccb1b4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1584": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1584.xml",
+    "sha256": "45ed13c902ee796b92508fd1fed89994a1731e62ea8de9c91596e3daa298303b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1585": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1585.xml",
+    "sha256": "89e1068aa95ea20babdabfaa436671df0c93ae1c6f059cab6a14d26f570f484f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1586": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1586.xml",
+    "sha256": "853a1b3f04b2c37009c51240be6d9f89253c9f93dcb6e4aa4dc458b4cf893ed4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1587": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1587.xml",
+    "sha256": "02e7b2be4d46544c6fd49dc8155cd7f2d9d6e8dd87385da9da9fad327dc112da",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1588": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1588.xml",
+    "sha256": "b8607363cbb696082b4a6e21b8085827e9083f4ab97e3f864fc80433a36f4935",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1590": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1590.xml",
+    "sha256": "3b2ffd4663da3738eaf8e4b4639ff63016df35bfe00fa9f684c81efe653964f6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1593": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1593.xml",
+    "sha256": "dc21c4e78cb79a979c4ddf2941b39e3437956344829c98ee6cb04cbfbf866824",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1594": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1594.xml",
+    "sha256": "50f368bdda4455b6741c3eee28392b6fe7891f6a5cb53a28f3c2af960a1f127b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1596": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1596.xml",
+    "sha256": "a9df82d97dea6bfb7445ced7379e801eec08e3e022f1c258a408050569de6607",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1597": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1597.xml",
+    "sha256": "fad139e94e6f4386045a2f0bb030da6a67e3e67273c81a1d9d9e816b6ed55e95",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1598": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1598.xml",
+    "sha256": "10771b33ddc96c174313ca335b328eb9dd7263c627ca5a55db02ead54cf5afb9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1599": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1599.xml",
+    "sha256": "f054fb243f6ab7d151e64cd64a13f67c8fe3e9a59fcc3ec79d8e2886157da286",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._16": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._16.xml",
+    "sha256": "e9b41d61838b6e8b627c228d362fb81d7b823d6df9e93abbe5cdc38b295c962d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._160": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._160.xml",
+    "sha256": "7b1eadf913a7dd549cc221b1c79c0f497c07a54d1126bfcc236a64f90d226f56",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1600": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1600.xml",
+    "sha256": "ddf6e5149faa71625e0b49453f7a18ed7dd6225bc594a5aa7ecdbea42a446230",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1601": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1601.xml",
+    "sha256": "8cc72cc55a2f532f49a7f63a5ffb9e86cca6c3eeca6380aea611beaac8c002f4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1602": [
+   {
+    "from": "2013-10-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1602.xml",
+    "sha256": "08aa846a2db9eb2ddb34b379bc314f8fee05f0513a55696e80c68d1a78966b06",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1603": [
+   {
+    "from": "2019-08-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1603.xml",
+    "sha256": "d9856887a994bec7f3fb399ec0ae8babdfe9920c34361baa6461e9b6a683f504",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1604": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1604.xml",
+    "sha256": "723b54d5d9d0cccffb3f2b06abdfa83cd8a4aa7879a58869cce09801072f3a2c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1605": [
+   {
+    "from": "2024-09-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1605.xml",
+    "sha256": "a79ad694ab733093b797ba5faad549b050a6516ed40fa1b44f2aeb314031effc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1607": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1607.xml",
+    "sha256": "a2b4a189cfd5a3ea185540ddf43ee7ab97747b2758a471eb89d4530cae816cdf",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1610": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1610.xml",
+    "sha256": "e580dc23de13b93d54736f98a7e13ecc33b9076c9b9b17f2eaa4d83de285e433",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1611": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1611.xml",
+    "sha256": "8021c0b95a10a9c4b6ae1976204401d309f05fbac5808722012a2fcfc415cd88",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._162": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._162.xml",
+    "sha256": "450cdbb43ad8f32482d015d34730bd423fdd264faf4ac929a4c4afe4534203ab",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1621": [
+   {
+    "from": "2014-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1621.xml",
+    "sha256": "b3fdc6c6bd7f96321673af8812e2cc7341120fea85bd5d07e68a1252c3a86ca3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1622": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1622.xml",
+    "sha256": "1fb0707b92fe788b93a1f65b42fa74f9272d3fe8d066e6e0e9e2f11835caada3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._1623": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._1623.xml",
+    "sha256": "ac9c840a0a42a1d43c445df73659408d7a64d38dbd356165b44079f4061e3ac8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._164": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._164.xml",
+    "sha256": "7ae4e01ba24156a2b7cf0ab1ea4c12166fbc00ae4eea0e9233fdd02eb21e5c9d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._165": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._165.xml",
+    "sha256": "c5da56810afbe1799394e475d37e9a0a46a0b784372a9e66970b8cd36b7a1957",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._166": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._166.xml",
+    "sha256": "188a4b22d0bf8d2082807203aa843984e6ff33b00cf2a0ee85e1ccc6b0b3988b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._167": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._167.xml",
+    "sha256": "e92a1b200fd22a7643b223530edec5fa9bbc920d12e469a43b20828ea0ceda98",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._168": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._168.xml",
+    "sha256": "4d07158383f73a165ec39a0a8582ac87cf8bf651f06fa54a895b3c30ac708bfa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._169": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._169.xml",
+    "sha256": "5738794befe9c4053752300e28df787e460302bab5bcdffee0e5ddb442710076",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._170": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._170.xml",
+    "sha256": "2b11fe89d658a79e34f4bfe47c94d49fb43cedb020a18f25309af3d0ae794c07",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._176": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._176.xml",
+    "sha256": "edda3a6c5fa17f011ae38921f7e677e4a94ddfb5490ae4cf43ad81bc21cd8573",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._177": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._177.xml",
+    "sha256": "dc97c3ba71bc7e60d5979af8541b8a089b71ef33298115a712d60cf2ef1f18d5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._178": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._178.xml",
+    "sha256": "81911b4cf7f07252da612241c3192f908580ce3079cdd874b83e39e1efe61801",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._179": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._179.xml",
+    "sha256": "8d4f9d573ccc46e32157c48c27b6194696517d0b030e737092b7700a861c7cb1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._180": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._180.xml",
+    "sha256": "7cf65655bf156189dfed105cdcbd5daef653f1ae7e2f64be002cf30cba233e6e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._181": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._181.xml",
+    "sha256": "27896c0ed0031dcb1463636b75e025ff4892c28fa77b940ed915cc285cd88dbf",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._182": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._182.xml",
+    "sha256": "12a6701187426c4efcfccd7dcb49f6edfef96346608a41e92b411fcc00551a4e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._183": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._183.xml",
+    "sha256": "7cc4441996cf9151096b446fe4145f382541a8468cca52fd576bb0d37332015c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._185": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._185.xml",
+    "sha256": "c5dcf98005d95c76f3e2b70c46d96b942c90d7f26ac7d8a493138cb9b412cc3b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._186": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._186.xml",
+    "sha256": "c1992099e42967e8a8886fe78dc7d71cc91fd386428da5450e7d7efd25d400a5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._194": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._194.xml",
+    "sha256": "5b3fc027330183e25952e6333d7beba5ac4726f4d991c0f8bd21cda8737d85dc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._19552561": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._19552561.xml",
+    "sha256": "753d2e8a36ab4531971af76e97df6de9934ee430a520736021a039cca1eaa504",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._198": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._198.xml",
+    "sha256": "fdbbf7a24bf246fdf7543c29a0d784d15b93f178beccbde77135b3f706c27405",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._201": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._201.xml",
+    "sha256": "fbe74d5be56a073814b275e00f4f0a041fbfede1fd2ff1d28bd2f4c6d464cbd3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._207": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._207.xml",
+    "sha256": "1f7211d0bb1226225add7e0ec9c9fa418825065280efb8b0bd642d6d1e7bbfc7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._208": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._208.xml",
+    "sha256": "c06bcdfdeb42f49d83b2660ffa7c67623bde12221190e7f8c87eff8039131b84",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._209": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._209.xml",
+    "sha256": "3da9500a76619700e27fccabb24eb05d13171101433db8cf3560dbb19b116c8a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._210": [
+   {
+    "from": "2013-10-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._210.xml",
+    "sha256": "7eeb5ebf084ba0d69850e1be4952167a41f0ceaf6bdb997dcc030a8a617868aa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._211": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._211.xml",
+    "sha256": "0988eb08b6197e9410d528864823418fae9458dbbb0593acf318c62236307b1a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._212": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._212.xml",
+    "sha256": "8509aecfc4b1ed6cf947689266969774b41aa1785d1f399424148ffbb05079e4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._213": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._213.xml",
+    "sha256": "a8337d1e3354c56a49dd727acc63c5ed86e25b248ac478ed4a4c93fb8d06037a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._215": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._215.xml",
+    "sha256": "134cf75ec8d629bbfe634c5253f45bb65514d2e9dc705e84a057bb51ba466427",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._216": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._216.xml",
+    "sha256": "a7488ca62c446c3250030696b82d51e5a29640ac1353c6f8decb2cee9c6e6679",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._217": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._217.xml",
+    "sha256": "9d548f517b5e080c70333dd3b300605a26a5680180716170c4181b47b33240db",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._218": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._218.xml",
+    "sha256": "f3decc87ecfc4b5f6ca5c31f54e142f827bd3a6fbe308148fed910cdd0a24a28",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._220": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._220.xml",
+    "sha256": "0ac2f9ae2567f320b2826333c5344a8742cd4577a0b0d3e307d6446052f0e816",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._221": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._221.xml",
+    "sha256": "2f8a67b2ed89bd8bda06ad77cb963e32e82489e0ca48bf88190e534b04b50ba8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._223": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._223.xml",
+    "sha256": "45257072e626d154e88a829209cdcc912df2d6b6f4ce80f954ce95d78d0aa226",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._224": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._224.xml",
+    "sha256": "d549a3f462b23ef599a1208db31a405a52a4a0a0ba3af585df0c75d8212307a8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._225": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._225.xml",
+    "sha256": "7639ef1b1c713ef5e11400dd8f8cebf6a856e9ffece52805b4a9e44beee36efa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._226": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._226.xml",
+    "sha256": "8c2c3741fb2024160f48e736b09b71c4e33b1acd13ff3b75a6e3c89df6a57d80",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._228": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._228.xml",
+    "sha256": "d77685280302b02efca26c423a4294c31932f9966932a79aee6f518fff751936",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._229": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._229.xml",
+    "sha256": "6264073964d91f91b7790ac9c59a5a5315a93768b0a2650487a11339cba4eb57",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._232": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._232.xml",
+    "sha256": "6e5e89bb684aa33345fb97fe67bf4118ee8ec17e0a4f3a0a9b20da5472723e9e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._233": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._233.xml",
+    "sha256": "5e33c55af44fefef5eb922b6a933664005cd459c17ee03e9fa80cdb4d3da45cd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._234": [
+   {
+    "from": "2016-03-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._234.xml",
+    "sha256": "5dd4853bf39cc006f45a7127a5ef56dce442d392424a0540c57a9a0123153a1c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._235": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._235.xml",
+    "sha256": "fbeb5ca3b3c7d1e703e183df4cd7ac305eb71d63a125eea3d0bb36af5c8f7187",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._236": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._236.xml",
+    "sha256": "dcdfe81c8098c1306f55109b3f46a297607fb070b70aeefee7c551821be67a2f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._237": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._237.xml",
+    "sha256": "7ffcaa81d493ef111c22fcba7b56d5572d31a10f416ff9436345fde365192aad",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._238": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._238.xml",
+    "sha256": "7b02c45649c8846cf9cb61b6adcf34e91df734a6a59768853e84caf1cc206e16",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._239": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._239.xml",
+    "sha256": "7765f07628278e97a6c6dfce936ecf4afedf713da167fd033f2f9ed3a62b11d6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._240": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._240.xml",
+    "sha256": "690afb1c4588a90dfb2e689cffbf5bd7822e803607c80d1248f4238184fc822f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._243": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._243.xml",
+    "sha256": "ce847e610984b5b781ce75f63668d103522e0485bd3088a0c6f09df41aa4351c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._258": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._258.xml",
+    "sha256": "f62afda2e40f6e6f26498ad6333d8a1aa88505de78f51b3714900660e632cd9d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._259": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._259.xml",
+    "sha256": "c38f97490812568ead55ed6efb18126bda5f09dd4878c4bea5f501ce3121bf97",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._260": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._260.xml",
+    "sha256": "9f2d25ce3aba851e8e233acfaae8762ab91dc56b6d9cfebd63ebfe74718b1c0f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._268": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._268.xml",
+    "sha256": "da138b3a02bd8bbdc36341469031de0adf1d69c1a59d17803705a53047ebf7d6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._269": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._269.xml",
+    "sha256": "d7f97e031b502e531dd3a34cd3e73989379a2b7d6a261e200570f519c725bb8c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._270": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._270.xml",
+    "sha256": "9688122a5de46ba02b730e86acec5960af517048efedbb113b5a24397312f089",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._271": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._271.xml",
+    "sha256": "a5bdac4d48cfcc9c4b65e24d2c70ba4f2bddec58fd142d596a92927250ba5a10",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._272": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._272.xml",
+    "sha256": "e0f1f628f05a5bb01e59967f3b0906d57e58ddf809535b2f9fec46351606cbdb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._273": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._273.xml",
+    "sha256": "33135d0dfa120aae7fbab692dde6c55e3f163f77c1e6af4d97e949e2cba397b6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._274": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._274.xml",
+    "sha256": "58ba489db9fd875987fd96805124479f37e29d42ae557b2dc8eb6d83ce0b3acc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._275": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._275.xml",
+    "sha256": "22e891899812a9e27694d7ba6a92db5e303e86cfc07e61b66f308af5a757580a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._276": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._276.xml",
+    "sha256": "2e8aa5964184b54591cac8830c64eb87fe0b60fac28e4f4b09b70cc363fd7a6f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._277": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._277.xml",
+    "sha256": "594013ab58964f21c87de7589ef0b190d92d73e351f99ce987d14e09907fb6db",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._280": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._280.xml",
+    "sha256": "74c410fad45b18092c689bcfcb6e3a3a8f667fe0b714d109059b3068ee2ebfeb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._281": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._281.xml",
+    "sha256": "74f9047e6cef0b93a54f157d69cfd0decb9940bb066c3cd6c9dd57620a564417",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._284": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._284.xml",
+    "sha256": "f18efc7115ed625649f341d226c3e9e6d559c8797dd2951119007b53a40be43c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._285": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._285.xml",
+    "sha256": "7aff7a224c0a43db2258804d460269f16287426b78f2538582cfb2a0ff006a9f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._287": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._287.xml",
+    "sha256": "839595de2c00dde802dfeb859023e4e0c58038123d8a64a1d3e3d65995b1e558",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._289": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._289.xml",
+    "sha256": "de3da7ac75072f10f38ac69e9d1fcdd77a974fa4c8a74c681debcb5929508f94",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._290": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._290.xml",
+    "sha256": "64340c1142c3a45d0e81de0ed7fc3974d98f78360ac7a89014ffc5c33d360c91",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._291": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._291.xml",
+    "sha256": "ce6dc6b45e7b3a69854300bae257a6c2d56b96e6889829b818106234f2c7289a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._296": [
+   {
+    "from": "2025-09-19",
+    "commit": "5b8b2cb421e5d2ac575e5bbed596d9eec69d8174",
+    "file": "eng/regulations/C.R.C.,_c._296.xml",
+    "sha256": "50395d72b5ce3363cb075b029e07c07cd8be5adf08ccc5950280ec7ca9e7e5ef",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._316": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._316.xml",
+    "sha256": "6c7632680881b9bd5c4ef87276e2b15a1e8b44f93a1d603e5f18330999fc8e64",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._317": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._317.xml",
+    "sha256": "31b5ebddb748ab4d64727a5cf69be1ae51ee7aa0b33c4af07dd7332fd963b6bb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._319": [
+   {
+    "from": "2009-11-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._319.xml",
+    "sha256": "a12e3fb0b0c69e74ecace84c89f17f2af0f78d977bd0ee9daa6e9350f0836081",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._320": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._320.xml",
+    "sha256": "bedc2e3bd23721544ae7d611c2303a2745630979ee9e58a529ffdf4ae28803ac",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._322": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._322.xml",
+    "sha256": "36e305dd3d50c82b53324568a4872cfcb0ffdce2f10eeddf686e026a29a8b19b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._332": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._332.xml",
+    "sha256": "cd37127cd99f89dc3479d0246ea2c381aa666cc166afa489f9193cef90f869e6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._334": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._334.xml",
+    "sha256": "735260620be535d83522fb2eeb1c18122411ee0d06b51001435b3c26282b4119",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._335": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._335.xml",
+    "sha256": "c517c052cf67b7add3d2b96caafb2965669128a121a4e59023c28758f33da9a4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._340": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._340.xml",
+    "sha256": "f572dd08e93bd9aba2634661b8c82a4c9fe62571d8143701f1d6a4f9aeecd23b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._342": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._342.xml",
+    "sha256": "c17c7eea2c7142881cc8433d41f2d9d412ab30034efe75241292497fc3ca584c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._343": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._343.xml",
+    "sha256": "22c644afa8e2179d7342d1d845038d823969f3e49f1bcfa05823a36cd2951857",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._345": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._345.xml",
+    "sha256": "d3d75e3b19e30bc7b2e5ec1358913d2f9c3a9f7a6a167818e88c89da97454322",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._347": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._347.xml",
+    "sha256": "faab5d6fb0802e4e1ca2018279b7edc0b0862e82132dc9fd6cf29c612ca8dcf8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._348": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._348.xml",
+    "sha256": "b4f55b891b2f56c56da10bc7ef3e225ee4c1557f193758b6376dab034d0162bb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._349": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._349.xml",
+    "sha256": "90498119bd0e2db8cf27cb6095f7a92f567b406c9dce515f21fa4a147553bd4c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._353": [
+   {
+    "from": "2017-12-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._353.xml",
+    "sha256": "792218e90489736dcf691f52f08e096a09f24b124e4d24d48b86ac5d3a065906",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._354": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._354.xml",
+    "sha256": "63825ef5c1ba44582d68d23a81f5a306698712394b2a1190c9b0994973215155",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._355": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._355.xml",
+    "sha256": "7de57d3de29c353baa1c16706f272a00509608dc29679cfc54d88acae94f9347",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._356": [
+   {
+    "from": "2010-06-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._356.xml",
+    "sha256": "92516c4f27ee94849186940e9879de922fe670e7cb957011edb2d444ca72340c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._368": [
+   {
+    "from": "2011-03-25",
+    "commit": "824a5d735af98b6af9aa188f8524a1b36aba5eeb",
+    "file": "eng/regulations/C.R.C.,_c._368.xml",
+    "sha256": "f6131ee3287ad0c0801b85c2c2745dcc3fbe7830ac15ea87d2dc187be2041339",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._375": [
+   {
+    "from": "2011-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._375.xml",
+    "sha256": "4e8a4ac2bf312553fba9206359ffb6edcf25684e48322d7995834771167c14a9",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._378": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._378.xml",
+    "sha256": "b346d0d60b357d0f1aeffa4866347d686d5ea546c5ae8b812800e623a4158442",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._385": [
+   {
+    "from": "2026-01-01",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/C.R.C.,_c._385.xml",
+    "sha256": "08b3f09c633cf563bb70f2324d38f03116653cccda6157dd4763366ca99c0a44",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._386": [
+   {
+    "from": "2017-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._386.xml",
+    "sha256": "5ac23aefb40b260b47b62026f8da47d8733801fc14de513adb382757dba81886",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._390": [
+   {
+    "from": "2013-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._390.xml",
+    "sha256": "dd4475348cc2ba36d1b54d21680882bbd951bd7689979f5c803343b35b2640ff",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._391": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._391.xml",
+    "sha256": "7b71651a072f60c2e3e21b90234fa4da4ded2efc23edd36be993020f5f9544f1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._394": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._394.xml",
+    "sha256": "0d6a70b14f8e680fbb94b66a523b68b4044799a64895df731ef291b98f8dcf12",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._395": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._395.xml",
+    "sha256": "9eb9726c817d2aa917acf035f4b4fbaf08a01e153f5eb9d0fa2e440a78cb642c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._396": [
+   {
+    "from": "2025-12-17",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/C.R.C.,_c._396.xml",
+    "sha256": "d629e29f1c5f0ddced2142e264539570b7dde338695749e1a57c6fce99336f93",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._397": [
+   {
+    "from": "2013-08-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._397.xml",
+    "sha256": "feb36e477148e7901a08b62c8343e3f4f1e776d5369d63b114a9e57c92887bcc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._398": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._398.xml",
+    "sha256": "b82cbc415454914a32244a8b59dbe8e5bdff21c5861258b1a42f566c06d688f4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._399": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._399.xml",
+    "sha256": "6592205462438ba39d42746e1ba4667c17d4f5da487e4660dfbceb2797ad0c2c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._4": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._4.xml",
+    "sha256": "06f50696337faa2ddbac8026268509ddb04fd832f1e48bff192e3130657aea09",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._401": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._401.xml",
+    "sha256": "10fcfed13079be2b4436ac12ee32a16304f40ae50074a64ca37fe29be1e3ae7d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._407": [
+   {
+    "from": "2017-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._407.xml",
+    "sha256": "e668317e3da02dede1eccd8aec61b60ca96503ec5ec962e149054c4994cada4b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._416": [
+   {
+    "from": "2009-03-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._416.xml",
+    "sha256": "a95c022a739ea0fba1c78ac62499079b9b9885d9f020c69b580d1788a71e1fd7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._417": [
+   {
+    "from": "2019-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._417.xml",
+    "sha256": "dd7866f4903914e52bf5357a772c699db81e546040b8bfc081adcf61c81e46d5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._418": [
+   {
+    "from": "2008-01-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._418.xml",
+    "sha256": "5a03e92d4f7e3e1e12bc819744c4d54a49da7da01f0973fe6b94a2a166c47455",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._421": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._421.xml",
+    "sha256": "82802025df33df2605db6601de29b85f53ba0846ca43b442de21fcadc52509d0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._424": [
+   {
+    "from": "2017-12-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._424.xml",
+    "sha256": "b5c9aba09e74269fb6bb7e546668874daea58ad685089dde8f8708356ae42b41",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._425": [
+   {
+    "from": "2008-12-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._425.xml",
+    "sha256": "17a8e5f49d2ea7745d36237b18202d931b6a9392bc869d2dcf6528461e176986",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._427": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._427.xml",
+    "sha256": "6f8ace5fdf474a6ee39942bb1d3bb65dfb3726e0509c7274be42acdc602369b4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._430": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._430.xml",
+    "sha256": "837c3eca972177d033af19bdd4a3b9fe16979f71d2494bcae54424cb1ea5dd80",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._440": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._440.xml",
+    "sha256": "11395f27b1ea64b18216e369388a683f01fae1a6f2be4e6e97c11d3d722c12cb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._446": [
+   {
+    "from": "2014-05-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._446.xml",
+    "sha256": "3d5181056a79fb43c1a5ed1e05f9fe5ff10a855a376366d745c10ac5f7f6a3f2",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._449": [
+   {
+    "from": "2015-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._449.xml",
+    "sha256": "ec72a2986fbfdb0524163387ef35a7c81e4b60f23074cff4dc7d5442e5b0f411",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._450": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._450.xml",
+    "sha256": "f57f7419bb4152bef7262879ce81e1a7e8ea11010c487b7a2f2ada5c2a0699d6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._478": [
+   {
+    "from": "2024-10-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._478.xml",
+    "sha256": "e025bd43938f0e1976d41fbb00b3d38033de9e902197bd8d0d07c931769307c4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._487": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._487.xml",
+    "sha256": "4c415a3861fa725fe4c97e14a7d88c4dfb6d457cfd8d32547b9d4f6a215cb965",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._489": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._489.xml",
+    "sha256": "fc019cc011120010f6382620a0bffe3e49a59f3272a4c87a5f039a12291b4f1f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._516": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._516.xml",
+    "sha256": "577bae88fc0e89ac991d3a9b257a022ffa4390879f055a5ea2f819d4cda9b0f8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._517": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._517.xml",
+    "sha256": "f19ddf4a0f6a3cfb1aba44879d098b42fa5fa643bf63ad26720697f1102182d4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._522": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._522.xml",
+    "sha256": "c8a006a620fc7669bae7e605d0eaefab38a4784221738128a973e70caea678c2",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._533": [
+   {
+    "from": "2009-02-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._533.xml",
+    "sha256": "ec3b7d2c1d64b8c9a21ddd731f21ba32c6b4104bf31ba511a9c9f62b54decdd3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._535": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._535.xml",
+    "sha256": "a7de27a046f372c26cca39f34315265dff2b0f059bc4a80de1a268c41454218d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._549": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._549.xml",
+    "sha256": "cc5b3d9d9ee6ad97702bc204a8048f28279ff20ae9454dd0b1581b416f6660c7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._554": [
+   {
+    "from": "2016-03-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._554.xml",
+    "sha256": "958efe6ad04940d969bdf5d7ceb5090494b78349ba091bd7d42e5a49bdfa66f2",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._565": [
+   {
+    "from": "2010-12-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._565.xml",
+    "sha256": "eaea4898a563d2c0cdfc56c671bb9373f59e162a10c7b69c212fe5e36cdfe230",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._566": [
+   {
+    "from": "2010-12-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._566.xml",
+    "sha256": "55ad96a5223c214b2e2908907f9df02b0b408b5ec206a4286092899faeacb8a5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._571": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._571.xml",
+    "sha256": "cc1cd1abb707c88e20d4527f71d1ca70c7222bf1cce0160aa9560bd777aee873",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._590": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._590.xml",
+    "sha256": "936459e7bacbec51b4581c472be84a6c6bdd1fdd62b705a7f987196f2d783114",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._591": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._591.xml",
+    "sha256": "fccbc68f15fb57505797c4044870925b28666d0bdff9f29e123e3c184f61f669",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._594": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._594.xml",
+    "sha256": "08960ce273d46f38d35841ff677d162d0c7180933851edb2e22b43336c911610",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._598": [
+   {
+    "from": "2014-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._598.xml",
+    "sha256": "9c729d9b5268b503859b1b77f476d1aad63a03048c9f15cf98b343cc514ff169",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._599": [
+   {
+    "from": "2014-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._599.xml",
+    "sha256": "b75fcd996b829387c73887311dea9bbecf6106362e008d95cc60db00437c5b1e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._604": [
+   {
+    "from": "2026-09-01",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/C.R.C.,_c._604.xml",
+    "sha256": "9d7e1c7f1b36d8e8752dd6b0fa755948ba0947f004772f643ed5d733c9d99416",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._606": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._606.xml",
+    "sha256": "fbd339c5596348895bfd92e56fdd6425b0745e3484bd4be753ba636b115bf329",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._609": [
+   {
+    "from": "2026-05-27",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/regulations/C.R.C.,_c._609.xml",
+    "sha256": "d6d744f1c40aa89e67a88bddc0e71b43714bbf289a22f146f8f6d707a45988bb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._611": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._611.xml",
+    "sha256": "4e07ca6789963a54af379ef120118e231feaff3b34d91e793c5b749e77c5fad3",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._612": [
+   {
+    "from": "2021-12-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._612.xml",
+    "sha256": "c1f62ad6961161fc3fe5cf7a8f66ab203d7760d08d2e521b510b0fa35c413227",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._613": [
+   {
+    "from": "2009-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._613.xml",
+    "sha256": "0c9198442b83ae1dc39e531990328ba2da698448a6e429d03c2d099fa7a2426f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._616": [
+   {
+    "from": "2009-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._616.xml",
+    "sha256": "da0317d4ea353d7b31d8aae604f4d8074774d4477f80d22d0290c32688671240",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._623": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._623.xml",
+    "sha256": "0419b7cf91e90a0e68d9a02d0b52c4893bdb806ada4790bf62ac10421c3615e4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._625": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._625.xml",
+    "sha256": "43f3b804edc335ea08a7f2cea1ea9d67d08c0978cf2684a284c797067ffdde20",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._632": [
+   {
+    "from": "2009-07-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._632.xml",
+    "sha256": "9f14b0b499f9280246a121b803bd6f2838bca6050163e6048164c7faba79f174",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._640": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._640.xml",
+    "sha256": "5a370c6f52668ff18ad4a0f4be0c9098077d9e23cc256ef873457d99149060a0",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._645": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._645.xml",
+    "sha256": "e03edfd62b653520f1f46163dee8ffb87b859a2bf904814f7b6d50333ed100c4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._648": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._648.xml",
+    "sha256": "4a96d48771768455c3bb2152cee244329779b591259cfd364c35820b0ddbaf65",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._654": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._654.xml",
+    "sha256": "402e1c40e20caa93951d39ba3e88e0bdd0c0290fadef30f33902edb5bb09b01f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._657": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._657.xml",
+    "sha256": "ad877da6fc802095b3e127c2c2c184e179425e09cc84316fe2a7c17eb858812c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._658": [
+   {
+    "from": "2015-11-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._658.xml",
+    "sha256": "aa36ee2d109b0ea7f6aecde16a938a7c2961ccd708beeb1cff87c5df74a9b085",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._659": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._659.xml",
+    "sha256": "2c4c98658182ca463de3974441638c9e603e5addfb5eb34b5afa4619b55e03cc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._660": [
+   {
+    "from": "2017-04-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._660.xml",
+    "sha256": "7ee16a743a8ce6ed9b6a82df4c25338c7d6a51241522a871349fd2e64fee90ea",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._664": [
+   {
+    "from": "2007-12-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._664.xml",
+    "sha256": "41ae92a7b2a305e7c02d27c57cc086de2ffdccfde6661e34f0c3796b4c7f7665",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._666": [
+   {
+    "from": "2020-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._666.xml",
+    "sha256": "7d57e90b506beee3fca50786534d4415998d41b8f2fba327582c6b0085b4452a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._669": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._669.xml",
+    "sha256": "f0ca7a31f84ef5617f6bb88417845857d07fdff11146df06b95cf8b8033c98cd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._670": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._670.xml",
+    "sha256": "1088abc27538c154c113c0d90b1495912c8056eaeecfd888c770034f040b35c4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._671": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._671.xml",
+    "sha256": "6b703a5d6fd8741c2dad30195db90d0f1596603101575446c01a361704a22ffd",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._672": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._672.xml",
+    "sha256": "7c308be9a04f69561a0ebc596f90a794d7524577f0b5689a195a98936a5f053f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._675": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._675.xml",
+    "sha256": "e496e85d3c749b30cf090dd4aade76828c9563b83b1867dcc7eb6bc306f526f4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._676": [
+   {
+    "from": "2011-09-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._676.xml",
+    "sha256": "30b0a3e7fb972cae6dbb9ddc29d36b2048f69acab36ee55a7251386ad44248f2",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._679": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._679.xml",
+    "sha256": "974a5bbe09d5d7858b086009a3fb09fee9225b3020112e665a22c146f8c1f839",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._681": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._681.xml",
+    "sha256": "1040489d5bd2e91249ea464bc4d980b7093dc1044fde017c96b78b22fabc87a5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._682": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._682.xml",
+    "sha256": "412de5445db1353047206d4abf7aad102ff80e46f959ce1827f8bdf095da43e1",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._686": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._686.xml",
+    "sha256": "6360fe610f14a5e540d6ac4b70fe32fa5f2b2c3b9c829e7e56b4b49cd9599681",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._687": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._687.xml",
+    "sha256": "df60442aecd63e7f7944c5ee9534a0781ab8a5d3d32d9a31bf69212be989f55c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._688": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._688.xml",
+    "sha256": "a819cc4811c1c7b47094160ac82b5e4368e73152731bfb07e1d24be0f4bb38af",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._689": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._689.xml",
+    "sha256": "77c8b657f406e6e9cc484e53283aa97c2f200498fcb13a0ab7822df28409ec9a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._690": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._690.xml",
+    "sha256": "9128ae6819a96561ab21d0eea9ef03fe2968e7510810626395e826d6e400f897",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._691": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._691.xml",
+    "sha256": "4ae19f487eda9a305dbc660f0bb56e1248f4ef52d27c82d9092e1b94528074e6",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._692": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._692.xml",
+    "sha256": "60dd878fbf9273100ec6337b7784857c1dd2293df7f25f9db2494c406aa98dac",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._698": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._698.xml",
+    "sha256": "1d56ff2264754a916130e1df624837926c8a5e81d71de28e2dd2989c7a926011",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._707": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._707.xml",
+    "sha256": "246c1f0073876e04e6138c01fbc6c85e3cde742bb81c2bc4ebecd798f3fcdd50",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._708": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._708.xml",
+    "sha256": "8c70003aaed2502bfac79309678cc5a6e31d754af3d4a7b446e008db477d573b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._709": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._709.xml",
+    "sha256": "783e5f3d564a6949fb143936163a357c52ff50cd1872e82195cedcbd5603f9fb",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._710": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._710.xml",
+    "sha256": "4665f8ed45dac3fbc49c86bafe52ca9d21368300b5329d71078e305e4ecc4721",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._712": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._712.xml",
+    "sha256": "6114adcabf17e06be4989351cf1f5cd327dc4a7e79cfcab37592512ec85a4c6e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._713": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._713.xml",
+    "sha256": "0a64c7b57674a7960140629e921fbe591ec1f23765a9816f99a66ea5b7b2d0fa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._716": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._716.xml",
+    "sha256": "8b63e03b6e3b8c796a39d53ae6872283f6dae0e6d43511fd0f2e5fd7c16e8084",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._719": [
+   {
+    "from": "2013-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._719.xml",
+    "sha256": "ba6841a7371a500592d92a8e44f3284bec65abcf185f790c845c5b1749fb54a7",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._721": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._721.xml",
+    "sha256": "8aa0975cb5df74fe4ae27b9f17f71e48d4fcff80620e42fcb6e0ef9697827429",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._722": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._722.xml",
+    "sha256": "f621cfea5194bdbe728e32942f4c5d5af9bc77e7adb7c3501430d676b6e5daae",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._730": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._730.xml",
+    "sha256": "69a78f53b9d11880c8ec0f07e17b3de5867f2f29c5ec9e4f586ab22c79f1c8aa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._731": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._731.xml",
+    "sha256": "f88870b1c8f5ff047fbe8f6e8484fd572083719624c20b1e139003e1bb210546",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._732": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._732.xml",
+    "sha256": "945b68c710e0e63e4cf96e6845a340e07b5834df5572b52a7fb7b38922735171",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._734": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._734.xml",
+    "sha256": "930f184da89c37a275a62ae873152f1c0206c3e53d0d6caf9343668d36e2b922",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._735": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._735.xml",
+    "sha256": "249cec4fbe86cbf569231188238fe9077483c9942604e312b20ec71a9b3bcd77",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._736": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._736.xml",
+    "sha256": "f13cae194e84e488732caf352a8e68e7f5882329e5f1cbb46eeb1a29b14eda76",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._739": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._739.xml",
+    "sha256": "33b11d219b1dfe632b77820e5a5af8b1bc049c3ac41e232820696f203393d2f8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._743": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._743.xml",
+    "sha256": "6d817258393ca942859b447f90b4bca9a3f726ee9196a6c465a2e9e088934a93",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._75": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._75.xml",
+    "sha256": "0835d178cd318369ca8ea1677f4658743b55b31851eed04c196ed474abe93365",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._751": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._751.xml",
+    "sha256": "14846fe51e99d974ceeffc7ec280deb5cc046d0b0f2e2be6816f7ce2408a6400",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._752": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._752.xml",
+    "sha256": "81b9b2c8879795915abfbe3871471c2cad329f501e4040582c4b97222f7b530f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._754": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._754.xml",
+    "sha256": "de416fe6d56d1bfd3ece552a472373096c3e648fdd430d696278bac2e0e0da19",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._755": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._755.xml",
+    "sha256": "fee4f8223651d9fd7db3451e3821d403e6f6db1121815bfad566c49a36b7e859",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._756": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._756.xml",
+    "sha256": "1b89b9cd0a8cd9457c286372df89687125e0e2037b59ce3241f8d5a3964c76e5",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._757": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._757.xml",
+    "sha256": "f7846bc10c7b2ed9c35d126099efa97363eb69f23393f9ae3a15ba6a2ae20b6a",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._758": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._758.xml",
+    "sha256": "a57d60aeb192f2d7630e19b156af806c5719b8ad6c87bf8630411c24cf5181e8",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._759": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._759.xml",
+    "sha256": "ffcc44fa698add3f7c3a7e41ed258b7af1d9d43e991f75134471a8eea9fe6430",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._762": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._762.xml",
+    "sha256": "8175777fb067ad61e764c5120527645bc748bc7c00483df82e32a003511f3ac4",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._763": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._763.xml",
+    "sha256": "a155f70ce91d4358e1bf10328a50810c976967ea80d8332b1d27a9cd0739508c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._767": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._767.xml",
+    "sha256": "6278071b336f7090750b6f7d1e9913038ef41a2b8fff5df8d2a9d0e21c6e77dc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._768": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._768.xml",
+    "sha256": "0aac2eda9f4d111b754325911da3936e6e7fdca60b932ec643a209607c98dd5d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._77": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._77.xml",
+    "sha256": "e3ea4ef72475906fa889e7f0f4bdc6a5a1cd213393fa056b35191002c538c07c",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._770": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._770.xml",
+    "sha256": "b7c50235c7342b79cb2e3a2625358bce235c91acdfcc37bc18fd9d9279a88cdc",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._771": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._771.xml",
+    "sha256": "088290686e912691084bf102734316914888413ea13c31411f4b9211de62fc2b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._772": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._772.xml",
+    "sha256": "8b4bf6ca18270fd321732d6863189b32149e8681b82b77e73428a1d65135c961",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._773": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._773.xml",
+    "sha256": "8b01718465c6d37647a3f4a7277e203321f69921da8d07a599545836ec76cf9d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._778": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._778.xml",
+    "sha256": "bc96e8652a0e016f52f401e1914145437952b96d25166b49025e963755d5540d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._78": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._78.xml",
+    "sha256": "58f8fa464980ff362675902c3b13ab48786bcedbc458136c76afeea838a5d37f",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._780": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._780.xml",
+    "sha256": "60aae36508e5d631cf8f35b249b2d6228804db6bb9fbffc2aecf8b3ccbe20822",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._785": [
+   {
+    "from": "2015-05-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._785.xml",
+    "sha256": "df7a8118676863c79e315b218ce93fbd3a1b5a62ee65825217f6a2f8cc938516",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._786": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._786.xml",
+    "sha256": "ec35aa0e8a5f3ee149b427666cd6ec4afe152d9879c75f96ca2c716bc210aafa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._79": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._79.xml",
+    "sha256": "2f779c7647952f0776bf3fc32da8e59cb258554514d0613a76b9b1b2a72766ea",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._790": [
+   {
+    "from": "2019-08-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._790.xml",
+    "sha256": "c00ab2cca62c8afecec8da478f861675d5092a0c5a9fab9f4c492df3691e58bf",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._791": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._791.xml",
+    "sha256": "7c879fa8a6a900a8e02a59d22c0d858a8b51b18975436aeb95a8c0ff7c8cc095",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._793": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._793.xml",
+    "sha256": "a6bfbab93ba27c4bda9e2ca1399d5752c6512593e5ea5356cca443c434166151",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._794": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._794.xml",
+    "sha256": "9404f236f002ab6d64dc876febabd2b1fd4ad85b7cb1cf42f274611b2b4d146d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._795": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._795.xml",
+    "sha256": "a813222cd2b52efed844aa523e2b031210298e80e020e7a7431be07e250eecaa",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._797": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._797.xml",
+    "sha256": "3dcc6a81c0dcf222c4899097203c403c094eee9b1b6fb052b9c45fec76ae288b",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._799": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._799.xml",
+    "sha256": "ca70abbd07e9a17adc678d81d9941aa99963c24f2179cc722c0c089ba0bc109e",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._80": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._80.xml",
+    "sha256": "6f66acc59efe4dabbb12c1a4854740cbd294a9b46bd2a65239122327357da284",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._802": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._802.xml",
+    "sha256": "6ddb23a4248717a9dea82a4cfa1ed224094ed5551786fe17eefb3ff2aa0b7068",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._803": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._803.xml",
+    "sha256": "df68c2101793dc4f273de0d77048ef6eb383a8f43d3b01bf0855cad04da11314",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._81": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._81.xml",
+    "sha256": "1dca8857080d5252eb1f164570ad5a23fa806699bc1309d0517acc750af8463d",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._811": [
+   {
+    "from": "2018-04-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._811.xml",
+    "sha256": "7b68a14bfaa542215056b1ddbdcc4358ea70022e4b6671dcf7f9e27b3c907986",
+    "kind": "consolidation"
+   }
+  ],
+  "C.R.C.,_c._812": [
+   {
+    "from": "2017-06-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/C.R.C.,_c._812.xml",
+    "sha256": "b9f3227586d79823117921f1a03a1bf5651b10db6283167f6316996730e5fe50",
+    "kind": "consolidation"
+   }
   ]
  },
  "read_up_to": "0507465393c224c0491fc8c17c88340217acc656"
