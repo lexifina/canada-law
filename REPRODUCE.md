@@ -73,6 +73,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | 19 (2026-11-03) | `80a13b1de028` | `0507465393c2` | SI-2025-60, SI-85-181, SI-85-182 | 6 | 0 | 6 | 36 | 3905 | 0 | 6/6 |
 | 20 (2026-11-03) | `1f2a60a768a4` | `0507465393c2` | SI-94-47, SOR-2000-112, SOR-2000-187, SOR-2000-202, SOR-2000-204, SOR-2000-207, SOR-2000-210, SOR-2000-217, SOR-2000-77, SOR-2000-92, SOR-2001-132, SOR-2001-269, SOR-2001-360, SOR-2001-473, SOR-2002-133, SOR-2002-138, SOR-2002-180 | 52 | 0 | 52 | 1141 | 405934 | 0 | 6/6 |
 | 21 (2026-11-03) | `80d0b2cfff73` | `0507465393c2` | SOR-2002-22, SOR-2002-284, SOR-2002-336, SOR-2002-35, SOR-2002-421, SOR-2003-115, SOR-2003-203, SOR-2003-219, SOR-2003-323, SOR-2003-346, SOR-2003-363, SOR-2003-75, SOR-2004-102, SOR-2004-197, SOR-2004-221, SOR-2004-222, SOR-2004-62, SOR-2004-99, SOR-2005-151, SOR-2005-2, SOR-2005-22, SOR-2005-334, SOR-2005-346, SOR-2005-379, SOR-2006-243, SOR-2006-244, SOR-2006-245, SOR-2006-254, SOR-2006-287, SOR-2007-118, SOR-2007-125, SOR-2007-126, SOR-2007-204, SOR-2007-239, SOR-2007-241, SOR-2007-242, SOR-2007-243, SOR-2007-245, SOR-2007-277, SOR-2007-44, SOR-2007-99, SOR-2008-121 | 162 | 0 | 162 | 3097 | 719626 | 0 | 6/6 |
+| 22 (2026-11-03) | `444669dc2f5e` | `0507465393c2` | B-1.01, C-38.8, A-12.8, B-7, B-9.8593, B-9.8596, B-9.8598, C-36.5, C-36.71, C-38.5, C-45.7, D-3.4, E-13.5, F-0.7, F-26, G-11.8, G-3, H-5.6, I-19.6, L-12.4, M-0.7, N-26, O-2.6, O-2.7, P-0.4, P-31.9, P-9.01, Q-1.7, S-1, W-6.7, Y-2.3, Y-2.6 | 32 | 32 | 32 | 32 | 965745 | 0 | 6/6 |
 
 Batch 1:
 
@@ -201,6 +202,12 @@ Batch 21:
 - History pass: the earlier versions of 42 regulations (SOR-2002-22 to SOR-2008-121), from the XML repository's history, appended behind their current text as 162 correction commits (120 earlier versions and 42 restores, Kind: correction).
 - Two passes gave the same law commits (49e2f52da3b4). check_xml: 162 versions file by file, 0 mismatches (3097 files); 162 consolidations word for word, 0 mismatches (719626 words). Shared Reader: reader (world-law-ops correction rule): 42 laws, 162 versions, 408 days read, 1196 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
 - Held back from the history pass so far: 728; with no earlier version: 2300.
+
+Batch 22:
+
+- Breadth pass: 32 Acts (B-1.01 to Y-2.6), each as one version, its current consolidation, dated by its lastAmendedDate: the oldest version available in this record for now.
+- 37 of them are one file for the whole text (the reader could not split them): B-1.01, C-38.8, A-12.8, B-7, B-9.8593, B-9.8593, B-9.8596, B-9.8596, B-9.8598, B-9.8598, C-36.5, C-36.5, C-36.71, C-38.5, C-45.7, D-3.4, E-13.5, F-0.7, F-26, G-11.8, G-3, H-5.6, I-19.6, L-12.4, M-0.7, N-26, O-2.6, O-2.7, P-0.4, P-0.4, P-31.9, P-9.01, Q-1.7, S-1, W-6.7, Y-2.3, Y-2.6.
+- Checks on the appended repository: 32 versions file by file, 0 mismatches (32 files); 32 word for word, 0 mismatches (965745 words); tools/test_repo.py 6 of 6. Held back for now: 0.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 
@@ -391,7 +398,16 @@ These choices were made when the tool was written, after looking at the data. Th
     (`Kind: correction`, `Corrects`, `Supersedes: none`, `Reason`, `Act-path`, `Files`), one per version, then one
     restore correction (`Supersedes:` the current-text commit). Held, with the reason, where the published text is not
     the newest version in the XML history, where the Act is one file, or where a past state does not parse.
-12. **Order of the Acts:** the most-cited Acts first (Criminal Code, Income Tax Act, Canada Labour Code, Bank Act, ...),
+12. **Lists stored as tables (2026-11-03).** Justice Canada's transform turns a table marked `list-direction` into a
+    list with a function of its own site that is not published. Here each non-empty cell is a list item: the heading
+    row first, then row by row for a horizontal list, and down each column in turn for a vertical one (an entry's
+    column is its `colname`, else where its span starts, else its place in the row). The column order is inferred
+    from the attribute's name; it puts the one alphabetical vertical list (C.R.C., c. 1038) in alphabetical order. It
+    affects 8 regulations, 3 of them with vertical lists (C.R.C., c. 1038, SI/86-137, SOR/88-600).
+13. **Whole text where the reader loses words.** Before an Act or regulation is added as its current text, its files
+    are checked word for word against the whole text. If the reader by section loses words, it is one file
+    (`text.md`) in the usual line format; if that loses words too, one file holding the whole visible text as one line.
+14. **Order of the Acts:** the most-cited Acts first (Criminal Code, Income Tax Act, Canada Labour Code, Bank Act, ...),
     then all other Acts, then the regulations.
 
 ## What an AI model did

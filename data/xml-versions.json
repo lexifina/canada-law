@@ -58177,6 +58177,294 @@
     "sha256": "f87baf368dad8c8423660b99c7cca3db1667eb04525d02fc2b3345675b2ff86f",
     "kind": "consolidation"
    }
+  ],
+  "B-1.01": [
+   {
+    "from": "2026-09-01",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/acts/B-1.01.xml",
+    "sha256": "8e252387592f4c0a41488d9a113acc50dd6818f481b838f3fdf05ef2c1ac6f5a",
+    "kind": "consolidation"
+   }
+  ],
+  "C-38.8": [
+   {
+    "from": "2026-07-18",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/acts/C-38.8.xml",
+    "sha256": "bf615194d489a31af3f00a191fc27c36a6de3952ba82aea1d83a1c3bec1af8c8",
+    "kind": "consolidation"
+   }
+  ],
+  "A-12.8": [
+   {
+    "from": "2017-12-14",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/A-12.8.xml",
+    "sha256": "5ceca9880571cdd037988960b5aa722563018b68a31d3e546d2abaadf08a267a",
+    "kind": "consolidation"
+   }
+  ],
+  "B-7": [
+   {
+    "from": "2024-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/B-7.xml",
+    "sha256": "86452b724ebdde6768956c195a42ea2f3e88d24e6900e063eac938816cc80880",
+    "kind": "consolidation"
+   }
+  ],
+  "B-9.8593": [
+   {
+    "from": "2026-03-26",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/acts/B-9.8593.xml",
+    "sha256": "047de34ade342039b9ce06fc1b6c2860caf7348f26269e9537ce5c4bd68a55ce",
+    "kind": "consolidation"
+   }
+  ],
+  "B-9.8596": [
+   {
+    "from": "2026-04-01",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/acts/B-9.8596.xml",
+    "sha256": "65e6656d042e96655ea3b30649663ef020d6c3dbce632a0dd13f3c01e50e2ace",
+    "kind": "consolidation"
+   }
+  ],
+  "B-9.8598": [
+   {
+    "from": "2026-08-13",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/acts/B-9.8598.xml",
+    "sha256": "cc0d4ab4096dfa270e029e7c67f0c67ac1339bbd7b35d6cb4e38e500f06926d7",
+    "kind": "consolidation"
+   }
+  ],
+  "C-36.5": [
+   {
+    "from": "2003-07-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/C-36.5.xml",
+    "sha256": "6f71350b5c8b43b419e3f7816a951f2e15e6cea3ac53a1482003afeb26c2ca38",
+    "kind": "consolidation"
+   }
+  ],
+  "C-36.71": [
+   {
+    "from": "2022-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/C-36.71.xml",
+    "sha256": "28f0ad91110590f53894fd7ecbf08b9a0f2d385bac675e625263c108126ddaa0",
+    "kind": "consolidation"
+   }
+  ],
+  "C-38.5": [
+   {
+    "from": "2003-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/C-38.5.xml",
+    "sha256": "839fbd5af24ebc2ecf537e8b730ce1173f739fa2a5fd08de36f077455377538d",
+    "kind": "consolidation"
+   }
+  ],
+  "C-45.7": [
+   {
+    "from": "2026-03-26",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/acts/C-45.7.xml",
+    "sha256": "df1779e7ded297e43f56bb55e28aff46fabedd6fa2b8ee92ddc0b10f96bf1648",
+    "kind": "consolidation"
+   }
+  ],
+  "D-3.4": [
+   {
+    "from": "2024-02-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/D-3.4.xml",
+    "sha256": "12f1d9a1654d608cdb34aa2e12d2a55d858910dd5d020c11bcd8e3e5f9231a67",
+    "kind": "consolidation"
+   }
+  ],
+  "E-13.5": [
+   {
+    "from": "2024-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/E-13.5.xml",
+    "sha256": "45416a4f5731edf260f7dbff6649a8b85ca0bf8dfdbc5d44c16d9585a209d8b4",
+    "kind": "consolidation"
+   }
+  ],
+  "F-0.7": [
+   {
+    "from": "2024-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/F-0.7.xml",
+    "sha256": "aa064dac92e07af05f5b0d0d592e9ba9e4fd5e3a03b1d3380e10a1734e1a5509",
+    "kind": "consolidation"
+   }
+  ],
+  "F-26": [
+   {
+    "from": "2003-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/F-26.xml",
+    "sha256": "27b416eed0db4970148ebd2c807d152d2f336c4b3af32c3426d38557db457499",
+    "kind": "consolidation"
+   }
+  ],
+  "G-11.8": [
+   {
+    "from": "2011-10-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/G-11.8.xml",
+    "sha256": "ca873c223b235d5460c177191a1ea0fece8842a5341e2bd6db0edf7d42a71e80",
+    "kind": "consolidation"
+   }
+  ],
+  "G-3": [
+   {
+    "from": "2022-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/G-3.xml",
+    "sha256": "41109e1333573af023f705bd9ef1ba136d2c664813903dd671bead536ff0e4c0",
+    "kind": "consolidation"
+   }
+  ],
+  "H-5.6": [
+   {
+    "from": "2003-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/H-5.6.xml",
+    "sha256": "d57f43c0bf35ef5389f0630a409b09739f261247212744d639e4de66f752242d",
+    "kind": "consolidation"
+   }
+  ],
+  "I-19.6": [
+   {
+    "from": "2018-10-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/I-19.6.xml",
+    "sha256": "09f9a27d656f9a230f18ae82a6785af517450653d88d7baa97716a878a9212f5",
+    "kind": "consolidation"
+   }
+  ],
+  "L-12.4": [
+   {
+    "from": "2022-07-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/L-12.4.xml",
+    "sha256": "8a321ccbe853dcd074605c44aa1fe029ba2c07fede86645381949c6726df5476",
+    "kind": "consolidation"
+   }
+  ],
+  "M-0.7": [
+   {
+    "from": "2023-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/M-0.7.xml",
+    "sha256": "fd364d8e061e9a167ceb498880c1089de681b5067a4f72a9c9df8c6dcd125150",
+    "kind": "consolidation"
+   }
+  ],
+  "N-26": [
+   {
+    "from": "2019-08-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/N-26.xml",
+    "sha256": "88c7ba6178810090c047aeebe170b1459141cfaed4146ea2556dac25f944ffe7",
+    "kind": "consolidation"
+   }
+  ],
+  "O-2.6": [
+   {
+    "from": "2003-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/O-2.6.xml",
+    "sha256": "c1e61cc9ecfb3598b496129794c6c044a9321b46ab7db79a902968319e6ed957",
+    "kind": "consolidation"
+   }
+  ],
+  "O-2.7": [
+   {
+    "from": "2026-03-26",
+    "commit": "076f5b3c3dc9b0c62d72900496b3643d75e412c2",
+    "file": "eng/acts/O-2.7.xml",
+    "sha256": "fd2427acb78a8d388bbca275ac89b96777dde8b4c82b638e7e11067503d61748",
+    "kind": "consolidation"
+   }
+  ],
+  "P-0.4": [
+   {
+    "from": "2021-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/P-0.4.xml",
+    "sha256": "ee39ae4c4ec321368ce97246fdde79bf75f968e81b2ec64186207485e33b7b73",
+    "kind": "consolidation"
+   }
+  ],
+  "P-31.9": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/P-31.9.xml",
+    "sha256": "bfcce17f981a9b637ad7f04c6502a3125afa098fdeceddd045eb2f7d682382e8",
+    "kind": "consolidation"
+   }
+  ],
+  "P-9.01": [
+   {
+    "from": "2026-06-18",
+    "commit": "a782c13dbf0c710f33d8b2adc3e42377c94d0626",
+    "file": "eng/acts/P-9.01.xml",
+    "sha256": "be0120c49e738a73362182e8a0d79f50f4fdb935efab02db4676c27fd8f746eb",
+    "kind": "consolidation"
+   }
+  ],
+  "Q-1.7": [
+   {
+    "from": "2003-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/Q-1.7.xml",
+    "sha256": "9922c6ce59be5a26e9383e0c1f5699a44671313b156649ec4699d51848236ea4",
+    "kind": "consolidation"
+   }
+  ],
+  "S-1": [
+   {
+    "from": "2002-12-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/S-1.xml",
+    "sha256": "e790985282ef17dda302a7def95c3a68793ed97806f72ccd5d942cd17a845f15",
+    "kind": "consolidation"
+   }
+  ],
+  "W-6.7": [
+   {
+    "from": "2003-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/W-6.7.xml",
+    "sha256": "a4df36d9ec39d3acadbcced47e1e693e623736fb7b5a90a44cd7b262cf0d3bca",
+    "kind": "consolidation"
+   }
+  ],
+  "Y-2.3": [
+   {
+    "from": "2011-10-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/Y-2.3.xml",
+    "sha256": "af0003f33238c13076570590bbd90b7697bec2fca8c13eb93702987f2bd44d49",
+    "kind": "consolidation"
+   }
+  ],
+  "Y-2.6": [
+   {
+    "from": "2022-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/acts/Y-2.6.xml",
+    "sha256": "19baf8e9770a92150647caddcf016266c40b0407d852b1989f123ce0f76e6885",
+    "kind": "consolidation"
+   }
   ]
  },
  "read_up_to": "0507465393c224c0491fc8c17c88340217acc656"

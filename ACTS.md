@@ -5753,3 +5753,35 @@ added. Nothing before the first day is in the record.
 | [SOR-2007-44](SOR-2007-44/README.md) | Regulations Implementing the United Nations Resolutions on Iran | Justice Canada XML repository (laws-lois-xml) | 2019-03-04 | 2025-09-30 | 6 | 2026-11-03 |
 | [SOR-2007-99](SOR-2007-99/README.md) | Load Line Regulations | Justice Canada XML repository (laws-lois-xml) | 2013-12-06 | 2023-12-20 | 4 | 2026-11-03 |
 | [SOR-2008-121](SOR-2008-121/README.md) | Special-purpose Vessels Regulations | Justice Canada XML repository (laws-lois-xml) | 2008-04-17 | 2023-06-07 | 2 | 2026-11-03 |
+| [B-1.01](B-1.01/README.md) | Bank Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-09-01 | 2026-09-01 | 1 | 2026-11-03 |
+| [C-38.8](C-38.8/README.md) | Controlled Drugs and Substances Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-07-18 | 2026-07-18 | 1 | 2026-11-03 |
+| [A-12.8](A-12.8/README.md) | Asian Infrastructure Investment Bank Agreement Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-12-14 | 2017-12-14 | 1 | 2026-11-03 |
+| [B-7](B-7/README.md) | Bretton Woods and Related Agreements Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
+| [B-9.8593](B-9.8593/README.md) | Budget Implementation Act, 2019, No. 1 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
+| [B-9.8596](B-9.8596/README.md) | Budget Implementation Act, 2024, No. 1 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-04-01 | 2026-04-01 | 1 | 2026-11-03 |
+| [B-9.8598](B-9.8598/README.md) | Budget 2025 Implementation Act, No. 1 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-08-13 | 2026-08-13 | 1 | 2026-11-03 |
+| [C-36.5](C-36.5/README.md) | Comprehensive Nuclear Test-Ban Treaty Implementation Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-07-02 | 2003-07-02 | 1 | 2026-11-03 |
+| [C-36.71](C-36.71/README.md) | Preserving Provincial Representation in the House of Commons Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
+| [C-38.5](C-38.5/README.md) | An Act to incorporate Continental Bank of Canada | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
+| [C-45.7](C-45.7/README.md) | Naskapi and the Cree-Naskapi Commission Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
+| [D-3.4](D-3.4/README.md) | Divorce Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-02-01 | 2024-02-01 | 1 | 2026-11-03 |
+| [E-13.5](E-13.5/README.md) | European Bank for Reconstruction and Development Agreement Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
+| [F-0.7](F-0.7/README.md) | Fall Economic Statement Implementation Act, 2022 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-01-01 | 2024-01-01 | 1 | 2026-11-03 |
+| [F-26](F-26/README.md) | Food and Agriculture Organization of the United Nations Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
+| [G-11.8](G-11.8/README.md) | Gwich’in Land Claim Settlement Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2011-10-17 | 2011-10-17 | 1 | 2026-11-03 |
+| [G-3](G-3/README.md) | Geneva Conventions Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-06-20 | 2022-06-20 | 1 | 2026-11-03 |
+| [H-5.6](H-5.6/README.md) | An Act respecting the Hudson Bay Mining and Smelting Co., Limited | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
+| [I-19.6](I-19.6/README.md) | International Interests in Mobile Equipment (aircraft equipment) Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2018-10-17 | 2018-10-17 | 1 | 2026-11-03 |
+| [L-12.4](L-12.4/README.md) | Lobbying Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-07-26 | 2022-07-26 | 1 | 2026-11-03 |
+| [M-0.7](M-0.7/README.md) | Marine Liability Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2023-06-22 | 2023-06-22 | 1 | 2026-11-03 |
+| [N-26](N-26/README.md) | Northern Pipeline Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2019-08-28 | 2019-08-28 | 1 | 2026-11-03 |
+| [O-2.6](O-2.6/README.md) | An Act to amend and consolidate the Acts relating to the office of Port Warden for the Harbour of Montreal | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
+| [O-2.7](O-2.7/README.md) | Office of the Superintendent of Financial Institutions Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
+| [P-0.4](P-0.4/README.md) | Parks Canada Agency Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2021-04-01 | 2021-04-01 | 1 | 2026-11-03 |
+| [P-31.9](P-31.9/README.md) | Public Servants Disclosure Protection Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
+| [P-9.01](P-9.01/README.md) | Pest Control Products Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-06-18 | 2026-06-18 | 1 | 2026-11-03 |
+| [Q-1.7](Q-1.7/README.md) | Quebec Harbor, Port Warden Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
+| [S-1](S-1/README.md) | Safe Containers Convention Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
+| [W-6.7](W-6.7/README.md) | Western Arctic (Inuvialuit) Claims Settlement Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-04-01 | 2003-04-01 | 1 | 2026-11-03 |
+| [Y-2.3](Y-2.3/README.md) | Yukon First Nations Land Claims Settlement Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2011-10-17 | 2011-10-17 | 1 | 2026-11-03 |
+| [Y-2.6](Y-2.6/README.md) | Yukon First Nations Self-Government Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
