@@ -6,9 +6,14 @@ Canada. The record grows Act by Act; the Acts it holds and the period each cover
 
 - **PIPEDA (P-8.6) and the Access to Information Act (A-1)**: every point-in-time version on the
   [Justice Laws Website](https://laws-lois.justice.gc.ca) since 2002-2003.
-- **The other Acts**: every consolidated version in Justice Canada's XML repository of the consolidated Acts and
-  regulations, [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-xml), whose history begins in
-  February 2021. Each Act starts with the version in force at that time; earlier history is not in the source.
+- **The Criminal Code (C-46)**: every consolidated version in Justice Canada's XML repository of the consolidated Acts
+  and regulations, [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-xml), whose history begins
+  in February 2021.
+- **Every other Act, then every regulation**: first its current consolidation alone, from the same repository, dated
+  the day of its last amendment in force (its `lastAmendedDate`), committed by the publisher and labelled "oldest
+  version available" (`Record:` trailer). Earlier versions are to be added behind it later, as labelled commits. An
+  Act whose text the reader cannot split into sections is one file, `text.md`, holding the whole text in the same
+  line format (`Layout: one file for the whole text`). [`ACTS.md`](ACTS.md) says which is which.
 
 This is not an official version (see [Licence](#licence)).
 
@@ -114,7 +119,8 @@ table), and `schedule-form-<n>.md` each form. A repealed section stays, as the c
 - Amendments not yet in force, and the "Related Provisions" (transitional provisions of amending Acts) published
   separately: only the consolidated text of each version is recorded.
 - Fee amounts adjusted automatically under the Service Fees Act, which the consolidated text does not show.
-- The regulations, and the Acts not yet added (see [`ACTS.md`](ACTS.md)).
+- For the Acts and regulations added in the breadth pass, any version but the current one, for now (see
+  [`ACTS.md`](ACTS.md)); and anything not yet added.
 
 ## How it is built
 

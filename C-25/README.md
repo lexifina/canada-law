@@ -1,0 +1,34 @@
+# Cape Breton Development Corporation Act (C-25)
+
+<https://laws-lois.justice.gc.ca/eng/acts/C-25/>
+
+The current consolidation in Justice Canada's XML repository, in force from 2006-12-12: the oldest version available in this record for now.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Title and long title | [intro.md](intro.md) | 0 |  |
+| s. 1 | [s-001.md](s-001.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 5 | [s-005.md](s-005.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 7 | [s-007.md](s-007.md) | 0 |  |
+| s. 8 | [s-008.md](s-008.md) | 0 |  |
+| ss. 9 to 14 | [s-009-to-014.md](s-009-to-014.md) | 0 |  |
+| s. 15 | [s-015.md](s-015.md) | 0 |  |
+| s. 16 | [s-016.md](s-016.md) | 0 |  |
+| s. 17 | [s-017.md](s-017.md) | 0 |  |
+| s. 18 | [s-018.md](s-018.md) | 0 |  |
+| s. 19 | [s-019.md](s-019.md) | 0 |  |
+| ss. 20 and 21 | [s-020-and-021.md](s-020-and-021.md) | 0 |  |
+| ss. 22 to 25 | [s-022-to-025.md](s-022-to-025.md) | 0 |  |
+| s. 26 | [s-026.md](s-026.md) | 0 |  |
+| s. 27 | [s-027.md](s-027.md) | 0 |  |
+| s. 28 | [s-028.md](s-028.md) | 0 |  |
+| s. 29 | [s-029.md](s-029.md) | 0 |  |
+| s. 30 | [s-030.md](s-030.md) | 0 |  |
+| s. 31 | [s-031.md](s-031.md) | 0 |  |
+| s. 32 | [s-032.md](s-032.md) | 0 |  |
+| s. 33 | [s-033.md](s-033.md) | 0 |  |
+| ss. 34 and 35 | [s-034-and-035.md](s-034-and-035.md) | 0 |  |

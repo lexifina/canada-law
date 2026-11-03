@@ -53,6 +53,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | Batch | Appended to | XML repository read up to | Acts | Commits | New tags | Versions checked | Files | Words | Mismatches | Smoke test |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | 1 (2026-11-02) | `f5b5dc1dc665` | `0507465393c2` | C-46 | 49 | 69 | 36 | 59714 | 14582505 | 0 | 6/6 |
+| 2 (2026-11-03) | `c1eb33542a50` | `0507465393c2` | I-3.3, L-2, I-21, C-44, I-2.5, E-15, P-21, C-5, C-34, B-3, F-11, H-6, E-5.6, C-8, F-7, C-42, P-4, T-13, C-52.6, O-3.01, C-36, C-11, S-26, I-1, C-24, N-22, F-27, C-29, P-1, E-2.01, C-15.1, A-0.6, A-1.3, A-1.5, A-10.1, A-10.4, A-10.5, A-10.6, A-10.7, A-11.2, A-11.3, A-11.31, A-11.4, A-11.44, A-11.5, A-11.7, A-11.9, A-11.91, A-12, A-13, A-13.4, A-13.7, A-14, A-16, A-17, A-17.5, A-18.5, A-18.8, A-2, A-2.4, A-3, A-3.7, A-5, A-6, A-8.8, A-9, B-0.5, B-1.5, B-1.7, B-2, B-3.4, B-3.6, B-4, B-5, B-5.3, B-5.5, B-6, B-6.3, B-6.4, B-8, B-8.05, B-8.2, B-8.3, B-8.4, B-8.5, B-9.01, B-9.6, B-9.8, B-9.81, B-9.82, B-9.83, B-9.84, B-9.85, B-9.851, B-9.852, B-9.853, B-9.854, B-9.855, B-9.856, B-9.857, B-9.858, B-9.859, B-9.8591, B-9.8592, B-9.8594, B-9.8595, B-9.86, B-9.87, B-9.88, B-9.89, B-9.9, C-0.2, C-0.3, C-0.4, C-0.5, C-0.6, C-0.7, C-1.2, C-1.3, C-1.4, C-1.5, C-1.6, C-1.65, C-1.66, C-1.68, C-1.7, C-1.8, C-1.9, C-10, C-10.1, C-10.10, C-10.11, C-10.13, C-10.14, C-10.15, C-10.2, C-10.3, C-10.4, C-10.5, C-10.52, C-10.54, C-10.541, C-10.55, C-10.56, C-10.58, C-10.6, C-10.65, C-10.7, C-11.001, C-11.01, C-11.1, C-11.2, C-11.4, C-11.7, C-12.3, C-13, C-13.4, C-13.7, C-14, C-15, C-15.2, C-15.21, C-15.31, C-16, C-16.5, C-16.8, C-17, C-17.15, C-17.2, C-17.3, C-17.6, C-17.8, C-18.1, C-18.3, C-18.4, C-18.7, C-19.1, C-19.3, C-2, C-20, C-21, C-21.1, C-21.3, C-21.8, C-22, C-22.4, C-23, C-23.05, C-23.2, C-23.25, C-23.3, C-23.4, C-23.7, C-24.2, C-24.5, C-25, C-25.2, C-26, C-27.2, C-27.4, C-27.5, C-27.55, C-27.6, C-27.7, C-28, C-28.5, C-28.51, C-29.4, C-29.7, C-3, C-3.4, C-3.43, C-3.45, C-3.5, C-3.55, C-3.6, C-3.65, C-3.7, C-3.75, C-3.8, C-30, C-31, C-31.3, C-31.4, C-31.5, C-31.6, C-31.7, C-31.8, C-33, C-33.3, C-33.6, C-33.7, C-34.6, C-35.3, C-36.4, C-36.45, C-36.6, C-36.65, C-36.7, C-36.75, C-36.78, C-38, C-38.7, C-4.4, C-4.8, C-41.01, C-41.5, C-43, C-44.6, C-45.2, C-45.5, C-45.6, C-45.75, C-45.9, C-47, C-47.4, C-49, C-49.6, C-49.8, C-5.2, C-5.5, C-5.7, C-5.8, C-5.85, C-5.9, C-50, C-51, C-52, C-53, C-54.011, C-55.5, C-6, C-6.1, C-6.10, C-6.15, C-6.16, C-6.18, C-6.19, C-6.2, C-6.3, C-6.4, C-6.42, C-6.45, C-6.48, C-6.5, C-6.6, C-6.65, C-6.7, C-6.85, C-6.87, C-6.9, C-6.94, C-7, C-7.2, C-7.3, C-7.5, C-7.7, C-7.75, C-7.8, C-7.9, C-7.95, C-8.3, C-8.4, C-8.5, C-8.8, D-0.5, D-1, D-1.3, D-1.5, D-1.55, D-1.57, D-1.59, D-1.6, D-1.65, D-2, D-2.5, D-2.8, D-3.8, D-3.9, D-4, E-0.6, E-0.7, E-0.8, E-0.9, E-0.93, E-1.3, E-1.4, E-1.45, E-1.5, E-1.6, E-1.7, E-10, E-11, E-12.5, E-13, E-13.7, E-14, E-14.1, E-15.5, E-16, E-17, E-18, E-18.5, E-19, E-20, E-21, E-21.5, E-22, E-22.7, E-23.01, E-3, E-3.1, E-4, E-4.5, E-4.56, E-4.6, E-5.401, E-5.8, E-6, E-6.2, E-6.4, E-8, E-9, E-9.5, F-1.2, F-1.4, F-10, F-10.6, F-11.1, F-11.2, F-11.3, F-11.4, F-11.6, F-11.64, F-11.65, F-11.66, F-11.67, F-11.7, F-11.73, F-11.75, F-11.8, F-11.9, F-12, F-13, F-14, F-15, F-17, F-2.2, F-2.27, F-2.7, F-21, F-22, F-24, F-25, F-27.3, F-27.5, F-28, F-29, F-29.2, F-29.4, F-29.6, F-3, F-3.3, F-30, F-30.2, F-30.4, F-31.2, F-31.4, F-31.46, F-31.5, F-31.55, F-31.6, F-31.7, F-32.5, F-4, F-5.5, F-5.8, F-7.3, F-7.33, F-7.35, F-7.38, F-7.5, F-7.7, F-7.8, F-8, F-8.2, F-8.4, F-8.6, F-9, G-10, G-11.2, G-11.4, G-11.55, G-11.6, G-2, G-2.3, G-2.5, G-3.3, G-3.7, G-3.8, G-4, G-5, G-5.3, G-5.7, G-6, G-7.4, G-7.6, G-9, H-0.3, H-0.5, H-1, H-2.7, H-2.71, H-3, H-3.2, H-3.3, H-3.4, H-3.5, H-3.7, H-3.76, H-3.77, H-3.8, H-4, H-5, H-5.4, H-5.67, H-5.7, H-5.8, I-11, I-11.8, I-14.6, I-14.7, I-14.85, I-15, I-16, I-17, I-17.05, I-17.3, I-18, I-18.1, I-19, I-19.3 | 482 | 482 | 482 | 29484 | 7824082 | 0 | 6/6 |
 
 Batch 1:
 
@@ -61,6 +62,12 @@ Batch 1:
 - Two versions were re-issued by the publisher with a different text on the same day (2025-01-01, 2026-03-26); the later text is used.
 - Checks on the appended repository: every version file by file, 0 mismatches (59,714 files); every consolidation word for word, 0 mismatches (14,582,505 words); P-8.6 and A-1 rechecked against their point-in-time pages, 141 versions, 0 mismatches file by file (14,749 files) and word for word (3,559,819 words); tools/test_repo.py 6 of 6.
 - Corrections: none. No version main already held was changed; P-8.6 and A-1 get no new versions from the XML repository (it holds none after their last In-force day).
+
+Batch 2:
+
+- Breadth pass: 482 Acts (I-3.3 to I-19.3), each as one version, its current consolidation, dated by its lastAmendedDate: the oldest version available in this record for now.
+- 46 of them are one file for the whole text (the reader could not split them): L-2, E-15, F-11, E-5.6, C-24, A-10.6, A-2.4, A-5, B-5.3, B-5.5, B-9.8594, B-9.8595, C-0.4, C-1.8, C-10.4, C-10.54, C-10.56, C-15.2, C-15.21, C-17.6, C-21.3, C-24.2, C-31.7, C-36.75, C-36.78, C-38.7, C-4.4, C-47.4, C-49, C-55.5, C-6.16, C-6.19, D-0.5, D-1.65, E-22, E-4.6, E-9.5, F-11.8, F-12, F-25, F-3, F-5.8, G-11.6, H-1, H-5.8, I-17.3.
+- Checks on the appended repository: 482 versions file by file, 0 mismatches (29484 files); 482 word for word, 0 mismatches (7824082 words); tools/test_repo.py 6 of 6. Held back for now: 18.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 
@@ -242,7 +249,11 @@ These choices were made when the tool was written, after looking at the data. Th
    early 2021 (or when the Act first appears there).
 9. **The provisions' own in-force days** date a change between two states; this is the only date the record infers,
    and those commits say so (`Dated-by:`).
-10. **Order of the Acts:** the most-cited Acts first (Criminal Code, Income Tax Act, Canada Labour Code, Bank Act, ...),
+10. **Breadth first (2026-11-02).** Every Act and regulation not yet in the record is first added as its current
+    consolidation alone, in blocks of 500, labelled "oldest version available"; its earlier versions follow later, as
+    labelled commits behind it. An Act the reader cannot split into sections is published as one file, `text.md`, rather
+    than held back; it is checked word for word like the others.
+11. **Order of the Acts:** the most-cited Acts first (Criminal Code, Income Tax Act, Canada Labour Code, Bank Act, ...),
     then all other Acts, then the regulations.
 
 ## What an AI model did

@@ -2,3 +2,485 @@ act,title,source,from,to,versions,appended
 P-8.6,Personal Information Protection and Electronic Documents Act,Justice Laws Website point-in-time versions,2003-01-01,2025-03-04,17,2026-10-28
 A-1,Access to Information Act,Justice Laws Website point-in-time versions,2002-12-31,2026-06-14,124,2026-10-28
 C-46,Criminal Code,Justice Canada XML repository (laws-lois-xml),2020-07-01,2026-07-18,36,2026-11-02
+I-3.3,Income Tax Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+L-2,Canada Labour Code,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2025-12-12,2025-12-12,1,2026-11-03
+I-21,Interpretation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+C-44,Canada Business Corporations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+I-2.5,Immigration and Refugee Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+E-15,Excise Tax Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-06-18,2026-06-18,1,2026-11-03
+P-21,Privacy Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-02,2025-06-02,1,2026-11-03
+C-5,Canada Evidence Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+C-34,Competition Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+B-3,Bankruptcy and Insolvency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-20,2026-06-20,1,2026-11-03
+F-11,Financial Administration Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-09-01,2026-09-01,1,2026-11-03
+H-6,Canadian Human Rights Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+E-5.6,Employment Insurance Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-06-18,2026-06-18,1,2026-11-03
+C-8,Canada Pension Plan,"Justice Canada XML repository (laws-lois-xml), current text only",2024-12-17,2024-12-17,1,2026-11-03
+F-7,Federal Courts Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-04-01,2026-04-01,1,2026-11-03
+C-42,Copyright Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-07,2024-11-07,1,2026-11-03
+P-4,Patent Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-01-01,2025-01-01,1,2026-11-03
+T-13,Trademarks Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-04-01,2025-04-01,1,2026-11-03
+C-52.6,Customs Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-01,2026-07-01,1,2026-11-03
+O-3.01,Official Languages Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-20,2025-06-20,1,2026-11-03
+C-36,Companies’ Creditors Arrangement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-20,2026-06-20,1,2026-11-03
+C-11,Canada Water Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-04-01,2014-04-01,1,2026-11-03
+S-26,Supreme Court Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-12-18,2019-12-18,1,2026-11-03
+I-1,Identification of Criminals Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+C-24,Canadian Wheat Board Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2012-08-01,2012-08-01,1,2026-11-03
+N-22,Canadian Navigable Waters Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+F-27,Food and Drugs Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-03-27,2025-03-27,1,2026-11-03
+C-29,Citizenship Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-12-15,2025-12-15,1,2026-11-03
+P-1,Parliament of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+E-2.01,Canada Elections Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-16,2026-09-16,1,2026-11-03
+C-15.1,Canadian Energy Regulator Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+A-0.6,Accessible Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-04-27,2023-04-27,1,2026-11-03
+A-1.3,Addition of Lands to Reserves and Reserve Creation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-27,2019-08-27,1,2026-11-03
+A-1.5,Administrative Tribunals Support Service of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-27,2026-06-27,1,2026-11-03
+A-10.1,Air Canada Public Participation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-06-27,2018-06-27,1,2026-11-03
+A-10.4,Airport Transfer (Miscellaneous Matters) Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+A-10.5,Air Travellers Security Charge Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+A-10.6,Alberta Natural Resources Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2003-01-01,2003-01-01,1,2026-11-03
+A-10.7,Alternative Fuels Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-06-29,2012-06-29,1,2026-11-03
+A-11.2,Animal Pedigree Act,"Justice Canada XML repository (laws-lois-xml), current text only",2004-12-15,2004-12-15,1,2026-11-03
+A-11.3,Anishinabek Nation Education Agreement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-12-16,2024-12-16,1,2026-11-03
+A-11.31,Anishinabek Nation Governance Agreement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-04-01,2026-04-01,1,2026-11-03
+A-11.4,Annulment of Marriages Act (Ontario),"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+A-11.44,Antarctic Environmental Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+A-11.5,Anti-Personnel Mines Convention Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-07-02,2003-07-02,1,2026-11-03
+A-11.7,Anti-terrorism Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-06,2003-01-06,1,2026-11-03
+A-11.9,Apprentice Loans Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-12-09,2023-12-09,1,2026-11-03
+A-11.91,Arab Heritage Month Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+A-12,Arctic Waters Pollution Prevention Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-07,2019-08-07,1,2026-11-03
+A-13,Asia-Pacific Foundation of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-03-16,2012-03-16,1,2026-11-03
+A-13.4,Assisted Human Reproduction Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-06-09,2020-06-09,1,2026-11-03
+A-13.7,Atlantic Canada Opportunities Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+A-14,Atlantic Fisheries Restructuring Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+A-16,Nuclear Energy Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-09-21,2017-09-21,1,2026-11-03
+A-17,Auditor General Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-07-26,2022-07-26,1,2026-11-03
+A-17.5,An Act to confirm the authority of the Federal District Commission to have acquired certain lands,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+A-18.5,Aviation Industry Indemnity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-21,2019-06-21,1,2026-11-03
+A-18.8,Avoiding Complicity in Mistreatment by Foreign Entities Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-07-13,2019-07-13,1,2026-11-03
+A-2,Aeronautics Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+A-2.4,Agreement on Internal Trade Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2017-12-14,2017-12-14,1,2026-11-03
+A-3,Agricultural and Rural Development Act (ARDA),"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+A-3.7,Agricultural Marketing Programs Act,"Justice Canada XML repository (laws-lois-xml), current text only",2016-02-05,2016-02-05,1,2026-11-03
+A-5,Agricultural Products Cooperative Marketing Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2014-05-15,2014-05-15,1,2026-11-03
+A-6,Agricultural Products Marketing Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+A-8.8,Agriculture and Agri-Food Administrative Monetary Penalties Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+A-9,Department of Agriculture and Agri-Food Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-0.5,Bail and Sentencing Reform Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-15,2026-07-15,1,2026-11-03
+B-1.5,Bank for International Settlements (Immunity) Act,"Justice Canada XML repository (laws-lois-xml), current text only",2007-12-14,2007-12-14,1,2026-11-03
+B-1.7,Bank of British Columbia Business Continuation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-2,Bank of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+B-3.4,Beechwood Power Project Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-3.6,Bell Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-4,Bills of Exchange Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-08-03,2021-08-03,1,2026-11-03
+B-5,Bills of Lading Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-5.3,Biological and Toxin Weapons Convention Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2017-01-01,2017-01-01,1,2026-11-03
+B-5.5,Blue Water Bridge Authority Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2015-02-01,2015-02-01,1,2026-11-03
+B-6,Boards of Trade Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+B-6.3,Borrowing Authority Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+B-6.4,Boucherville Islands Bridge and Tunnel Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-8,Bridges Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-8.05,Bridge To Strengthen Trade Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-28,2019-08-28,1,2026-11-03
+B-8.2,British Columbia Grain Handling Operations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-8.3,British Columbia Indian Cut-off Lands Settlement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-8.4,British Columbia Indian Reserves Mineral Resources Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+B-8.5,British Columbia Treaty Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+B-9.01,Broadcasting Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+B-9.6,"Budget and Economic Statement Implementation Act, 2007","Justice Canada XML repository (laws-lois-xml), current text only",2015-06-19,2015-06-19,1,2026-11-03
+B-9.8,"Budget Implementation Act, 1995","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+B-9.81,"Budget Implementation Act, 1997","Justice Canada XML repository (laws-lois-xml), current text only",2017-12-31,2017-12-31,1,2026-11-03
+B-9.82,"Budget Implementation Act, 1998","Justice Canada XML repository (laws-lois-xml), current text only",2012-11-30,2012-11-30,1,2026-11-03
+B-9.83,"Budget Implementation Act, 1999","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+B-9.84,"Budget Implementation Act, 2000","Justice Canada XML repository (laws-lois-xml), current text only",2018-12-13,2018-12-13,1,2026-11-03
+B-9.85,"Budget Implementation Act, 2001","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+B-9.851,"Budget Implementation Act, 2003","Justice Canada XML repository (laws-lois-xml), current text only",2004-01-04,2004-01-04,1,2026-11-03
+B-9.852,"Budget Implementation Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2005-06-29,2005-06-29,1,2026-11-03
+B-9.853,"Budget Implementation Act, 2004, No. 2","Justice Canada XML repository (laws-lois-xml), current text only",2005-05-13,2005-05-13,1,2026-11-03
+B-9.854,"Budget Implementation Act, 2005","Justice Canada XML repository (laws-lois-xml), current text only",2025-06-09,2025-06-09,1,2026-11-03
+B-9.855,"Budget Implementation Act, 2006","Justice Canada XML repository (laws-lois-xml), current text only",2013-12-12,2013-12-12,1,2026-11-03
+B-9.856,"Budget Implementation Act, 2007","Justice Canada XML repository (laws-lois-xml), current text only",2016-06-22,2016-06-22,1,2026-11-03
+B-9.857,"Budget Implementation Act, 2008","Justice Canada XML repository (laws-lois-xml), current text only",2023-01-01,2023-01-01,1,2026-11-03
+B-9.858,"Budget Implementation Act, 2009","Justice Canada XML repository (laws-lois-xml), current text only",2026-05-20,2026-05-20,1,2026-11-03
+B-9.859,"Budget Implementation Act, 2017, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2021-06-01,2021-06-01,1,2026-11-03
+B-9.8591,"Budget Implementation Act, 2017, No. 2","Justice Canada XML repository (laws-lois-xml), current text only",2019-09-01,2019-09-01,1,2026-11-03
+B-9.8592,"Budget Implementation Act, 2018, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+B-9.8594,"Budget Implementation Act, 2021, No. 1","Justice Canada XML repository (laws-lois-xml), current text only, one file",2024-11-01,2024-11-01,1,2026-11-03
+B-9.8595,"Budget Implementation Act, 2022, No. 1","Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-01-01,2026-01-01,1,2026-11-03
+B-9.86,Buffalo and Fort Erie Public Bridge Company Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+B-9.87,Build Canada Homes Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-08-13,2026-08-13,1,2026-11-03
+B-9.88,Building a Green Prairie Economy Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-12-15,2022-12-15,1,2026-11-03
+B-9.89,Building Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+B-9.9,Business Development Bank of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-03-25,2020-03-25,1,2026-11-03
+C-0.2,CN Commercialization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-05-23,2018-05-23,1,2026-11-03
+C-0.3,Campobello-Lubec Bridge Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-01-01,2014-01-01,1,2026-11-03
+C-0.4,Canada Agricultural Products Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2019-01-15,2019-01-15,1,2026-11-03
+C-0.5,"Canada and Taiwan Territories Tax Arrangement Act, 2016","Justice Canada XML repository (laws-lois-xml), current text only",2016-12-15,2016-12-15,1,2026-11-03
+C-0.6,"Canada-Argentina Income Tax Convention Act, 1994","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-0.7,"Canada–Armenia Tax Convention Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2005-03-23,2005-03-23,1,2026-11-03
+C-1.2,"Canada–Azerbaijan Tax Convention Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2006-02-15,2006-02-15,1,2026-11-03
+C-1.3,"Canada-Belgium Income Tax Convention Act, 1976","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-1.4,Canada Border Services Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-09-01,2022-09-01,1,2026-11-03
+C-1.5,"Canada-Brazil Income Tax Convention Act, 1984","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-1.6,Canada-Chile Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-12-16,2014-12-16,1,2026-11-03
+C-1.65,Canada–Colombia Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-08-15,2011-08-15,1,2026-11-03
+C-1.66,"Canada–Colombia Tax Convention Act, 2010","Justice Canada XML repository (laws-lois-xml), current text only",2012-08-25,2012-08-25,1,2026-11-03
+C-1.68,Canada Consumer Product Safety Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-20,2024-11-20,1,2026-11-03
+C-1.7,Canada Cooperatives Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-1.8,Canada Corporations Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2017-12-31,2017-12-31,1,2026-11-03
+C-1.9,Canada-Costa Rica Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-10,Canada Post Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-22,2026-06-22,1,2026-11-03
+C-10.1,Canada Prize Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-10.10,Canada Recovery Benefits Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-12-17,2021-12-17,1,2026-11-03
+C-10.11,Canada Revenue Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-10.13,Canada School of Public Service Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-17,2019-06-17,1,2026-11-03
+C-10.14,"Canada–Serbia Tax Convention Act, 2013","Justice Canada XML repository (laws-lois-xml), current text only",2013-06-19,2013-06-19,1,2026-11-03
+C-10.15,"Canada Shipping Act, 2001","Justice Canada XML repository (laws-lois-xml), current text only",2023-06-22,2023-06-22,1,2026-11-03
+C-10.2,Canada Small Business Financing Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-07-04,2022-07-04,1,2026-11-03
+C-10.3,Canada Strategic Infrastructure Fund Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-10.4,Canada Transportation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-06-18,2026-06-18,1,2026-11-03
+C-10.5,Canada Travelling Exhibitions Indemnification Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-06-29,2012-06-29,1,2026-11-03
+C-10.52,"Canada–Turkey Tax Convention Act, 2010","Justice Canada XML repository (laws-lois-xml), current text only",2011-05-04,2011-05-04,1,2026-11-03
+C-10.54,Canada–Ukraine Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2024-07-01,2024-07-01,1,2026-11-03
+C-10.541,"Canada–Ukraine Free Trade Agreement Implementation Act, 2023","Justice Canada XML repository (laws-lois-xml), current text only",2024-07-01,2024-07-01,1,2026-11-03
+C-10.55,"Canada — United Arab Emirates Tax Convention Act, 2002","Justice Canada XML repository (laws-lois-xml), current text only",2004-07-10,2004-07-10,1,2026-11-03
+C-10.56,Canada–United Kingdom Trade Continuity Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2021-04-01,2021-04-01,1,2026-11-03
+C-10.58,Canada–United States Enhanced Tax Information Exchange Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-06-19,2014-06-19,1,2026-11-03
+C-10.6,Canada-United States Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-04-01,2019-04-01,1,2026-11-03
+C-10.65,Canada–United States–Mexico Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-01,2026-07-01,1,2026-11-03
+C-10.7,"Canada–United States Tax Convention Act, 1984","Justice Canada XML repository (laws-lois-xml), current text only",2008-12-15,2008-12-15,1,2026-11-03
+C-11.001,Canada Water Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-10-15,2024-10-15,1,2026-11-03
+C-11.01,Canada Worker Lockdown Benefit Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-02-13,2022-02-13,1,2026-11-03
+C-11.1,Canada–Yukon Oil and Gas Accord Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-04-01,2003-04-01,1,2026-11-03
+C-11.2,Canadian Air Transport Security Authority Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-05-23,2018-05-23,1,2026-11-03
+C-11.4,Canadian Arsenals Limited Divestiture Authorization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-11.7,Canadian Association of Former Parliamentarians Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+C-12.3,Canadian Bill of Rights,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-13,Canadian Centre for Occupational Health and Safety Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-06-29,2012-06-29,1,2026-11-03
+C-13.4,Canadian Centre on Substance Abuse Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-03-16,2012-03-16,1,2026-11-03
+C-13.7,Canadian Commercial Bank Financial Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-14,Canadian Commercial Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2006-12-12,2006-12-12,1,2026-11-03
+C-15,Canadian Dairy Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-05-15,2020-05-15,1,2026-11-03
+C-15.2,Canadian Environmental Assessment Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2012-07-06,2012-07-06,1,2026-11-03
+C-15.21,"Canadian Environmental Assessment Act, 2012","Justice Canada XML repository (laws-lois-xml), current text only, one file",2019-08-28,2019-08-28,1,2026-11-03
+C-15.31,"Canadian Environmental Protection Act, 1999","Justice Canada XML repository (laws-lois-xml), current text only",2026-06-30,2026-06-30,1,2026-11-03
+C-16,Telefilm Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+C-16.5,Canadian Food Inspection Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+C-16.8,Veterans Well-being Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-04-01,2024-04-01,1,2026-11-03
+C-17,Canadian Forces Superannuation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-12-17,2025-12-17,1,2026-11-03
+C-17.15,Canadian Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-14,2017-12-14,1,2026-11-03
+C-17.2,Canadian Gender Budgeting Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-12-13,2018-12-13,1,2026-11-03
+C-17.3,Department of Canadian Heritage Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-06-20,2023-06-20,1,2026-11-03
+C-17.6,Canadian Heritage Languages Institute Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2012-01-01,2012-01-01,1,2026-11-03
+C-17.8,Canadian High Arctic Research Station Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-06-21,2018-06-21,1,2026-11-03
+C-18.1,Canadian Institutes of Health Research Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-17,2019-06-17,1,2026-11-03
+C-18.3,Canadian International Trade Tribunal Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-07-01,2024-07-01,1,2026-11-03
+C-18.4,Canadian Jewish Heritage Month Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-03-29,2018-03-29,1,2026-11-03
+C-18.7,Canadian Multiculturalism Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-04-01,2014-04-01,1,2026-11-03
+C-19.1,"Canadian National Montreal Terminals Act, 1929","Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-19.3,Canadian Net-Zero Emissions Accountability Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-03-31,2023-03-31,1,2026-11-03
+C-2,Canada Council for the Arts Act,"Justice Canada XML repository (laws-lois-xml), current text only",2009-03-12,2009-03-12,1,2026-11-03
+C-20,Canadian Ownership and Control Determination Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-07-02,2003-07-02,1,2026-11-03
+C-21,Canadian Payments Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+C-21.1,Canadian Peacekeeping Service Medal Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-04,2005-04-04,1,2026-11-03
+C-21.3,Canadian Polar Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2015-06-01,2015-06-01,1,2026-11-03
+C-21.8,Canadian Race Relations Foundation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-06-26,2013-06-26,1,2026-11-03
+C-22,Canadian Radio-television and Telecommunications Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-12-19,2023-12-19,1,2026-11-03
+C-22.4,Canadian Red Cross Society Act,"Justice Canada XML repository (laws-lois-xml), current text only",2008-01-31,2008-01-31,1,2026-11-03
+C-23,Canadian Security Intelligence Service Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+C-23.05,Canadian Securities Regulation Regime Transition Office Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-03-31,2015-03-31,1,2026-11-03
+C-23.2,Canadian Space Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-17,2019-06-17,1,2026-11-03
+C-23.25,Canadian Sustainable Jobs Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+C-23.3,Canadian Tourism Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-03-16,2012-03-16,1,2026-11-03
+C-23.4,Canadian Transportation Accident Investigation and Safety Board Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-09-02,2022-09-02,1,2026-11-03
+C-23.7,Canadian Victims Bill of Rights,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-18,2026-07-18,1,2026-11-03
+C-24.2,Canadian Wheat Board (Interim Operations) Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2015-07-30,2015-07-30,1,2026-11-03
+C-24.5,Cannabis Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-25,Cape Breton Development Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2006-12-12,2006-12-12,1,2026-11-03
+C-25.2,Cape Breton Development Corporation Divestiture Authorization and Dissolution Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-12-01,2011-12-01,1,2026-11-03
+C-26,Carriage by Air Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-11-04,2003-11-04,1,2026-11-03
+C-27.2,Caughnawaga Indian Reserve Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-27.4,Celebrating Canada’s Seniors Act,"Justice Canada XML repository (laws-lois-xml), current text only",2010-11-18,2010-11-18,1,2026-11-03
+C-27.5,Centennial Flame Research Award Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-27.55,Charities Registration (Security Information) Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+C-27.6,Chemical Weapons Convention Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+C-27.7,Child Day Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-28,Children of Deceased Veterans Education Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-04-01,2019-04-01,1,2026-11-03
+C-28.5,Children’s Special Allowances Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+C-28.51,Children’s Special Allowances Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-29.4,Department of Citizenship and Immigration Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-29.7,Civil Air Navigation Services Commercialization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-12,2017-12-12,1,2026-11-03
+C-3,Canada Deposit Insurance Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-3.4,Canada Development Corporation Reorganization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-3.43,Canada Development Investment Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-14,2026-06-14,1,2026-11-03
+C-3.45,Canada Disability Benefit Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-22,2024-06-22,1,2026-11-03
+C-3.5,Canada Disability Savings Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-01-01,2017-01-01,1,2026-11-03
+C-3.55,Canada Early Learning and Child Care Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-25,2026-09-25,1,2026-11-03
+C-3.6,Canada Education Savings Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-27,2025-06-27,1,2026-11-03
+C-3.65,Canada–EFTA Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2009-07-01,2009-07-01,1,2026-11-03
+C-3.7,Canada Emergency Response Benefit Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+C-3.75,Canada Emergency Student Benefit Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+C-3.8,Canada Emission Reduction Incentives Agency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-06-22,2023-06-22,1,2026-11-03
+C-30,Canada-United Kingdom Civil and Commercial Judgments Convention Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-31,Civilian War-related Benefits Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-07-20,2005-07-20,1,2026-11-03
+C-31.3,Civil International Space Station Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-07-02,2003-07-02,1,2026-11-03
+C-31.4,Civil Lunar Gateway Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-10-26,2022-10-26,1,2026-11-03
+C-31.5,Civil Marriage Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-06-18,2015-06-18,1,2026-11-03
+C-31.6,Civil Service Insurance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+C-31.7,Claim Settlements (Alberta and Saskatchewan) Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2019-08-27,2019-08-27,1,2026-11-03
+C-31.8,Clarity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-33,Coastal Fisheries Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-16,2019-06-16,1,2026-11-03
+C-33.3,Coasting Trade Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-04-01,2021-04-01,1,2026-11-03
+C-33.6,College of Immigration and Citizenship Consultants Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-06-22,2023-06-22,1,2026-11-03
+C-33.7,College of Patent Agents and Trademark Agents Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+C-34.6,Commercial Arbitration Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-01,2026-09-01,1,2026-11-03
+C-35.3,Communications Security Establishment Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-01,2019-08-01,1,2026-11-03
+C-36.4,Competition Tribunal Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+C-36.45,Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-01,2026-09-01,1,2026-11-03
+C-36.6,Condominium Ordinance Validation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-36.65,Conflict of Interest Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+C-36.7,Constitutional Amendments,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+C-36.75,Consumer-Driven Banking Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-03-26,2026-03-26,1,2026-11-03
+C-36.78,Consumer-Driven Banking Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-03-26,2026-03-26,1,2026-11-03
+C-38,Consumer Packaging and Labelling Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-01-15,2019-01-15,1,2026-11-03
+C-38.7,Contraventions Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2019-12-18,2019-12-18,1,2026-11-03
+C-4.4,Canada Employment Insurance Financing Board Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2013-12-12,2013-12-12,1,2026-11-03
+C-4.8,Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-06-30,2021-06-30,1,2026-11-03
+C-41.01,Cooperative Credit Associations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-01-01,2022-01-01,1,2026-11-03
+C-41.5,Cooperative Energy Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-10-17,2011-10-17,1,2026-11-03
+C-43,Corporations Returns Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-44.6,Corrections and Conditional Release Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-18,2026-07-18,1,2026-11-03
+C-45.2,Corruption of Foreign Public Officials Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-10-31,2017-10-31,1,2026-11-03
+C-45.5,Courts Administration Service Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+C-45.6,An Act respecting certain measures related to COVID-19,"Justice Canada XML repository (laws-lois-xml), current text only",2022-03-04,2022-03-04,1,2026-11-03
+C-45.75,Cree Nation of Eeyou Istchee Governance Agreement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-03-29,2018-03-29,1,2026-11-03
+C-45.9,Crimes Against Humanity and War Crimes Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-07-20,2024-07-20,1,2026-11-03
+C-47,Criminal Records Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-18,2026-07-18,1,2026-11-03
+C-47.4,Critical Cyber Systems Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-06-15,2026-06-15,1,2026-11-03
+C-49,Advance Payments for Crops Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2014-05-15,2014-05-15,1,2026-11-03
+C-49.6,Crown Corporations Dissolution or Transfer Authorization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-01-01,2012-01-01,1,2026-11-03
+C-49.8,Department of Crown-Indigenous Relations and Northern Affairs Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-07-15,2019-07-15,1,2026-11-03
+C-5.2,"Canada–Finland Tax Convention Act, 2006","Justice Canada XML repository (laws-lois-xml), current text only",2007-02-10,2007-02-10,1,2026-11-03
+C-5.5,Canada Foundation for Sustainable Development Technology Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-31,2017-12-31,1,2026-11-03
+C-5.7,Canada Fund for Africa Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-5.8,"Canada–Gabon Tax Convention Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2008-12-22,2008-12-22,1,2026-11-03
+C-5.85,"Canada-Germany Tax Agreement Act, 1982","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-5.9,"Canada–Greece Tax Convention Act, 2010","Justice Canada XML repository (laws-lois-xml), current text only",2010-12-16,2010-12-16,1,2026-11-03
+C-50,Crown Liability and Proceedings Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-07-01,2024-07-01,1,2026-11-03
+C-51,Cultural Property Export and Import Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-21,2019-06-21,1,2026-11-03
+C-52,Currency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-06-21,2018-06-21,1,2026-11-03
+C-53,Customs and Excise Offshore Application Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-09-01,2022-09-01,1,2026-11-03
+C-54.011,Customs Tariff,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-01,2026-09-01,1,2026-11-03
+C-55.5,"An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts","Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-06-15,2026-06-15,1,2026-11-03
+C-6,Canada Health Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-12,2017-12-12,1,2026-11-03
+C-6.1,"Canada Health Care, Early Childhood Development and Other Social Services Funding Act","Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-6.10,Canada–Honduras Economic Growth and Prosperity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-10-01,2014-10-01,1,2026-11-03
+C-6.15,"Canada–Hong Kong Tax Agreement Act, 2013","Justice Canada XML repository (laws-lois-xml), current text only",2016-12-15,2016-12-15,1,2026-11-03
+C-6.16,Canada–Indonesia Comprehensive Economic Partnership Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-05-06,2026-05-06,1,2026-11-03
+C-6.18,Canada Infrastructure Bank Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-6.19,Canada Innovation Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2023-06-22,2023-06-22,1,2026-11-03
+C-6.2,Canadair Limited Divestiture Authorization Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+C-6.3,"Canada–Ireland Tax Convention Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2005-06-11,2005-06-11,1,2026-11-03
+C-6.4,Canada-Israel Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-09-01,2019-09-01,1,2026-11-03
+C-6.42,"Canada–Israel Tax Convention Act, 2016","Justice Canada XML repository (laws-lois-xml), current text only",2016-12-15,2016-12-15,1,2026-11-03
+C-6.45,Canada–Jordan Economic Growth and Prosperity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-10-01,2012-10-01,1,2026-11-03
+C-6.48,Canada–Korea Economic Growth and Prosperity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-09-21,2017-09-21,1,2026-11-03
+C-6.5,"Canada–Korea Income Tax Convention Act, 1980","Justice Canada XML repository (laws-lois-xml), current text only",2007-02-10,2007-02-10,1,2026-11-03
+C-6.6,"Canada — Kuwait Tax Agreement Act, 2002","Justice Canada XML repository (laws-lois-xml), current text only",2003-10-25,2003-10-25,1,2026-11-03
+C-6.65,"Canada–Madagascar Tax Convention Act, 2018","Justice Canada XML repository (laws-lois-xml), current text only",2019-05-27,2019-05-27,1,2026-11-03
+C-6.7,Canada Marine Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+C-6.85,"Canada–Mexico Tax Convention Act, 2006","Justice Canada XML repository (laws-lois-xml), current text only",2008-01-11,2008-01-11,1,2026-11-03
+C-6.87,"Canada-Mexico Tax Information Exchange Convention Act, 1991","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+C-6.9,"Canada — Moldova Tax Convention Act, 2002","Justice Canada XML repository (laws-lois-xml), current text only",2003-02-08,2003-02-08,1,2026-11-03
+C-6.94,"Canada — Mongolia Tax Convention Act, 2002","Justice Canada XML repository (laws-lois-xml), current text only",2003-02-08,2003-02-08,1,2026-11-03
+C-7,Canada Mortgage and Housing Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-03-25,2020-03-25,1,2026-11-03
+C-7.2,"Canada–Namibia Tax Convention Act, 2013","Justice Canada XML repository (laws-lois-xml), current text only",2013-06-19,2013-06-19,1,2026-11-03
+C-7.3,Canada National Marine Conservation Areas Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+C-7.5,Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-02,2025-06-02,1,2026-11-03
+C-7.7,"Canada — Norway Tax Convention Act, 2002","Justice Canada XML repository (laws-lois-xml), current text only",2003-03-22,2003-03-22,1,2026-11-03
+C-7.75,Canada Not-for-profit Corporations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+C-7.8,Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-01-31,2025-01-31,1,2026-11-03
+C-7.9,"Canada–Oman Tax Agreement Act, 2004","Justice Canada XML repository (laws-lois-xml), current text only",2005-03-23,2005-03-23,1,2026-11-03
+C-7.95,Canada–Panama Economic Growth and Prosperity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-04-01,2013-04-01,1,2026-11-03
+C-8.3,Canada Pension Plan Investment Board Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-31,2017-12-31,1,2026-11-03
+C-8.4,Canada–Peru Free Trade Agreement Implementation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2009-08-01,2009-08-01,1,2026-11-03
+C-8.5,Canada Petroleum Resources Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+C-8.8,"Canada–Poland Tax Convention Act, 2013","Justice Canada XML repository (laws-lois-xml), current text only",2013-06-19,2013-06-19,1,2026-11-03
+D-0.5,Debt Servicing and Reduction Account Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2003-06-19,2003-06-19,1,2026-11-03
+D-1,Defence Production Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-09-21,2017-09-21,1,2026-11-03
+D-1.3,Defence Services Pension Continuation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-01-01,2012-01-01,1,2026-11-03
+D-1.5,Déline Final Self-Government Agreement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-21,2019-06-21,1,2026-11-03
+D-1.55,Dental Benefit Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-11-17,2022-11-17,1,2026-11-03
+D-1.57,Dental Care Measures Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-06-22,2023-06-22,1,2026-11-03
+D-1.59,"Department of Housing, Infrastructure and Communities Act","Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+D-1.6,Depository Bills and Notes Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+D-1.65,Digital Services Tax Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2026-03-26,2026-03-26,1,2026-11-03
+D-2,Diplomatic Service (Special) Superannuation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-06-26,2013-06-26,1,2026-11-03
+D-2.5,Director of Public Prosecutions Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-04-01,2019-04-01,1,2026-11-03
+D-2.8,Disability Tax Credit Promoters Restrictions Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-11-15,2021-11-15,1,2026-11-03
+D-3.8,DNA Identification Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-03-06,2018-03-06,1,2026-11-03
+D-3.9,Donkin Coal Block Development Opportunity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-06-22,2017-06-22,1,2026-11-03
+D-4,Dry Docks Subsidies Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-11-29,2011-11-29,1,2026-11-03
+E-0.6,"Economic Action Plan 2013 Act, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2020-06-10,2020-06-10,1,2026-11-03
+E-0.7,"Economic Action Plan 2013 Act, No. 2","Justice Canada XML repository (laws-lois-xml), current text only",2026-05-20,2026-05-20,1,2026-11-03
+E-0.8,"Economic Action Plan 2014 Act, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2025-10-01,2025-10-01,1,2026-11-03
+E-0.9,"Economic Action Plan 2015 Act, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2026-01-01,2026-01-01,1,2026-11-03
+E-0.93,"Economic and Fiscal Update Implementation Act, 2021","Justice Canada XML repository (laws-lois-xml), current text only",2022-06-09,2022-06-09,1,2026-11-03
+E-1.3,Economic Development Agency of Canada for the Regions of Quebec Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+E-1.4,Economic Recovery Act (stimulus),"Justice Canada XML repository (laws-lois-xml), current text only",2012-01-01,2012-01-01,1,2026-11-03
+E-1.45,"Economic Statement Implementation Act, 2020","Justice Canada XML repository (laws-lois-xml), current text only",2021-05-06,2021-05-06,1,2026-11-03
+E-1.5,Eeyou Marine Region Land Claims Agreement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-02-15,2012-02-15,1,2026-11-03
+E-1.6,"An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act","Justice Canada XML repository (laws-lois-xml), current text only",2026-01-01,2026-01-01,1,2026-11-03
+E-1.7,Eldorado Nuclear Limited Reorganization and Divestiture Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-01-01,2012-01-01,1,2026-11-03
+E-10,Department of the Environment Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+E-11,Canadian Environment Week Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+E-12.5,Environmental Violations Administrative Monetary Penalties Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+E-13,Escheats Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+E-13.7,Exchequer Court Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+E-14,Excise Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+E-14.1,"Excise Act, 2001","Justice Canada XML repository (laws-lois-xml), current text only",2026-06-18,2026-06-18,1,2026-11-03
+E-15.5,Expenditure Restraint Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-09-23,2022-09-23,1,2026-11-03
+E-16,Experimental Farm Stations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+E-17,Explosives Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+E-18,Export Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-07-01,2003-07-01,1,2026-11-03
+E-18.5,Export and Import of Rough Diamonds Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-01-23,2025-01-23,1,2026-11-03
+E-19,Export and Import Permits Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-08-19,2024-08-19,1,2026-11-03
+E-20,Export Development Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+E-21,Expropriation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+E-21.5,Expungement of Historically Unjust Convictions Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-02-17,2023-02-17,1,2026-11-03
+E-22,Department of Foreign Affairs and International Trade Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2013-06-26,2013-06-26,1,2026-11-03
+E-22.7,Extractive Sector Transparency Measures Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-06-01,2015-06-01,1,2026-11-03
+E-23.01,Extradition Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-07-19,2005-07-19,1,2026-11-03
+E-3,Electoral Boundaries Readjustment Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-01-19,2019-01-19,1,2026-11-03
+E-3.1,"Electoral Boundaries Readjustment Suspension Act, 1994","Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+E-4,Electricity and Gas Inspection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-21,2019-06-21,1,2026-11-03
+E-4.5,Emergencies Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-06-22,2023-06-22,1,2026-11-03
+E-4.56,Emergency Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2007-08-03,2007-08-03,1,2026-11-03
+E-4.6,Emergency Preparedness Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2007-08-03,2007-08-03,1,2026-11-03
+E-5.401,Employment Equity Act,"Justice Canada XML repository (laws-lois-xml), current text only",2021-01-01,2021-01-01,1,2026-11-03
+E-5.8,Employment Support Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+E-6,Energy Administration Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-28,2019-08-28,1,2026-11-03
+E-6.2,Energy Costs Assistance Measures Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-12-12,2013-12-12,1,2026-11-03
+E-6.4,Energy Efficiency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-14,2017-12-14,1,2026-11-03
+E-8,Energy Monitoring Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+E-9,Energy Supplies Emergency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-28,2019-08-28,1,2026-11-03
+E-9.5,Enterprise Cape Breton Corporation Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2014-06-19,2014-06-19,1,2026-11-03
+F-1.2,Family Homes on Reserves and Matrimonial Interests or Rights Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-12-15,2022-12-15,1,2026-11-03
+F-1.4,Family Orders and Agreements Enforcement Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-11-15,2023-11-15,1,2026-11-03
+F-10,Fertilizers Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-07-01,2020-07-01,1,2026-11-03
+F-10.6,Fighting Against Forced Labour and Child Labour in Supply Chains Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-01-01,2024-01-01,1,2026-11-03
+F-11.1,Financial Consumer Agency of Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+F-11.2,Financial Institutions,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-11.3,Financial Institutions and Deposit Insurance System Amendment Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-11.4,Financial Institutions Depositors Compensation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-11.6,Firearms Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-07-18,2026-07-18,1,2026-11-03
+F-11.64,First Nations Commercial and Industrial Development Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-28,2019-08-28,1,2026-11-03
+F-11.65,First Nations Elections Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-05-13,2026-05-13,1,2026-11-03
+F-11.66,First Nations Financial Transparency Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-09-26,2023-09-26,1,2026-11-03
+F-11.67,First Nations Fiscal Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-04-24,2026-04-24,1,2026-11-03
+F-11.7,First Nations Goods and Services Tax Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+F-11.73,"An Act respecting First Nations, Inuit and Métis children, youth and families","Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+F-11.75,First Nations Jurisdiction over Education in British Columbia Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-07-01,2023-07-01,1,2026-11-03
+F-11.8,First Nations Land Management Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2022-12-15,2022-12-15,1,2026-11-03
+F-11.9,First Nations Oil and Gas and Moneys Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+F-12,Fish Inspection Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2019-01-15,2019-01-15,1,2026-11-03
+F-13,Freshwater Fish Marketing Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-03-16,2012-03-16,1,2026-11-03
+F-14,Fisheries Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+F-15,Department of Fisheries and Oceans Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-21,2019-06-21,1,2026-11-03
+F-17,Great Lakes Fisheries Convention Act,"Justice Canada XML repository (laws-lois-xml), current text only",2007-07-01,2007-07-01,1,2026-11-03
+F-2.2,Farm Credit Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+F-2.27,Farm Debt Mediation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2016-12-17,2016-12-17,1,2026-11-03
+F-2.7,Canadian Agricultural Loans Act,"Justice Canada XML repository (laws-lois-xml), current text only",2009-06-18,2009-06-18,1,2026-11-03
+F-21,Fisheries Development Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-22,Fisheries Improvement Loans Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-24,Fishing and Recreational Harbours Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-06-23,2022-06-23,1,2026-11-03
+F-25,Fitness and Amateur Sport Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2003-06-15,2003-06-15,1,2026-11-03
+F-27.3,Food Day in Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-05-11,2023-05-11,1,2026-11-03
+F-27.5,"Department of Foreign Affairs, Trade and Development Act","Justice Canada XML repository (laws-lois-xml), current text only",2025-06-26,2025-06-26,1,2026-11-03
+F-28,Foreign Enlistment Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-29,Foreign Extraterritorial Measures Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-29.2,Foreign Influence Transparency and Accountability Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-08-04,2026-08-04,1,2026-11-03
+F-29.4,Foreign Missions and International Organizations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-03-07,2018-03-07,1,2026-11-03
+F-29.6,Foreign Publishers Advertising Services Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-06-17,2019-06-17,1,2026-11-03
+F-3,Farm Improvement Loans Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2009-06-18,2009-06-18,1,2026-11-03
+F-3.3,Farm Income Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-03-01,2013-03-01,1,2026-11-03
+F-30,Forestry Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-30.2,Forgiveness of Certain Official Development Assistance Debts Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-30.4,Forgiveness of Debts (sub-Saharan Africa) Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-31.2,Fort-Falls Bridge Authority Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-31.4,Fort Nelson Indian Reserve Minerals Revenue Sharing Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+F-31.46,Framework Agreement on First Nation Land Management Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-12-15,2022-12-15,1,2026-11-03
+F-31.5,Framework on Palliative Care in Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-12-12,2017-12-12,1,2026-11-03
+F-31.55,Free Trade and Labour Mobility in Canada Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-01-01,2026-01-01,1,2026-11-03
+F-31.6,Freezing Assets of Corrupt Foreign Officials Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-03-23,2011-03-23,1,2026-11-03
+F-31.7,Fruit and Vegetable Customs Orders Validation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-32.5,An Act respecting the provision of funding for diagnostic and medical equipment,"Justice Canada XML repository (laws-lois-xml), current text only",2005-03-23,2005-03-23,1,2026-11-03
+F-4,Farm Products Agencies Act,"Justice Canada XML repository (laws-lois-xml), current text only",2015-02-26,2015-02-26,1,2026-11-03
+F-5.5,Federal Accountability Act,"Justice Canada XML repository (laws-lois-xml), current text only",2011-12-31,2011-12-31,1,2026-11-03
+F-5.8,Federal Balanced Budget Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2016-06-22,2016-06-22,1,2026-11-03
+F-7.3,Federal Framework for Suicide Prevention Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-12-14,2012-12-14,1,2026-11-03
+F-7.33,Federal Framework on Autism Spectrum Disorder Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-03-30,2023-03-30,1,2026-11-03
+F-7.35,Federal Framework on Lyme Disease Act,"Justice Canada XML repository (laws-lois-xml), current text only",2014-12-16,2014-12-16,1,2026-11-03
+F-7.38,Federal Framework on Post-Traumatic Stress Disorder Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-06-21,2018-06-21,1,2026-11-03
+F-7.5,"Federal Law—Civil Law Harmonization Act, No. 1","Justice Canada XML repository (laws-lois-xml), current text only",2012-12-14,2012-12-14,1,2026-11-03
+F-7.7,Federal Prompt Payment for Construction Work Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-12-09,2023-12-09,1,2026-11-03
+F-7.8,Federal-Provincial Fiscal Arrangements Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-8,Federal-Provincial Fiscal Arrangements Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+F-8.2,"Federal-Provincial Fiscal Arrangements Act, 1972","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+F-8.4,Federal Real Property and Federal Immovables Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-07-15,2019-07-15,1,2026-11-03
+F-8.6,Federal Sustainable Development Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-02-13,2026-02-13,1,2026-11-03
+F-9,Feeds Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-17,2024-06-17,1,2026-11-03
+G-10,Canada Grain Act,"Justice Canada XML repository (laws-lois-xml), current text only",2020-07-01,2020-07-01,1,2026-11-03
+G-11.2,An Act to authorize the granting of an immediate annuity to the Honourable Mr. Justice Donald Raymond Morand,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+G-11.4,Grassy Narrows and Islington Indian Bands Mercury Pollution Claims Settlement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+G-11.55,Greenhouse Gas Pollution Pricing Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+G-11.6,Greenhouse Gas Technology Investment Fund Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2016-01-01,2016-01-01,1,2026-11-03
+G-2,"Garnishment, Attachment and Pension Diversion Act","Justice Canada XML repository (laws-lois-xml), current text only",2022-09-23,2022-09-23,1,2026-11-03
+G-2.3,Gender Equality Week Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-06-21,2018-06-21,1,2026-11-03
+G-2.5,Genetic Non-Discrimination Act,"Justice Canada XML repository (laws-lois-xml), current text only",2017-05-04,2017-05-04,1,2026-11-03
+G-3.3,Global Minimum Tax Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+G-3.7,Government Annuities Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-12-12,2013-12-12,1,2026-11-03
+G-3.8,Government Annuities Improvement Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+G-4,Government Corporations Operation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+G-5,Government Employees Compensation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2022-12-15,2022-12-15,1,2026-11-03
+G-5.3,"An Act respecting the Government House property, Toronto","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+G-5.7,"Government Organization Act, Atlantic Canada, 1987","Justice Canada XML repository (laws-lois-xml), current text only",2012-01-01,2012-01-01,1,2026-11-03
+G-6,Government Property Traffic Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+G-7.4,"Government Services Act, 1999","Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+G-7.6,Government Services Resumption Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+G-9,Governor General’s Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-06-29,2012-06-29,1,2026-11-03
+H-0.3,Haida Nation Recognition Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-07,2024-11-07,1,2026-11-03
+H-0.5,Halifax Relief Commission Pension Continuation Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+H-1,Harbour Commissions Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2013-10-09,2013-10-09,1,2026-11-03
+H-2.7,Hazardous Materials Information Review Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-02,2025-06-02,1,2026-11-03
+H-2.71,"An Act to amend the Hazardous Products Act and the Canada Labour Code, to enact the Hazardous Materials Information Review Act and to amend other Acts in relation thereto","Justice Canada XML repository (laws-lois-xml), current text only",2003-01-01,2003-01-01,1,2026-11-03
+H-3,Hazardous Products Act,"Justice Canada XML repository (laws-lois-xml), current text only",2023-01-14,2023-01-14,1,2026-11-03
+H-3.2,Department of Health Act,"Justice Canada XML repository (laws-lois-xml), current text only",2006-12-15,2006-12-15,1,2026-11-03
+H-3.3,Health of Animals Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-01-15,2019-01-15,1,2026-11-03
+H-3.4,Heritage Lighthouse Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2010-05-29,2010-05-29,1,2026-11-03
+H-3.5,Heritage Railway Stations Protection Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-02-24,2005-02-24,1,2026-11-03
+H-3.7,Hibernia Development Project Act,"Justice Canada XML repository (laws-lois-xml), current text only",2025-06-02,2025-06-02,1,2026-11-03
+H-3.76,High Risk Child Sex Offender Database Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-12-31,2024-12-31,1,2026-11-03
+H-3.77,High-Speed Rail Network Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+H-3.8,Highway 30 Completion Bridges Act,"Justice Canada XML repository (laws-lois-xml), current text only",2019-08-28,2019-08-28,1,2026-11-03
+H-4,Historic Sites and Monuments Act,"Justice Canada XML repository (laws-lois-xml), current text only",2013-12-12,2013-12-12,1,2026-11-03
+H-5,Holidays Act,"Justice Canada XML repository (laws-lois-xml), current text only",2018-03-01,2018-03-01,1,2026-11-03
+H-5.4,Holocaust Memorial Day Act,"Justice Canada XML repository (laws-lois-xml), current text only",2003-11-07,2003-11-07,1,2026-11-03
+H-5.67,Human Pathogens and Toxins Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-26,2026-03-26,1,2026-11-03
+H-5.7,Department of Employment and Social Development Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-04-01,2026-04-01,1,2026-11-03
+H-5.8,Department of Human Resources Development Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2005-10-05,2005-10-05,1,2026-11-03
+I-11,Inquiries Act,"Justice Canada XML repository (laws-lois-xml), current text only",2005-04-01,2005-04-01,1,2026-11-03
+I-11.8,Insurance Companies Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-09-01,2026-09-01,1,2026-11-03
+I-14.6,Integrated Circuit Topography Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+I-14.7,Integrated Cross-border Law Enforcement Operations Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-08-20,2012-08-20,1,2026-11-03
+I-14.85,Intelligence Commissioner Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+I-15,Interest Act,"Justice Canada XML repository (laws-lois-xml), current text only",2008-06-18,2008-06-18,1,2026-11-03
+I-16,International Boundary Commission Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-03-16,2012-03-16,1,2026-11-03
+I-17,International Boundary Waters Treaty Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-11-27,2024-11-27,1,2026-11-03
+I-17.05,International Bridges and Tunnels Act,"Justice Canada XML repository (laws-lois-xml), current text only",2026-03-25,2026-03-25,1,2026-11-03
+I-17.3,International Centre for Human Rights and Democratic Development Act,"Justice Canada XML repository (laws-lois-xml), current text only, one file",2012-07-27,2012-07-27,1,2026-11-03
+I-18,International Development (Financial Institutions) Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
+I-18.1,An Act concerning an order under the International Development (Financial Institutions) Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2002-12-31,2002-12-31,1,2026-11-03
+I-19,International Development Research Centre Act,"Justice Canada XML repository (laws-lois-xml), current text only",2012-06-29,2012-06-29,1,2026-11-03
+I-19.3,International Financial Assistance Act,"Justice Canada XML repository (laws-lois-xml), current text only",2024-06-20,2024-06-20,1,2026-11-03
