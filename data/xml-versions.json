@@ -43393,6 +43393,4425 @@
     "sha256": "e7700025d6697ee10687518d0d26111c68070fc5509146c22a9e39704e731246",
     "kind": "consolidation"
    }
+  ],
+  "SOR-87-348": [
+   {
+    "from": "2010-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-348.xml",
+    "sha256": "0b9c9a4e6db4c18b9521d08a94e98d97585611ee084f740b09fcec2cebd0d5e5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-375": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-375.xml",
+    "sha256": "8aefae196b2ad240c5c0e69328c596b5057c98c8bd7389ff04631f6b7a8d3fcb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-379": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-379.xml",
+    "sha256": "c1e0f68e39a7a70dc80d6a121316f46853ea80bf8ab51d2fd5e38aaa65582d07",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-402": [
+   {
+    "from": "2024-12-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-402.xml",
+    "sha256": "426ebb229ee91b8013730180016e5e623d0c70e9c41be0365dcfda6e3bd9fb1c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-403": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-403.xml",
+    "sha256": "482b3125a59ab7e9039139ca27771c513810fe4a4f69120d63c60f7a4adc7c72",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-443": [
+   {
+    "from": "2011-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-443.xml",
+    "sha256": "a123412a57d3e402b385a2291dcd84432500f45cd0c1d3b8b43a8eda1045813d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-449": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-449.xml",
+    "sha256": "a3643eb67ba384ca06b6fdaf760bd7a280b4da1e6cbf3643e4d4212c190c222d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-453": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-453.xml",
+    "sha256": "727fea705440af58d081d8bd64eb0475d126fd53c7920f4f947aef417c2fa587",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-49": [
+   {
+    "from": "2023-11-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-49.xml",
+    "sha256": "635817e505bdb7cf63bd20af8f60af428aeb5cabce1d90cd59901fb2693312ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-505": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-505.xml",
+    "sha256": "c342f87dd309c6c770a849c581116c79e49e2114c9142dd43b90944b503e0104",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-509": [
+   {
+    "from": "2023-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-509.xml",
+    "sha256": "8f10c0c6779f14fcbe2bb590a19cb5efe6bd7abda40e3beac3c1eaee41e1555f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-516": [
+   {
+    "from": "2016-11-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-516.xml",
+    "sha256": "39a84b89d05952adb6bb682853c48f28cd9b5668afa308940e98d348452c4b37",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-543": [
+   {
+    "from": "2026-09-09",
+    "commit": "b7292cfb886d9e0ad60852e7eeb058ff07c5e71a",
+    "file": "eng/regulations/SOR-87-543.xml",
+    "sha256": "bb419dc64b73bb8dc8d24dbb4d7eb875da701488af4511f05369e7721339dadf",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-553": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-553.xml",
+    "sha256": "592cb1cc82500fdec0f0892c98d04830805b51cda21f5cc235870c808ccbb114",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-58": [
+   {
+    "from": "2015-02-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-58.xml",
+    "sha256": "5934deb9ff8cd007b7d1036f98e0ee645e148b6027594c3262479c2939f43944",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-592": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-592.xml",
+    "sha256": "8cc39ccf0d571df58224d921cbdc37655b950a2dac82370178ed45fd04f4d9e2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-602": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-602.xml",
+    "sha256": "891d3ea3dabb810a1902187c22cf53d2a11f4aed3b8925183232f59756edb174",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-603": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-603.xml",
+    "sha256": "10c57f4a3918988862cecdef1f81ff096267a64a903164eca428f677cf3b522b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-604": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-604.xml",
+    "sha256": "5c0e8f578e80f4056d58fdca298ae825b1a48a47008ec6afe28237e5ec738311",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-605": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-605.xml",
+    "sha256": "d8af6d650820e003ab6339bde65ef4f327d039f81521052ad20aca3053a6d924",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-612": [
+   {
+    "from": "2026-01-30",
+    "commit": "6f57fc2b00bdba9b085db81253a379031b3dd76a",
+    "file": "eng/regulations/SOR-87-612.xml",
+    "sha256": "78ba0837a708c34469eb8d4f9647aafadf284886bd043410112ae704221d3d4c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-631": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-631.xml",
+    "sha256": "f1c981b6df9b83fe17071ed5432f0d8c0aa570b17afe92c0e50e9351e36aadc8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-641": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-641.xml",
+    "sha256": "d07ca48b2275e23d31e1a1cd42fbf4dd3ce0d646bdb21de7f49726ab179ed633",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-663": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-663.xml",
+    "sha256": "8a7ea9e2c0119448a27a3d0621ce9067a160dfb6d48a851086f693ab9177148c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-689": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-689.xml",
+    "sha256": "41bb94c719addb68290c9c44ef0971484a8ecd6c1f745b658af117234c716a7c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-7": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-7.xml",
+    "sha256": "a940ea9c574db13e012449aabed0b20bfb0995eac83647129b31169a7a1a9526",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-701": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-701.xml",
+    "sha256": "0913bb1045c71845c0d481003536d16c59c13c62a44e8e06bdab28fa17d8483c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-705": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-705.xml",
+    "sha256": "012f8217c78d14424663858b5ef2a8421f899819cc011fba7b3b75350087a729",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-706": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-706.xml",
+    "sha256": "29b77dacf36e81092834ab2634111bf9b86b53ddc8fcb85879e159823649d52b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-720": [
+   {
+    "from": "2022-10-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-720.xml",
+    "sha256": "75f8905c5406456f414854c928781ed6013893bc1a831df273ddbe44d2d46408",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-731": [
+   {
+    "from": "2015-03-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-731.xml",
+    "sha256": "b79364770db8d802c7a965d644fe489eb3ea52e7b8516132b8e35696f6c2dd6c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-91": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-91.xml",
+    "sha256": "8048c477169ebd1e4a861e88e588b02607d2f370864d0d7ebf3b286b33d9caf1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-95": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-95.xml",
+    "sha256": "02f1af39528daab753f3831b5713dbc50d85b302baa6e2159379755c87cc7eb8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-87-96": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-87-96.xml",
+    "sha256": "79d3d4e6625b10725756190993abfed293c74c288ecd5dd43d1f553137fbd30d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-101": [
+   {
+    "from": "2020-10-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-101.xml",
+    "sha256": "c401a6c6c85def267669279157ebf82cf0546443066d87008fc58a27213d983d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-124": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-124.xml",
+    "sha256": "1c4e601514a6e47a1d97b987df558cc08e48362e773eaee20ff3c0640d69f4ec",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-125": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-125.xml",
+    "sha256": "2497ec468450428eac725b82a5b5dd174ffc948fef43edc0c31f325c29a13647",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-126": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-126.xml",
+    "sha256": "f2431bb348c0595b36cff1a52abcbb5ae283b871c6d36cd4ca64fd1d2bff759f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-148": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-148.xml",
+    "sha256": "0c528154329165f346299c52aece2a519dddfb2df91bc31383e5b1db115a9797",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-151": [
+   {
+    "from": "2011-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-151.xml",
+    "sha256": "0334956180f037cdeea432fa62b3082e5eaf7d27344c827818673a3c181e85ba",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-174": [
+   {
+    "from": "2010-02-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-174.xml",
+    "sha256": "d4aa7f4d44301da49d81930c16638a25b1e08cd668c7138dac5a44d7a339f262",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-181": [
+   {
+    "from": "2021-11-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-181.xml",
+    "sha256": "6895fe44256377861d12725bface2df25d4def561be393e7e5a35c70e1727404",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-216": [
+   {
+    "from": "2020-03-16",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-216.xml",
+    "sha256": "aa8aa39802fd50853406f33e171b0abb78e21267cecc66448fd59df6457bd86b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-230": [
+   {
+    "from": "2009-11-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-230.xml",
+    "sha256": "7ac395e71d31cda8607ccb53ac163e31667a29af43c19ef004abc0fa7d978ca7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-258": [
+   {
+    "from": "2009-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-258.xml",
+    "sha256": "ddf9c07836c9e8a6a8e6e86612eecdf9d03e2a01da44c526b86843ebf691a843",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-262": [
+   {
+    "from": "2016-02-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-262.xml",
+    "sha256": "8d2a34d87c013a0419004aaa56cb2f8f00837358018aa85f8d1a27a30f461e5f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-263": [
+   {
+    "from": "2016-02-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-263.xml",
+    "sha256": "c82e61e3b3689036dd7a37a6eaa1a7e35df7290e1d46b9b180fd9fe1b501c897",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-288": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-288.xml",
+    "sha256": "3acf4955a5393642bebe3665fcd4284982ef57bc2ae577fc92a725e4151cf21f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-292": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-292.xml",
+    "sha256": "e83be2fbfa34c3a45f03a2d89397453e1d2983816f4e1d6095d09960195bcaeb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-307": [
+   {
+    "from": "2020-06-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-307.xml",
+    "sha256": "1585ccb61f99bf65a1a16e5f6728c1cff93a4bb8b9d32ed9c07e87b1cce9e970",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-313": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-313.xml",
+    "sha256": "d347a287e93783a871e246745b3abb3ca176628b747364f1a2c0b30614942448",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-315": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-315.xml",
+    "sha256": "ed1f8378d4327342af82ac4d6d2542813955d5ef31c91584638724fae469be65",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-318": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-318.xml",
+    "sha256": "ca0f3beb30b7634032a20740df697a6dc67a698f66e1d79ed4795f14a120334e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-332": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-332.xml",
+    "sha256": "4212c6313597f4abcec6ee32450ee63206ded91c403eff003b215457c2e362c7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-333": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-333.xml",
+    "sha256": "2403e0465fa49cbf713aaf2887077e41954ce01c8ffa3a8edbbcbf452d4a8ac2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-344": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-344.xml",
+    "sha256": "821f7a155849b0bf557cbdd1ed8f742448c5ff57fdaca242985d452de0d952ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-347": [
+   {
+    "from": "2024-10-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-347.xml",
+    "sha256": "d9e3ea06df22869f8ff5b3e1158cabfe5b41fd1aa83b8d784b376568758fb280",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-361": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-361.xml",
+    "sha256": "44a3966ee58312ca0e123c41599ac11e56f60bf53ea67bc1e25c2643605d55da",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-362": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-362.xml",
+    "sha256": "88b044bd5ec6728fd769e82714e54af052a97b6f83d5e70aac8f58f768bcfe1f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-366": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-366.xml",
+    "sha256": "d9a6c9187933fe30068c36c42de9f2901a6ff55b7933044f1a4c025458a287dc",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-367": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-367.xml",
+    "sha256": "1e0f0c01233d44b10bd980dda8095b051a483428fee8d1ef6331639db7660541",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-379": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-379.xml",
+    "sha256": "6906e88fb567c8a57afb5e354e920d619fd969a1b4dbbd35ea21984fc592c221",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-381": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-381.xml",
+    "sha256": "ab40404ffd25d4a421b53df01f7ad086e69cd2d0db08075591ce2d812ddc71e4",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-397": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-397.xml",
+    "sha256": "dd16064462b8bb0d2b4712b685afa6fd72375857dbf95e1587858cd3f2fe7a97",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-398": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-398.xml",
+    "sha256": "7d52dba611bd01a8c3a5bdcf78ae7d134c90954a4ba425df07a2d6a55115bb72",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-399": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-399.xml",
+    "sha256": "6e841240eee493dcc48bb994d38d727581b14f3a1f0c0988c6451a19a2d0060c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-400": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-400.xml",
+    "sha256": "dce7cb0a83650387ba24b742287bb6758e4202fecc3abb01ad45791dbb08e37c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-407": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-407.xml",
+    "sha256": "7caec3c1cf4eb9d4cdd0f80b87fe65703490faa0d7b6e58275efec5d2e82a485",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-41": [
+   {
+    "from": "2019-06-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-41.xml",
+    "sha256": "5d813dd1009ac5ebf8088d8471bd09050d923775682b8ac8000bea9e64feb436",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-430": [
+   {
+    "from": "2025-01-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-430.xml",
+    "sha256": "4a0e39836b9f766c9061c3a890d49d5f9c8bf3354b2705b771986f0626dfc849",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-447": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-447.xml",
+    "sha256": "4548a5ffd1cbe51bddb1458e6a12a23887ea82be678a5f8b0be43c7f35c451b3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-450": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-450.xml",
+    "sha256": "3083ef0e685a3d0bf4cd4eef925c114e9d80825318e12793a5999ba511331c71",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-456": [
+   {
+    "from": "2020-03-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-456.xml",
+    "sha256": "0fda0403941dad0f59efe388a99ea06b869fa4a6f719889ee01b8ecd344a8ffb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-464": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-464.xml",
+    "sha256": "c10891dff724d94ff7b53e99c2b401e5ae4030c3e28f2d25459605b4a9ebea11",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-465": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-465.xml",
+    "sha256": "84978d6956e3ae194f83be9d7ca1d6c8c11c9a1feb17a669396e99c760862344",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-467": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-467.xml",
+    "sha256": "30a8852924a19819de71f8512787efcba7abdd999e7796ccd6303148acf1eea8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-484": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-484.xml",
+    "sha256": "0b491da96dac3f8eda690d44e216b95cedfa608718733725d5e2a11148e6a3aa",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-485": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-485.xml",
+    "sha256": "d0fc3e6e56fce34a38803c8b10936ce710159d69a01e146d20f30c246f750751",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-500": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-500.xml",
+    "sha256": "4eabe2ce9e08dcae0446c8bd2aba50344a567542edd0c35e5f54036f7883700a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-501": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-501.xml",
+    "sha256": "789f000b1c9324a68fc51df750cf731a134be5bc124b6b84d3078e3e1a9a397e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-502": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-502.xml",
+    "sha256": "88c0acf9d67bf8e698e0ab662d45188b6d3ecbcf0485ade928ac49ff5ce4f19f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-503": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-503.xml",
+    "sha256": "aa8333bb6a9bcc4241a5856b285c59a9459f6536b7fe0c796833f4fced988bcf",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-504": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-504.xml",
+    "sha256": "be1c77a748cb6e4c6b6aaa3461cfc8a64a364fb8434379d1a61eafa25483857c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-509": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-509.xml",
+    "sha256": "699cfc6e4468b3408b632924ab766a2f8e47723803450e53164d9d414b9205c8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-514": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-514.xml",
+    "sha256": "8a528eb690c86f9f2a6dc978e891f2ba107e4c7286d836510d6cbb74cc0e0ddb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-518": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-518.xml",
+    "sha256": "19365eba4a12687678272246449b8a17ed8369bb6b0da89f026b74d0b884c4c7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-522": [
+   {
+    "from": "2014-11-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-522.xml",
+    "sha256": "492e2d8ff6a10a27d711185c6112a8ee1c44e59cc44275013ff3dc7fcb49c978",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-527": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-527.xml",
+    "sha256": "d60f7c46304cf19c8caef46da1d06be4b2eb0a826f6766a4c9794ce2b4e0d798",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-528": [
+   {
+    "from": "2016-06-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-528.xml",
+    "sha256": "8201756681a4f28eb055df637accd48b198ee4aef153d688c05c0feaf0ae5d04",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-529": [
+   {
+    "from": "2016-06-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-529.xml",
+    "sha256": "7dfe7291c2b6a044d4235d62d60216852f89c22d67156a44b839f84e0b93b8ba",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-532": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-532.xml",
+    "sha256": "2aefe3e0a678013b4aa9d72225460002990f7077e245248f62c5573539d9483f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-574": [
+   {
+    "from": "2006-04-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-574.xml",
+    "sha256": "43dde49289518c1f73d6c7e7077b3bff453a5c613b0b7f7a783dab3206c75f55",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-575": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-575.xml",
+    "sha256": "426fa18d1573bdf32172dbf556b6854ee8ea1c3861f38c3560e8696d174c4f26",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-576": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-576.xml",
+    "sha256": "06450395fde38bd83a94568dbcf6bd31656d6b7f1957a606e05bf4bf349356bb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-577": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-577.xml",
+    "sha256": "5ff20c576cef7f51e958447f3fda424190c651f194a69438ff9e35ebd1130e54",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-58": [
+   {
+    "from": "2021-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-58.xml",
+    "sha256": "ce4020d01d4b4e944e1849c953541071caf11e80b4beb58d59aeb0577e8cd20b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-590": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-590.xml",
+    "sha256": "154862e54705317d991e045fb5fb9c1f9d18da7942e0e355617bf54d66958d60",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-591": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-591.xml",
+    "sha256": "5112710e5762daa0b8358eb22e89a6e4dea15daca0a44b5fca9987d65d56dc18",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-592": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-592.xml",
+    "sha256": "faceca103b56c16c00d3f5383f60a6e5fefafabc9f2c277bb0423f745f66ce99",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-593": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-593.xml",
+    "sha256": "c1d86578f149336384e9b199771aaf021397e7066cc59413d096705dd5f455ad",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-595": [
+   {
+    "from": "2015-02-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-595.xml",
+    "sha256": "16cde72df3fd5fe3a31c6ac869f9558ab55f86a00c1144ec39177bb5fe716cbd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-599": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-599.xml",
+    "sha256": "aec274188cdb13d05005491f5cc1bd45e5e38bb8076a143ca96a9fa901b14253",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-601": [
+   {
+    "from": "2014-12-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-601.xml",
+    "sha256": "e1e8200a557988915083a6018969b084f4b51e5be29a0431a7cc42cd89e57896",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-64": [
+   {
+    "from": "2015-02-11",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-64.xml",
+    "sha256": "51591e735982b0009ab52946d7c95f9be84a1a8449a0268d98e82ab431fd19d3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-652": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-652.xml",
+    "sha256": "cf29a9113b681efd30484a5359ed6b106c789656380c55c2346a85ffc7762ffd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-66": [
+   {
+    "from": "2015-02-11",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-66.xml",
+    "sha256": "40ac02c4b59cba50b94980e33b178d968d8315f5635f61f93f75f29e6b8c6cbf",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-71": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-71.xml",
+    "sha256": "b3fccb12fc52d8226510ba758c8c993f6cae46a340b1299920c9a3ca396ffe42",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-88-79": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-88-79.xml",
+    "sha256": "eb5a7286ccbffe35436402b1a3ff10dec8618287b41282ae52e73b0e91ecd54c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-106": [
+   {
+    "from": "2007-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-106.xml",
+    "sha256": "274ca2ac4d43df6c19d5b983f57d5e7207da5ae0c72d0981746e4a8f4772040e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-131": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-131.xml",
+    "sha256": "10ce044944a85ca2bc5401125cf7cbd96eaa6620d1dd4f76e9afa18cd7f6ca9c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-132": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-132.xml",
+    "sha256": "d10dda10ffaa392ba2d5238a7cf617ebd39dffa29504abf48cdd31f39cb77192",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-133": [
+   {
+    "from": "2015-03-27",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-133.xml",
+    "sha256": "56b154e9fdeecc29fbe44afacf4772b0a38b1aedd570dd50ee9cbab275f9e4b8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-134": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-134.xml",
+    "sha256": "43502abb5c3fc26418c90818fe221d8e772aa0852e022c9c42270b61e3ebc2a8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-187": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-187.xml",
+    "sha256": "68b6ea828a60dba0d3e83e2495bd6b55aca0351a1a81802ea614125383cdbe33",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-19": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-19.xml",
+    "sha256": "f172c8301a0f05ed10689721b76ab0641e283d407ed7c6361d7407621f0baef6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-202": [
+   {
+    "from": "2026-06-22",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SOR-89-202.xml",
+    "sha256": "2caa4759ae8cc9ab25aa61c795271b9f5ef0f351b7f44243645bd23d7ed63808",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-206": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-206.xml",
+    "sha256": "3a538377956a856a51dc0f54475cba715796e5f04aadb3eabab53153c905d79a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-207": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-207.xml",
+    "sha256": "9e4a641143ffb3fcaee2facca6804c07f2df2e7e092facccb355b51e3fb0fd00",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-221": [
+   {
+    "from": "2008-03-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-221.xml",
+    "sha256": "aa856004f2c6f137e3034f574c25bbf7ac1e9f849cfc124f16103aa09590dd87",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-222": [
+   {
+    "from": "2020-10-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-222.xml",
+    "sha256": "0090b0d189a73c9d87ad9699eecf652d3d9098d1f02d3c982d509d640f8ba80e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-225": [
+   {
+    "from": "2021-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-225.xml",
+    "sha256": "10334b53576b315e0394b17bbe88b9647aa828ffbea2c139e21e252a49127eec",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-235": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-235.xml",
+    "sha256": "7437cc3a764d0fab1735d844253479a0703fd364c088566c613690b37f97c1e0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-236": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-236.xml",
+    "sha256": "d325ad0b6940afc57887de1bb3c434e7bd21b0258d538516154e64bb4cfa56bd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-254": [
+   {
+    "from": "2014-04-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-254.xml",
+    "sha256": "a48af4dc5ce929d9913c44b017c9e11a000aa764032927f8b46ad442b2bf20f2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-255": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-255.xml",
+    "sha256": "d26d3eba6459a49cb16252de02eaa30665267210e9ac8ee4aed503dce434b491",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-265": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-265.xml",
+    "sha256": "3e2fa8fe7ce3e5c0eb44d2d336871555f30a79c44775d8a48a793fb531e4d0e6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-297": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-297.xml",
+    "sha256": "cd726c591dff9af917a936f453077ed6b9d05ffd4ffec0c88667e2cef1764d97",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-298": [
+   {
+    "from": "2019-06-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-298.xml",
+    "sha256": "c1f2920f409ef07bc458d56c4c9577d844a3aeb37c7e0033e30fd02cc8de6c36",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-30a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-30a.xml",
+    "sha256": "012c808d54ca339381d5dd4ea688066862e65f50f3526a0ef02b958b9f1a3453",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-30b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-30b.xml",
+    "sha256": "b1fe8a2e245bcd3b6dea65870ba5f54af643901e2efd75a9ed280127a2d8e068",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-31": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-31.xml",
+    "sha256": "8ecc6c76bdbba8844c6bd66d3070169d9d781a6eb7463f82330e5f68c8865611",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-331": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-331.xml",
+    "sha256": "fdc79f80580513ccd7bcbec5c58b4492be82f316ab63d23a16ec7ad23a69b5a2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-332": [
+   {
+    "from": "2018-09-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-332.xml",
+    "sha256": "ddf0e5fd9f22af31aa44588f97f80e5251283bc6a7266b596f32d2242cf9848c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-348a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-348a.xml",
+    "sha256": "0c43297e40b491228864c241c0df3328589a8fe184a79f22f5f12c350bb3bf03",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-348b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-348b.xml",
+    "sha256": "b230e997b6ea890df15b9107343490676569e5f44b7b3be66cf97629041c76e8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-35": [
+   {
+    "from": "2022-06-24",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-35.xml",
+    "sha256": "006adb1238a1586517c5fa7e6acef102d1babcf4161f995c14a8dfe775cb1930",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-36": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-36.xml",
+    "sha256": "ee5136552b1fe669ee3762b2ddbac60df5f2ee4845a5b02a647de9409d76457e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-408": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-408.xml",
+    "sha256": "c5c6b7c64f673a4252a09d88fd98dc9cf0df560c2b3c0c46c9856fc472371178",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-41": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-41.xml",
+    "sha256": "6c6951d8274b9c8b83a47876f097c6e43ce76bd7035349fff03eb2b711d41121",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-421": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-421.xml",
+    "sha256": "b786c62beaa76d884aefac96eee72f4f43e57fcc1d416f9516ca0498b7a702f5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-427": [
+   {
+    "from": "2024-10-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-427.xml",
+    "sha256": "a51083882c0bf385c7f3ebab84519d322f0e1b01144a875c5aca824550f2c5c2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-440": [
+   {
+    "from": "2007-11-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-440.xml",
+    "sha256": "b741c317e64b4ddbbb0a360333cb2f95a7efbacfa063df76f685c705b5249c0c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-445": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-445.xml",
+    "sha256": "02144d53cb9df88c9c8f153cb3e09aa1d3fffea21391c1a86c4176816f65a867",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-446": [
+   {
+    "from": "2011-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-446.xml",
+    "sha256": "bc07956f923368b14b0585425fdfa1abd9512fcef31624f51994d059ff4b3aff",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-469": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-469.xml",
+    "sha256": "17eb94dcdce1dbcfaeb4317192a64335faa062e56a7236dde09129ecdc880c47",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-501": [
+   {
+    "from": "2019-04-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-501.xml",
+    "sha256": "dd4c2cdd0772efc08cd1f9d350aabc4311959ccd1529bab3fb5a4ca0fce47eb0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-512": [
+   {
+    "from": "2016-11-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-512.xml",
+    "sha256": "0c677705562a18ca95f22fde189eb4a5b9bc5af98e3836df40c6c4815154157a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-514": [
+   {
+    "from": "2008-10-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-514.xml",
+    "sha256": "3b557d4a0001e44b81c4d5416235123d8b17a95ee381a6d77d9343cef635f3d9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-533": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-533.xml",
+    "sha256": "cbd9c7adcc9921ab91a1b3e8e913b4bbf2091b1ef1d03e56c2bb7f42346268e3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-538": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-538.xml",
+    "sha256": "4dd7c71344f75c745562974f73ec99d23e22930ce930487eb4de343607a59295",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-547": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-547.xml",
+    "sha256": "2a97619837c4cc5328556156de560f01eeec7e1b4221a6527424747d71104258",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-58": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-58.xml",
+    "sha256": "c296fef3fb92451c87906075864f4d5f8b53cf64fe909d98dac06fd7fe2426b1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-70": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-70.xml",
+    "sha256": "f1546d64ab451c173cd15cfeac74adc141cb6a0bc04215d5783f66140bcbed2f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-71": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-71.xml",
+    "sha256": "0a70a0bb59f20d67d1d06268f29ff344a918dd7443009ec75080106fab199aa1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-93": [
+   {
+    "from": "2024-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-89-93.xml",
+    "sha256": "b1ea4d5a804cadf55ef75b2d1013744487427275c5facbf7ca48260c6de25bfe",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-98": [
+   {
+    "from": "2026-03-31",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SOR-89-98.xml",
+    "sha256": "0fafccf099b6fbbbcb8d191a6ef9af611b5c4dc0d9deef48fa6b743260f35108",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-89-99": [
+   {
+    "from": "2026-03-31",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SOR-89-99.xml",
+    "sha256": "d89ddf42efa8c068869aab6995dbc4cce522cb590d929f8185c78d6cc2dc7f40",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-10": [
+   {
+    "from": "2021-05-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-10.xml",
+    "sha256": "9630c0c6eb9fade4783e7d454c74d127dba984b7389639cef9647d2accc481c8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-105": [
+   {
+    "from": "2017-09-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-105.xml",
+    "sha256": "0ab62544d0cf894f9fba28ee2c4685f4cf2dd87f28aed7f2e7f8eb5a95bf5d9b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-106": [
+   {
+    "from": "2017-09-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-106.xml",
+    "sha256": "ff9508c8f7a3151eb7a111e2b4f8944c675ccbb4d3d1a232644c9d1b04cf7857",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-115": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-115.xml",
+    "sha256": "1c3aa9a95bdf3ae50e369e9dcf22e781459acf3070c127792c1010c3244085d1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-116": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-116.xml",
+    "sha256": "96231602d619d3584c4919655340f0c93c5f2b5786edd0a17d23db458239b697",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-130": [
+   {
+    "from": "2019-04-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-130.xml",
+    "sha256": "047c935317a732166ba96830e890f85775b9446c97a95f707ed038d210e7c37c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-149": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-149.xml",
+    "sha256": "714aac6f97cae0f8b87ea33124551f711f075515be12e7d615be087bc15b23d0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-151": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-151.xml",
+    "sha256": "8e91e3a726d737b5ea98eeaf1d3336a33148b9e758dc2fcde3d57b24bba07317",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-158": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-158.xml",
+    "sha256": "5eea1d3d72fadf5be7af4aa451cd5c53fc672e8fbdfb01e3d8b894772bb202fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-162": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-162.xml",
+    "sha256": "6315498528aa55ac7d5c1001e705da5dbc0f6665842335834f3b3b44eeacf73b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-163": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-163.xml",
+    "sha256": "0062e46ffa1f988cd1a8136777900e1ab9512201832bb0db46a719503aa92b83",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-164": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-164.xml",
+    "sha256": "914a49ff4c8e95b2a4f1e191ab4b3e5cf4f329525dc36e3bba7f64b9e7a8314d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-21": [
+   {
+    "from": "2007-10-25",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-21.xml",
+    "sha256": "ae930ecb4f62283076aa7c6c17386cf1fa8b1983cc19838c084c49b46624e1dd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-214": [
+   {
+    "from": "2024-10-23",
+    "commit": "824a5d735af98b6af9aa188f8524a1b36aba5eeb",
+    "file": "eng/regulations/SOR-90-214.xml",
+    "sha256": "d559230800a1c67f6e8f1eae6b542181533cc96304bc935ca51de70d74fd97fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-225": [
+   {
+    "from": "2022-10-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-225.xml",
+    "sha256": "14bc66967f86eb8fc28ae7ca3660e90a9329cb962c935decf45df8dfb46474da",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-231": [
+   {
+    "from": "2026-08-17",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/SOR-90-231.xml",
+    "sha256": "0e2d3c652de3b768b328f05654dd994007b54809dc237d889175ecdcff634dd0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-234": [
+   {
+    "from": "2022-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-234.xml",
+    "sha256": "b1a3864f330e42448470796e24110c8bf875763bd131ef49e1d41bc80921da92",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-245": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-245.xml",
+    "sha256": "d84167a7988a715f44454625205ffdd4a22fb2f77d6867d1e7a43ff8c324d565",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-247": [
+   {
+    "from": "2017-06-02",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-247.xml",
+    "sha256": "500c644c07262b4d143f03b1baafa96e4402cbe4f187459c76a26641c1ea35ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-288": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-288.xml",
+    "sha256": "2fa1986c268fa3dfbeba46f90fc85112d5e7fcd2c08ab231f87f6ded2de84d0f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-289": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-289.xml",
+    "sha256": "cc8667c253ec7a1595764ae24cdd40cfdd46a92d77cb82c0c607703d50764a43",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-297": [
+   {
+    "from": "2021-07-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-297.xml",
+    "sha256": "a13a1ab1b693976d92c5d8af68800bc3bc01573db7a21667d88d18c57849a3ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-301": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-301.xml",
+    "sha256": "3c818f47be2b074ad7d0c3f5259a47da71f0a38933bf43ada79105f70c4d9771",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-303": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-303.xml",
+    "sha256": "3f171a819a6862d090f344b848b32fbe1a72384ef5bbace8e7f0dd61441c2193",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-304": [
+   {
+    "from": "2017-09-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-304.xml",
+    "sha256": "56c251174cff4e69be85450cf08f6d64e5ea4822516a090fe916112214af91d0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-341": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-341.xml",
+    "sha256": "552119db477cb57af2b2b27973ae26391c52e285de5a0b0463f92d686723dd24",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-351": [
+   {
+    "from": "2006-09-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-351.xml",
+    "sha256": "3ea90964a4454848d9215f680137ef4ab1007c2226eb4f4fe7a25b434d64fd4e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-358": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-358.xml",
+    "sha256": "37df87e4ecf6a307d7101a8098b59f6894cd6c3132e7a8a10fe2e83a56300150",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-375": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-375.xml",
+    "sha256": "b39c24f26290a81c602f5c9f584e5238f21c8306efab73ecd7c9783a422b88ba",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-377": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-377.xml",
+    "sha256": "f0a0785779cb41cbb627b7e7ba434d066d7b0569133bd970fc213aa6d3ab4d63",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-379": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-379.xml",
+    "sha256": "0fb39c8677bf639014d1ecb19c22a8fb9ced8f97798a698cb39b5ef9bb5631e0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-39": [
+   {
+    "from": "2016-06-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-39.xml",
+    "sha256": "864949d4addb9481ce5daa5dae03fb919ff27478c7bbb2e067b23c0791632186",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-399": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-399.xml",
+    "sha256": "f4e2c552e6fe2ba7eba12b5e50f6424bc3db6964485ccb5fd393b3ab1fe91433",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-406": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-406.xml",
+    "sha256": "2917e0b62cd34d9ef2c73064a75d9b256429180fdc8ff20d4c001199865b7c63",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-430": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-430.xml",
+    "sha256": "e30b24f80ecc8222467b09ce642d3eb8f4470147af14286a343003eb0e5e642b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-45": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-45.xml",
+    "sha256": "302dadaa2fed3fc814346b5d7ab9afe64b79bb992e60f70ff680a088846ce189",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-46": [
+   {
+    "from": "2016-09-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-46.xml",
+    "sha256": "25736659e12a0cbb6d5b197ec59129c4860372c8589cc76e96f3e1bf4315acde",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-5": [
+   {
+    "from": "2015-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-5.xml",
+    "sha256": "ff806b4b2d68d58789fc487ca053ff39207c7b983bef44f00f3ad691511f49b8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-530": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-530.xml",
+    "sha256": "8eaa9c87d896047becb7f8106047fd35743dbe3741f91ad596d17f4c8dbdf02e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-54": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-54.xml",
+    "sha256": "166e344d7ac314fc79fd3763f5119544cec493443a9be11d34e689f64af8ef0f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-58": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-58.xml",
+    "sha256": "12067834b8da363d6af7d17ecef36b4eeb328a77c37a749b1540b3b5109a1b39",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-59": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-59.xml",
+    "sha256": "c53aedab1ab128bf19fdbb2fc529262f0362599fd0e0aabad06337f101334e85",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-594": [
+   {
+    "from": "2026-03-26",
+    "commit": "bf9e08bf6e07a1c71b6b226773293d144b497f99",
+    "file": "eng/regulations/SOR-90-594.xml",
+    "sha256": "600f8bddd259a3dd54f8eb2f2d078141ad46996def17e826d70a96bb7174d7ef",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-610": [
+   {
+    "from": "2009-07-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-610.xml",
+    "sha256": "adbe016c92538f76b9d59fc060168b349d224936388d84a14656bbee08a154d7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-631": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-631.xml",
+    "sha256": "209d926b5202a93ce20ffde1dc2e21de92b0068f289dcc46155cf792a8b5d544",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-672": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-672.xml",
+    "sha256": "d24c6264ceb72d6ed067424391df399aeeaf51858fd84ade916b081c7f1177da",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-688a": [
+   {
+    "from": "2023-07-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-688a.xml",
+    "sha256": "af83343b864de7e55541a8ec654c471c374ac34cb9f403943d3e1e56250e2e94",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-688b": [
+   {
+    "from": "2023-07-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-688b.xml",
+    "sha256": "6eb7a422596951b27c91d7c2431d4f2741dcc02aa3f19d638d7a60dfc14939ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-689": [
+   {
+    "from": "2023-07-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-689.xml",
+    "sha256": "e2bc7c00a2824440b23f5f6dd918433a8e45f58a75847e955b9070be3563ec4f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-690": [
+   {
+    "from": "2023-07-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-690.xml",
+    "sha256": "0182d26d55bb3a629fd641b9f4aa402a12255baa05d8bd2a4ff1393d0eb49c34",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-700": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-700.xml",
+    "sha256": "fff5520be74b4c223772b0c0527d10669663834ebf81c8a29f48dc33dd662c1d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-706": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-706.xml",
+    "sha256": "f998ef42019f3e17b8f0b98d74d2ac02892ada9d1a7d4e2dd602232aada60f00",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-729": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-729.xml",
+    "sha256": "d5066a517ef6b54d2df5de6a8847818eb3eef186e16d5d2f98936c5c95845d78",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-739": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-739.xml",
+    "sha256": "af68094026b17a9d711146e21466cb10bf902e7937bd49628074a95620ffcc5c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-763": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-763.xml",
+    "sha256": "1ee0fb9243e49dc06f720cd1f45eed1775831f2a33efcf69d10b18798642ce74",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-774": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-774.xml",
+    "sha256": "c3f2303c3f3f6a0fe00cb8498e51011d05add57b2f88bc696dce9357e3df87c5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-791": [
+   {
+    "from": "2009-12-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-791.xml",
+    "sha256": "b92a3046538c454582f1d294f2314cf519975a71b4403c8b1b63dd5bb9041dd0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-793": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-793.xml",
+    "sha256": "55a41198d2c104922e9d2413e84b9c365b0e2c974372649ddaebd8c5133f2705",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-794": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-794.xml",
+    "sha256": "66e909bb8f947e9c4d2a9fcb4248ac94182ac7302a12edc3b4a0cc680ed74960",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-818": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-818.xml",
+    "sha256": "ede42877f9cbbe490ae27d132e571458b35a8723b46d2f43fcbdcf5775c4d2ad",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-97": [
+   {
+    "from": "2021-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-97.xml",
+    "sha256": "a37924797a2276f4b9118893622c800e1a44348934210f73065608c37b67ebf3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-90-98": [
+   {
+    "from": "2021-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-90-98.xml",
+    "sha256": "e579a87e1f13333b4b0443b020aa12f39f46d8a275fb48e61afd5f9c8732e6fe",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-101": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-101.xml",
+    "sha256": "eec472ae84618524a5f3c51dc068e12055bb5031606d88ba162883b80d162070",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-103": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-103.xml",
+    "sha256": "f909b044f69f4d8597d76fbc880f22c1cf25538e7e2a9da569991b87e46f7e8e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-104": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-104.xml",
+    "sha256": "129cd9e0e15f5c9dd5c4acc3d8508d9f11c31633c08822e899c92ad789e51215",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-107": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-107.xml",
+    "sha256": "a68ee36957adb9797cc3b7cc076585f35a2dc88416154ab8e4252f4c8f1773b8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-122": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-122.xml",
+    "sha256": "0a0454055b1ca629de2085c1696da9b6e576b0d33647ee512607bcd370df878e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-134": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-134.xml",
+    "sha256": "7f354cd5a17fde9b3f8744e8548ec88f9b7301a576f77cda9485146f818f760a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-152": [
+   {
+    "from": "2008-09-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-152.xml",
+    "sha256": "7eb8966f4b0d63eb0bbf3b6cd728784394c4416a36e6f529f6fc7f1453cea30d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-155": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-155.xml",
+    "sha256": "0efcc7eed713e4aa22e3f94402d6d988fd73d28c42f5385129cb224330106ca8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-168": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-168.xml",
+    "sha256": "06284eefe137b6ee20a8792c0558f37a5ccce1375049b35f953bf8c04c5aeb68",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-171": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-171.xml",
+    "sha256": "1c100afa5c2ed862ae70273a83d01460b22e916a27cfceb53586311865716d17",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-172": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-172.xml",
+    "sha256": "7df3441e0a66e5ca6bfa24e5628e02bd07d041a786edef685e3274a0f5b82be4",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-173": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-173.xml",
+    "sha256": "8e303be48ebf46062f59dcae32c1a9c76e8a56f49762174fbad0cbf894fa8a33",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-19": [
+   {
+    "from": "2006-09-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-19.xml",
+    "sha256": "a3eb550453ae52e308f77f97b399036beac6b066cc54e219f0bbdfe6859b47bb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-2": [
+   {
+    "from": "2014-05-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-2.xml",
+    "sha256": "ebd1e677180441f3e3717bc6d11679b0ccf912896c9cf62f2961e5c5ba0337ca",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-20": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-20.xml",
+    "sha256": "4383d0f23cc216e54373a58033065403c8c8288e25558b524de11a8af524071c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-21": [
+   {
+    "from": "2017-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-21.xml",
+    "sha256": "e92672d07795096e4705f28db1dc07c45bd2b84a7ee16ef3c0549eb3a393f32d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-23": [
+   {
+    "from": "2010-07-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-23.xml",
+    "sha256": "6c8496b5090cbe69145ded7ec6ed1e2a769292b42ce4444b9efb7ec91627938f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-24": [
+   {
+    "from": "2006-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-24.xml",
+    "sha256": "c91d86999dbf18e50ae1d4d0558ea76c37ebc61bc513465a82a17ebdf1c29efb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-242": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-242.xml",
+    "sha256": "fe9325bbc26839ce56692dd6fad541ad9179042ed21874dedfcfbcef8b85d530",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-243": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-243.xml",
+    "sha256": "039c85e460a2521ef5f923a25986473ac258ddda0bf96b502cbc6de26e33a294",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-25": [
+   {
+    "from": "2019-03-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-25.xml",
+    "sha256": "478aafa3bf0c8997e223dfdd12d19ffbbba1556c55e0e719be1b1a702014b4b5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-253": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-253.xml",
+    "sha256": "01195948ab11bb38f06110acbe843aabba9242acb4d20e1a9432ccb0e58ed91d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-26": [
+   {
+    "from": "2024-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-26.xml",
+    "sha256": "51694aaf75245381eab6b1c851891704680e5dfb5d77f8f2de760b6657bedee8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-27": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-27.xml",
+    "sha256": "bc99015c221b30cf93815aa44be3eed8fc005eb4736558f674a1da2a7475eb3f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-28": [
+   {
+    "from": "2026-02-28",
+    "commit": "364726c551e1ecd1466511e8545a03759c0babd0",
+    "file": "eng/regulations/SOR-91-28.xml",
+    "sha256": "f09db52b1396ca95eb2ba6672b691250ae72246a342865bf360993311bcdf90c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-29": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-29.xml",
+    "sha256": "0d2aeed5a9ef79436e3bfad40f571bd3812a0edac4d2cc4a9f87ca26e89f87fc",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-3": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-3.xml",
+    "sha256": "8ae908aaaf0b2427a142a1627b3eae09b7203ff5323e7109310dd7bb8298b48e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-30": [
+   {
+    "from": "2012-06-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-30.xml",
+    "sha256": "8dbc33b762467a6d7f3bcfed60789e08693a21c65046b1fcba99f3ebf3640951",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-31": [
+   {
+    "from": "2014-10-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-31.xml",
+    "sha256": "11149304688196aff1ceb58ee503bd82289693a8812c7128b8f9f3dad1a56ec8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-315": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-315.xml",
+    "sha256": "c33b890cd32109cf61ff1142cfad0c07e70f78743f28c9d74e3c461248c24b2c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-32": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-32.xml",
+    "sha256": "6a27d49554589560837162b4a652d0c24067cd380ca47db4c629ff8d2d295e7b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-33": [
+   {
+    "from": "2019-03-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-33.xml",
+    "sha256": "f4ca5828a05757c18058a4164f8287fea075c7d4fbaa4b9f59b103496d3edee9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-34": [
+   {
+    "from": "2014-10-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-34.xml",
+    "sha256": "7ad889f9b7c10d5ee9858d6966777032b9ffa9acb3668075dde70cf9b7e36028",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-36": [
+   {
+    "from": "2024-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-36.xml",
+    "sha256": "9ff4203d9c8fb1685f184f80e592da834a713ba876cdf3149784d2f5bc450ee7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-365": [
+   {
+    "from": "2026-03-09",
+    "commit": "340120ee5b9b1acae7d1bf489c57d21a9e3b2b44",
+    "file": "eng/regulations/SOR-91-365.xml",
+    "sha256": "9b73073875ac579ede456fe0e257b5a3641c98cca4de40f988b9d15e7bbda8cb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-37": [
+   {
+    "from": "2024-06-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-37.xml",
+    "sha256": "30e96ecc4f5973f31a500327c9821f7eddd63055dcfcc6a003ebf9518a46bb9a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-38": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-38.xml",
+    "sha256": "cd0cfb49e659d3b1f35e5d048c26fbbcd9cc0495b36c6e0a8992938735c40090",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-39": [
+   {
+    "from": "2012-09-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-39.xml",
+    "sha256": "239f766b5732b0b725eb54e6bff488f6d5fddebcf28ffe3b68fd5d964bcb827c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-4": [
+   {
+    "from": "2024-02-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-4.xml",
+    "sha256": "a1638a8e8300e3cc3b9f302ccbb6225c78e3b9c5ccafd5925b2ed72e509bf390",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-403": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-403.xml",
+    "sha256": "9f08701aaeba0b8b8e502701c912bf6ac744fc6ae03a57f8c16f3a0b9a7756ca",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-41": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-41.xml",
+    "sha256": "ef5e8eb800e8026aa9b04d2badd20fc22c0103be629b614bdb8d9f177e06cce1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-412": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-412.xml",
+    "sha256": "74a1052be714bca40b69ba27b4b9503a84c77bc61305f7e25c33fa016c1dd5f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-42": [
+   {
+    "from": "2006-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-42.xml",
+    "sha256": "4960823eaff5b9e32c4c02801ab9bb7eb5541e756028e7172a85e08b6757ff56",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-43": [
+   {
+    "from": "2014-10-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-43.xml",
+    "sha256": "a167d80f75c0128a72ac80af702f2d407a71d09e5326410561d8e05097dfb336",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-44": [
+   {
+    "from": "2014-10-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-44.xml",
+    "sha256": "371579c82954904b8eea648ce2f202aa43da351733b454b1a9affef46ec31be9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-444": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-444.xml",
+    "sha256": "ac78387558a2030e95a7a33863f6c73ba4a687c500f4ecf76291d69543dc5a86",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-45": [
+   {
+    "from": "2024-06-20",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-45.xml",
+    "sha256": "9c8857101a6f3b4d9d0086c190af775a793fb76520576daa30a5933d461a9b55",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-457": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-457.xml",
+    "sha256": "75f84cdb96215d10167164a2da8e484a983828472e9ca9dc35fbcf3dea4d75de",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-484": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-484.xml",
+    "sha256": "af8e3c6f1b997c1ef243bd1f740fd4e59b7c7e2ad4674fac4c3a52b96a077392",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-486": [
+   {
+    "from": "2019-04-08",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-486.xml",
+    "sha256": "5fa62c99134d66bcbffadab2cfbc5cc75dc99b7f2490324999c87d4ef4da8e7a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-488": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-488.xml",
+    "sha256": "e43061e95fabcb40bad0e26c76371f86fbf3c03b93e626d8e39be3c3c03cb386",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-49": [
+   {
+    "from": "2019-03-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-49.xml",
+    "sha256": "9283f484f5e5c41e073dafb7b241393eb207a7053c3700541ca885f7358f9c02",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-499": [
+   {
+    "from": "2018-04-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-499.xml",
+    "sha256": "030ef66e7a5749bf22dbc43080d3c7a26141a0f91ce3b8d118d8cc08ec893ae3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-51": [
+   {
+    "from": "2025-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-51.xml",
+    "sha256": "cab5e5a08040a352c274db0ad5730f0475fcab42702805625255d85c34baa9e3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-519": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-519.xml",
+    "sha256": "7e91a07339f563246b7aaca8f253b6d360886f867c6d0132730fa67d3c79ca9e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-52": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-52.xml",
+    "sha256": "7986a4adb34907b6af6c8996bbdccbb1a5b071903fe7ced1935b5b71a217b583",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-53": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-53.xml",
+    "sha256": "33967ac602c4f11427cf3933655d04fb2550f404ffdecd9b6f54c485d1c03df2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-548": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-548.xml",
+    "sha256": "cc211d6cfbe5c7fd67fdc4eb8dbaa9f2796b298383432069be428c66d437fc14",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-575": [
+   {
+    "from": "2025-02-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-575.xml",
+    "sha256": "9f513a3b83f681d7bd82c1f228900ac5d53c225ea993bb33d206faf9982764a6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-594": [
+   {
+    "from": "2026-04-23",
+    "commit": "12cc1320527296aa73a457af474eb5197fe4dcfd",
+    "file": "eng/regulations/SOR-91-594.xml",
+    "sha256": "a98a05f3c334e636ff45aba41e78e16425d5e818a32ed9266da61cb7339b17a9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-604": [
+   {
+    "from": "2018-11-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-604.xml",
+    "sha256": "84584d3b315a5a063430a238379204f257b061afaedb18ea8dfea35b4dab4b3b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-620": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-620.xml",
+    "sha256": "b317a49550a073d3184a0f0efe7c5db4bfb02093c5033495842f2718e69ada94",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-659": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-659.xml",
+    "sha256": "3186c102f95df071cb942a9b818feb2ba8ab3536310174a2f54c9ccb6645a0c1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-661": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-661.xml",
+    "sha256": "62a09c393d7221c558de295c50736c7d6021f54e0be0ccfa3b7f6c8c048525b2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-690": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-690.xml",
+    "sha256": "df941e40f67805861f41f63dad06cd0658f81acb0eb2f9ec784577395dfdde58",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-7": [
+   {
+    "from": "2011-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-7.xml",
+    "sha256": "a1951fc884bc85d139a4efe3bcc5bfc5994f782629c275acbee73a549a63281d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-714": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-714.xml",
+    "sha256": "04c20e74897074dc519c0dcc88235052c6d8efa803b4fd4b9c1f4dc2bbce77ce",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-74": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-74.xml",
+    "sha256": "6c17858f7ab39b29fedc215634bb1f2d45c3f4419b8364ac82652ef6a5b135ac",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-75": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-75.xml",
+    "sha256": "95049dbdc3de2dfc03e971a191761af700c4dbccdd29f43061272ce4b26900ab",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-8": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-8.xml",
+    "sha256": "bae779a48133426edf89e2af21aef9ac1c7649fdb85f0307491e23b3d7d745b6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-84": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-84.xml",
+    "sha256": "055a97fe219725ad046a750f5141b899015929d54f0e3fd3d8cc6d9805f01649",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-86": [
+   {
+    "from": "2020-03-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-86.xml",
+    "sha256": "6642364505c1e4f4eb4e7fa9769c23897ee58c527318a9afdfe5c6c10006984a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-91-94": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-91-94.xml",
+    "sha256": "31a3a6719f4ef9107fc5f4f761a386026ce9a5cf3c31348053a242b3ad28912d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-100": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-100.xml",
+    "sha256": "409a1446d2ed713afdc221da46a1316ca7d67961f9a39850a1b67a88f16000ad",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-118": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-118.xml",
+    "sha256": "c7ca9bd6ff43e21d2eadd1a52bae78ab08fea3530f92fcf68435b2df69e010dc",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-142": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-142.xml",
+    "sha256": "8f57e65cf2016987f57c55ace9db30bb94aa2f9fed13af1c46a1eac1888a4a3f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-156": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-156.xml",
+    "sha256": "cb3e3ff15bf6771ddb8807213b198f176c83dad27d4523b4f6f4e5287f51f00d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-19": [
+   {
+    "from": "2013-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-19.xml",
+    "sha256": "830d6accf69f6beb72b93a5e8db595256fd892a4aedc1b13c9f34dc764f2c7d8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-201a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-201a.xml",
+    "sha256": "7d8d462bca9cb758272e0221fa2f7f0099d714a5902c970423ffde1f280ac84e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-201b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-201b.xml",
+    "sha256": "2d27bdba13946dc34a34af99e1a2547e2b43a553a20b1fccb3f7434654781861",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-21": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-21.xml",
+    "sha256": "32c1acdfc65cc83ee41edb46fb1927659f1599d8ba55c60fe8780d35fbc7d5c2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-210": [
+   {
+    "from": "2007-12-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-210.xml",
+    "sha256": "0b5e3d14e2d33fa75209c771a14536df03f770e5c3ef20eba34768d4dfd3f68d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-22": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-22.xml",
+    "sha256": "f0079e5fa0c47629521acede4981dd8821044cfd96e7077bb959eaba4f8aaabc",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-239": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-239.xml",
+    "sha256": "1caafb87df81a5ab8b07f0a51fc2a0798303e63e57a94e815e3e1d6cd2edf1ea",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-25": [
+   {
+    "from": "2024-12-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-25.xml",
+    "sha256": "ed9b0e2de02683c8894d3a0296438165cd7db0d596f5da4bbcff947b6595ea0f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-256": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-256.xml",
+    "sha256": "ea31a9876f1348a23ba3852878b51adb04e8007328aba7c5da9e02486f2fe885",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-257": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-257.xml",
+    "sha256": "2bb9443c23c8d93955fd5d28e387f231cb246fa6c1f4dccc2638c44d9e3fba60",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-26": [
+   {
+    "from": "2008-04-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-26.xml",
+    "sha256": "e2898c68418d650027feff23d4f4f3b5fb71814f3e3938b0921b7312bc45e720",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-260": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-260.xml",
+    "sha256": "24c8c522048ddc137125cd9cb948a6e9e2b02f7dc40f35525e2b215c7b9ef111",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-263": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-263.xml",
+    "sha256": "66b625b7c10d35173a90f0adde4d8fbea302c37fe34375fdc1d9eb65c0315ac5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-267": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-267.xml",
+    "sha256": "84b157352fee32f8335884caf72334660d5dffe602c6ad52fe5e73022d5f6f0f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-268": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-268.xml",
+    "sha256": "860b971993fe8262ed6f2559f7d3740d1629f6a2781e4abd9e591b7e769681c7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-269": [
+   {
+    "from": "2026-06-04",
+    "commit": "d6853c4af2ae0b7ab8c205a0e95ee734b9945c31",
+    "file": "eng/regulations/SOR-92-269.xml",
+    "sha256": "d0eaf6691e1f9cf3f18009e27b4685c0f5f42b605803f650ce4e537b1041624a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-272": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-272.xml",
+    "sha256": "da514ff6927e80979c503abb05f83c43ca9d3a73da497c1f1c4809d73cd74164",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-274": [
+   {
+    "from": "2010-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-274.xml",
+    "sha256": "637e4347588b0a34cb647bc4ea0953d54b0ab50b6f2ed46db4eec3ddb3769510",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-276": [
+   {
+    "from": "2013-06-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-276.xml",
+    "sha256": "aeaef1573571d29f8816c86ac7a47314d787002444055dbd3d56c0052f04e85e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-277": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-277.xml",
+    "sha256": "3668c2c0d852fa47b3f97c5fdb7d20d3b3ff24d3971916134bcbdf795b302c2f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-278": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-278.xml",
+    "sha256": "1d0ecd1f9fafdcc554079952d67db269a01c354b33fbf7a352d11f8ee90de56d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-279": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-279.xml",
+    "sha256": "bcd7b53b9450c91a756a89ae0ec53a53edd6c65a87a412dbe72ba851966a8049",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-280": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-280.xml",
+    "sha256": "5a1fad5aa05e838d22ef9f152240a556586dc815a26cfa448eb01ec2fc2348e1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-281": [
+   {
+    "from": "2010-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-281.xml",
+    "sha256": "78368fb64185d1ded2750db5c58c54c66b4cc56851c78e197156c0b5a2662780",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-282": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-282.xml",
+    "sha256": "5870b5e42a471983b2b2adab7b77afc80a0ee0904d49e77094709604e80a7058",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-283": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-283.xml",
+    "sha256": "4fa2fe0594028baf12b7eab40042bb6cf069aab248f4054deac7c2c5087311b9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-284": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-284.xml",
+    "sha256": "9897428743c10226565dbabc086aca1046605e4cc865b93fc9443f21d2519d2c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-285": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-285.xml",
+    "sha256": "4e7eb3aa6f1e5ef2714487ce8638f21084d291368b3f99d5c6bb00d455c9ccc1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-293": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-293.xml",
+    "sha256": "4877d0c479a56fbd5188e37bfeae621d31b5d77a7d3874dfe785fde0a7590b3a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-296": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-296.xml",
+    "sha256": "1da0bee5cce39e0cc74099ff9f9668510d5f3107d7655be67354bd332cd231a5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-297": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-297.xml",
+    "sha256": "e38812bbd019d68f6fa71da2e3bd99273748215909c8ee343610ef311f0b3644",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-298": [
+   {
+    "from": "2011-06-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-298.xml",
+    "sha256": "f6156e4460d19545d1bc22afdefb778248ddab32f894eecd9247e93274efebd8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-299": [
+   {
+    "from": "2008-05-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-299.xml",
+    "sha256": "3c36403f9161e236049b5b50b6e31e867197f19cb7dde2e8a57134c7e5f627ec",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-301": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-301.xml",
+    "sha256": "411decb98c5d995fe15c0e2c80ed271f716002499e1355b587a8cb174ef04ce3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-302": [
+   {
+    "from": "2011-06-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-302.xml",
+    "sha256": "16e36b22a68ecf2445fc43e0486743c1a3c43d68cb8545235e3d15cfa6c35d9f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-306": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-306.xml",
+    "sha256": "8bf4dba9615954447469cb3afd360953136d1b0f9ceff154490ed42724c4be45",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-307": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-307.xml",
+    "sha256": "0be014a041d5eccbf2ccdbde7fad2ef104bc94950f4afa314b0fc27d215ed5b9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-308": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-308.xml",
+    "sha256": "d53d03db510abd0e38b936ce982c4e05d4da293692485db16fc08ab2b407de1a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-309": [
+   {
+    "from": "2012-12-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-309.xml",
+    "sha256": "5d0951234b8bbdb76023e00ee2bdb0d3c26c42d37d810807a801255f1bfa0e42",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-313": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-313.xml",
+    "sha256": "d3d1f3cf7ffadc660d3dc64cf149f79b181d77ad5c5489ec0374a94c544deee1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-314": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-314.xml",
+    "sha256": "100c3eb7a066d06be1876059e6f905829fa6b5e5214dfb72aa8deae684d9f1fa",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-315": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-315.xml",
+    "sha256": "95de51c15b0b7fb9f3e4724ef9d7dd643855210e7c9c9235b56180cef3a9053e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-321": [
+   {
+    "from": "2022-06-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-321.xml",
+    "sha256": "64f6c8e086069d8b5c75038ec36236bd5955c3938212c05529f1226ac701f8f4",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-322": [
+   {
+    "from": "2014-11-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-322.xml",
+    "sha256": "8f70e3b9a0345b23c1810fbea31bb183025f6bbbb2ecc850daad24549c0eb855",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-324": [
+   {
+    "from": "2022-06-29",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-324.xml",
+    "sha256": "8485147fb9138abecd6c520ef76bc15d02f169e6063a368d1efe67796e2c3657",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-325": [
+   {
+    "from": "2012-12-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-325.xml",
+    "sha256": "92fcf48020ff8b6a04134174699c109b4d2807c80e5b66aee37e6a724f0718fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-326": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-326.xml",
+    "sha256": "e58c5353f6e4ef666769d502d2864abf5429c3bd8a11b4739666c39212a3998b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-327": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-327.xml",
+    "sha256": "94c689ab06a14284e019303ee19810fbc734e0151ccfa83d20b1e2218264e309",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-328": [
+   {
+    "from": "2009-02-12",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-328.xml",
+    "sha256": "4c4dd4eceaa60242a38ec534134a515d1aac9918195a05c6c9088a1ec6603d13",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-330": [
+   {
+    "from": "2012-03-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-330.xml",
+    "sha256": "dd2b072b6f693c2ba94bce9a4d8855b5b25d0d5a4de984516fe497200cb77c9e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-331": [
+   {
+    "from": "2012-03-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-331.xml",
+    "sha256": "27e64671f0b1159d4f107837f9314717f40260c4b3bb6ae2bd9008da44aaaa2c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-343": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-343.xml",
+    "sha256": "423c19e161f5b2edf50aa489357fac79fe928d6420a042892e1885c1c7342dd3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-349": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-349.xml",
+    "sha256": "80300ff56035f929a641375818f89727b4bf2ac3b06120c83ba026cc18e43342",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-350": [
+   {
+    "from": "2010-12-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-350.xml",
+    "sha256": "8f023331b5db7976d29be8d0d6cb00ae01e78b6f6cb0a12563b2f5185f61bef5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-352": [
+   {
+    "from": "2010-12-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-352.xml",
+    "sha256": "6ca7153d368ff399ccd8c10331830ec5816c7b921c28f9d7b84e1e1fd230d03b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-353": [
+   {
+    "from": "2010-12-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-353.xml",
+    "sha256": "3477b3395318c7794915f5e781b4bca08f6951e7881a57fde22592de23ea1ffb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-354": [
+   {
+    "from": "2010-12-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-354.xml",
+    "sha256": "becd8926e7e2419e8d73545a1deb8b5f29b74782b28869939af308146b7a604f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-356": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-356.xml",
+    "sha256": "9cc0ad1465d14cf39fb875bc1c091deeda83f2b5e83571b9acfdaa91b32e55c5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-383": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-383.xml",
+    "sha256": "132dcfec504bc461589ae87e0d8ce4583a63ee51da0acbc45a9560dea0ed24fe",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-414": [
+   {
+    "from": "2024-10-07",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-414.xml",
+    "sha256": "9a8d849b9ac76b964eace4428832883d64c72f79a108dfbb376091c6612577a3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-42": [
+   {
+    "from": "2023-07-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-42.xml",
+    "sha256": "6ec3256ef12fae485dc48ecc0bb4676f759224844bc2a721d912e77834fc3276",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-433": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-433.xml",
+    "sha256": "b0f04f1dcdc6f9cb8d9d8c94906430ae0681a21967c5601f779da35db3b916b2",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-446": [
+   {
+    "from": "2014-02-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-446.xml",
+    "sha256": "ef3ba42d1a11ef77be7ada76896a3c0d9b6263daa98b8fc8731056ff3be8a7a4",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-478": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-478.xml",
+    "sha256": "111cd6948f95587976b71aab93b0c0a66be04552d28ef58e09a52fb7bb3d10bd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-48": [
+   {
+    "from": "2023-08-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-48.xml",
+    "sha256": "1aff4daae6da7ac1f5613988c2a22bbf4b086317ac5f7df3118e80a7665cd1f8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-502": [
+   {
+    "from": "2020-06-18",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-502.xml",
+    "sha256": "9cf172db9603aa0a6ebb69d6df38339e2b8407030633b941b5d04ca3f714267e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-507": [
+   {
+    "from": "2008-09-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-507.xml",
+    "sha256": "01de218e4665fd111356b3a1d7483198dd581b095eb33f7a885951b83646ba45",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-514": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-514.xml",
+    "sha256": "d5dd597b10ad32cd2e117040dea6845880876cb2acf5fc83ee4b503179c38b08",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-520": [
+   {
+    "from": "2009-03-26",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-520.xml",
+    "sha256": "bc6973b9960bacb5ba1f78b9a36cf12ebc88c4f8795cbd0f166a08b12a1073d3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-528": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-528.xml",
+    "sha256": "9797773d03e7e90b2d81dd55213185eaf85cebf5b2141cbc49e95887283e4467",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-529": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-529.xml",
+    "sha256": "723e2b5bd5a010f2b50b4e7be0c14ebab3695377829037b20963ac04ac0bc427",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-530": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-530.xml",
+    "sha256": "7a9078db9c27f9b1ec141756a3f26c912f3e8b015f0dcc7a270df1c02e160253",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-531": [
+   {
+    "from": "2012-12-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-531.xml",
+    "sha256": "116593197a76562dcd537d9e1781c3b4230cad8e86a9b2bba7f5a88a7fb07ea0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-535": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-535.xml",
+    "sha256": "3291b5a41105411c3b287331c147ab0a4855cef44a5873d9f2b970e9edfa57fe",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-541": [
+   {
+    "from": "2019-01-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-541.xml",
+    "sha256": "3ae6829f53e51a2ec24c60358c0c96770dcdfefe8a5938cab43d60f4a9b1930b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-584": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-584.xml",
+    "sha256": "4bff0aeb52302a9261a5e2e591ded9203b6835cd122dc54e965588ea7d0dcc1b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-608": [
+   {
+    "from": "2006-11-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-608.xml",
+    "sha256": "8c5550688c941b19639d49185a69f7cf03e53b19ef9dc4aa7679f19a90cb1921",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-620": [
+   {
+    "from": "2024-10-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-620.xml",
+    "sha256": "27b0d7d6f1fa6c18c9d47b7391681704ba085f0912e9a7f556389bb943af834a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-631": [
+   {
+    "from": "2016-05-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-631.xml",
+    "sha256": "020adcaf8b653c7ec95d6774ddd341f7b36a8f32d4dfba4451e7aa1c1e21d39b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-636": [
+   {
+    "from": "2012-05-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-636.xml",
+    "sha256": "cbdd66413df839f8b6064ab3e5fdd2c2b846e528c1c9e39526d656b10b5ac68d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-648": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-648.xml",
+    "sha256": "2cc6d829837e04eb28c8b109214042082d3e47bc0fddfa7672956174c53ff97c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-649": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-649.xml",
+    "sha256": "f58280f8ad55d80242de485cdfaaf3dc3e821d8a9a6d6230e2b83ca9f33e33d8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-67": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-67.xml",
+    "sha256": "d6c0d9029b5e632b2f35cd938d263b559c0f07f8ebd70991d134cbdea4c643ac",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-676": [
+   {
+    "from": "2009-12-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-676.xml",
+    "sha256": "5057f583f1572f0bb07d41b546790910ee5905c623943f3ded535c1fd6a328a8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-677": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-677.xml",
+    "sha256": "80cc022205781b5e68205b7c04e5cee7c278c7f7608d79df69c5dac1bce68d47",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-68": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-68.xml",
+    "sha256": "68220cbe578342c1a9669d541c7bed6335dbf201fcbb3032f5a1a58d80e962cb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-688": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-688.xml",
+    "sha256": "16481d2601c3412614d155272d88e09418839d22b2ad16d63bc7ef819528d1c0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-69": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-69.xml",
+    "sha256": "5863a1de32cb0cbac493d8472eb356ad39d7e9a393dbae04e0aab942471df5c8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-745": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-745.xml",
+    "sha256": "e4d2346aee1663a87008c2753a55b731bc7b46f1b37e4dbc59b48be18311fbf5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-92-91": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-92-91.xml",
+    "sha256": "4ae5f0db5de304ff04dc454d3b7dba4b56047c434aaa467daf442977cb584eae",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-108": [
+   {
+    "from": "2014-05-06",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-108.xml",
+    "sha256": "b0e40cf4d7d903c46cde5d846a7dcdf4be6676c704134981159dfd9f0a691cd9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-12": [
+   {
+    "from": "2022-06-23",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-12.xml",
+    "sha256": "693805ef323468fc228d7171cefa7fdfcf488f89d0dc704bb37ed4656d0de55e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-124": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-124.xml",
+    "sha256": "95dfd898764d899cbfe00add73e77968bfa7c1326a1c63ec52264cabf3428e3b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-133": [
+   {
+    "from": "2025-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-133.xml",
+    "sha256": "91d183371f7ea22fecafcfab1fd71159fd3c88b5a569e252dcf04a1230eccfa9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-139a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-139a.xml",
+    "sha256": "071c4d3f64a02d296982a6fcbfe8712b4f5421a5f2ba3a918c3f9fec323d3741",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-139b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-139b.xml",
+    "sha256": "1a903d5e1ba9933eada4935e28bc9437efb709d710b47bb18a80aff48609d43d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-154": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-154.xml",
+    "sha256": "594d5f511c52f985c4ebdbb3baccc9cf249154e60e430ad3f4ecf04902f3f16a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-169": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-169.xml",
+    "sha256": "3b82eb86f7d4df3c41895143b8251f489617f9ebadc5a9593e11e72044b7915f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-17": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-17.xml",
+    "sha256": "5181bef255a7d50c797c77bac9fa937675a143a352f1014e612d1f2566e7cf35",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-172a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-172a.xml",
+    "sha256": "8223364b3e845a4676a9d283814433afda50de19aed861bbdfc33b24a57c93e0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-172b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-172b.xml",
+    "sha256": "a19e105c0530cb32c5ee3319ba2c4c0f8c38dd2a3773f008a6b4345aa69f902f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-194": [
+   {
+    "from": "2007-12-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-194.xml",
+    "sha256": "8f81b4bae0564dae129a8258d773971ad6a02805925e227286c288798efb16ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-195": [
+   {
+    "from": "2018-06-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-195.xml",
+    "sha256": "4d80c60a76d166db072be89ec92e92050ee5abee6239e4ccc9e829f7d84cb586",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-212": [
+   {
+    "from": "2024-01-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-212.xml",
+    "sha256": "fc2c72fd599945969aad234b66f9b1df9907241c8f22f50bea1aec84b10a1555",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-22": [
+   {
+    "from": "2025-12-21",
+    "commit": "d88d9257b2a2d0580788bbe3ad3d86a52d460126",
+    "file": "eng/regulations/SOR-93-22.xml",
+    "sha256": "916edf56320609f0f4ac9ea022732af47a1b303768711add798b30b2aea347f6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-220": [
+   {
+    "from": "2017-02-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-220.xml",
+    "sha256": "07c154b7a1815c4d9b6f33818752c542ed3749d4856f56ba31254630fd30890d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-23": [
+   {
+    "from": "2009-12-31",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-23.xml",
+    "sha256": "e2ae904318f8041ae2994c5bb75e2bf3484fd7712a40148e28bab58981116466",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-246": [
+   {
+    "from": "2026-07-15",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SOR-93-246.xml",
+    "sha256": "1b5e157d1a0cd960b75549328f8a24e3e44fea0c66a4bfe132a87bded364fbaa",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-264": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-264.xml",
+    "sha256": "a146d83f8ea1f1e34e31fd5ea964081af18d98a02e2463180d5f5c6392bdfdcb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-272": [
+   {
+    "from": "2024-08-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-272.xml",
+    "sha256": "82f4d1f477994200a64d6939261821aa3a2c3d25f1e94eb517918de1c5cfc4a0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-282": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-282.xml",
+    "sha256": "4875603e42f08881ef2d25fbc3ecfbe8b6afe37e2548194d4902b940495a976c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-293": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-293.xml",
+    "sha256": "605b923176b1e3eabaf1610500374482e0534b244873f4ac43ee3be86037728e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-294": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-294.xml",
+    "sha256": "1f1b875f95a24034dc4a4ac5c4afea0884960236654a3fc18e1ce50a608c8a17",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-295": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-295.xml",
+    "sha256": "253999a5e18df57f06ea8a46e1445e9b19f9beb245090446a97be044f8d53879",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-3": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-3.xml",
+    "sha256": "ad047d1200dd71b34da0ac6298b85d03418320071fcaffc7eef8c70e2348fdc4",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-303": [
+   {
+    "from": "2016-06-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-303.xml",
+    "sha256": "adba8017291cc04fa2c1194f5331aed694cc10f71ab3adaf2338a91074361725",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-306": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-306.xml",
+    "sha256": "d0ff93ea31224f1c6a583ad3bbb1eab0b5afd1a0c22ab26384b641f251f0c578",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-312": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-312.xml",
+    "sha256": "8cc6d0db5c3c8a0c907f957cb85372bbbad06ad1c39b8060e12ef94989397b53",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-313": [
+   {
+    "from": "2017-05-05",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-313.xml",
+    "sha256": "2b2bc263fe7a6510cd55e8aab0d7e33f1c53ddc56029484a169d989085f3df15",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-325": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-325.xml",
+    "sha256": "9ff0f954a46f34c214598f51dbd0fef735e58624bdd903ccd1f99e05e12129cf",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-326": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-326.xml",
+    "sha256": "874fd54486115a91768af991e610a88d6982a667a0f119389de6365c6abb29bc",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-327": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-327.xml",
+    "sha256": "6a988a7e26c71dcf1b7b00078577d02b98232b2caed2c44683a5783e0e4835d3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-332": [
+   {
+    "from": "2009-04-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-332.xml",
+    "sha256": "44c43399a36bd4ffb56caad2ee7f20bd125ca6e551308bd514c741d71f9ac252",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-348": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-348.xml",
+    "sha256": "a6f88e228267c513ebdc6ff4365261dd9e847eb68855bc6b355ef7b7bebd679b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-365": [
+   {
+    "from": "2007-09-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-365.xml",
+    "sha256": "cd0acf8fb208a5e04075e86f953ca6511edbc5ea0583f98a735f9482d30b0af0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-382": [
+   {
+    "from": "2019-04-10",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-382.xml",
+    "sha256": "2ce145bd0e8886f8568e89a6e876f664889e04ac4c7e64fda0a885fffb3b76c9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-384": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-384.xml",
+    "sha256": "5c34a9045152c89b866d1f045ae9e5d74f066c5c10566c7f56541c642ba2a2d1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-385": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-385.xml",
+    "sha256": "ea7df8a6e215eb8da5a27957dbd2ccc743204439515674d9429219818931fcb0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-387": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-387.xml",
+    "sha256": "dd24f4a4df2a8bab48fd68e0c1b59f615199e17271c6b892e1cd1de6b43057b8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-388": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-388.xml",
+    "sha256": "51386da25804136c16727d97e1cdfbd2c3d16af618eb087e279a013d53ff73eb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-391": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-391.xml",
+    "sha256": "457655aff91cc061be5f9700a82445f0bf3f2ccd917f7300b9a79566391c7fe3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-392": [
+   {
+    "from": "2025-12-31",
+    "commit": "959c747374b47e78649d14efb093b8464849b2a9",
+    "file": "eng/regulations/SOR-93-392.xml",
+    "sha256": "9d920ef2e177bd2c1e97f15cdad3959c58563e7825e5a363ecbd4805d5d313a7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-4": [
+   {
+    "from": "2007-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-4.xml",
+    "sha256": "a11a443f4c7872fc2ca647750844fd612c9374a0931f71e02a300fe6ce0bbf23",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-408": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-408.xml",
+    "sha256": "5e15f244e63306405ccb9c0e0054e7145445c0f6d375bec8dc9a23ab2c80c153",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-409": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-409.xml",
+    "sha256": "682d9af06fa5546bf3586e65053a17cd485f29e08398ed4ca80dc6e317c4628f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-410": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-410.xml",
+    "sha256": "28e839e3a856fe8280ec2aea47818e213303097e63b75c0a28f5fafd123c86cb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-418": [
+   {
+    "from": "2009-07-30",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-418.xml",
+    "sha256": "598d9d1fa9a032faab8bcf30903120086a649a6a1d06606c57773317ea5ddee5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-420": [
+   {
+    "from": "2011-09-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-420.xml",
+    "sha256": "0d50712ebe5636fa74a4ad1d2240c43de589ebe2c51ec51183a512c96428bb03",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-430": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-430.xml",
+    "sha256": "36845c65ef40571e4950dac3396c3efa59c5e247de0063a0584436a56747b496",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-436": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-436.xml",
+    "sha256": "24ffd3d26d1eb5f476761ec5a8fcaee4b8e2efd1e7f30f7632d0ed3b5c2eb685",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-441": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-441.xml",
+    "sha256": "5ff8f0a26ed1775d2d9e7dc2af329afbf32d97150b736a53fdd4b9627a831a67",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-45": [
+   {
+    "from": "2012-12-15",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-45.xml",
+    "sha256": "f6f93e9ca5db0198d8102ef50b1514e69fd97e32c80848595838735398bee1ed",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-47": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-47.xml",
+    "sha256": "1134321d2d1c983a8838a82cea9c84700c29c72dadc8cc9b94bf3fce9c003e10",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-48": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-48.xml",
+    "sha256": "daa80b90e3c648a15e6451e10e67109ced429f07f2cb58f2ba15e2f030731c42",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-480": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-480.xml",
+    "sha256": "cf75e5e7c204e7377e04d088c041322a4531f66d48f142328d6d57f3f43110f3",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-481": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-481.xml",
+    "sha256": "a9defa97e495c616671782cc2117f4e3dcbfebd06a7e40f9db9a0085f7f50393",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-482": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-482.xml",
+    "sha256": "1824a70f0619f361e5739e043f9c4f7de40eb8d9afc73bf7c77c26f9924ba5d1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-484": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-484.xml",
+    "sha256": "6063b27f330acae5a9b3adea18d4d49373fce54e147e7f102a353628bcf84667",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-485": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-485.xml",
+    "sha256": "d3664c99f2940ad6732a1fd395290d32cddb5c9619be082360de26ab2f4504e6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-515": [
+   {
+    "from": "2006-09-28",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-515.xml",
+    "sha256": "a72d5b67d74c365ce06a68a484249b9161a7a4dbe082108b2854f712583ca0eb",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-516": [
+   {
+    "from": "2026-09-01",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/SOR-93-516.xml",
+    "sha256": "5829ecde5c3b0d7e406234e7b530aefa7333b3d48339b2485ff3f64de86eaf56",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-522": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-522.xml",
+    "sha256": "4c8b3c82242675e75d810352ba16c83a201687b6b4e953d74d5dd7cf71730f2c",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-523": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-523.xml",
+    "sha256": "73f97150dc814983c05bd07ea834142e04f563a7ac14a765588575963a276347",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-524": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-524.xml",
+    "sha256": "41d97b1ce16b4144cfbc00fb531f4d4da82ee97112c94cb6d6e59352fcbfda52",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-53": [
+   {
+    "from": "2026-06-22",
+    "commit": "9c40b2a03bc38be8250ef7f86b1d5699afd08cbe",
+    "file": "eng/regulations/SOR-93-53.xml",
+    "sha256": "0f6ca735aa5abc032e63cfe13327981bd9091dc4ebd8155367a850923fbd1c3f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-54": [
+   {
+    "from": "2023-06-23",
+    "commit": "05972001e027b675c87f7ada76fc8aca44688d0b",
+    "file": "eng/regulations/SOR-93-54.xml",
+    "sha256": "97b2f107bfd259f28938333f8dee67bad8e79565b523744fc7aca3601798556d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-55": [
+   {
+    "from": "2025-03-01",
+    "commit": "05d53246b341a7c6ab0119cbfb0e45dbf9e4f317",
+    "file": "eng/regulations/SOR-93-55.xml",
+    "sha256": "9ab442d6d8a0f6b506d83ee1c4c551b84b99683e7d43ab4a72bcb0f4448f83c8",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-580": [
+   {
+    "from": "2012-05-03",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-580.xml",
+    "sha256": "c3a2ad2e338391f951866ae41cccdd91c29d838089e3e4560292e03292955d93",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-581": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-581.xml",
+    "sha256": "c764d9597d3a13cffcfd752a9eac897af85af5240a8b011370be68cbb0da4307",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-587": [
+   {
+    "from": "2022-03-04",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-587.xml",
+    "sha256": "6610bac6cb1b220b8acdf22b65735457e042bdec0054554f760acef01f84a0e6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-592": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-592.xml",
+    "sha256": "8a2cab37bca52be948e34e90ab00862d9f4d25e10284b347eedc1b5d0f3a3ee7",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-593": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-593.xml",
+    "sha256": "4f503dd4a198b30d18fa50ee651b18a893d68bcffd60d53fa259b74d0c01a44e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-602": [
+   {
+    "from": "2026-09-01",
+    "commit": "8eea850fcbe11fb11e859d2cb7686d8ddc7af082",
+    "file": "eng/regulations/SOR-93-602.xml",
+    "sha256": "d5522b85229c3e7a9b7ae80eb452a97c68e0d3916d24635127cc0e3f94818bd6",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-608": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-608.xml",
+    "sha256": "dddf311c121f199d4ef299462458bcadcfd100fb68cc5e0832e02cf89b2bb65b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-610": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-610.xml",
+    "sha256": "36f43c0480967d43b46912bd2e1d91657e91f4fbbe6d0ae19b9c94bf44b7dffd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-611": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-611.xml",
+    "sha256": "225a7afed1d7fb0c7e732eb5a1cfbba9fdab396b0ef0d8ae0f1fad35e1b5f35d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-612": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-612.xml",
+    "sha256": "826657c6e90d062125077d07bc1fad4c06d1b8b2e64233a58d52ea6441199822",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-65": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-65.xml",
+    "sha256": "96767720ba3fc76e8f431d2a3f363e730ae0736502dbc632ac036ffcff3ec0c0",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-74": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-74.xml",
+    "sha256": "c8ff5005e04c8bbfd8d85309dbc99cb312524740ab4f967776c8b1151206e81a",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-76": [
+   {
+    "from": "2009-03-19",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-76.xml",
+    "sha256": "d4ccb46a03d240f78358fb5499c1db64a3eb91843765e5cb43bd7186e7878754",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-9": [
+   {
+    "from": "2023-01-09",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-9.xml",
+    "sha256": "5f7553fb0d87094fb1ce1bd410c1616ea41ccfdedece2226690457174e18b883",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-95a": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-95a.xml",
+    "sha256": "e294fd4a0789d4e67b8572594d8779a35ef1eca03bbe79759ccc97a385eca9c1",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-93-95b": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-93-95b.xml",
+    "sha256": "08a0c9d3411abab530719491d32f91eb68eac357c6ca185329a33edbfaac87f5",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-10": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-10.xml",
+    "sha256": "6d28ad2f6eca49c5cd3ffda2a913c76fa5cc2a65c24b547d064d411b25546887",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-117": [
+   {
+    "from": "2022-06-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-117.xml",
+    "sha256": "d0e44a2ff4444c6a7bb76874e55e4f3b545249247ab1981de5389fb238d49c9e",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-118": [
+   {
+    "from": "2017-04-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-118.xml",
+    "sha256": "f2e9ccaa86655493f6fe5ef49e57ea17dd23bb1737c2f5c544b75f4887f5650f",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-119": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-119.xml",
+    "sha256": "6d65c07feb04f2424f774b9baf7d4ffece7d024d1313e57c9df7b9f545046851",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-12": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-12.xml",
+    "sha256": "2dcca0e0faf201d80b986028752273a684792d04dfbd82a6b6524019ac42d512",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-120": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-120.xml",
+    "sha256": "43f25dfd52f7396f56e6e9fc0e71782efee0710ffae12048c0e9b80fb717f1e9",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-121": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-121.xml",
+    "sha256": "e451ac5caab617bce057e83656d5d054b4558ee1158f1da39c44a0b1b2ad4e60",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-123": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-123.xml",
+    "sha256": "d1f06d13e991097c0bca8c177f438cb4d208e539015ffbd60f84121af411a3da",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-14": [
+   {
+    "from": "2021-06-17",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-14.xml",
+    "sha256": "9ffc85e922cf3f2698dcdee1edac8946b5c0c71dc1f91cb4b8a37cee98c3925b",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-142": [
+   {
+    "from": "2026-04-29",
+    "commit": "069b3064b126a53d5a8e7e16fbf9e322eb757ae5",
+    "file": "eng/regulations/SOR-94-142.xml",
+    "sha256": "1405f27287905069bd7e6bdaf375b51240db3a34e71a94146219f00e65ff2c38",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-16": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-16.xml",
+    "sha256": "76030c265c42240ac2a5558d3fcb36b0f7a10c0f2c0705e1d572ab6e12b6569d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-168": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-168.xml",
+    "sha256": "7e4bbbdd2f27c98dd04e7e57bf9f7f8b573dcc8d1964345e666226ff826adc2d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-17": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-17.xml",
+    "sha256": "33312d0019f9d46dd057fc9f8415ee95a5601fe41a48c850d2eb120865535e03",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-225": [
+   {
+    "from": "2022-06-21",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-225.xml",
+    "sha256": "c34a6bbb5426f120376e51c644d79834c5836ef3bc7598167107334d2b3b4a97",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-23": [
+   {
+    "from": "2020-07-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-23.xml",
+    "sha256": "66e2a18f5ae222680742ca9cc3ff378eea4d0e74f5dfae18dfaa6ea977eb1f19",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-241": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-241.xml",
+    "sha256": "20d28d52491bafaed4ce03d957984da900b218799194ef1803bbda56a751ed7d",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-261": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-261.xml",
+    "sha256": "847c46d1ba7ab273b0c9f91eba8870f53bc4d6fd343ed3e539930a2b9bf6b2ae",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-27": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-27.xml",
+    "sha256": "c6315356d1c396637c891f440b97435d4a9423da2cb04191ce6800ea94757b32",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-281": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-281.xml",
+    "sha256": "7f29034157f06e164e1a51dfb49518a7464a6a50cb0e98fdb643c4937a09fc95",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-282": [
+   {
+    "from": "2006-03-22",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-282.xml",
+    "sha256": "2155fdb02357ae98aae5aa9ef0a2b907ef4e627acfc041b615dcba596d2884fd",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-290": [
+   {
+    "from": "2008-05-01",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-290.xml",
+    "sha256": "0feba22d2ade6495b2f0594e32ff71710b63abc86968d47b15375d1922896334",
+    "kind": "consolidation"
+   }
+  ],
+  "SOR-94-299": [
+   {
+    "from": "2007-12-13",
+    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "file": "eng/regulations/SOR-94-299.xml",
+    "sha256": "69c03d0ab0707a114aba9467c37dc055fc60059e929e9a270268e10abd46bae0",
+    "kind": "consolidation"
+   }
   ]
  },
  "read_up_to": "0507465393c224c0491fc8c17c88340217acc656"
