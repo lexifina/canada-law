@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2000-217/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-12-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-12-09 (the latest from 2025-12-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -127,5 +127,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 82 | [s-082.md](s-082.md) | 0 |  |
 | s. 83 | [s-083.md](s-083.md) | 0 |  |
 | s. 84 | [s-084.md](s-084.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2025-12-19 |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 1 | 2025-12-19 |

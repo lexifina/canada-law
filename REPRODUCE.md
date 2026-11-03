@@ -71,6 +71,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | 17 (2026-11-03) | `fbbf5cf7ebee` | `0507465393c2` | C.R.C.,_c._1036, C.R.C.,_c._1049, C.R.C.,_c._1112, C.R.C.,_c._1232, C.R.C.,_c._1245, C.R.C.,_c._1370, C.R.C.,_c._1522, C.R.C.,_c._478 | 19 | 0 | 19 | 460 | 281099 | 0 | 6/6 |
 | 18 (2026-11-03) | `dec07b9b3607` | `0507465393c2` | C.R.C.,_c._612, C.R.C.,_c._954, C.R.C.,_c._987, C.R.C.,_c._992, SI-2021-49, SI-2021-50, SI-2021-51 | 14 | 0 | 14 | 98 | 10501 | 0 | 6/6 |
 | 19 (2026-11-03) | `80a13b1de028` | `0507465393c2` | SI-2025-60, SI-85-181, SI-85-182 | 6 | 0 | 6 | 36 | 3905 | 0 | 6/6 |
+| 20 (2026-11-03) | `1f2a60a768a4` | `0507465393c2` | SI-94-47, SOR-2000-112, SOR-2000-187, SOR-2000-202, SOR-2000-204, SOR-2000-207, SOR-2000-210, SOR-2000-217, SOR-2000-77, SOR-2000-92, SOR-2001-132, SOR-2001-269, SOR-2001-360, SOR-2001-473, SOR-2002-133, SOR-2002-138, SOR-2002-180 | 52 | 0 | 52 | 1141 | 405934 | 0 | 6/6 |
 
 Batch 1:
 
@@ -187,6 +188,12 @@ Batch 19:
 - History pass: the earlier versions of 3 regulations (SI-2025-60 to SI-85-182), from the XML repository's history, appended behind their current text as 6 correction commits (3 earlier versions and 3 restores, Kind: correction).
 - Two passes gave the same law commits (5cb694c9f9b5). check_xml: 6 versions file by file, 0 mismatches (36 files); 6 consolidations word for word, 0 mismatches (3905 words). Shared Reader: reader (world-law-ops correction rule): 3 laws, 6 versions, 18 days read, 982 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
 - Held back from the history pass so far: 540; with no earlier version: 1747.
+
+Batch 20:
+
+- History pass: the earlier versions of 17 regulations (SI-94-47 to SOR-2002-180), from the XML repository's history, appended behind their current text as 52 correction commits (35 earlier versions and 17 restores, Kind: correction).
+- Two passes gave the same law commits (6648847f7c69). check_xml: 52 versions file by file, 0 mismatches (1141 files); 52 consolidations word for word, 0 mismatches (405934 words). Shared Reader: reader (world-law-ops correction rule): 17 laws, 52 versions, 138 days read, 1034 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
+- Held back from the history pass so far: 624; with no earlier version: 2046.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 

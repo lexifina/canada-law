@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2000-202/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-25: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2015-06-12 (the latest from 2026-03-25).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,7 +24,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
-| s. 18 | [s-018.md](s-018.md) | 0 |  |
+| s. 18 | [s-018.md](s-018.md) | 1 | 2026-03-25 |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
@@ -36,7 +36,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 27 | [s-027.md](s-027.md) | 0 |  |
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
-| s. 30 | [s-030.md](s-030.md) | 0 |  |
+| s. 30 | [s-030.md](s-030.md) | 1 | 2026-03-25 |
 | s. 31 | [s-031.md](s-031.md) | 0 |  |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |

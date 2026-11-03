@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2000-187/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-11-21: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-02-20 (the latest from 2025-11-21).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,6 +23,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2025-11-21 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |

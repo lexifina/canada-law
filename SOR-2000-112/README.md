@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2000-112/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-10-28: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2019-09-05 (the latest from 2022-10-28).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 2 | 2022-10-28 |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |
 | Schedule 4 | [schedule-4.md](schedule-4.md) | 0 |  |
-| Schedule 5 | [schedule-5.md](schedule-5.md) | 0 |  |
+| Schedule 5 | [schedule-5.md](schedule-5.md) | 1 | 2020-11-04 |
