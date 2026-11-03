@@ -25799,6 +25799,13 @@
   ],
   "SI-2025-60": [
    {
+    "from": "2025-04-15",
+    "commit": "baf0bf59589fc45296e90e2f472c68a02b03574f",
+    "file": "eng/regulations/SI-2025-60.xml",
+    "sha256": "3f3a3d81f15029b8618bb09fd25a59422e51201dd8f3ba18bca69de03b1d06cf",
+    "kind": "consolidation"
+   },
+   {
     "from": "2025-10-23",
     "commit": "52ab78de85ef619e03510c0064ba8df3e37f0ce6",
     "file": "eng/regulations/SI-2025-60.xml",
@@ -26987,19 +26994,33 @@
   ],
   "SI-85-181": [
    {
-    "from": "2022-10-01",
-    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "from": "2018-06-21",
+    "commit": "e1e490b23f0b981f2ce8ae46c9535abe06f93dfb",
     "file": "eng/regulations/SI-85-181.xml",
-    "sha256": "7bac3cdad7fcbcd1f0bf789b2258cd73ada9c7221fb191826d5ba52070ef9f5f",
+    "sha256": "441a7a4a70be097b512d22dfb4567fae41ae2be55e1daf416a07fa26608901ea",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-10-01",
+    "commit": "6dcc35e28f23943974d58c8de05d6d48ea23d952",
+    "file": "eng/regulations/SI-85-181.xml",
+    "sha256": "3a2d494e3f888dcf7bbdb2a7ee5b12808e4411cd7983985458d97578c4469311",
     "kind": "consolidation"
    }
   ],
   "SI-85-182": [
    {
-    "from": "2022-10-01",
-    "commit": "c9cac9129b7dd42752ea5b0c62202c283c10a416",
+    "from": "2020-07-01",
+    "commit": "e1e490b23f0b981f2ce8ae46c9535abe06f93dfb",
     "file": "eng/regulations/SI-85-182.xml",
-    "sha256": "439071b73f79998dc759a3c988d752d9e096fba1d0341c06459cf844894944d2",
+    "sha256": "f52c57ab1ecb7704ca67cb7630a8e7282056390d147ac491f676409d317bb6d3",
+    "kind": "consolidation"
+   },
+   {
+    "from": "2022-10-01",
+    "commit": "6dcc35e28f23943974d58c8de05d6d48ea23d952",
+    "file": "eng/regulations/SI-85-182.xml",
+    "sha256": "9d627b0972a046e8a86f4a9838bf410398d359e21b6b0a06f01c5511cba0e97b",
     "kind": "consolidation"
    }
   ],
