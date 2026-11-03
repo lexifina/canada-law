@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2008-248/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-03-27: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-03-04 (the latest from 2023-03-27).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,4 +22,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2023-03-27 |

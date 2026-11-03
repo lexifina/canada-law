@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2014-44/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-06-17: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-03-04 (the latest from 2021-06-17).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,4 +11,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2021-06-17 |

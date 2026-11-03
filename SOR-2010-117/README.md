@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-117/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-04-01: the oldest version available in this record for now.
+5 consolidated versions in Justice Canada's XML repository, from 2019-03-04 (the latest from 2025-04-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,7 +45,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 33.3 | [s-033.3.md](s-033.3.md) | 0 |  |
 | s. 33.4 | [s-033.4.md](s-033.4.md) | 0 |  |
 | s. 33.5 | [s-033.5.md](s-033.5.md) | 0 |  |
-| s. 33.6 | [s-033.6.md](s-033.6.md) | 0 |  |
+| s. 33.6 | [s-033.6.md](s-033.6.md) | 1 | 2025-04-01 |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
 | s. 36 | [s-036.md](s-036.md) | 0 |  |
@@ -116,12 +116,12 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 58.60 | [s-058.60.md](s-058.60.md) | 0 |  |
 | s. 58.61 | [s-058.61.md](s-058.61.md) | 0 |  |
 | s. 58.62 | [s-058.62.md](s-058.62.md) | 0 |  |
-| s. 58.63 | [s-058.63.md](s-058.63.md) | 0 |  |
-| s. 58.64 | [s-058.64.md](s-058.64.md) | 0 |  |
-| s. 58.65 | [s-058.65.md](s-058.65.md) | 0 |  |
-| s. 58.66 | [s-058.66.md](s-058.66.md) | 0 |  |
-| s. 58.67 | [s-058.67.md](s-058.67.md) | 0 |  |
-| s. 58.68 | [s-058.68.md](s-058.68.md) | 0 |  |
+| s. 58.63 | [s-058.63.md](s-058.63.md) | 1 | 2023-07-13 |
+| s. 58.64 | [s-058.64.md](s-058.64.md) | 1 | 2024-06-21 |
+| s. 58.65 | [s-058.65.md](s-058.65.md) | 1 | 2025-03-06 |
+| s. 58.66 | [s-058.66.md](s-058.66.md) | 1 | 2025-03-06 |
+| s. 58.67 | [s-058.67.md](s-058.67.md) | 1 | 2025-03-06 |
+| s. 58.68 | [s-058.68.md](s-058.68.md) | 1 | 2025-03-06 |
 | s. 59 | [s-059.md](s-059.md) | 0 |  |
 | s. 60 | [s-060.md](s-060.md) | 0 |  |
 | s. 61 | [s-061.md](s-061.md) | 0 |  |

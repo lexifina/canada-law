@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-139/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-09-26: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2020-11-25 (the latest from 2026-09-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,4 +14,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 3 | 2026-09-26 |

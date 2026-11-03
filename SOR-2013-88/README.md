@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-88/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-10-31: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2018-12-30 (the latest from 2021-10-31).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,8 +16,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 5.2 | [s-005.2.md](s-005.2.md) | 0 |  |
 | s. 5.3 | [s-005.3.md](s-005.3.md) | 0 |  |
 | s. 5.4 | [s-005.4.md](s-005.4.md) | 0 |  |
-| s. 6 | [s-006.md](s-006.md) | 0 |  |
-| s. 7 | [s-007.md](s-007.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2021-10-31 |
+| s. 7 | [s-007.md](s-007.md) | 1 | 2021-10-31 |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
@@ -33,9 +33,9 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
-| s. 23 | [s-023.md](s-023.md) | 0 |  |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2021-10-31 |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
 | s. 26 | [s-026.md](s-026.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2021-10-31 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |

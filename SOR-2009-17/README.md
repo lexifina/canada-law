@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2009-17/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-25: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2012-03-14 (the latest from 2026-03-25).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2026-03-25 |

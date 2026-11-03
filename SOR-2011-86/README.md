@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2011-86/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-11-24: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2011-06-30 (the latest from 2023-11-24).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,5 +14,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2023-11-24 |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 1 | 2023-11-24 |

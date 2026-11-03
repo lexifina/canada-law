@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/SOR-2014-291/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-11-29: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2014-11-28 (the latest from 2022-11-29).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,7 +37,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
 | s. 30 | [s-030.md](s-030.md) | 0 |  |
-| s. 30.1 | [s-030.1.md](s-030.1.md) | 0 |  |
-| s. 31 | [s-031.md](s-031.md) | 0 |  |
+| s. 30.1 | [s-030.1.md](s-030.1.md) | 1 | 2022-11-29 |
+| s. 31 | [s-031.md](s-031.md) | 1 | 2022-11-29 |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
