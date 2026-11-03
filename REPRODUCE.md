@@ -68,6 +68,7 @@ Each batch was appended to the published head named here, read the XML repositor
 | 14 (2026-11-03) | `d86d94967f75` | `0507465393c2` | I-3.3, I-21, C-44, I-2.5, P-21, C-5, C-34, B-3, H-6, C-8, F-7, C-42, P-4, T-13, C-52.6, O-3.01, C-36, I-1, N-22, F-27, C-29, P-1, E-2.01, C-15.1, A-0.6, A-1.5, A-10.5, A-11.3, A-11.44, A-11.9, A-17, A-2, A-8.8, B-2, B-4, B-6.3, B-9.01, B-9.857, B-9.89, C-1.4, C-1.68, C-1.7, C-10, C-10.10, C-10.11, C-10.15, C-10.2, C-11.01, C-15.31, C-16.5, C-16.8, C-17, C-17.3, C-18.3, C-21, C-22, C-23, C-23.4, C-23.7, C-24.5, C-27.55, C-27.6, C-28.5, C-29.4, C-3, C-3.6, C-3.7, C-3.75, C-3.8, C-33.3, C-33.6, C-34.6, C-36.4, C-36.45, C-36.65, C-4.8, C-41.01, C-44.6, C-45.9, C-47, C-50, C-53, C-54.011, C-6.18, C-6.7, C-7.3, C-7.5, C-7.75, C-7.8, C-8.5, E-0.7, E-0.8, E-0.9, E-12.5, E-14, E-14.1, E-15.5, E-18.5, E-19, E-20, E-21, E-21.5, E-4.5, F-1.2, F-1.4, F-11.1, F-11.6, F-11.65, F-11.66, F-11.67, F-11.7, F-11.73, F-11.75, F-11.9, F-14, F-2.2, F-24, F-27.5, F-8, F-8.6, F-9, G-11.55, G-2, G-3.3, G-3.8, G-5, H-2.7, H-3, H-3.7, H-5.67, H-5.7, I-11.8, I-14.85, I-17, I-17.05, I-18, I-19.3, I-2.75, I-20, I-20.6, I-20.7, I-21.8, I-3, I-7, I-7.85, J-1, J-2, J-2.3, L-1, L-6, M-0.2, M-10.01, M-13, M-13.6, M-5, M-7.01, M-8.6, N-11, N-11.2, N-14.01, N-15, N-16.56, N-16.6, N-23.3, N-27.05, N-27.5, N-28.75, N-5, O-2.4, O-2.8, O-5, O-7, O-8.3, O-9 | 741 | 0 | 741 | 149968 | 70397743 | 0 | 6/6 |
 | 15 (2026-11-03) | `64fa36e9f9ca` | `0507465393c2` | P-19.32, P-19.45, P-24, P-24.501, P-24.8, P-31.6, P-31.7, P-33.01, P-33.3, P-36, P-38.2, P-4.4, P-6, P-7.01, R-10, R-11, R-2, R-4.2, R-4.5, R-4.7, R-8, R-8.55, S-1.1, S-14.5, S-15, S-15.3, S-15.36, S-19.6, S-22.7, S-23, S-3, S-6.6, S-6.7, S-6.9, S-8.3, S-8.4, S-8.7, T-11.1, T-11.2, T-11.5, T-19.8, T-2, T-21.5, T-3, T-3.4, U-0.5, U-2.2, V-1, V-2, W-0.8, W-11, W-11.2, W-6, W-9, Y-1.5, Y-2.01 | 200 | 0 | 200 | 24328 | 5392131 | 0 | 6/6 |
 | 16 (2026-11-03) | `cfce26b9ab69` | `0507465393c2` | SI-2005-114 | 2 | 0 | 2 | 12 | 1057 | 0 | 6/6 |
+| 17 (2026-11-03) | `fbbf5cf7ebee` | `0507465393c2` | C.R.C.,_c._1036, C.R.C.,_c._1049, C.R.C.,_c._1112, C.R.C.,_c._1232, C.R.C.,_c._1245, C.R.C.,_c._1370, C.R.C.,_c._1522, C.R.C.,_c._478 | 19 | 0 | 19 | 460 | 281099 | 0 | 6/6 |
 
 Batch 1:
 
@@ -166,6 +167,12 @@ Batch 16:
 - History pass: the earlier versions of 1 regulations (SI-2005-114 to SI-2005-114), from the XML repository's history, appended behind their current text as 2 correction commits (1 earlier versions and 1 restores, Kind: correction).
 - Two passes gave the same law commits (5826f5918e42). check_xml: 2 versions file by file, 0 mismatches (12 files); 2 consolidations word for word, 0 mismatches (1057 words). Shared Reader: reader (world-law-ops correction rule): 1 laws, 2 versions, 6 days read, 943 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
 - Held back from the history pass so far: 239; with no earlier version: 866.
+
+Batch 17:
+
+- History pass: the earlier versions of 8 regulations (C.R.C.,_c._1036 to C.R.C.,_c._478), from the XML repository's history, appended behind their current text as 19 correction commits (11 earlier versions and 8 restores, Kind: correction).
+- Two passes gave the same law commits (49c451952dab). check_xml: 19 versions file by file, 0 mismatches (460 files); 19 consolidations word for word, 0 mismatches (281099 words). Shared Reader: reader (world-law-ops correction rule): 8 laws, 19 versions, 54 days read, 962 correction commits on main, 0 problems. tools/test_repo.py 6 of 6.
+- Held back from the history pass so far: 358; with no earlier version: 1139.
 
 ## How the text and the commits are derived: P-8.6 and A-1 (first build, 2026-10-28)
 

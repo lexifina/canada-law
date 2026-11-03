@@ -1143,14 +1143,12 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._103](C.R.C.,_c._103/README.md) | Prince George Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1033](C.R.C.,_c._1033/README.md) | Members of Parliament Retiring Allowances Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2020-08-25 | 2020-08-25 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1035](C.R.C.,_c._1035/README.md) | Migratory Birds Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-07-30 | 2022-07-30 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1036](C.R.C.,_c._1036/README.md) | Migratory Bird Sanctuary Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2025-03-12 | 2025-03-12 | 1 | 2026-11-03 |
 | [C.R.C.,_c._104](C.R.C.,_c._104/README.md) | Quebec Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1041](C.R.C.,_c._1041/README.md) | Narcotic Control Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-06-05 | 2024-06-05 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1044](C.R.C.,_c._1044/README.md) | National Capital Commission Traffic and Property Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1045](C.R.C.,_c._1045/README.md) | Canadian Forces Dental Treatment by Civilians Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1046](C.R.C.,_c._1046/README.md) | Civilian Crews on Auxiliary Vessels Direction | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1048](C.R.C.,_c._1048/README.md) | Estates Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1049](C.R.C.,_c._1049/README.md) | Military Rules of Evidence | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [C.R.C.,_c._105](C.R.C.,_c._105/README.md) | Regina Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1050](C.R.C.,_c._1050/README.md) | Reserve Forces Training Leave Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1055](C.R.C.,_c._1055/README.md) | National Energy Board Order No. MO-62-69 | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
@@ -1161,7 +1159,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._1107](C.R.C.,_c._1107/README.md) | N.H.A. Maximum Interest Rates Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._111](C.R.C.,_c._111/README.md) | St. Hubert Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1111](C.R.C.,_c._1111/README.md) | Town of Jasper Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-12-04 | 2024-12-04 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1112](C.R.C.,_c._1112/README.md) | National Historic Sites of Canada Order | Justice Canada XML repository (laws-lois-xml), current text only | 2026-08-07 | 2026-08-07 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1114](C.R.C.,_c._1114/README.md) | National Parks Building Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-12-04 | 2024-12-04 | 1 | 2026-11-03 |
 | [C.R.C.,_c._112](C.R.C.,_c._112/README.md) | St. Johns (Quebec) Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1120](C.R.C.,_c._1120/README.md) | National Parks of Canada Fishing Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2018-11-23 | 2018-11-23 | 1 | 2026-11-03 |
@@ -1190,7 +1187,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._1225](C.R.C.,_c._1225/README.md) | Telegraph and Cable Messages Terms and Conditions Order | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._123](C.R.C.,_c._123/README.md) | Windsor Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1231](C.R.C.,_c._1231/README.md) | Navigable Waters Bridges Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2019-08-28 | 2019-08-28 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1232](C.R.C.,_c._1232/README.md) | Navigable Waters Works Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2024-07-03 | 2024-07-03 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1235](C.R.C.,_c._1235/README.md) | Additional Legislative Powers Designation Order | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1236](C.R.C.,_c._1236/README.md) | Game Declared in Danger of Becoming Extinct | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2014-04-01 | 2014-04-01 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1238](C.R.C.,_c._1238/README.md) | Northwest Territories Reindeer Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2014-04-01 | 2014-04-01 | 1 | 2026-11-03 |
@@ -1199,7 +1195,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._1241](C.R.C.,_c._1241/README.md) | Minister Designation Order (Nuclear Liability Act) | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1242](C.R.C.,_c._1242/README.md) | Oaths of Office Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1244](C.R.C.,_c._1244/README.md) | C.N.R. Company Exemption Order | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1245](C.R.C.,_c._1245/README.md) | Grosse Isle, P.Q., Prohibited Place Order | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1246](C.R.C.,_c._1246/README.md) | Old Age Security Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-06-12 | 2026-06-12 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1247](C.R.C.,_c._1247/README.md) | Parliamentary Secretaries Expenses Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._125](C.R.C.,_c._125/README.md) | Yarmouth Airport Zoning Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
@@ -1262,7 +1257,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._1365](C.R.C.,_c._1365/README.md) | Public Works Nuisances Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1367](C.R.C.,_c._1367/README.md) | Publication of Statutes Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2019-06-03 | 2019-06-03 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1368](C.R.C.,_c._1368/README.md) | Quarantine Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-12-12 | 2006-12-12 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1370](C.R.C.,_c._1370/README.md) | Radiation Emitting Devices Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2025-10-09 | 2025-10-09 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1375](C.R.C.,_c._1375/README.md) | Algoma Central Railway Traffic Rules and Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2016-12-28 | 2016-12-28 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1376](C.R.C.,_c._1376/README.md) | Canadian National Railway Passenger Train Travel Rules and Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2016-12-28 | 2016-12-28 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1377](C.R.C.,_c._1377/README.md) | Canadian Pacific Railway Traffic Rules and Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2016-12-28 | 2016-12-28 | 1 | 2026-11-03 |
@@ -1331,7 +1325,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._152](C.R.C.,_c._152/README.md) | Manitoba Chicken Order | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1520](C.R.C.,_c._1520/README.md) | Oil and Gas Land Order No. 2-1961 | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1521](C.R.C.,_c._1521/README.md) | Oil and Gas Land Order No. 1-1962 | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
-| [C.R.C.,_c._1522](C.R.C.,_c._1522/README.md) | Territorial Coal Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2024-12-16 | 2024-12-16 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1523](C.R.C.,_c._1523/README.md) | Territorial Dredging Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1524](C.R.C.,_c._1524/README.md) | Territorial Land Use Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2024-12-16 | 2024-12-16 | 1 | 2026-11-03 |
 | [C.R.C.,_c._1525](C.R.C.,_c._1525/README.md) | Territorial Lands Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
@@ -1508,7 +1501,6 @@ added. Nothing before the first day is in the record.
 | [C.R.C.,_c._446](C.R.C.,_c._446/README.md) | Advance Payments for Crops Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2014-05-15 | 2014-05-15 | 1 | 2026-11-03 |
 | [C.R.C.,_c._449](C.R.C.,_c._449/README.md) | Cultural Property Export Regulations | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2015-06-17 | 2015-06-17 | 1 | 2026-11-03 |
 | [C.R.C.,_c._450](C.R.C.,_c._450/README.md) | Redemption of Subsidiary Coin Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
-| [C.R.C.,_c._478](C.R.C.,_c._478/README.md) | Special Services Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2024-10-21 | 2024-10-21 | 1 | 2026-11-03 |
 | [C.R.C.,_c._487](C.R.C.,_c._487/README.md) | Customs Drawback Shirting Fabrics Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._489](C.R.C.,_c._489/README.md) | Goods Imported and Exported Drawback Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
 | [C.R.C.,_c._516](C.R.C.,_c._516/README.md) | Canadian Film Certification Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2006-03-22 | 2006-03-22 | 1 | 2026-11-03 |
@@ -5753,3 +5745,11 @@ added. Nothing before the first day is in the record.
 | [Y-1.5](Y-1.5/README.md) | Youth Criminal Justice Act | Justice Canada XML repository (laws-lois-xml) | 2019-12-18 | 2026-07-18 | 4 | 2026-11-03 |
 | [Y-2.01](Y-2.01/README.md) | Yukon Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-15 | 2024-11-27 | 3 | 2026-11-03 |
 | [SI-2005-114](SI-2005-114/README.md) | List of Pest Control Product Formulants and Contaminants of Health or Environmental Concern | Justice Canada XML repository (laws-lois-xml) | 2020-06-24 | 2024-09-25 | 2 | 2026-11-03 |
+| [C.R.C.,_c._1036](C.R.C.,_c._1036/README.md) | Migratory Bird Sanctuary Regulations | Justice Canada XML repository (laws-lois-xml) | 2006-03-22 | 2025-03-12 | 3 | 2026-11-03 |
+| [C.R.C.,_c._1049](C.R.C.,_c._1049/README.md) | Military Rules of Evidence | Justice Canada XML repository (laws-lois-xml) | 2006-03-22 | 2024-08-19 | 2 | 2026-11-03 |
+| [C.R.C.,_c._1112](C.R.C.,_c._1112/README.md) | National Historic Sites of Canada Order | Justice Canada XML repository (laws-lois-xml) | 2018-11-23 | 2026-08-07 | 2 | 2026-11-03 |
+| [C.R.C.,_c._1232](C.R.C.,_c._1232/README.md) | Navigable Waters Works Regulations | Justice Canada XML repository (laws-lois-xml) | 2019-08-28 | 2024-07-03 | 2 | 2026-11-03 |
+| [C.R.C.,_c._1245](C.R.C.,_c._1245/README.md) | Grosse Isle, P.Q., Prohibited Place Order | Justice Canada XML repository (laws-lois-xml) | 2006-03-22 | 2024-08-19 | 2 | 2026-11-03 |
+| [C.R.C.,_c._1370](C.R.C.,_c._1370/README.md) | Radiation Emitting Devices Regulations | Justice Canada XML repository (laws-lois-xml) | 2018-12-29 | 2025-10-09 | 4 | 2026-11-03 |
+| [C.R.C.,_c._1522](C.R.C.,_c._1522/README.md) | Territorial Coal Regulations | Justice Canada XML repository (laws-lois-xml) | 2006-03-22 | 2024-12-16 | 2 | 2026-11-03 |
+| [C.R.C.,_c._478](C.R.C.,_c._478/README.md) | Special Services Regulations | Justice Canada XML repository (laws-lois-xml) | 2006-03-22 | 2024-10-21 | 2 | 2026-11-03 |

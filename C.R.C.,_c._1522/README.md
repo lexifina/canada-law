@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1522/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-12-16: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2006-03-22 (the latest from 2024-12-16).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2024-12-16 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
@@ -40,7 +40,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 31 | [s-031.md](s-031.md) | 0 |  |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
-| s. 34 | [s-034.md](s-034.md) | 0 |  |
+| s. 34 | [s-034.md](s-034.md) | 1 | 2024-12-16 |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
 | s. 36 | [s-036.md](s-036.md) | 0 |  |
 | s. 37 | [s-037.md](s-037.md) | 0 |  |

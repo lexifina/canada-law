@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1232/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-07-03: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2024-07-03).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,7 +18,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | ss. 11 and 12 | [s-011-and-012.md](s-011-and-012.md) | 0 |  |
-| s. 13 | [s-013.md](s-013.md) | 0 |  |
+| s. 13 | [s-013.md](s-013.md) | 1 | 2024-07-03 |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | Schedule | [schedule.md](schedule.md) | 0 |  |
