@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/S-6.7/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-08-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-11-04 (the latest from 2024-08-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,7 +28,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
-| s. 16 | [s-016.md](s-016.md) | 0 |  |
+| s. 16 | [s-016.md](s-016.md) | 1 | 2024-08-19 |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |

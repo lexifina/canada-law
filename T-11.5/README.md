@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/T-11.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2020-11-09 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -88,7 +88,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
-| s. 36 | [s-036.md](s-036.md) | 0 |  |
+| s. 36 | [s-036.md](s-036.md) | 1 | 2023-01-14 |
 | s. 37 | [s-037.md](s-037.md) | 0 |  |
 | s. 38 | [s-038.md](s-038.md) | 0 |  |
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
@@ -97,19 +97,19 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 41.1 | [s-041.1.md](s-041.1.md) | 0 |  |
 | s. 41.2 | [s-041.2.md](s-041.2.md) | 0 |  |
 | s. 42 | [s-042.md](s-042.md) | 0 |  |
-| s. 42.1 | [s-042.1.md](s-042.1.md) | 0 |  |
-| s. 42.11 | [s-042.11.md](s-042.11.md) | 0 |  |
-| s. 42.12 | [s-042.12.md](s-042.12.md) | 0 |  |
-| s. 42.13 | [s-042.13.md](s-042.13.md) | 0 |  |
-| s. 42.14 | [s-042.14.md](s-042.14.md) | 0 |  |
-| s. 42.15 | [s-042.15.md](s-042.15.md) | 0 |  |
-| s. 42.16 | [s-042.16.md](s-042.16.md) | 0 |  |
-| s. 42.2 | [s-042.2.md](s-042.2.md) | 0 |  |
+| s. 42.1 | [s-042.1.md](s-042.1.md) | 1 | 2024-06-20 |
+| s. 42.11 | [s-042.11.md](s-042.11.md) | 1 | 2024-06-20 |
+| s. 42.12 | [s-042.12.md](s-042.12.md) | 1 | 2024-06-20 |
+| s. 42.13 | [s-042.13.md](s-042.13.md) | 1 | 2024-06-20 |
+| s. 42.14 | [s-042.14.md](s-042.14.md) | 1 | 2024-06-20 |
+| s. 42.15 | [s-042.15.md](s-042.15.md) | 1 | 2024-06-20 |
+| s. 42.16 | [s-042.16.md](s-042.16.md) | 1 | 2024-06-20 |
+| s. 42.2 | [s-042.2.md](s-042.2.md) | 1 | 2024-06-20 |
 | s. 42.3 | [s-042.3.md](s-042.3.md) | 0 |  |
 | s. 42.4 | [s-042.4.md](s-042.4.md) | 0 |  |
-| s. 42.5 | [s-042.5.md](s-042.5.md) | 0 |  |
-| s. 42.6 | [s-042.6.md](s-042.6.md) | 0 |  |
-| s. 42.7 | [s-042.7.md](s-042.7.md) | 0 |  |
+| s. 42.5 | [s-042.5.md](s-042.5.md) | 1 | 2024-06-20 |
+| s. 42.6 | [s-042.6.md](s-042.6.md) | 1 | 2024-06-20 |
+| s. 42.7 | [s-042.7.md](s-042.7.md) | 1 | 2024-06-20 |
 | s. 43 | [s-043.md](s-043.md) | 0 |  |
 | s. 43.1 | [s-043.1.md](s-043.1.md) | 0 |  |
 | s. 43.2 | [s-043.2.md](s-043.2.md) | 0 |  |
@@ -117,7 +117,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 44.1 | [s-044.1.md](s-044.1.md) | 0 |  |
 | s. 45 | [s-045.md](s-045.md) | 0 |  |
 | s. 46 | [s-046.md](s-046.md) | 0 |  |
-| s. 46.1 | [s-046.1.md](s-046.1.md) | 0 |  |
+| s. 46.1 | [s-046.1.md](s-046.1.md) | 1 | 2024-06-20 |
 | s. 47 | [s-047.md](s-047.md) | 0 |  |
 | s. 48 | [s-048.md](s-048.md) | 0 |  |
 | s. 48.1 | [s-048.1.md](s-048.1.md) | 0 |  |
@@ -137,6 +137,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | ss. 61 to 63 | [s-061-to-063.md](s-061-to-063.md) | 0 |  |
 | ss. 64 and 65 | [s-064-and-065.md](s-064-and-065.md) | 0 |  |
 | s. 66 | [s-066.md](s-066.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2023-08-01 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |

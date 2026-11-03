@@ -528,13 +528,8 @@ added. Nothing before the first day is in the record.
 | [P-18](P-18/README.md) | Prairie Grain Advance Payments Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2012-08-01 | 2012-08-01 | 1 | 2026-11-03 |
 | [P-19](P-19/README.md) | Precious Metals Marking Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-06-21 | 2019-06-21 | 1 | 2026-11-03 |
 | [P-19.3](P-19.3/README.md) | Preclearance Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2019-08-15 | 2019-08-15 | 1 | 2026-11-03 |
-| [P-19.32](P-19.32/README.md) | Preclearance Act, 2016 | Justice Canada XML repository (laws-lois-xml), current text only | 2024-12-09 | 2024-12-09 | 1 | 2026-11-03 |
-| [P-19.45](P-19.45/README.md) | Prevention of Terrorist Travel Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [P-19.6](P-19.6/README.md) | Prince Rupert Grain Handling Operations Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [P-20](P-20/README.md) | Prisons and Reformatories Act | Justice Canada XML repository (laws-lois-xml), current text only | 2015-07-19 | 2015-07-19 | 1 | 2026-11-03 |
-| [P-24](P-24/README.md) | Privileges and Immunities (North Atlantic Treaty Organisation) Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-06-22 | 2023-06-22 | 1 | 2026-11-03 |
-| [P-24.501](P-24.501/README.md) | Proceeds of Crime (Money Laundering) and Terrorist Financing Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
-| [P-24.8](P-24.8/README.md) | Prohibiting Cluster Munitions Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-06-20 | 2022-06-20 | 1 | 2026-11-03 |
 | [P-25](P-25/README.md) | Prohibition of International Air Services Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [P-25.2](P-25.2/README.md) | Prohibition on the Purchase of Residential Property by Non-Canadians Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-01-01 | 2023-01-01 | 1 | 2026-11-03 |
 | [P-25.6](P-25.6/README.md) | Protecting Air Service Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-03-16 | 2012-03-16 | 1 | 2026-11-03 |
@@ -549,30 +544,21 @@ added. Nothing before the first day is in the record.
 | [P-31.4](P-31.4/README.md) | Public Pensions Reporting Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [P-31.5](P-31.5/README.md) | Public Safety Act, 2002 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2018-01-01 | 2018-01-01 | 1 | 2026-11-03 |
 | [P-31.55](P-31.55/README.md) | Department of Public Safety and Emergency Preparedness Act | Justice Canada XML repository (laws-lois-xml), current text only | 2013-02-28 | 2013-02-28 | 1 | 2026-11-03 |
-| [P-31.6](P-31.6/README.md) | Public Sector Compensation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
 | [P-31.65](P-31.65/README.md) | Public Sector Equitable Compensation Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-05-20 | 2026-05-20 | 1 | 2026-11-03 |
-| [P-31.7](P-31.7/README.md) | Public Sector Pension Investment Board Act | Justice Canada XML repository (laws-lois-xml), current text only | 2025-12-17 | 2025-12-17 | 1 | 2026-11-03 |
 | [P-31.8](P-31.8/README.md) | Public Sector Pension Reform | Justice Canada XML repository (laws-lois-xml), current text only | 2011-12-15 | 2011-12-15 | 1 | 2026-11-03 |
 | [P-32](P-32/README.md) | Public Servants Inventions Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-09-21 | 2017-09-21 | 1 | 2026-11-03 |
 | [P-33](P-33/README.md) | Public Service Employment Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2005-12-30 | 2005-12-30 | 1 | 2026-11-03 |
-| [P-33.01](P-33.01/README.md) | Public Service Employment Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-07-01 | 2023-07-01 | 1 | 2026-11-03 |
-| [P-33.3](P-33.3/README.md) | Federal Public Sector Labour Relations Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [P-33.35](P-33.35/README.md) | Federal Public Sector Labour Relations and Employment Board Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-06-19 | 2017-06-19 | 1 | 2026-11-03 |
 | [P-33.4](P-33.4/README.md) | Public Service Modernization Act | Justice Canada XML repository (laws-lois-xml), current text only | 2014-01-01 | 2014-01-01 | 1 | 2026-11-03 |
 | [P-33.6](P-33.6/README.md) | Public Service Pension Adjustment Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [P-34](P-34/README.md) | Public Service Rearrangement and Transfer of Duties Act | Justice Canada XML repository (laws-lois-xml), current text only | 2005-04-01 | 2005-04-01 | 1 | 2026-11-03 |
 | [P-35](P-35/README.md) | Public Service Staff Relations Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2005-03-31 | 2005-03-31 | 1 | 2026-11-03 |
-| [P-36](P-36/README.md) | Public Service Superannuation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-08-04 | 2026-08-04 | 1 | 2026-11-03 |
-| [P-38.2](P-38.2/README.md) | Department of Public Works and Government Services Act | Justice Canada XML repository (laws-lois-xml), current text only | 2025-06-09 | 2025-06-09 | 1 | 2026-11-03 |
 | [P-38.8](P-38.8/README.md) | Purple Day Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-06-28 | 2012-06-28 | 1 | 2026-11-03 |
 | [P-4.2](P-4.2/README.md) | Pay Equity Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-08-31 | 2021-08-31 | 1 | 2026-11-03 |
 | [P-4.3](P-4.3/README.md) | Payment Card Networks Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2021-06-29 | 2021-06-29 | 1 | 2026-11-03 |
-| [P-4.4](P-4.4/README.md) | Payment Clearing and Settlement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-06-29 | 2021-06-29 | 1 | 2026-11-03 |
 | [P-4.6](P-4.6/README.md) | An Act respecting payments to a trust established to provide provinces and territories with funding for community development | Justice Canada XML repository (laws-lois-xml), current text only | 2008-02-07 | 2008-02-07 | 1 | 2026-11-03 |
 | [P-4.7](P-4.7/README.md) | An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply | Justice Canada XML repository (laws-lois-xml), current text only | 2026-06-18 | 2026-06-18 | 1 | 2026-11-03 |
-| [P-6](P-6/README.md) | Pension Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-05-29 | 2026-05-29 | 1 | 2026-11-03 |
 | [P-6.7](P-6.7/README.md) | Pension Benefits Division Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-09-01 | 2003-09-01 | 1 | 2026-11-03 |
-| [P-7.01](P-7.01/README.md) | Pension Benefits Standards Act, 1985 | Justice Canada XML repository (laws-lois-xml), current text only | 2024-05-24 | 2024-05-24 | 1 | 2026-11-03 |
 | [P-8](P-8/README.md) | Pension Fund Societies Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [P-8.3](P-8.3/README.md) | Perfluorooctane Sulfonate Virtual Elimination Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2023-06-13 | 2023-06-13 | 1 | 2026-11-03 |
 | [P-9](P-9/README.md) | Pest Control Products Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2006-06-28 | 2006-06-28 | 1 | 2026-11-03 |
@@ -581,21 +567,15 @@ added. Nothing before the first day is in the record.
 | [Q-1.1](Q-1.1/README.md) | Quarantine Act | Justice Canada XML repository (laws-lois-xml), current text only | 2020-03-17 | 2020-03-17 | 1 | 2026-11-03 |
 | [Q-1.8](Q-1.8/README.md) | Queen Elizabeth II Canadian Research Fund Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [R-1](R-1/README.md) | Radiation Emitting Devices Act | Justice Canada XML repository (laws-lois-xml), current text only | 2016-12-12 | 2016-12-12 | 1 | 2026-11-03 |
-| [R-10](R-10/README.md) | Royal Canadian Mounted Police Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [R-10.6](R-10.6/README.md) | Royal Canadian Mounted Police Pension Continuation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-01-01 | 2012-01-01 | 1 | 2026-11-03 |
-| [R-11](R-11/README.md) | Royal Canadian Mounted Police Superannuation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [R-12](R-12/README.md) | Royal Style and Titles Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [R-12.1](R-12.1/README.md) | Royal Style and Titles Act, 2023 | Justice Canada XML repository (laws-lois-xml), current text only | 2023-06-22 | 2023-06-22 | 1 | 2026-11-03 |
-| [R-2](R-2/README.md) | Radiocommunication Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
 | [R-3.2](R-3.2/README.md) | Railway Belt Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [R-3.25](R-3.25/README.md) | Railway Belt Water Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [R-3.3](R-3.3/README.md) | Railway Continuation Act, 2007 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-12-12 | 2017-12-12 | 1 | 2026-11-03 |
 | [R-4](R-4/README.md) | Railway Relocation and Crossing Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
-| [R-4.2](R-4.2/README.md) | Railway Safety Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-09-02 | 2022-09-02 | 1 | 2026-11-03 |
 | [R-4.4](R-4.4/README.md) | Recognition of Charlottetown as the Birthplace of Confederation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-12-12 | 2017-12-12 | 1 | 2026-11-03 |
-| [R-4.5](R-4.5/README.md) | Red Tape Reduction Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [R-4.6](R-4.6/README.md) | Reduction of Recidivism Framework Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-06-29 | 2021-06-29 | 1 | 2026-11-03 |
-| [R-4.7](R-4.7/README.md) | Referendum Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-04-27 | 2023-04-27 | 1 | 2026-11-03 |
 | [R-4.9](R-4.9/README.md) | Regional Development Incentives Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [R-5.3](R-5.3/README.md) | An Act respecting regulations made pursuant to section 4 of the Aeronautics Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [R-5.4](R-5.4/README.md) | Remote Sensing Space Systems Act | Justice Canada XML repository (laws-lois-xml), current text only | 2007-04-05 | 2007-04-05 | 1 | 2026-11-03 |
@@ -608,14 +588,11 @@ added. Nothing before the first day is in the record.
 | [R-7.36](R-7.36/README.md) | Retail Payment Activities Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [R-7.4](R-7.4/README.md) | Returned Soldiers’ Insurance Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [R-7.7](R-7.7/README.md) | Revised Statutes of Canada, 1985 Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
-| [R-8](R-8/README.md) | Revolving Funds Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-12-15 | 2023-12-15 | 1 | 2026-11-03 |
 | [R-8.2](R-8.2/README.md) | Riding Name Change Act, 2014 | Justice Canada XML repository (laws-lois-xml), current text only | 2014-06-19 | 2014-06-19 | 1 | 2026-11-03 |
 | [R-8.5](R-8.5/README.md) | Roosevelt Campobello International Park Commission Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-06-15 | 2012-06-15 | 1 | 2026-11-03 |
-| [R-8.55](R-8.55/README.md) | Rouge National Urban Park Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-05-27 | 2024-05-27 | 1 | 2026-11-03 |
 | [R-8.6](R-8.6/README.md) | Royal Assent Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [R-9](R-9/README.md) | Royal Canadian Mint Act | Justice Canada XML repository (laws-lois-xml), current text only | 2016-12-15 | 2016-12-15 | 1 | 2026-11-03 |
 | [S-1.04](S-1.04/README.md) | Safe Drinking Water for First Nations Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
-| [S-1.1](S-1.1/README.md) | Safe Food for Canadians Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-01-14 | 2023-01-14 | 1 | 2026-11-03 |
 | [S-1.3](S-1.3/README.md) | Saguenay-St. Lawrence Marine Park Act | Justice Canada XML repository (laws-lois-xml), current text only | 2015-02-26 | 2015-02-26 | 1 | 2026-11-03 |
 | [S-1.5](S-1.5/README.md) | Sahtu Dene and Metis Land Claim Settlement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2011-10-17 | 2011-10-17 | 1 | 2026-11-03 |
 | [S-10.01](S-10.01/README.md) | Shipping Conferences Exemption Act, 1987 | Justice Canada XML repository (laws-lois-xml), current text only | 2009-03-12 | 2009-03-12 | 1 | 2026-11-03 |
@@ -631,12 +608,8 @@ added. Nothing before the first day is in the record.
 | [S-13.5](S-13.5/README.md) | Songhees Indian Reserve Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [S-14](S-14/README.md) | Special Areas Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [S-14.3](S-14.3/README.md) | An Act to grant access to records of the Special Committee on the Defence of Canada Regulations | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
-| [S-14.5](S-14.5/README.md) | Special Economic Measures Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
-| [S-15](S-15/README.md) | Special Import Measures Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
 | [S-15.2](S-15.2/README.md) | Special Retirement Arrangements Act | Justice Canada XML repository (laws-lois-xml), current text only | 2013-01-01 | 2013-01-01 | 1 | 2026-11-03 |
-| [S-15.3](S-15.3/README.md) | Species at Risk Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-09-25 | 2026-09-25 | 1 | 2026-11-03 |
 | [S-15.34](S-15.34/README.md) | Specific Claims Resolution Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2008-10-16 | 2008-10-16 | 1 | 2026-11-03 |
-| [S-15.36](S-15.36/README.md) | Specific Claims Tribunal Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
 | [S-15.4](S-15.4/README.md) | Spending Control Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [S-15.6](S-15.6/README.md) | Spirit Drinks Trade Act | Justice Canada XML repository (laws-lois-xml), current text only | 2006-06-01 | 2006-06-01 | 1 | 2026-11-03 |
 | [S-15.7](S-15.7/README.md) | Split Lake Cree First Nation Flooded Land Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
@@ -645,7 +618,6 @@ added. Nothing before the first day is in the record.
 | [S-16](S-16/README.md) | Standards Council of Canada Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-06-17 | 2019-06-17 | 1 | 2026-11-03 |
 | [S-18](S-18/README.md) | State Immunity Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-03-13 | 2012-03-13 | 1 | 2026-11-03 |
 | [S-19](S-19/README.md) | Statistics Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-12-12 | 2017-12-12 | 1 | 2026-11-03 |
-| [S-19.6](S-19.6/README.md) | Status of the Artist Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-04-27 | 2023-04-27 | 1 | 2026-11-03 |
 | [S-2.5](S-2.5/README.md) | St. Peter’s Reserve Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [S-2.6](S-2.6/README.md) | St. Regis Islands Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [S-20](S-20/README.md) | Legislation Revision and Consolidation Act | Justice Canada XML repository (laws-lois-xml), current text only | 2009-06-01 | 2009-06-01 | 1 | 2026-11-03 |
@@ -653,28 +625,19 @@ added. Nothing before the first day is in the record.
 | [S-21.5](S-21.5/README.md) | Statutes Repeal Act | Justice Canada XML repository (laws-lois-xml), current text only | 2010-06-18 | 2010-06-18 | 1 | 2026-11-03 |
 | [S-22](S-22/README.md) | Statutory Instruments Act | Justice Canada XML repository (laws-lois-xml), current text only | 2015-06-18 | 2015-06-18 | 1 | 2026-11-03 |
 | [S-22.5](S-22.5/README.md) | Strengthening Canada’s Immigration System and Borders Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-27 | 2026-03-27 | 1 | 2026-11-03 |
-| [S-22.7](S-22.7/README.md) | Canada Student Financial Assistance Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
-| [S-23](S-23/README.md) | Canada Student Loans Act | Justice Canada XML repository (laws-lois-xml), current text only | 2025-12-12 | 2025-12-12 | 1 | 2026-11-03 |
 | [S-23.5](S-23.5/README.md) | Succession to the Throne Act, 2013 | Justice Canada XML repository (laws-lois-xml), current text only | 2015-03-26 | 2015-03-26 | 1 | 2026-11-03 |
 | [S-23.7](S-23.7/README.md) | Supplementary Fiscal Equalization Payments 1982-87 Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [S-24](S-24/README.md) | Supplementary Retirement Benefits Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [S-25.5](S-25.5/README.md) | Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act | Justice Canada XML repository (laws-lois-xml), current text only | 2013-01-01 | 2013-01-01 | 1 | 2026-11-03 |
 | [S-27](S-27/README.md) | Surplus Crown Assets Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
-| [S-3](S-3/README.md) | Salaries Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
 | [S-4.3](S-4.3/README.md) | Saskatchewan Treaty Land Entitlement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-08-27 | 2019-08-27 | 1 | 2026-11-03 |
 | [S-6](S-6/README.md) | Seals Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
-| [S-6.6](S-6.6/README.md) | shíshálh Nation Self-Government Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-06-23 | 2022-06-23 | 1 | 2026-11-03 |
-| [S-6.7](S-6.7/README.md) | Secure Air Travel Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
-| [S-6.9](S-6.9/README.md) | Security of Canada Information Disclosure Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-12-04 | 2023-12-04 | 1 | 2026-11-03 |
 | [S-7](S-7/README.md) | Security Offences Act | Justice Canada XML repository (laws-lois-xml), current text only | 2005-04-04 | 2005-04-04 | 1 | 2026-11-03 |
 | [S-7.2](S-7.2/README.md) | Security Screening Services Commercialization Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2019-06-21 | 2019-06-21 | 1 | 2026-11-03 |
 | [S-8](S-8/README.md) | Seeds Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-01-15 | 2019-01-15 | 1 | 2026-11-03 |
-| [S-8.3](S-8.3/README.md) | Seized Property Management Act | Justice Canada XML repository (laws-lois-xml), current text only | 2025-04-01 | 2025-04-01 | 1 | 2026-11-03 |
 | [S-8.35](S-8.35/README.md) | Select Luxury Items Tax Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [S-8.36](S-8.36/README.md) | Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-09-01 | 2023-09-01 | 1 | 2026-11-03 |
-| [S-8.4](S-8.4/README.md) | Service Fees Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-04-01 | 2024-04-01 | 1 | 2026-11-03 |
 | [S-8.5](S-8.5/README.md) | Settlement of International Investment Disputes Act | Justice Canada XML repository (laws-lois-xml), current text only | 2013-11-01 | 2013-11-01 | 1 | 2026-11-03 |
-| [S-8.7](S-8.7/README.md) | Sex Offender Information Registration Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [S-8.9](S-8.9/README.md) | Shared Services Canada Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-06-22 | 2017-06-22 | 1 | 2026-11-03 |
 | [S-9](S-9/README.md) | Canada Shipping Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2007-07-01 | 2007-07-01 | 1 | 2026-11-03 |
 | [T-1.3](T-1.3/README.md) | Tax-back Guarantee Act | Justice Canada XML repository (laws-lois-xml), current text only | 2007-06-22 | 2007-06-22 | 1 | 2026-11-03 |
@@ -692,48 +655,33 @@ added. Nothing before the first day is in the record.
 | [T-10.5](T-10.5/README.md) | The Saskatchewan Natural Resources Acts | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [T-10.6](T-10.6/README.md) | Thunder Bay Grain Handling Operations Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [T-11](T-11/README.md) | Timber Marking Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-12-14 | 2017-12-14 | 1 | 2026-11-03 |
-| [T-11.1](T-11.1/README.md) | Time Limits and Other Periods Act (COVID-19) | Justice Canada XML repository (laws-lois-xml), current text only | 2025-06-02 | 2025-06-02 | 1 | 2026-11-03 |
-| [T-11.2](T-11.2/README.md) | Tla’amin Final Agreement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-12-15 | 2022-12-15 | 1 | 2026-11-03 |
 | [T-11.3](T-11.3/README.md) | Tlicho Land Claims and Self-Government Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-06-21 | 2019-06-21 | 1 | 2026-11-03 |
-| [T-11.5](T-11.5/README.md) | Tobacco and Vaping Products Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-06-20 | 2024-06-20 | 1 | 2026-11-03 |
 | [T-14](T-14/README.md) | Trade Unions Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [T-15](T-15/README.md) | Transfer of Offenders Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2004-10-29 | 2004-10-29 | 1 | 2026-11-03 |
 | [T-16](T-16/README.md) | Translation Bureau Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [T-18](T-18/README.md) | Department of Transport Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [T-18.5](T-18.5/README.md) | Transportation Appeal Tribunal of Canada Act | Justice Canada XML repository (laws-lois-xml), current text only | 2020-04-01 | 2020-04-01 | 1 | 2026-11-03 |
 | [T-19.01](T-19.01/README.md) | Transportation of Dangerous Goods Act, 1992 | Justice Canada XML repository (laws-lois-xml), current text only | 2019-08-28 | 2019-08-28 | 1 | 2026-11-03 |
-| [T-19.8](T-19.8/README.md) | Trust and Loan Companies Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-09-01 | 2026-09-01 | 1 | 2026-11-03 |
-| [T-2](T-2/README.md) | Tax Court of Canada Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
-| [T-21.5](T-21.5/README.md) | Tsawwassen First Nation Final Agreement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2022-12-15 | 2022-12-15 | 1 | 2026-11-03 |
-| [T-3](T-3/README.md) | Tax Rebate Discounting Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-06-22 | 2023-06-22 | 1 | 2026-11-03 |
-| [T-3.4](T-3.4/README.md) | Telecommunications Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-06-15 | 2026-06-15 | 1 | 2026-11-03 |
 | [T-4.2](T-4.2/README.md) | Teleglobe Canada Reorganization and Divestiture Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [T-6.1](T-6.1/README.md) | Telesat Canada Reorganization and Divestiture Act | Justice Canada XML repository (laws-lois-xml), current text only | 2012-01-01 | 2012-01-01 | 1 | 2026-11-03 |
 | [T-7](T-7/README.md) | Territorial Lands Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-07-15 | 2019-07-15 | 1 | 2026-11-03 |
 | [U-0.4](U-0.4/README.md) | Ukrainian Famine and Genocide (“Holodomor”) Memorial Day Act | Justice Canada XML repository (laws-lois-xml), current text only | 2008-05-29 | 2008-05-29 | 1 | 2026-11-03 |
-| [U-0.5](U-0.5/README.md) | Underused Housing Tax Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [U-0.6](U-0.6/README.md) | Unemployment Assistance Act | Justice Canada XML repository (laws-lois-xml), current text only | 2013-12-12 | 2013-12-12 | 1 | 2026-11-03 |
 | [U-1.5](U-1.5/README.md) | Unemployment Insurance Benefit Entitlement Adjustments (Pension Payments) Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [U-2](U-2/README.md) | United Nations Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
-| [U-2.2](U-2.2/README.md) | United Nations Declaration on the Rights of Indigenous Peoples Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-11-27 | 2024-11-27 | 1 | 2026-11-03 |
 | [U-2.4](U-2.4/README.md) | United Nations Foreign Arbitral Awards Convention Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-07-02 | 2003-07-02 | 1 | 2026-11-03 |
 | [U-3](U-3/README.md) | United States Wreckers Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [U-3.2](U-3.2/README.md) | Universal Child Care Benefit Act | Justice Canada XML repository (laws-lois-xml), current text only | 2016-07-01 | 2016-07-01 | 1 | 2026-11-03 |
 | [U-3.5](U-3.5/README.md) | Use of French in Federally Regulated Private Businesses Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2023-06-20 | 2023-06-20 | 1 | 2026-11-03 |
 | [U-3.7](U-3.7/README.md) | User Fees Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-06-22 | 2017-06-22 | 1 | 2026-11-03 |
-| [V-1](V-1/README.md) | Department of Veterans Affairs Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [V-1.3](V-1.3/README.md) | Veterans Benefit Act | Justice Canada XML repository (laws-lois-xml), current text only | 2005-12-31 | 2005-12-31 | 1 | 2026-11-03 |
 | [V-1.4](V-1.4/README.md) | Veterans Insurance Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [V-1.5](V-1.5/README.md) | Veterans’ Land Act | Justice Canada XML repository (laws-lois-xml), current text only | 2018-03-29 | 2018-03-29 | 1 | 2026-11-03 |
 | [V-1.6](V-1.6/README.md) | Veterans Review and Appeal Board Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-04-01 | 2019-04-01 | 1 | 2026-11-03 |
 | [V-1.8](V-1.8/README.md) | Vimy Ridge Day Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-04-03 | 2003-04-03 | 1 | 2026-11-03 |
-| [V-2](V-2/README.md) | Visiting Forces Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-08-19 | 2024-08-19 | 1 | 2026-11-03 |
 | [V-3](V-3/README.md) | Vocational Rehabilitation of Disabled Persons Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2005-10-05 | 2005-10-05 | 1 | 2026-11-03 |
-| [W-0.8](W-0.8/README.md) | Wage Earner Protection Program Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-11-20 | 2021-11-20 | 1 | 2026-11-03 |
 | [W-1](W-1/README.md) | Wages Liability Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [W-10](W-10/README.md) | National Wildlife Week Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
-| [W-11](W-11/README.md) | Winding-up and Restructuring Act | Justice Canada XML repository (laws-lois-xml), current text only | 2023-06-22 | 2023-06-22 | 1 | 2026-11-03 |
-| [W-11.2](W-11.2/README.md) | Witness Protection Program Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-08-12 | 2021-08-12 | 1 | 2026-11-03 |
 | [W-11.3](W-11.3/README.md) | Department for Women and Gender Equality Act | Justice Canada XML repository (laws-lois-xml), current text only | 2018-12-13 | 2018-12-13 | 1 | 2026-11-03 |
 | [W-11.4](W-11.4/README.md) | Women’s Royal Naval Services and the South African Military Nursing Service (Benefits) Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [W-11.5](W-11.5/README.md) | Workers Mourning Day Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
@@ -744,7 +692,6 @@ added. Nothing before the first day is in the record.
 | [W-3](W-3/README.md) | War Veterans Allowance Act | Justice Canada XML repository (laws-lois-xml), current text only | 2015-02-26 | 2015-02-26 | 1 | 2026-11-03 |
 | [W-4](W-4/README.md) | Dominion Water Power Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-07-15 | 2019-07-15 | 1 | 2026-11-03 |
 | [W-5](W-5/README.md) | Weather Modification Information Act | Justice Canada XML repository (laws-lois-xml), current text only | 2005-04-01 | 2005-04-01 | 1 | 2026-11-03 |
-| [W-6](W-6/README.md) | Weights and Measures Act | Justice Canada XML repository (laws-lois-xml), current text only | 2021-04-19 | 2021-04-19 | 1 | 2026-11-03 |
 | [W-6.2](W-6.2/README.md) | Westbank First Nation Self-Government Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2022-12-15 | 2022-12-15 | 1 | 2026-11-03 |
 | [W-6.4](W-6.4/README.md) | West Coast Ports Operations Act, 1994 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-12-12 | 2017-12-12 | 1 | 2026-11-03 |
 | [W-6.5](W-6.5/README.md) | West Coast Ports Operations Act, 1995 | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2017-12-12 | 2017-12-12 | 1 | 2026-11-03 |
@@ -752,13 +699,10 @@ added. Nothing before the first day is in the record.
 | [W-6.8](W-6.8/README.md) | Western Economic Diversification Act | Justice Canada XML repository (laws-lois-xml), current text only | 2018-06-21 | 2018-06-21 | 1 | 2026-11-03 |
 | [W-7.8](W-7.8/README.md) | Western Grain Transition Payments Act | Justice Canada XML repository (laws-lois-xml), current text only | 2003-01-01 | 2003-01-01 | 1 | 2026-11-03 |
 | [W-8.5](W-8.5/README.md) | Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act | Justice Canada XML repository (laws-lois-xml), current text only | 2017-07-12 | 2017-07-12 | 1 | 2026-11-03 |
-| [W-9](W-9/README.md) | Canada Wildlife Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-03-26 | 2026-03-26 | 1 | 2026-11-03 |
 | [Y-0.2](Y-0.2/README.md) | Yale First Nation Final Agreement Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-01-01 | 2026-01-01 | 1 | 2026-11-03 |
 | [Y-0.6](Y-0.6/README.md) | York Factory First Nation Flooded Land Act | Justice Canada XML repository (laws-lois-xml), current text only | 2002-12-31 | 2002-12-31 | 1 | 2026-11-03 |
 | [Y-1](Y-1/README.md) | Young Offenders Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-04-01 | 2003-04-01 | 1 | 2026-11-03 |
-| [Y-1.5](Y-1.5/README.md) | Youth Criminal Justice Act | Justice Canada XML repository (laws-lois-xml), current text only | 2026-07-18 | 2026-07-18 | 1 | 2026-11-03 |
 | [Y-2](Y-2/README.md) | Yukon Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-04-01 | 2003-04-01 | 1 | 2026-11-03 |
-| [Y-2.01](Y-2.01/README.md) | Yukon Act | Justice Canada XML repository (laws-lois-xml), current text only | 2024-11-27 | 2024-11-27 | 1 | 2026-11-03 |
 | [Y-2.2](Y-2.2/README.md) | Yukon Environmental and Socio-economic Assessment Act | Justice Canada XML repository (laws-lois-xml), current text only | 2019-08-28 | 2019-08-28 | 1 | 2026-11-03 |
 | [Y-3](Y-3/README.md) | Yukon Placer Mining Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-04-01 | 2003-04-01 | 1 | 2026-11-03 |
 | [Y-4](Y-4/README.md) | Yukon Quartz Mining Act | Justice Canada XML repository (laws-lois-xml), current text only, one file | 2003-04-01 | 2003-04-01 | 1 | 2026-11-03 |
@@ -5753,3 +5697,59 @@ added. Nothing before the first day is in the record.
 | [O-7](O-7/README.md) | Canada Oil and Gas Operations Act | Justice Canada XML repository (laws-lois-xml) | 2020-02-26 | 2025-06-02 | 4 | 2026-11-03 |
 | [O-8.3](O-8.3/README.md) | Oil Tanker Moratorium Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2024-11-27 | 3 | 2026-11-03 |
 | [O-9](O-9/README.md) | Old Age Security Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2025-10-01 | 5 | 2026-11-03 |
+| [P-19.32](P-19.32/README.md) | Preclearance Act, 2016 | Justice Canada XML repository (laws-lois-xml) | 2019-08-15 | 2024-12-09 | 2 | 2026-11-03 |
+| [P-19.45](P-19.45/README.md) | Prevention of Terrorist Travel Act | Justice Canada XML repository (laws-lois-xml) | 2015-06-23 | 2024-08-19 | 2 | 2026-11-03 |
+| [P-24](P-24/README.md) | Privileges and Immunities (North Atlantic Treaty Organisation) Act | Justice Canada XML repository (laws-lois-xml) | 2002-12-31 | 2023-06-22 | 2 | 2026-11-03 |
+| [P-24.501](P-24.501/README.md) | Proceeds of Crime (Money Laundering) and Terrorist Financing Act | Justice Canada XML repository (laws-lois-xml) | 2020-06-01 | 2026-03-26 | 18 | 2026-11-03 |
+| [P-24.8](P-24.8/README.md) | Prohibiting Cluster Munitions Act | Justice Canada XML repository (laws-lois-xml) | 2015-03-16 | 2022-06-20 | 2 | 2026-11-03 |
+| [P-31.6](P-31.6/README.md) | Public Sector Compensation Act | Justice Canada XML repository (laws-lois-xml) | 2019-08-28 | 2024-06-20 | 2 | 2026-11-03 |
+| [P-31.7](P-31.7/README.md) | Public Sector Pension Investment Board Act | Justice Canada XML repository (laws-lois-xml) | 2017-12-31 | 2025-12-17 | 4 | 2026-11-03 |
+| [P-33.01](P-33.01/README.md) | Public Service Employment Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-11 | 2023-07-01 | 3 | 2026-11-03 |
+| [P-33.3](P-33.3/README.md) | Federal Public Sector Labour Relations Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-29 | 2024-08-19 | 2 | 2026-11-03 |
+| [P-36](P-36/README.md) | Public Service Superannuation Act | Justice Canada XML repository (laws-lois-xml) | 2019-08-28 | 2026-08-04 | 6 | 2026-11-03 |
+| [P-38.2](P-38.2/README.md) | Department of Public Works and Government Services Act | Justice Canada XML repository (laws-lois-xml) | 2017-12-14 | 2025-06-09 | 3 | 2026-11-03 |
+| [P-4.4](P-4.4/README.md) | Payment Clearing and Settlement Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-23 | 2021-06-29 | 2 | 2026-11-03 |
+| [P-6](P-6/README.md) | Pension Act | Justice Canada XML repository (laws-lois-xml) | 2020-07-27 | 2026-05-29 | 3 | 2026-11-03 |
+| [P-7.01](P-7.01/README.md) | Pension Benefits Standards Act, 1985 | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2024-05-24 | 5 | 2026-11-03 |
+| [R-10](R-10/README.md) | Royal Canadian Mounted Police Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-12 | 2024-08-19 | 2 | 2026-11-03 |
+| [R-11](R-11/README.md) | Royal Canadian Mounted Police Superannuation Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2026-03-26 | 2 | 2026-11-03 |
+| [R-2](R-2/README.md) | Radiocommunication Act | Justice Canada XML repository (laws-lois-xml) | 2017-09-21 | 2024-06-20 | 2 | 2026-11-03 |
+| [R-4.2](R-4.2/README.md) | Railway Safety Act | Justice Canada XML repository (laws-lois-xml) | 2019-08-28 | 2022-09-02 | 2 | 2026-11-03 |
+| [R-4.5](R-4.5/README.md) | Red Tape Reduction Act | Justice Canada XML repository (laws-lois-xml) | 2015-04-23 | 2026-03-26 | 2 | 2026-11-03 |
+| [R-4.7](R-4.7/README.md) | Referendum Act | Justice Canada XML repository (laws-lois-xml) | 2005-12-31 | 2023-04-27 | 2 | 2026-11-03 |
+| [R-8](R-8/README.md) | Revolving Funds Act | Justice Canada XML repository (laws-lois-xml) | 2014-12-16 | 2023-12-15 | 2 | 2026-11-03 |
+| [R-8.55](R-8.55/README.md) | Rouge National Urban Park Act | Justice Canada XML repository (laws-lois-xml) | 2019-02-01 | 2024-05-27 | 3 | 2026-11-03 |
+| [S-1.1](S-1.1/README.md) | Safe Food for Canadians Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-17 | 2023-01-14 | 2 | 2026-11-03 |
+| [S-14.5](S-14.5/README.md) | Special Economic Measures Act | Justice Canada XML repository (laws-lois-xml) | 2017-10-18 | 2026-03-26 | 4 | 2026-11-03 |
+| [S-15](S-15/README.md) | Special Import Measures Act | Justice Canada XML repository (laws-lois-xml) | 2020-07-01 | 2022-06-23 | 2 | 2026-11-03 |
+| [S-15.3](S-15.3/README.md) | Species at Risk Act | Justice Canada XML repository (laws-lois-xml) | 2020-10-06 | 2026-09-25 | 12 | 2026-11-03 |
+| [S-15.36](S-15.36/README.md) | Specific Claims Tribunal Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-15 | 2022-06-23 | 2 | 2026-11-03 |
+| [S-19.6](S-19.6/README.md) | Status of the Artist Act | Justice Canada XML repository (laws-lois-xml) | 2017-06-19 | 2023-04-27 | 2 | 2026-11-03 |
+| [S-22.7](S-22.7/README.md) | Canada Student Financial Assistance Act | Justice Canada XML repository (laws-lois-xml) | 2020-03-25 | 2026-03-26 | 7 | 2026-11-03 |
+| [S-23](S-23/README.md) | Canada Student Loans Act | Justice Canada XML repository (laws-lois-xml) | 2020-03-25 | 2025-12-12 | 6 | 2026-11-03 |
+| [S-3](S-3/README.md) | Salaries Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-15 | 2024-06-20 | 2 | 2026-11-03 |
+| [S-6.6](S-6.6/README.md) | shíshálh Nation Self-Government Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-15 | 2022-06-23 | 2 | 2026-11-03 |
+| [S-6.7](S-6.7/README.md) | Secure Air Travel Act | Justice Canada XML repository (laws-lois-xml) | 2020-11-04 | 2024-08-19 | 2 | 2026-11-03 |
+| [S-6.9](S-6.9/README.md) | Security of Canada Information Disclosure Act | Justice Canada XML repository (laws-lois-xml) | 2019-08-01 | 2023-12-04 | 2 | 2026-11-03 |
+| [S-8.3](S-8.3/README.md) | Seized Property Management Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2025-04-01 | 5 | 2026-11-03 |
+| [S-8.4](S-8.4/README.md) | Service Fees Act | Justice Canada XML repository (laws-lois-xml) | 2019-05-01 | 2024-04-01 | 3 | 2026-11-03 |
+| [S-8.7](S-8.7/README.md) | Sex Offender Information Registration Act | Justice Canada XML repository (laws-lois-xml) | 2018-06-21 | 2026-03-26 | 4 | 2026-11-03 |
+| [T-11.1](T-11.1/README.md) | Time Limits and Other Periods Act (COVID-19) | Justice Canada XML repository (laws-lois-xml) | 2020-07-27 | 2025-06-02 | 2 | 2026-11-03 |
+| [T-11.2](T-11.2/README.md) | Tla’amin Final Agreement Act | Justice Canada XML repository (laws-lois-xml) | 2016-04-05 | 2022-12-15 | 2 | 2026-11-03 |
+| [T-11.5](T-11.5/README.md) | Tobacco and Vaping Products Act | Justice Canada XML repository (laws-lois-xml) | 2020-11-09 | 2024-06-20 | 4 | 2026-11-03 |
+| [T-19.8](T-19.8/README.md) | Trust and Loan Companies Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-17 | 2026-09-01 | 12 | 2026-11-03 |
+| [T-2](T-2/README.md) | Tax Court of Canada Act | Justice Canada XML repository (laws-lois-xml) | 2018-06-21 | 2026-03-26 | 10 | 2026-11-03 |
+| [T-21.5](T-21.5/README.md) | Tsawwassen First Nation Final Agreement Act | Justice Canada XML repository (laws-lois-xml) | 2009-04-03 | 2022-12-15 | 2 | 2026-11-03 |
+| [T-3](T-3/README.md) | Tax Rebate Discounting Act | Justice Canada XML repository (laws-lois-xml) | 2002-12-31 | 2023-06-22 | 2 | 2026-11-03 |
+| [T-3.4](T-3.4/README.md) | Telecommunications Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-11 | 2026-06-15 | 6 | 2026-11-03 |
+| [U-0.5](U-0.5/README.md) | Underused Housing Tax Act | Justice Canada XML repository (laws-lois-xml) | 2022-06-09 | 2026-03-26 | 5 | 2026-11-03 |
+| [U-2.2](U-2.2/README.md) | United Nations Declaration on the Rights of Indigenous Peoples Act | Justice Canada XML repository (laws-lois-xml) | 2021-06-21 | 2024-11-27 | 2 | 2026-11-03 |
+| [V-1](V-1/README.md) | Department of Veterans Affairs Act | Justice Canada XML repository (laws-lois-xml) | 2020-07-27 | 2026-03-26 | 2 | 2026-11-03 |
+| [V-2](V-2/README.md) | Visiting Forces Act | Justice Canada XML repository (laws-lois-xml) | 2015-02-26 | 2024-08-19 | 3 | 2026-11-03 |
+| [W-0.8](W-0.8/README.md) | Wage Earner Protection Program Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-29 | 2021-11-20 | 2 | 2026-11-03 |
+| [W-11](W-11/README.md) | Winding-up and Restructuring Act | Justice Canada XML repository (laws-lois-xml) | 2016-06-22 | 2023-06-22 | 2 | 2026-11-03 |
+| [W-11.2](W-11.2/README.md) | Witness Protection Program Act | Justice Canada XML repository (laws-lois-xml) | 2015-07-16 | 2021-08-12 | 2 | 2026-11-03 |
+| [W-6](W-6/README.md) | Weights and Measures Act | Justice Canada XML repository (laws-lois-xml) | 2019-06-21 | 2021-04-19 | 2 | 2026-11-03 |
+| [W-9](W-9/README.md) | Canada Wildlife Act | Justice Canada XML repository (laws-lois-xml) | 2017-12-12 | 2026-03-26 | 3 | 2026-11-03 |
+| [Y-1.5](Y-1.5/README.md) | Youth Criminal Justice Act | Justice Canada XML repository (laws-lois-xml) | 2019-12-18 | 2026-07-18 | 4 | 2026-11-03 |
+| [Y-2.01](Y-2.01/README.md) | Yukon Act | Justice Canada XML repository (laws-lois-xml) | 2019-07-15 | 2024-11-27 | 3 | 2026-11-03 |

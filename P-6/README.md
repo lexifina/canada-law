@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/P-6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-05-29: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2020-07-27 (the latest from 2026-05-29).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -74,11 +74,11 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 71.5 | [s-071.5.md](s-071.5.md) | 0 |  |
 | s. 72 | [s-072.md](s-072.md) | 0 |  |
 | s. 73 | [s-073.md](s-073.md) | 0 |  |
-| s. 74 | [s-074.md](s-074.md) | 0 |  |
-| s. 74.1 | [s-074.1.md](s-074.1.md) | 0 |  |
-| s. 74.2 | [s-074.2.md](s-074.2.md) | 0 |  |
-| s. 74.3 | [s-074.3.md](s-074.3.md) | 0 |  |
-| s. 75 | [s-075.md](s-075.md) | 0 |  |
+| s. 74 | [s-074.md](s-074.md) | 1 | 2026-03-26 |
+| s. 74.1 | [s-074.1.md](s-074.1.md) | 1 | 2026-03-26 |
+| s. 74.2 | [s-074.2.md](s-074.2.md) | 1 | 2026-03-26 |
+| s. 74.3 | [s-074.3.md](s-074.3.md) | 1 | 2026-03-26 |
+| s. 75 | [s-075.md](s-075.md) | 1 | 2026-03-26 |
 | s. 76 | [s-076.md](s-076.md) | 0 |  |
 | s. 77 | [s-077.md](s-077.md) | 0 |  |
 | s. 78 | [s-078.md](s-078.md) | 0 |  |
@@ -97,9 +97,9 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 89 | [s-089.md](s-089.md) | 0 |  |
 | s. 90 | [s-090.md](s-090.md) | 0 |  |
 | s. 91 | [s-091.md](s-091.md) | 0 |  |
-| s. 91.1 | [s-091.1.md](s-091.1.md) | 0 |  |
-| s. 91.2 | [s-091.2.md](s-091.2.md) | 0 |  |
-| s. 91.3 | [s-091.3.md](s-091.3.md) | 0 |  |
+| s. 91.1 | [s-091.1.md](s-091.1.md) | 1 | 2026-03-26 |
+| s. 91.2 | [s-091.2.md](s-091.2.md) | 1 | 2026-03-26 |
+| s. 91.3 | [s-091.3.md](s-091.3.md) | 1 | 2026-03-26 |
 | s. 91.4 | [s-091.4.md](s-091.4.md) | 0 |  |
 | s. 91.5 | [s-091.5.md](s-091.5.md) | 0 |  |
 | s. 92 | [s-092.md](s-092.md) | 0 |  |
@@ -115,7 +115,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 109.4 | [s-109.4.md](s-109.4.md) | 0 |  |
 | s. 110 | [s-110.md](s-110.md) | 0 |  |
 | s. 111 | [s-111.md](s-111.md) | 0 |  |
-| Schedule I | [schedule-i.md](schedule-i.md) | 0 |  |
-| Schedule II | [schedule-ii.md](schedule-ii.md) | 0 |  |
-| Schedule III | [schedule-iii.md](schedule-iii.md) | 0 |  |
-| Schedule IV | [schedule-iv.md](schedule-iv.md) | 0 |  |
+| Schedule I | [schedule-i.md](schedule-i.md) | 1 | 2026-03-26 |
+| Schedule II | [schedule-ii.md](schedule-ii.md) | 1 | 2026-03-26 |
+| Schedule III | [schedule-iii.md](schedule-iii.md) | 1 | 2026-03-26 |
+| Schedule IV | [schedule-iv.md](schedule-iv.md) | 2 | 2026-05-29 |

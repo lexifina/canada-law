@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/V-2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-08-19: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2015-02-26 (the latest from 2024-08-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
-| s. 8 | [s-008.md](s-008.md) | 0 |  |
+| s. 8 | [s-008.md](s-008.md) | 1 | 2022-06-20 |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
@@ -26,8 +26,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
-| s. 20 | [s-020.md](s-020.md) | 0 |  |
-| s. 21 | [s-021.md](s-021.md) | 0 |  |
+| s. 20 | [s-020.md](s-020.md) | 1 | 2024-08-19 |
+| s. 21 | [s-021.md](s-021.md) | 1 | 2024-08-19 |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
 | s. 23 | [s-023.md](s-023.md) | 0 |  |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |

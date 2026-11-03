@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/R-2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2017-09-21 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,10 +10,10 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
-| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2024-06-20 |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
-| s. 5.01 | [s-005.01.md](s-005.01.md) | 0 |  |
-| s. 5.02 | [s-005.02.md](s-005.02.md) | 0 |  |
+| s. 5.01 | [s-005.01.md](s-005.01.md) | 1 | 2024-06-20 |
+| s. 5.02 | [s-005.02.md](s-005.02.md) | 1 | 2024-06-20 |
 | s. 5.1 | [s-005.1.md](s-005.1.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
@@ -29,7 +29,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
-| s. 15.1 | [s-015.1.md](s-015.1.md) | 0 |  |
+| s. 15.1 | [s-015.1.md](s-015.1.md) | 1 | 2024-06-20 |
 | s. 15.11 | [s-015.11.md](s-015.11.md) | 0 |  |
 | s. 15.12 | [s-015.12.md](s-015.12.md) | 0 |  |
 | s. 15.13 | [s-015.13.md](s-015.13.md) | 0 |  |

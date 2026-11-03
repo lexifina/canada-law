@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/W-9/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2017-12-12 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 2 | 2026-03-26 |
 | s. 2.1 | [s-002.1.md](s-002.1.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
@@ -30,14 +30,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 11.4 | [s-011.4.md](s-011.4.md) | 0 |  |
 | s. 11.5 | [s-011.5.md](s-011.5.md) | 0 |  |
 | s. 11.6 | [s-011.6.md](s-011.6.md) | 0 |  |
-| s. 11.7 | [s-011.7.md](s-011.7.md) | 0 |  |
+| s. 11.7 | [s-011.7.md](s-011.7.md) | 1 | 2026-03-26 |
 | s. 11.8 | [s-011.8.md](s-011.8.md) | 0 |  |
 | s. 11.9 | [s-011.9.md](s-011.9.md) | 0 |  |
 | s. 11.91 | [s-011.91.md](s-011.91.md) | 0 |  |
 | s. 11.92 | [s-011.92.md](s-011.92.md) | 0 |  |
 | s. 11.93 | [s-011.93.md](s-011.93.md) | 0 |  |
-| s. 11.94 | [s-011.94.md](s-011.94.md) | 0 |  |
-| s. 11.95 | [s-011.95.md](s-011.95.md) | 0 |  |
+| s. 11.94 | [s-011.94.md](s-011.94.md) | 1 | 2026-03-26 |
+| s. 11.95 | [s-011.95.md](s-011.95.md) | 1 | 2026-03-26 |
 | s. 11.96 | [s-011.96.md](s-011.96.md) | 0 |  |
 | s. 11.97 | [s-011.97.md](s-011.97.md) | 0 |  |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |

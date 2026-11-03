@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/P-33.3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-08-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-29 (the latest from 2024-08-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -260,7 +260,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 238.06 | [s-238.06.md](s-238.06.md) | 0 |  |
 | s. 238.07 | [s-238.07.md](s-238.07.md) | 0 |  |
 | s. 238.08 | [s-238.08.md](s-238.08.md) | 0 |  |
-| s. 238.09 | [s-238.09.md](s-238.09.md) | 0 |  |
+| s. 238.09 | [s-238.09.md](s-238.09.md) | 1 | 2024-08-19 |
 | s. 238.1 | [s-238.1.md](s-238.1.md) | 0 |  |
 | s. 238.11 | [s-238.11.md](s-238.11.md) | 0 |  |
 | s. 238.12 | [s-238.12.md](s-238.12.md) | 0 |  |
@@ -280,7 +280,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 238.26 | [s-238.26.md](s-238.26.md) | 0 |  |
 | s. 238.27 | [s-238.27.md](s-238.27.md) | 0 |  |
 | s. 238.28 | [s-238.28.md](s-238.28.md) | 0 |  |
-| s. 238.29 | [s-238.29.md](s-238.29.md) | 0 |  |
+| s. 238.29 | [s-238.29.md](s-238.29.md) | 1 | 2024-08-19 |
 | s. 238.3 | [s-238.3.md](s-238.3.md) | 0 |  |
 | s. 238.31 | [s-238.31.md](s-238.31.md) | 0 |  |
 | s. 238.32 | [s-238.32.md](s-238.32.md) | 0 |  |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/P-36/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-08-04: the oldest version available in this record for now.
+6 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2026-08-04).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,8 +26,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
 | s. 12.1 | [s-012.1.md](s-012.1.md) | 0 |  |
-| s. 13 | [s-013.md](s-013.md) | 0 |  |
-| s. 13.001 | [s-013.001.md](s-013.001.md) | 0 |  |
+| s. 13 | [s-013.md](s-013.md) | 1 | 2026-03-26 |
+| s. 13.001 | [s-013.001.md](s-013.001.md) | 1 | 2026-03-26 |
 | s. 13.01 | [s-013.01.md](s-013.01.md) | 0 |  |
 | s. 13.02 | [s-013.02.md](s-013.02.md) | 0 |  |
 | s. 13.03 | [s-013.03.md](s-013.03.md) | 0 |  |
@@ -76,14 +76,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 44 | [s-044.md](s-044.md) | 0 |  |
 | s. 44.1 | [s-044.1.md](s-044.1.md) | 0 |  |
 | s. 44.2 | [s-044.2.md](s-044.2.md) | 0 |  |
-| s. 44.21 | [s-044.21.md](s-044.21.md) | 0 |  |
-| s. 44.22 | [s-044.22.md](s-044.22.md) | 0 |  |
+| s. 44.21 | [s-044.21.md](s-044.21.md) | 1 | 2026-03-26 |
+| s. 44.22 | [s-044.22.md](s-044.22.md) | 1 | 2026-03-26 |
 | s. 44.3 | [s-044.3.md](s-044.3.md) | 0 |  |
 | s. 44.4 | [s-044.4.md](s-044.4.md) | 0 |  |
 | s. 44.5 | [s-044.5.md](s-044.5.md) | 0 |  |
 | s. 45 | [s-045.md](s-045.md) | 0 |  |
 | s. 46 | [s-046.md](s-046.md) | 0 |  |
-| s. 46.01 | [s-046.01.md](s-046.01.md) | 0 |  |
+| s. 46.01 | [s-046.01.md](s-046.01.md) | 1 | 2026-07-25 |
 | s. 46.1 | [s-046.1.md](s-046.1.md) | 0 |  |
 | s. 46.2 | [s-046.2.md](s-046.2.md) | 0 |  |
 | s. 46.3 | [s-046.3.md](s-046.3.md) | 0 |  |
@@ -119,5 +119,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 72 | [s-072.md](s-072.md) | 0 |  |
 | s. 73 | [s-073.md](s-073.md) | 0 |  |
 | s. 74 | [s-074.md](s-074.md) | 0 |  |
-| Schedule I | [schedule-i.md](schedule-i.md) | 0 |  |
+| Schedule I | [schedule-i.md](schedule-i.md) | 4 | 2026-08-04 |
 | Schedule II | [schedule-ii.md](schedule-ii.md) | 0 |  |

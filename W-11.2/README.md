@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/W-11.2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-08-12: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2015-07-16 (the latest from 2021-08-12).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,4 +43,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
 | ss. 22 and 23 | [s-022-and-023.md](s-022-and-023.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2021-08-12 |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/S-3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-15 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
-| s. 4.1 | [s-004.1.md](s-004.1.md) | 0 |  |
+| s. 4.1 | [s-004.1.md](s-004.1.md) | 1 | 2024-06-20 |
 | s. 4.2 | [s-004.2.md](s-004.2.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |

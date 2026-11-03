@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/R-11/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-06-21 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -58,15 +58,15 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 32.1 | [s-032.1.md](s-032.1.md) | 0 |  |
 | s. 32.11 | [s-032.11.md](s-032.11.md) | 0 |  |
-| s. 32.12 | [s-032.12.md](s-032.12.md) | 0 |  |
+| s. 32.12 | [s-032.12.md](s-032.12.md) | 1 | 2026-03-26 |
 | s. 32.13 | [s-032.13.md](s-032.13.md) | 0 |  |
 | s. 32.14 | [s-032.14.md](s-032.14.md) | 0 |  |
 | s. 32.15 | [s-032.15.md](s-032.15.md) | 0 |  |
-| s. 32.2 | [s-032.2.md](s-032.2.md) | 0 |  |
+| s. 32.2 | [s-032.2.md](s-032.2.md) | 1 | 2026-03-26 |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
-| s. 34.1 | [s-034.1.md](s-034.1.md) | 0 |  |
-| s. 34.2 | [s-034.2.md](s-034.2.md) | 0 |  |
+| s. 34.1 | [s-034.1.md](s-034.1.md) | 1 | 2026-03-26 |
+| s. 34.2 | [s-034.2.md](s-034.2.md) | 1 | 2026-03-26 |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
 | s. 36 | [s-036.md](s-036.md) | 0 |  |
 | s. 37 | [s-037.md](s-037.md) | 0 |  |

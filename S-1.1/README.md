@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/S-1.1/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-01-14: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-06-17 (the latest from 2023-01-14).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,7 +32,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 23 | [s-023.md](s-023.md) | 0 |  |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
-| s. 26 | [s-026.md](s-026.md) | 0 |  |
+| s. 26 | [s-026.md](s-026.md) | 1 | 2023-01-14 |
 | s. 27 | [s-027.md](s-027.md) | 0 |  |
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |

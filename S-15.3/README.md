@@ -2,14 +2,14 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/S-15.3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-09-25: the oldest version available in this record for now.
+12 consolidated versions in Justice Canada's XML repository, from 2020-10-06 (the latest from 2026-09-25).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
-| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 3 | [s-003.md](s-003.md) | 1 | 2024-11-27 |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
@@ -147,6 +147,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | ss. 134 to 141 | [s-134-to-141.md](s-134-to-141.md) | 0 |  |
 | s. 141.1 | [s-141.1.md](s-141.1.md) | 0 |  |
 | s. 142 | [s-142.md](s-142.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 10 | 2026-09-25 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |

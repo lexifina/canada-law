@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/R-8/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-12-15: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2014-12-16 (the latest from 2023-12-15).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,7 +17,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 5.2 | [s-005.2.md](s-005.2.md) | 0 |  |
 | s. 5.3 | [s-005.3.md](s-005.3.md) | 0 |  |
 | s. 5.4 | [s-005.4.md](s-005.4.md) | 0 |  |
-| s. 5.5 | [s-005.5.md](s-005.5.md) | 0 |  |
+| s. 5.5 | [s-005.5.md](s-005.5.md) | 1 | 2023-12-15 |
 | s. 5.6 | [s-005.6.md](s-005.6.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |

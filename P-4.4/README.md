@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/P-4.4/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-06-29: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-06-23 (the latest from 2021-06-29).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2021-06-29 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
@@ -46,9 +46,9 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 11.25 | [s-011.25.md](s-011.25.md) | 0 |  |
 | s. 11.26 | [s-011.26.md](s-011.26.md) | 0 |  |
 | s. 11.27 | [s-011.27.md](s-011.27.md) | 0 |  |
-| s. 11.28 | [s-011.28.md](s-011.28.md) | 0 |  |
+| s. 11.28 | [s-011.28.md](s-011.28.md) | 1 | 2021-06-29 |
 | s. 11.29 | [s-011.29.md](s-011.29.md) | 0 |  |
-| s. 11.3 | [s-011.3.md](s-011.3.md) | 0 |  |
+| s. 11.3 | [s-011.3.md](s-011.3.md) | 1 | 2021-06-29 |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
 | s. 12.01 | [s-012.01.md](s-012.01.md) | 0 |  |
 | s. 12.1 | [s-012.1.md](s-012.1.md) | 0 |  |
@@ -56,11 +56,11 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 13.1 | [s-013.1.md](s-013.1.md) | 0 |  |
 | s. 13.2 | [s-013.2.md](s-013.2.md) | 0 |  |
 | s. 13.3 | [s-013.3.md](s-013.3.md) | 0 |  |
-| s. 14 | [s-014.md](s-014.md) | 0 |  |
+| s. 14 | [s-014.md](s-014.md) | 1 | 2021-06-29 |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
-| s. 18 | [s-018.md](s-018.md) | 0 |  |
+| s. 18 | [s-018.md](s-018.md) | 1 | 2021-06-29 |
 | s. 18.1 | [s-018.1.md](s-018.1.md) | 0 |  |
 | s. 18.2 | [s-018.2.md](s-018.2.md) | 0 |  |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |

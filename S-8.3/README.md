@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/S-8.3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-04-01: the oldest version available in this record for now.
+5 consolidated versions in Justice Canada's XML repository, from 2019-06-21 (the latest from 2025-04-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,7 +10,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
-| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 2 | 2025-04-01 |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
@@ -19,10 +19,10 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
-| s. 13 | [s-013.md](s-013.md) | 0 |  |
+| s. 13 | [s-013.md](s-013.md) | 3 | 2024-09-18 |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
-| s. 16 | [s-016.md](s-016.md) | 0 |  |
+| s. 16 | [s-016.md](s-016.md) | 2 | 2024-09-18 |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |

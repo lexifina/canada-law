@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/W-6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-04-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-06-21 (the latest from 2021-04-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -74,7 +74,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
 | s. 40 | [s-040.md](s-040.md) | 0 |  |
 | s. 41 | [s-041.md](s-041.md) | 0 |  |
-| Schedule I | [schedule-i.md](schedule-i.md) | 0 |  |
+| Schedule I | [schedule-i.md](schedule-i.md) | 1 | 2021-04-19 |
 | Schedule II | [schedule-ii.md](schedule-ii.md) | 0 |  |
 | Schedule III | [schedule-iii.md](schedule-iii.md) | 0 |  |
-| Schedule IV | [schedule-iv.md](schedule-iv.md) | 0 |  |
+| Schedule IV | [schedule-iv.md](schedule-iv.md) | 1 | 2021-04-19 |
