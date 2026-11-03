@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-11.65/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-05-13: the oldest version available in this record for now.
+22 consolidated versions in Justice Canada's XML repository, from 2020-12-30 (the latest from 2026-05-13).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -51,4 +51,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 42 | [s-042.md](s-042.md) | 0 |  |
 | s. 43 | [s-043.md](s-043.md) | 0 |  |
 | s. 44 | [s-044.md](s-044.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 21 | 2026-05-13 |

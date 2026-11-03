@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/O-7/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-06-02: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2020-02-26 (the latest from 2025-06-02).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 2 | 2025-06-02 |
 | s. 2.1 | [s-002.1.md](s-002.1.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 3.1 | [s-003.1.md](s-003.1.md) | 0 |  |
@@ -43,7 +43,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 5.351 | [s-005.351.md](s-005.351.md) | 0 |  |
 | s. 5.36 | [s-005.36.md](s-005.36.md) | 0 |  |
 | s. 5.37 | [s-005.37.md](s-005.37.md) | 0 |  |
-| s. 5.4 | [s-005.4.md](s-005.4.md) | 0 |  |
+| s. 5.4 | [s-005.4.md](s-005.4.md) | 2 | 2025-06-02 |
 | s. 5.5 | [s-005.5.md](s-005.5.md) | 0 |  |
 | s. 5.6 | [s-005.6.md](s-005.6.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
@@ -201,4 +201,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 73 | [s-073.md](s-073.md) | 0 |  |
 | s. 74 | [s-074.md](s-074.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 1 | 2022-07-30 |

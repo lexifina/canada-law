@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-6.18/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2017-06-22 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,7 +29,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
-| s. 23 | [s-023.md](s-023.md) | 0 |  |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2026-03-26 |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
 | s. 26 | [s-026.md](s-026.md) | 0 |  |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-21.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-02-17: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2018-06-21 (the latest from 2023-02-17).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,4 +37,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
 | s. 30 | [s-030.md](s-030.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2023-02-17 |

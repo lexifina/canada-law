@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-34.6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-09-01: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2020-07-01 (the latest from 2026-09-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 2 | 2026-09-01 |

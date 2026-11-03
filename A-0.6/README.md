@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/A-0.6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-04-27: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-11 (the latest from 2023-04-27).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -50,7 +50,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
 | s. 40 | [s-040.md](s-040.md) | 0 |  |
 | s. 41 | [s-041.md](s-041.md) | 0 |  |
-| s. 42 | [s-042.md](s-042.md) | 0 |  |
+| s. 42 | [s-042.md](s-042.md) | 1 | 2023-04-27 |
 | s. 43 | [s-043.md](s-043.md) | 0 |  |
 | s. 44 | [s-044.md](s-044.md) | 0 |  |
 | s. 45 | [s-045.md](s-045.md) | 0 |  |
@@ -126,7 +126,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 115 | [s-115.md](s-115.md) | 0 |  |
 | s. 116 | [s-116.md](s-116.md) | 0 |  |
 | s. 117 | [s-117.md](s-117.md) | 0 |  |
-| s. 118 | [s-118.md](s-118.md) | 0 |  |
+| s. 118 | [s-118.md](s-118.md) | 1 | 2023-04-27 |
 | s. 119 | [s-119.md](s-119.md) | 0 |  |
 | s. 120 | [s-120.md](s-120.md) | 0 |  |
 | s. 121 | [s-121.md](s-121.md) | 0 |  |

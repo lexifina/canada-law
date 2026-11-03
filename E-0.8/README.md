@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-0.8/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-10-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-06-01 (the latest from 2025-10-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -382,7 +382,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 371 | [s-371.md](s-371.md) | 0 |  |
 | s. 372 | [s-372.md](s-372.md) | 0 |  |
 | s. 373 | [s-373.md](s-373.md) | 0 |  |
-| s. 374 | [s-374.md](s-374.md) | 0 |  |
+| s. 374 | [s-374.md](s-374.md) | 1 | 2025-10-01 |
 | s. 375 | [s-375.md](s-375.md) | 0 |  |
 | s. 376 | [s-376.md](s-376.md) | 0 |  |
 | s. 377 | [s-377.md](s-377.md) | 0 |  |

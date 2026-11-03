@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-0.7/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-05-20: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2018-11-26 (the latest from 2026-05-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -269,14 +269,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 259 | [s-259.md](s-259.md) | 0 |  |
 | s. 260 | [s-260.md](s-260.md) | 0 |  |
 | s. 261 | [s-261.md](s-261.md) | 0 |  |
-| s. 262 | [s-262.md](s-262.md) | 0 |  |
+| s. 262 | [s-262.md](s-262.md) | 1 | 2024-01-01 |
 | s. 263 | [s-263.md](s-263.md) | 0 |  |
 | s. 264 | [s-264.md](s-264.md) | 0 |  |
 | s. 265 | [s-265.md](s-265.md) | 0 |  |
 | s. 266 | [s-266.md](s-266.md) | 0 |  |
 | s. 267 | [s-267.md](s-267.md) | 0 |  |
 | s. 268 | [s-268.md](s-268.md) | 0 |  |
-| s. 269 | [s-269.md](s-269.md) | 0 |  |
+| s. 269 | [s-269.md](s-269.md) | 2 | 2024-11-22 |
 | s. 270 | [s-270.md](s-270.md) | 0 |  |
 | s. 271 | [s-271.md](s-271.md) | 0 |  |
 | s. 272 | [s-272.md](s-272.md) | 0 |  |
@@ -371,7 +371,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 361 | [s-361.md](s-361.md) | 0 |  |
 | s. 362 | [s-362.md](s-362.md) | 0 |  |
 | s. 363 | [s-363.md](s-363.md) | 0 |  |
-| s. 364 | [s-364.md](s-364.md) | 0 |  |
+| s. 364 | [s-364.md](s-364.md) | 1 | 2026-05-20 |
 | s. 365 | [s-365.md](s-365.md) | 0 |  |
 | s. 366 | [s-366.md](s-366.md) | 0 |  |
 | s. 367 | [s-367.md](s-367.md) | 0 |  |
@@ -452,7 +452,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 442 | [s-442.md](s-442.md) | 0 |  |
 | s. 443 | [s-443.md](s-443.md) | 0 |  |
 | s. 444 | [s-444.md](s-444.md) | 0 |  |
-| s. 445 | [s-445.md](s-445.md) | 0 |  |
+| s. 445 | [s-445.md](s-445.md) | 1 | 2026-05-20 |
 | s. 446 | [s-446.md](s-446.md) | 0 |  |
 | s. 447 | [s-447.md](s-447.md) | 0 |  |
 | s. 448 | [s-448.md](s-448.md) | 0 |  |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-44/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+8 consolidated versions in Justice Canada's XML repository, from 2020-01-01 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,8 +18,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
-| s. 11 | [s-011.md](s-011.md) | 0 |  |
-| s. 12 | [s-012.md](s-012.md) | 0 |  |
+| s. 11 | [s-011.md](s-011.md) | 1 | 2022-08-31 |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2022-08-31 |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
@@ -29,16 +29,16 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
-| s. 21.1 | [s-021.1.md](s-021.1.md) | 0 |  |
+| s. 21.1 | [s-021.1.md](s-021.1.md) | 3 | 2024-06-20 |
 | s. 21.2 | [s-021.2.md](s-021.2.md) | 0 |  |
-| s. 21.21 | [s-021.21.md](s-021.21.md) | 0 |  |
-| s. 21.3 | [s-021.3.md](s-021.3.md) | 0 |  |
-| s. 21.301 | [s-021.301.md](s-021.301.md) | 0 |  |
-| s. 21.302 | [s-021.302.md](s-021.302.md) | 0 |  |
-| s. 21.303 | [s-021.303.md](s-021.303.md) | 0 |  |
-| s. 21.31 | [s-021.31.md](s-021.31.md) | 0 |  |
+| s. 21.21 | [s-021.21.md](s-021.21.md) | 1 | 2024-01-22 |
+| s. 21.3 | [s-021.3.md](s-021.3.md) | 1 | 2024-01-22 |
+| s. 21.301 | [s-021.301.md](s-021.301.md) | 1 | 2024-01-22 |
+| s. 21.302 | [s-021.302.md](s-021.302.md) | 1 | 2024-01-22 |
+| s. 21.303 | [s-021.303.md](s-021.303.md) | 1 | 2024-01-22 |
+| s. 21.31 | [s-021.31.md](s-021.31.md) | 1 | 2024-06-20 |
 | s. 21.32 | [s-021.32.md](s-021.32.md) | 0 |  |
-| s. 21.4 | [s-021.4.md](s-021.4.md) | 0 |  |
+| s. 21.4 | [s-021.4.md](s-021.4.md) | 2 | 2024-06-20 |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
 | s. 23 | [s-023.md](s-023.md) | 0 |  |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
@@ -124,7 +124,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 103 | [s-103.md](s-103.md) | 0 |  |
 | s. 104 | [s-104.md](s-104.md) | 0 |  |
 | s. 105 | [s-105.md](s-105.md) | 0 |  |
-| s. 106 | [s-106.md](s-106.md) | 0 |  |
+| s. 106 | [s-106.md](s-106.md) | 1 | 2022-08-31 |
 | s. 107 | [s-107.md](s-107.md) | 0 |  |
 | s. 108 | [s-108.md](s-108.md) | 0 |  |
 | s. 109 | [s-109.md](s-109.md) | 0 |  |
@@ -153,7 +153,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 134 | [s-134.md](s-134.md) | 0 |  |
 | s. 135 | [s-135.md](s-135.md) | 0 |  |
 | s. 136 | [s-136.md](s-136.md) | 0 |  |
-| s. 137 | [s-137.md](s-137.md) | 0 |  |
+| s. 137 | [s-137.md](s-137.md) | 1 | 2022-08-31 |
 | s. 138 | [s-138.md](s-138.md) | 0 |  |
 | s. 139 | [s-139.md](s-139.md) | 0 |  |
 | s. 140 | [s-140.md](s-140.md) | 0 |  |
@@ -222,7 +222,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 209 | [s-209.md](s-209.md) | 0 |  |
 | s. 210 | [s-210.md](s-210.md) | 0 |  |
 | s. 211 | [s-211.md](s-211.md) | 0 |  |
-| s. 212 | [s-212.md](s-212.md) | 0 |  |
+| s. 212 | [s-212.md](s-212.md) | 2 | 2026-03-26 |
 | s. 213 | [s-213.md](s-213.md) | 0 |  |
 | s. 214 | [s-214.md](s-214.md) | 0 |  |
 | s. 215 | [s-215.md](s-215.md) | 0 |  |
@@ -235,7 +235,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 222 | [s-222.md](s-222.md) | 0 |  |
 | s. 223 | [s-223.md](s-223.md) | 0 |  |
 | s. 224 | [s-224.md](s-224.md) | 0 |  |
-| s. 225 | [s-225.md](s-225.md) | 0 |  |
+| s. 225 | [s-225.md](s-225.md) | 1 | 2022-08-31 |
 | s. 226 | [s-226.md](s-226.md) | 0 |  |
 | s. 227 | [s-227.md](s-227.md) | 0 |  |
 | s. 228 | [s-228.md](s-228.md) | 0 |  |
@@ -247,7 +247,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 234 | [s-234.md](s-234.md) | 0 |  |
 | s. 235 | [s-235.md](s-235.md) | 0 |  |
 | s. 236 | [s-236.md](s-236.md) | 0 |  |
-| s. 237 | [s-237.md](s-237.md) | 0 |  |
+| s. 237 | [s-237.md](s-237.md) | 1 | 2024-01-22 |
 | s. 237.1 | [s-237.1.md](s-237.1.md) | 0 |  |
 | s. 237.2 | [s-237.2.md](s-237.2.md) | 0 |  |
 | s. 237.3 | [s-237.3.md](s-237.3.md) | 0 |  |
@@ -285,23 +285,23 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 256 | [s-256.md](s-256.md) | 0 |  |
 | s. 257 | [s-257.md](s-257.md) | 0 |  |
 | s. 258 | [s-258.md](s-258.md) | 0 |  |
-| s. 258.1 | [s-258.1.md](s-258.1.md) | 0 |  |
+| s. 258.1 | [s-258.1.md](s-258.1.md) | 1 | 2024-01-22 |
 | s. 258.2 | [s-258.2.md](s-258.2.md) | 0 |  |
-| s. 259 | [s-259.md](s-259.md) | 0 |  |
+| s. 259 | [s-259.md](s-259.md) | 1 | 2024-01-22 |
 | s. 260 | [s-260.md](s-260.md) | 0 |  |
-| s. 261 | [s-261.md](s-261.md) | 0 |  |
-| s. 261.1 | [s-261.1.md](s-261.1.md) | 0 |  |
+| s. 261 | [s-261.md](s-261.md) | 1 | 2024-01-22 |
+| s. 261.1 | [s-261.1.md](s-261.1.md) | 1 | 2024-01-22 |
 | s. 262 | [s-262.md](s-262.md) | 0 |  |
 | s. 262.1 | [s-262.1.md](s-262.1.md) | 0 |  |
-| s. 262.2 | [s-262.2.md](s-262.2.md) | 0 |  |
+| s. 262.2 | [s-262.2.md](s-262.2.md) | 1 | 2024-01-22 |
 | s. 263 | [s-263.md](s-263.md) | 0 |  |
-| s. 263.1 | [s-263.1.md](s-263.1.md) | 0 |  |
+| s. 263.1 | [s-263.1.md](s-263.1.md) | 1 | 2024-01-22 |
 | s. 264 | [s-264.md](s-264.md) | 0 |  |
 | s. 265 | [s-265.md](s-265.md) | 0 |  |
 | s. 265.1 | [s-265.1.md](s-265.1.md) | 0 |  |
-| s. 266 | [s-266.md](s-266.md) | 0 |  |
-| s. 266.1 | [s-266.1.md](s-266.1.md) | 0 |  |
-| s. 267 | [s-267.md](s-267.md) | 0 |  |
+| s. 266 | [s-266.md](s-266.md) | 2 | 2024-01-22 |
+| s. 266.1 | [s-266.1.md](s-266.1.md) | 1 | 2024-01-22 |
+| s. 267 | [s-267.md](s-267.md) | 1 | 2022-08-31 |
 | s. 267.1 | [s-267.1.md](s-267.1.md) | 0 |  |
 | s. 268 | [s-268.md](s-268.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 2 | 2024-07-20 |

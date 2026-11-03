@@ -2,14 +2,14 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-11.9/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-11-27: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2024-11-27).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
-| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 3 | [s-003.md](s-003.md) | 1 | 2024-11-27 |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
@@ -32,7 +32,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 23 | [s-023.md](s-023.md) | 0 |  |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
-| s. 26 | [s-026.md](s-026.md) | 0 |  |
+| s. 26 | [s-026.md](s-026.md) | 1 | 2022-12-15 |
 | s. 27 | [s-027.md](s-027.md) | 0 |  |
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
@@ -61,14 +61,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 52 | [s-052.md](s-052.md) | 0 |  |
 | s. 53 | [s-053.md](s-053.md) | 0 |  |
 | s. 54 | [s-054.md](s-054.md) | 0 |  |
-| s. 55 | [s-055.md](s-055.md) | 0 |  |
+| s. 55 | [s-055.md](s-055.md) | 1 | 2022-12-15 |
 | s. 56 | [s-056.md](s-056.md) | 0 |  |
 | s. 57 | [s-057.md](s-057.md) | 0 |  |
 | s. 58 | [s-058.md](s-058.md) | 0 |  |
 | s. 59 | [s-059.md](s-059.md) | 0 |  |
 | s. 60 | [s-060.md](s-060.md) | 0 |  |
 | s. 61 | [s-061.md](s-061.md) | 0 |  |
-| s. 62 | [s-062.md](s-062.md) | 0 |  |
+| s. 62 | [s-062.md](s-062.md) | 1 | 2022-12-15 |
 | s. 63 | [s-063.md](s-063.md) | 0 |  |
 | s. 64 | [s-064.md](s-064.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |

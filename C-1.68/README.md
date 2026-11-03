@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-1.68/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-11-20: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2020-07-01 (the latest from 2024-11-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,7 +28,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
-| s. 22 | [s-022.md](s-022.md) | 0 |  |
+| s. 22 | [s-022.md](s-022.md) | 1 | 2023-01-14 |
 | s. 23 | [s-023.md](s-023.md) | 0 |  |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
@@ -86,5 +86,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 74 | [s-074.md](s-074.md) | 0 |  |
 | s. 75 | [s-075.md](s-075.md) | 0 |  |
 | s. 76 | [s-076.md](s-076.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2024-11-20 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |

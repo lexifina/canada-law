@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-4.8/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-06-30: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2018-12-13 (the latest from 2021-06-30).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -144,7 +144,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 135 | [s-135.md](s-135.md) | 0 |  |
 | s. 136 | [s-136.md](s-136.md) | 0 |  |
 | s. 137 | [s-137.md](s-137.md) | 0 |  |
-| s. 138 | [s-138.md](s-138.md) | 0 |  |
+| s. 138 | [s-138.md](s-138.md) | 1 | 2021-06-30 |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |

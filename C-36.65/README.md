@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-36.65/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-08-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2017-10-06 (the latest from 2024-08-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,7 +57,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 48 | [s-048.md](s-048.md) | 0 |  |
 | s. 49 | [s-049.md](s-049.md) | 0 |  |
 | s. 50 | [s-050.md](s-050.md) | 0 |  |
-| s. 51 | [s-051.md](s-051.md) | 0 |  |
+| s. 51 | [s-051.md](s-051.md) | 1 | 2024-08-19 |
 | s. 52 | [s-052.md](s-052.md) | 0 |  |
 | s. 53 | [s-053.md](s-053.md) | 0 |  |
 | s. 54 | [s-054.md](s-054.md) | 0 |  |

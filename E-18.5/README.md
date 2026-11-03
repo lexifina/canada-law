@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-18.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-01-23: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2019-01-28 (the latest from 2025-01-23).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,4 +55,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 45 | [s-045.md](s-045.md) | 0 |  |
 | s. 45.1 | [s-045.1.md](s-045.1.md) | 0 |  |
 | s. 46 | [s-046.md](s-046.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 3 | 2025-01-23 |

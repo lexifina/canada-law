@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-3.75/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-06-23: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-05-01 (the latest from 2022-06-23).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,5 +22,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
-| s. 15.1 | [s-015.1.md](s-015.1.md) | 0 |  |
+| s. 15.1 | [s-015.1.md](s-015.1.md) | 1 | 2022-06-23 |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |

@@ -2,20 +2,20 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/N-14.01/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-01-31: the oldest version available in this record for now.
+5 consolidated versions in Justice Canada's XML repository, from 2019-09-04 (the latest from 2025-01-31).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2024-11-27 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
-| s. 9 | [s-009.md](s-009.md) | 0 |  |
+| s. 9 | [s-009.md](s-009.md) | 1 | 2024-10-03 |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
@@ -59,7 +59,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
-| s. 35.1 | [s-035.1.md](s-035.1.md) | 0 |  |
+| s. 35.1 | [s-035.1.md](s-035.1.md) | 1 | 2024-10-03 |
 | s. 36 | [s-036.md](s-036.md) | 0 |  |
 | s. 37 | [s-037.md](s-037.md) | 0 |  |
 | s. 38 | [s-038.md](s-038.md) | 0 |  |
@@ -68,7 +68,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 41 | [s-041.md](s-041.md) | 0 |  |
 | s. 41.1 | [s-041.1.md](s-041.1.md) | 0 |  |
 | s. 41.2 | [s-041.2.md](s-041.2.md) | 0 |  |
-| s. 41.3 | [s-041.3.md](s-041.3.md) | 0 |  |
+| s. 41.3 | [s-041.3.md](s-041.3.md) | 1 | 2025-01-31 |
 | s. 41.4 | [s-041.4.md](s-041.4.md) | 0 |  |
 | s. 41.5 | [s-041.5.md](s-041.5.md) | 0 |  |
 | s. 42 | [s-042.md](s-042.md) | 0 |  |
@@ -78,7 +78,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | ss. 58 to 67 | [s-058-to-067.md](s-058-to-067.md) | 0 |  |
 | ss. 68 to 70.1 | [s-068-to-070.1.md](s-068-to-070.1.md) | 0 |  |
 | s. 71 | [s-071.md](s-071.md) | 0 |  |
-| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 1 | 2022-11-25 |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
 | Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |
 | Schedule 4 | [schedule-4.md](schedule-4.md) | 0 |  |

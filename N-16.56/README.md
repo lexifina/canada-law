@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/N-16.56/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-08-19: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-11-04 (the latest from 2024-08-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -92,7 +92,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 79 | [s-079.md](s-079.md) | 0 |  |
 | s. 80 | [s-080.md](s-080.md) | 0 |  |
 | s. 81 | [s-081.md](s-081.md) | 0 |  |
-| s. 82 | [s-082.md](s-082.md) | 0 |  |
+| s. 82 | [s-082.md](s-082.md) | 1 | 2024-08-19 |
 | s. 83 | [s-083.md](s-083.md) | 0 |  |
 | s. 84 | [s-084.md](s-084.md) | 0 |  |
 | s. 85 | [s-085.md](s-085.md) | 0 |  |

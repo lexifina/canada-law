@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/P-1/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2019-12-18 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,17 +26,17 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
-| s. 19.1 | [s-019.1.md](s-019.1.md) | 0 |  |
+| s. 19.1 | [s-019.1.md](s-019.1.md) | 1 | 2022-07-26 |
 | s. 19.2 | [s-019.2.md](s-019.2.md) | 0 |  |
 | s. 19.3 | [s-019.3.md](s-019.3.md) | 0 |  |
 | s. 19.4 | [s-019.4.md](s-019.4.md) | 0 |  |
 | s. 19.5 | [s-019.5.md](s-019.5.md) | 0 |  |
 | s. 19.6 | [s-019.6.md](s-019.6.md) | 0 |  |
-| s. 19.7 | [s-019.7.md](s-019.7.md) | 0 |  |
+| s. 19.7 | [s-019.7.md](s-019.7.md) | 1 | 2023-09-20 |
 | s. 19.8 | [s-019.8.md](s-019.8.md) | 0 |  |
 | s. 19.9 | [s-019.9.md](s-019.9.md) | 0 |  |
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
-| s. 20.1 | [s-020.1.md](s-020.1.md) | 0 |  |
+| s. 20.1 | [s-020.1.md](s-020.1.md) | 1 | 2022-07-26 |
 | s. 20.2 | [s-020.2.md](s-020.2.md) | 0 |  |
 | s. 20.3 | [s-020.3.md](s-020.3.md) | 0 |  |
 | s. 20.4 | [s-020.4.md](s-020.4.md) | 0 |  |
@@ -95,7 +95,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 52.4 | [s-052.4.md](s-052.4.md) | 0 |  |
 | s. 52.5 | [s-052.5.md](s-052.5.md) | 0 |  |
 | s. 52.6 | [s-052.6.md](s-052.6.md) | 0 |  |
-| s. 52.7 | [s-052.7.md](s-052.7.md) | 0 |  |
+| s. 52.7 | [s-052.7.md](s-052.7.md) | 1 | 2023-09-20 |
 | s. 52.8 | [s-052.8.md](s-052.8.md) | 0 |  |
 | s. 52.9 | [s-052.9.md](s-052.9.md) | 0 |  |
 | s. 53 | [s-053.md](s-053.md) | 0 |  |
@@ -115,19 +115,19 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 62.1 | [s-062.1.md](s-062.1.md) | 0 |  |
 | s. 62.2 | [s-062.2.md](s-062.2.md) | 0 |  |
 | s. 62.3 | [s-062.3.md](s-062.3.md) | 0 |  |
-| s. 62.4 | [s-062.4.md](s-062.4.md) | 0 |  |
+| s. 62.4 | [s-062.4.md](s-062.4.md) | 1 | 2022-07-26 |
 | s. 63 | [s-063.md](s-063.md) | 0 |  |
 | s. 64 | [s-064.md](s-064.md) | 0 |  |
 | s. 65 | [s-065.md](s-065.md) | 0 |  |
 | s. 66 | [s-066.md](s-066.md) | 0 |  |
 | s. 66.1 | [s-066.1.md](s-066.1.md) | 0 |  |
-| s. 67 | [s-067.md](s-067.md) | 0 |  |
-| s. 67.1 | [s-067.1.md](s-067.1.md) | 0 |  |
+| s. 67 | [s-067.md](s-067.md) | 1 | 2022-07-26 |
+| s. 67.1 | [s-067.1.md](s-067.1.md) | 1 | 2022-07-26 |
 | s. 68 | [s-068.md](s-068.md) | 0 |  |
 | s. 69 | [s-069.md](s-069.md) | 0 |  |
 | s. 70 | [s-070.md](s-070.md) | 0 |  |
 | s. 71 | [s-071.md](s-071.md) | 0 |  |
-| s. 71.1 | [s-071.1.md](s-071.1.md) | 0 |  |
+| s. 71.1 | [s-071.1.md](s-071.1.md) | 1 | 2022-07-26 |
 | s. 71.2 | [s-071.2.md](s-071.2.md) | 0 |  |
 | s. 72 | [s-072.md](s-072.md) | 0 |  |
 | s. 72.01 | [s-072.01.md](s-072.01.md) | 0 |  |
@@ -148,15 +148,15 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 73 | [s-073.md](s-073.md) | 0 |  |
 | s. 74 | [s-074.md](s-074.md) | 0 |  |
 | s. 75 | [s-075.md](s-075.md) | 0 |  |
-| s. 75.01 | [s-075.01.md](s-075.01.md) | 0 |  |
-| s. 75.1 | [s-075.1.md](s-075.1.md) | 0 |  |
+| s. 75.01 | [s-075.01.md](s-075.01.md) | 1 | 2024-06-20 |
+| s. 75.1 | [s-075.1.md](s-075.1.md) | 1 | 2024-06-20 |
 | s. 76 | [s-076.md](s-076.md) | 0 |  |
 | s. 77 | [s-077.md](s-077.md) | 0 |  |
 | s. 78 | [s-078.md](s-078.md) | 0 |  |
 | s. 79 | [s-079.md](s-079.md) | 0 |  |
 | s. 79.01 | [s-079.01.md](s-079.01.md) | 0 |  |
-| s. 79.1 | [s-079.1.md](s-079.1.md) | 0 |  |
-| s. 79.11 | [s-079.11.md](s-079.11.md) | 0 |  |
+| s. 79.1 | [s-079.1.md](s-079.1.md) | 1 | 2022-07-26 |
+| s. 79.11 | [s-079.11.md](s-079.11.md) | 1 | 2024-06-20 |
 | s. 79.12 | [s-079.12.md](s-079.12.md) | 0 |  |
 | s. 79.13 | [s-079.13.md](s-079.13.md) | 0 |  |
 | s. 79.2 | [s-079.2.md](s-079.2.md) | 0 |  |

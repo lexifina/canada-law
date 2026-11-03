@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/M-8.6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-01-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2018-03-29 (the latest from 2025-01-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -81,5 +81,5 @@ The current consolidation in Justice Canada's XML repository, in force from 2025
 | s. 315 | [s-315.md](s-315.md) | 0 |  |
 | s. 316 | [s-316.md](s-316.md) | 0 |  |
 | ss. 317 to 339 | [s-317-to-339.md](s-317-to-339.md) | 0 |  |
-| s. 340 | [s-340.md](s-340.md) | 0 |  |
+| s. 340 | [s-340.md](s-340.md) | 1 | 2025-01-01 |
 | ScheduleS 1 AND 2 | [schedules-1-and-2.md](schedules-1-and-2.md) | 0 |  |

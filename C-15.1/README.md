@@ -2,14 +2,14 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-15.1/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2020-07-01 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
-| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 3 | [s-003.md](s-003.md) | 1 | 2024-11-27 |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
@@ -325,7 +325,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 314 | [s-314.md](s-314.md) | 0 |  |
 | s. 315 | [s-315.md](s-315.md) | 0 |  |
 | s. 316 | [s-316.md](s-316.md) | 0 |  |
-| s. 317 | [s-317.md](s-317.md) | 0 |  |
+| s. 317 | [s-317.md](s-317.md) | 1 | 2022-06-23 |
 | s. 318 | [s-318.md](s-318.md) | 0 |  |
 | s. 319 | [s-319.md](s-319.md) | 0 |  |
 | s. 320 | [s-320.md](s-320.md) | 0 |  |
@@ -355,14 +355,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 344 | [s-344.md](s-344.md) | 0 |  |
 | s. 345 | [s-345.md](s-345.md) | 0 |  |
 | s. 346 | [s-346.md](s-346.md) | 0 |  |
-| s. 346.1 | [s-346.1.md](s-346.1.md) | 0 |  |
+| s. 346.1 | [s-346.1.md](s-346.1.md) | 1 | 2026-03-26 |
 | s. 347 | [s-347.md](s-347.md) | 0 |  |
 | s. 348 | [s-348.md](s-348.md) | 0 |  |
 | s. 349 | [s-349.md](s-349.md) | 0 |  |
 | s. 350 | [s-350.md](s-350.md) | 0 |  |
 | s. 351 | [s-351.md](s-351.md) | 0 |  |
 | s. 352 | [s-352.md](s-352.md) | 0 |  |
-| s. 353 | [s-353.md](s-353.md) | 0 |  |
+| s. 353 | [s-353.md](s-353.md) | 1 | 2026-03-26 |
 | s. 354 | [s-354.md](s-354.md) | 0 |  |
 | s. 355 | [s-355.md](s-355.md) | 0 |  |
 | s. 356 | [s-356.md](s-356.md) | 0 |  |

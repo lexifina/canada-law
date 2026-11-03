@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-50/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-07-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-09-01 (the latest from 2024-07-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -51,4 +51,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
 | s. 36 | [s-036.md](s-036.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2024-07-01 |

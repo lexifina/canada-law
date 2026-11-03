@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-22/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-12-19: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2019-07-11 (the latest from 2023-12-19).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 10.1 | [s-010.1.md](s-010.1.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
-| s. 12 | [s-012.md](s-012.md) | 0 |  |
-| s. 13 | [s-013.md](s-013.md) | 0 |  |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2023-06-22 |
+| s. 13 | [s-013.md](s-013.md) | 2 | 2023-12-19 |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |

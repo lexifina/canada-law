@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-41.01/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-01-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-06-17 (the latest from 2022-01-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -428,7 +428,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 385.01 | [s-385.01.md](s-385.01.md) | 0 |  |
 | s. 385.02 | [s-385.02.md](s-385.02.md) | 0 |  |
 | s. 385.03 | [s-385.03.md](s-385.03.md) | 0 |  |
-| s. 385.04 | [s-385.04.md](s-385.04.md) | 0 |  |
+| s. 385.04 | [s-385.04.md](s-385.04.md) | 1 | 2022-01-01 |
 | s. 385.05 | [s-385.05.md](s-385.05.md) | 0 |  |
 | s. 385.06 | [s-385.06.md](s-385.06.md) | 0 |  |
 | s. 385.07 | [s-385.07.md](s-385.07.md) | 0 |  |

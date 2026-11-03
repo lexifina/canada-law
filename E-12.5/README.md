@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-12.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2026-03-26 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
@@ -22,16 +22,16 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 12.1 | [s-012.1.md](s-012.1.md) | 0 |  |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
-| s. 15 | [s-015.md](s-015.md) | 0 |  |
-| s. 16 | [s-016.md](s-016.md) | 0 |  |
-| s. 17 | [s-017.md](s-017.md) | 0 |  |
+| s. 15 | [s-015.md](s-015.md) | 1 | 2026-03-26 |
+| s. 16 | [s-016.md](s-016.md) | 1 | 2026-03-26 |
+| s. 17 | [s-017.md](s-017.md) | 1 | 2026-03-26 |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |
-| s. 19 | [s-019.md](s-019.md) | 0 |  |
-| s. 20 | [s-020.md](s-020.md) | 0 |  |
-| s. 21 | [s-021.md](s-021.md) | 0 |  |
-| s. 22 | [s-022.md](s-022.md) | 0 |  |
-| s. 23 | [s-023.md](s-023.md) | 0 |  |
-| s. 24 | [s-024.md](s-024.md) | 0 |  |
+| s. 19 | [s-019.md](s-019.md) | 1 | 2026-03-26 |
+| s. 20 | [s-020.md](s-020.md) | 1 | 2026-03-26 |
+| s. 21 | [s-021.md](s-021.md) | 1 | 2026-03-26 |
+| s. 22 | [s-022.md](s-022.md) | 1 | 2026-03-26 |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2026-03-26 |
+| s. 24 | [s-024.md](s-024.md) | 1 | 2026-03-26 |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
 | s. 26 | [s-026.md](s-026.md) | 0 |  |
 | s. 27 | [s-027.md](s-027.md) | 0 |  |

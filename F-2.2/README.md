@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-2.2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-03-25 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,6 +23,6 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
-| s. 16.1 | [s-016.1.md](s-016.1.md) | 0 |  |
+| s. 16.1 | [s-016.1.md](s-016.1.md) | 1 | 2026-03-26 |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
 | s. 18 | [s-018.md](s-018.md) | 0 |  |

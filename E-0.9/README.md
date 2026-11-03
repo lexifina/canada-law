@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-0.9/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-01-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-09-01 (the latest from 2026-01-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -175,14 +175,14 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 166 | [s-166.md](s-166.md) | 0 |  |
 | s. 167 | [s-167.md](s-167.md) | 0 |  |
 | s. 168 | [s-168.md](s-168.md) | 0 |  |
-| s. 169 | [s-169.md](s-169.md) | 0 |  |
+| s. 169 | [s-169.md](s-169.md) | 1 | 2026-01-01 |
 | s. 170 | [s-170.md](s-170.md) | 0 |  |
 | s. 171 | [s-171.md](s-171.md) | 0 |  |
 | s. 172 | [s-172.md](s-172.md) | 0 |  |
 | s. 173 | [s-173.md](s-173.md) | 0 |  |
 | s. 174 | [s-174.md](s-174.md) | 0 |  |
 | s. 175 | [s-175.md](s-175.md) | 0 |  |
-| s. 176 | [s-176.md](s-176.md) | 0 |  |
+| s. 176 | [s-176.md](s-176.md) | 1 | 2026-01-01 |
 | s. 177 | [s-177.md](s-177.md) | 0 |  |
 | s. 178 | [s-178.md](s-178.md) | 0 |  |
 | s. 179 | [s-179.md](s-179.md) | 0 |  |

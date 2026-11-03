@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-11.75/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-07-01: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2019-07-15 (the latest from 2023-07-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2022-12-15 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
@@ -42,4 +42,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 3 | 2023-07-01 |

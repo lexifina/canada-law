@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/B-9.857/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-01-01: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-01-01 (the latest from 2023-01-01).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -155,8 +155,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 146 | [s-146.md](s-146.md) | 0 |  |
 | s. 147 | [s-147.md](s-147.md) | 0 |  |
 | s. 148 | [s-148.md](s-148.md) | 0 |  |
-| s. 149 | [s-149.md](s-149.md) | 0 |  |
-| s. 150 | [s-150.md](s-150.md) | 0 |  |
+| s. 149 | [s-149.md](s-149.md) | 1 | 2023-01-01 |
+| s. 150 | [s-150.md](s-150.md) | 1 | 2023-01-01 |
 | s. 151 | [s-151.md](s-151.md) | 0 |  |
 | s. 152 | [s-152.md](s-152.md) | 0 |  |
 | s. 153 | [s-153.md](s-153.md) | 0 |  |
@@ -167,7 +167,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 158 | [s-158.md](s-158.md) | 0 |  |
 | s. 159 | [s-159.md](s-159.md) | 0 |  |
 | s. 160 | [s-160.md](s-160.md) | 0 |  |
-| s. 161 | [s-161.md](s-161.md) | 0 |  |
-| s. 162 | [s-162.md](s-162.md) | 0 |  |
+| s. 161 | [s-161.md](s-161.md) | 1 | 2023-01-01 |
+| s. 162 | [s-162.md](s-162.md) | 1 | 2023-01-01 |
 | s. 163 | [s-163.md](s-163.md) | 0 |  |
-| s. 164 | [s-164.md](s-164.md) | 0 |  |
+| s. 164 | [s-164.md](s-164.md) | 1 | 2023-01-01 |

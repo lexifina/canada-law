@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-1.2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-12-15: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-15 (the latest from 2022-12-15).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2022-12-15 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
@@ -18,7 +18,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
-| s. 12 | [s-012.md](s-012.md) | 0 |  |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2022-12-15 |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
@@ -37,12 +37,12 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
 | s. 30 | [s-030.md](s-030.md) | 0 |  |
-| s. 31 | [s-031.md](s-031.md) | 0 |  |
+| s. 31 | [s-031.md](s-031.md) | 1 | 2022-12-15 |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
 | s. 34 | [s-034.md](s-034.md) | 0 |  |
 | s. 35 | [s-035.md](s-035.md) | 0 |  |
-| s. 36 | [s-036.md](s-036.md) | 0 |  |
+| s. 36 | [s-036.md](s-036.md) | 1 | 2022-12-15 |
 | s. 37 | [s-037.md](s-037.md) | 0 |  |
 | s. 38 | [s-038.md](s-038.md) | 0 |  |
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
@@ -56,10 +56,10 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 47 | [s-047.md](s-047.md) | 0 |  |
 | s. 48 | [s-048.md](s-048.md) | 0 |  |
 | s. 49 | [s-049.md](s-049.md) | 0 |  |
-| s. 50 | [s-050.md](s-050.md) | 0 |  |
+| s. 50 | [s-050.md](s-050.md) | 1 | 2022-12-15 |
 | s. 51 | [s-051.md](s-051.md) | 0 |  |
 | s. 52 | [s-052.md](s-052.md) | 0 |  |
 | s. 53 | [s-053.md](s-053.md) | 0 |  |
 | s. 54 | [s-054.md](s-054.md) | 0 |  |
-| s. 55 | [s-055.md](s-055.md) | 0 |  |
+| s. 55 | [s-055.md](s-055.md) | 1 | 2022-12-15 |
 | s. 56 | [s-056.md](s-056.md) | 0 |  |

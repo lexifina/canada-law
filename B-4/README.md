@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/B-4/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2021-08-03: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2007-04-20 (the latest from 2021-08-03).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -48,7 +48,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2021
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
 | s. 40 | [s-040.md](s-040.md) | 0 |  |
 | s. 41 | [s-041.md](s-041.md) | 0 |  |
-| s. 42 | [s-042.md](s-042.md) | 0 |  |
+| s. 42 | [s-042.md](s-042.md) | 1 | 2021-08-03 |
 | s. 43 | [s-043.md](s-043.md) | 0 |  |
 | s. 44 | [s-044.md](s-044.md) | 0 |  |
 | s. 45 | [s-045.md](s-045.md) | 0 |  |

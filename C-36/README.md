@@ -2,21 +2,21 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-36/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-06-20: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2019-11-01 (the latest from 2026-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2026-06-20 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 5.1 | [s-005.1.md](s-005.1.md) | 0 |  |
-| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2023-04-27 |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
-| s. 8.1 | [s-008.1.md](s-008.1.md) | 0 |  |
+| s. 8.1 | [s-008.1.md](s-008.1.md) | 1 | 2024-12-12 |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |

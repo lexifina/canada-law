@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/H-3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-01-14: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2018-05-23 (the latest from 2023-01-14).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,7 +34,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
-| s. 22.1 | [s-022.1.md](s-022.1.md) | 0 |  |
+| s. 22.1 | [s-022.1.md](s-022.1.md) | 1 | 2023-01-14 |
 | s. 22.2 | [s-022.2.md](s-022.2.md) | 0 |  |
 | s. 22.3 | [s-022.3.md](s-022.3.md) | 0 |  |
 | s. 22.4 | [s-022.4.md](s-022.4.md) | 0 |  |
@@ -56,4 +56,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 30.1 | [s-030.1.md](s-030.1.md) | 0 |  |
 | s. 31 | [s-031.md](s-031.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 1 | 2022-12-15 |

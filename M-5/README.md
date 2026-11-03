@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/M-5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-07-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2015-06-23 (the latest from 2022-07-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2022-07-26 |
 | s. 2.1 | [s-002.1.md](s-002.1.md) | 0 |  |
 | s. 2.2 | [s-002.2.md](s-002.2.md) | 0 |  |
 | s. 2.3 | [s-002.3.md](s-002.3.md) | 0 |  |

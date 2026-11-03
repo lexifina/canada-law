@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/B-3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-06-20: the oldest version available in this record for now.
+9 consolidated versions in Justice Canada's XML repository, from 2019-11-01 (the latest from 2026-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2026-06-20 |
 | s. 2.1 | [s-002.1.md](s-002.1.md) | 0 |  |
 | s. 2.2 | [s-002.2.md](s-002.2.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
@@ -97,7 +97,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 57.1 | [s-057.1.md](s-057.1.md) | 0 |  |
 | s. 58 | [s-058.md](s-058.md) | 0 |  |
 | s. 59 | [s-059.md](s-059.md) | 0 |  |
-| s. 60 | [s-060.md](s-060.md) | 0 |  |
+| s. 60 | [s-060.md](s-060.md) | 1 | 2023-04-27 |
 | s. 61 | [s-061.md](s-061.md) | 0 |  |
 | s. 62 | [s-062.md](s-062.md) | 0 |  |
 | s. 62.1 | [s-062.1.md](s-062.1.md) | 0 |  |
@@ -176,9 +176,9 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 81.2 | [s-081.2.md](s-081.2.md) | 0 |  |
 | s. 81.3 | [s-081.3.md](s-081.3.md) | 0 |  |
 | s. 81.4 | [s-081.4.md](s-081.4.md) | 0 |  |
-| s. 81.5 | [s-081.5.md](s-081.5.md) | 0 |  |
-| s. 81.6 | [s-081.6.md](s-081.6.md) | 0 |  |
-| s. 81.7 | [s-081.7.md](s-081.7.md) | 0 |  |
+| s. 81.5 | [s-081.5.md](s-081.5.md) | 1 | 2023-04-27 |
+| s. 81.6 | [s-081.6.md](s-081.6.md) | 1 | 2023-04-27 |
+| s. 81.7 | [s-081.7.md](s-081.7.md) | 1 | 2024-12-12 |
 | s. 82 | [s-082.md](s-082.md) | 0 |  |
 | s. 83 | [s-083.md](s-083.md) | 0 |  |
 | s. 84 | [s-084.md](s-084.md) | 0 |  |
@@ -251,7 +251,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 146 | [s-146.md](s-146.md) | 0 |  |
 | s. 147 | [s-147.md](s-147.md) | 0 |  |
 | s. 148 | [s-148.md](s-148.md) | 0 |  |
-| s. 149 | [s-149.md](s-149.md) | 0 |  |
+| s. 149 | [s-149.md](s-149.md) | 5 | 2026-03-26 |
 | s. 150 | [s-150.md](s-150.md) | 0 |  |
 | s. 151 | [s-151.md](s-151.md) | 0 |  |
 | s. 152 | [s-152.md](s-152.md) | 0 |  |

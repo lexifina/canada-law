@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/B-9.89/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2025-06-26 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,7 +13,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 4.1 | [s-004.1.md](s-004.1.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
-| s. 5.1 | [s-005.1.md](s-005.1.md) | 0 |  |
+| s. 5.1 | [s-005.1.md](s-005.1.md) | 1 | 2026-03-26 |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |

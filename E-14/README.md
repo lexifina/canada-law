@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-14/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-06-18: the oldest version available in this record for now.
+6 consolidated versions in Justice Canada's XML repository, from 2019-06-17 (the latest from 2026-06-18).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,7 +16,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 2.3 | [s-002.3.md](s-002.3.md) | 0 |  |
 | s. 2.4 | [s-002.4.md](s-002.4.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
-| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2022-07-01 |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
@@ -192,8 +192,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 168 | [s-168.md](s-168.md) | 0 |  |
 | s. 169 | [s-169.md](s-169.md) | 0 |  |
 | s. 170 | [s-170.md](s-170.md) | 0 |  |
-| s. 170.1 | [s-170.1.md](s-170.1.md) | 0 |  |
-| s. 170.2 | [s-170.2.md](s-170.2.md) | 0 |  |
+| s. 170.1 | [s-170.1.md](s-170.1.md) | 1 | 2022-07-01 |
+| s. 170.2 | [s-170.2.md](s-170.2.md) | 3 | 2026-06-18 |
 | s. 171 | [s-171.md](s-171.md) | 0 |  |
 | s. 172 | [s-172.md](s-172.md) | 0 |  |
 | s. 173 | [s-173.md](s-173.md) | 0 |  |
@@ -281,4 +281,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 258 | [s-258.md](s-258.md) | 0 |  |
 | s. 259 | [s-259.md](s-259.md) | 0 |  |
 | s. 260 | [s-260.md](s-260.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 3 | 2026-06-18 |

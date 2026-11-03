@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/F-14/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-11-27: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2024-11-27).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,7 +11,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 2 | [s-002.md](s-002.md) | 0 |  |
 | s. 2.1 | [s-002.1.md](s-002.1.md) | 0 |  |
 | s. 2.2 | [s-002.2.md](s-002.2.md) | 0 |  |
-| s. 2.3 | [s-002.3.md](s-002.3.md) | 0 |  |
+| s. 2.3 | [s-002.3.md](s-002.3.md) | 1 | 2024-11-27 |
 | s. 2.4 | [s-002.4.md](s-002.4.md) | 0 |  |
 | s. 2.5 | [s-002.5.md](s-002.5.md) | 0 |  |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |

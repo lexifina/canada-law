@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/E-4.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2023-06-22: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2003-07-02 (the latest from 2023-06-22).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -36,7 +36,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 27 | [s-027.md](s-027.md) | 0 |  |
 | s. 28 | [s-028.md](s-028.md) | 0 |  |
 | s. 29 | [s-029.md](s-029.md) | 0 |  |
-| s. 30 | [s-030.md](s-030.md) | 0 |  |
+| s. 30 | [s-030.md](s-030.md) | 1 | 2023-06-22 |
 | s. 31 | [s-031.md](s-031.md) | 0 |  |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 33 | [s-033.md](s-033.md) | 0 |  |
@@ -68,7 +68,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2023
 | s. 59 | [s-059.md](s-059.md) | 0 |  |
 | s. 60 | [s-060.md](s-060.md) | 0 |  |
 | s. 61 | [s-061.md](s-061.md) | 0 |  |
-| s. 62 | [s-062.md](s-062.md) | 0 |  |
+| s. 62 | [s-062.md](s-062.md) | 1 | 2022-07-26 |
 | s. 63 | [s-063.md](s-063.md) | 0 |  |
 | ss. 64 to 80 | [s-064-to-080.md](s-064-to-080.md) | 0 |  |
 | Schedule | [schedule.md](schedule.md) | 0 |  |

@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-42/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-11-07: the oldest version available in this record for now.
+4 consolidated versions in Justice Canada's XML repository, from 2020-07-01 (the latest from 2024-11-07).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,12 +20,12 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
-| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2022-12-30 |
 | s. 6.1 | [s-006.1.md](s-006.1.md) | 0 |  |
-| s. 6.2 | [s-006.2.md](s-006.2.md) | 0 |  |
-| s. 7 | [s-007.md](s-007.md) | 0 |  |
+| s. 6.2 | [s-006.2.md](s-006.2.md) | 1 | 2022-12-30 |
+| s. 7 | [s-007.md](s-007.md) | 1 | 2022-12-30 |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
-| s. 9 | [s-009.md](s-009.md) | 0 |  |
+| s. 9 | [s-009.md](s-009.md) | 1 | 2022-12-30 |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | s. 11.1 | [s-011.1.md](s-011.1.md) | 0 |  |
@@ -89,9 +89,9 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 30.63 | [s-030.63.md](s-030.63.md) | 0 |  |
 | s. 30.7 | [s-030.7.md](s-030.7.md) | 0 |  |
 | s. 30.71 | [s-030.71.md](s-030.71.md) | 0 |  |
-| s. 30.8 | [s-030.8.md](s-030.8.md) | 0 |  |
-| s. 30.9 | [s-030.9.md](s-030.9.md) | 0 |  |
-| s. 31 | [s-031.md](s-031.md) | 0 |  |
+| s. 30.8 | [s-030.8.md](s-030.8.md) | 1 | 2023-04-27 |
+| s. 30.9 | [s-030.9.md](s-030.9.md) | 1 | 2023-04-27 |
+| s. 31 | [s-031.md](s-031.md) | 1 | 2023-04-27 |
 | s. 31.1 | [s-031.1.md](s-031.1.md) | 0 |  |
 | s. 32 | [s-032.md](s-032.md) | 0 |  |
 | s. 32.01 | [s-032.01.md](s-032.01.md) | 0 |  |
@@ -116,11 +116,11 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 39 | [s-039.md](s-039.md) | 0 |  |
 | s. 39.1 | [s-039.1.md](s-039.1.md) | 0 |  |
 | s. 40 | [s-040.md](s-040.md) | 0 |  |
-| s. 41 | [s-041.md](s-041.md) | 0 |  |
+| s. 41 | [s-041.md](s-041.md) | 1 | 2024-11-07 |
 | s. 41.1 | [s-041.1.md](s-041.1.md) | 0 |  |
 | s. 41.11 | [s-041.11.md](s-041.11.md) | 0 |  |
-| s. 41.12 | [s-041.12.md](s-041.12.md) | 0 |  |
-| s. 41.121 | [s-041.121.md](s-041.121.md) | 0 |  |
+| s. 41.12 | [s-041.12.md](s-041.12.md) | 1 | 2024-11-07 |
+| s. 41.121 | [s-041.121.md](s-041.121.md) | 1 | 2024-11-07 |
 | s. 41.13 | [s-041.13.md](s-041.13.md) | 0 |  |
 | s. 41.14 | [s-041.14.md](s-041.14.md) | 0 |  |
 | s. 41.15 | [s-041.15.md](s-041.15.md) | 0 |  |

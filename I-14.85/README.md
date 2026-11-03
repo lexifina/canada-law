@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/I-14.85/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-12 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,7 +24,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 15 | [s-015.md](s-015.md) | 0 |  |
 | s. 16 | [s-016.md](s-016.md) | 0 |  |
 | s. 17 | [s-017.md](s-017.md) | 0 |  |
-| s. 18 | [s-018.md](s-018.md) | 0 |  |
+| s. 18 | [s-018.md](s-018.md) | 1 | 2024-06-20 |
 | s. 19 | [s-019.md](s-019.md) | 0 |  |
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |

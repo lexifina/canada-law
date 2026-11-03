@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-24.5/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+6 consolidated versions in Justice Canada's XML repository, from 2020-10-17 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,7 +31,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 20 | [s-020.md](s-020.md) | 0 |  |
 | s. 21 | [s-021.md](s-021.md) | 0 |  |
 | s. 22 | [s-022.md](s-022.md) | 0 |  |
-| s. 23 | [s-023.md](s-023.md) | 0 |  |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2023-04-27 |
 | s. 24 | [s-024.md](s-024.md) | 0 |  |
 | s. 25 | [s-025.md](s-025.md) | 0 |  |
 | s. 26 | [s-026.md](s-026.md) | 0 |  |
@@ -95,8 +95,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 83 | [s-083.md](s-083.md) | 0 |  |
 | s. 84 | [s-084.md](s-084.md) | 0 |  |
 | s. 85 | [s-085.md](s-085.md) | 0 |  |
-| s. 86 | [s-086.md](s-086.md) | 0 |  |
-| s. 87 | [s-087.md](s-087.md) | 0 |  |
+| s. 86 | [s-086.md](s-086.md) | 1 | 2023-01-14 |
+| s. 87 | [s-087.md](s-087.md) | 1 | 2023-01-14 |
 | s. 88 | [s-088.md](s-088.md) | 0 |  |
 | s. 89 | [s-089.md](s-089.md) | 0 |  |
 | s. 90 | [s-090.md](s-090.md) | 0 |  |
@@ -148,7 +148,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 136 | [s-136.md](s-136.md) | 0 |  |
 | s. 137 | [s-137.md](s-137.md) | 0 |  |
 | s. 138 | [s-138.md](s-138.md) | 0 |  |
-| s. 139 | [s-139.md](s-139.md) | 0 |  |
+| s. 139 | [s-139.md](s-139.md) | 1 | 2026-03-26 |
 | s. 140 | [s-140.md](s-140.md) | 0 |  |
 | s. 141 | [s-141.md](s-141.md) | 0 |  |
 | s. 142 | [s-142.md](s-142.md) | 0 |  |
@@ -242,8 +242,8 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 225 | [s-225.md](s-225.md) | 0 |  |
 | s. 226 | [s-226.md](s-226.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
-| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
-| Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 1 | 2025-03-12 |
+| Schedule 3 | [schedule-3.md](schedule-3.md) | 1 | 2022-12-02 |
 | Schedule 4 | [schedule-4.md](schedule-4.md) | 0 |  |
 | Schedule 5 | [schedule-5.md](schedule-5.md) | 0 |  |
 | Schedule 6 | [schedule-6.md](schedule-6.md) | 0 |  |

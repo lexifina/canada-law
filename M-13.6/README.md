@@ -2,23 +2,23 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/M-13.6/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-07-18: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2019-12-18 (the latest from 2026-07-18).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 1 | [s-001.md](s-001.md) | 0 |  |
-| s. 2 | [s-002.md](s-002.md) | 0 |  |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2026-07-18 |
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
-| s. 4 | [s-004.md](s-004.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2026-07-18 |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
-| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2026-07-18 |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
-| s. 9.1 | [s-009.1.md](s-009.1.md) | 0 |  |
+| s. 9.1 | [s-009.1.md](s-009.1.md) | 1 | 2023-09-20 |
 | s. 9.2 | [s-009.2.md](s-009.2.md) | 0 |  |
-| s. 9.3 | [s-009.3.md](s-009.3.md) | 0 |  |
+| s. 9.3 | [s-009.3.md](s-009.3.md) | 1 | 2023-09-20 |
 | s. 9.4 | [s-009.4.md](s-009.4.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
@@ -73,4 +73,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 46 | [s-046.md](s-046.md) | 0 |  |
 | ss. 47 and 48 | [s-047-and-048.md](s-047-and-048.md) | 0 |  |
 | s. 49 | [s-049.md](s-049.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 1 | 2026-07-18 |

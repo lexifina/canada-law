@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/I-17.05/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-25: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2015-02-26 (the latest from 2026-03-25).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -68,4 +68,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 58 | [s-058.md](s-058.md) | 0 |  |
 | s. 59 | [s-059.md](s-059.md) | 0 |  |
 | s. 60 | [s-060.md](s-060.md) | 0 |  |
-| Schedule | [schedule.md](schedule.md) | 0 |  |
+| Schedule | [schedule.md](schedule.md) | 2 | 2026-03-25 |

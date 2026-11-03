@@ -1,11 +1,75 @@
 {
+ "S.C. 2001, c. 27": {
+  "title": "Immigration and Refugee Protection Act",
+  "assented": "2001-11-01"
+ },
+ "S.C. 2001, c. 41": {
+  "title": "Anti-terrorism Act",
+  "assented": "2001-12-18"
+ },
+ "S.C. 2002, c. 9": {
+  "title": "Budget Implementation Act, 2001",
+  "assented": "2002-03-27"
+ },
  "S.C. 2002, c. 13": {
   "title": "Criminal Law Amendment Act, 2001",
   "assented": "2002-06-04"
  },
+ "S.C. 2003, c. 15": {
+  "title": "Budget Implementation Act, 2003",
+  "assented": "2003-06-19"
+ },
+ "S.C. 2003, c. 26": {
+  "title": "An Act to amend the Canadian Forces Superannuation Act and to make consequential amendments to other Acts",
+  "assented": "2003-11-07"
+ },
+ "S.C. 2004, c. 24": {
+  "title": "An Act to amend the Canada Elections Act and the Income Tax Act",
+  "assented": "2004-05-14"
+ },
+ "S.C. 2008, c. 20": {
+  "title": "Statutes Repeal Act",
+  "assented": "2008-06-18"
+ },
+ "S.C. 2009, c. 14": {
+  "title": "An Act to amend certain Acts that relate to the environment and to enact provisions respecting the enforcement of certain Acts that relate to the environment",
+  "assented": "2009-06-18"
+ },
+ "S.C. 2014, c. 6": {
+  "title": "Not Criminally Responsible Reform Act",
+  "assented": "2014-04-11"
+ },
+ "S.C. 2015, c. 13": {
+  "title": "Victims Bill of Rights Act",
+  "assented": "2015-04-23"
+ },
+ "S.C. 2015, c. 23": {
+  "title": "Tougher Penalties for Child Predators Act",
+  "assented": "2015-06-18"
+ },
  "S.C. 2015, c. 27": {
   "title": "Common Sense Firearms Licensing Act",
   "assented": "2015-06-18"
+ },
+ "S.C. 2017, c. 6": {
+  "title": "Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act",
+  "assented": "2017-05-16"
+ },
+ "S.C. 2017, c. 9": {
+  "title": "An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures",
+  "assented": "2017-06-19"
+ },
+ "S.C. 2018, c. 2": {
+  "title": "Strengthening Motor Vehicle Safety for Canadians Act",
+  "assented": "2018-03-01"
+ },
+ "S.C. 2018, c. 8": {
+  "title": "An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act",
+  "assented": "2018-05-01"
+ },
+ "S.C. 2018, c. 10": {
+  "title": "Transportation Modernization Act",
+  "assented": "2018-05-23"
  },
  "S.C. 2018, c. 29": {
   "title": "An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act",
@@ -19,25 +83,89 @@
   "title": "An Act to amend the National Defence Act and to make related and consequential amendments to other Acts",
   "assented": "2019-06-21"
  },
+ "S.C. 2019, c. 16": {
+  "title": "An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act",
+  "assented": "2019-06-21"
+ },
+ "S.C. 2019, c. 27": {
+  "title": "An Act to amend the Corrections and Conditional Release Act and another Act",
+  "assented": "2019-06-21"
+ },
+ "S.C. 2020, c. 1": {
+  "title": "Canada–United States–Mexico Agreement Implementation Act",
+  "assented": "2020-03-13"
+ },
+ "S.C. 2020, c. 5": {
+  "title": "COVID-19 Emergency Response Act",
+  "assented": "2020-03-25"
+ },
+ "S.C. 2020, c. 12": {
+  "title": "COVID-19 Response Measures Act",
+  "assented": "2020-10-02"
+ },
+ "S.C. 2021, c. 1": {
+  "title": "Canada–United Kingdom Trade Continuity Agreement Implementation Act",
+  "assented": "2021-03-17"
+ },
  "S.C. 2021, c. 2": {
   "title": "An Act to amend the Criminal Code (medical assistance in dying)",
   "assented": "2021-03-17"
+ },
+ "S.C. 2021, c. 3": {
+  "title": "An Act to amend the Employment Insurance Act (additional regular benefits), the Canada Recovery Benefits Act (restriction on eligibility) and another Act in response to COVID-19",
+  "assented": "2021-03-17"
+ },
+ "S.C. 2021, c. 7": {
+  "title": "Economic Statement Implementation Act, 2020",
+  "assented": "2021-05-06"
  },
  "S.C. 2021, c. 8": {
   "title": "An Act to amend the Judges Act and the Criminal Code",
   "assented": "2021-05-06"
  },
+ "S.C. 2021, c. 11": {
+  "title": "An Act to amend the Bills of Exchange Act, the Interpretation Act and the Canada Labour Code (National Day for Truth and Reconciliation)",
+  "assented": "2021-06-03"
+ },
+ "S.C. 2021, c. 12": {
+  "title": "An Act to amend the Canada Revenue Agency Act (organ and tissue donors)",
+  "assented": "2021-06-21"
+ },
+ "S.C. 2021, c. 13": {
+  "title": "An Act to amend the Citizenship Act (Truth and Reconciliation Commission of Canada’s call to action number 94)",
+  "assented": "2021-06-21"
+ },
  "S.C. 2021, c. 20": {
   "title": "Safe and Regulated Sports Betting Act",
+  "assented": "2021-06-29"
+ },
+ "S.C. 2021, c. 21": {
+  "title": "An Act to amend the Income Tax Act (transfer of small business or family farm or fishing corporation)",
+  "assented": "2021-06-29"
+ },
+ "S.C. 2021, c. 22": {
+  "title": "Canadian Net-Zero Emissions Accountability Act",
+  "assented": "2021-06-29"
+ },
+ "S.C. 2021, c. 23": {
+  "title": "Budget Implementation Act, 2021, No. 1",
   "assented": "2021-06-29"
  },
  "S.C. 2021, c. 24": {
   "title": "An Act to amend the Criminal Code (conversion therapy)",
   "assented": "2021-12-08"
  },
+ "S.C. 2021, c. 26": {
+  "title": "An Act to provide further support in response to COVID-19",
+  "assented": "2021-12-17"
+ },
  "S.C. 2021, c. 27": {
   "title": "An Act to amend the Criminal Code and the Canada Labour Code",
   "assented": "2021-12-17"
+ },
+ "S.C. 2022, c. 1": {
+  "title": "An Act to amend the Old Age Security Act (Guaranteed Income Supplement)",
+  "assented": "2022-03-03"
  },
  "S.C. 2022, c. 11": {
   "title": "An Act to amend the Criminal Code (self-induced extreme intoxication)",
@@ -46,6 +174,14 @@
  "S.C. 2022, c. 12": {
   "title": "An Act to amend the Criminal Code (disclosure of information by jurors)",
   "assented": "2022-10-18"
+ },
+ "S.C. 2022, c. 13": {
+  "title": "An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)",
+  "assented": "2022-10-18"
+ },
+ "S.C. 2022, c. 14": {
+  "title": "Cost of Living Relief Act, No. 2 (Targeted Support for Households)",
+  "assented": "2022-11-17"
  },
  "S.C. 2022, c. 15": {
   "title": "An Act to amend the Criminal Code and the Controlled Drugs and Substances Act",
@@ -59,13 +195,53 @@
   "title": "An Act to amend the Criminal Code and the Immigration and Refugee Protection Act (trafficking in human organs)",
   "assented": "2022-12-15"
  },
+ "S.C. 2022, c. 19": {
+  "title": "Fall Economic Statement Implementation Act, 2022",
+  "assented": "2022-12-15"
+ },
+ "S.C. 2023, c. 6": {
+  "title": "Pension Protection Act",
+  "assented": "2023-04-27"
+ },
  "S.C. 2023, c. 7": {
   "title": "An Act to amend the Criminal Code and the Judges Act (violence against an intimate partner)",
   "assented": "2023-04-27"
  },
+ "S.C. 2023, c. 9": {
+  "title": "Fighting Against Forced Labour and Child Labour in Supply Chains Act",
+  "assented": "2023-05-11"
+ },
+ "S.C. 2023, c. 11": {
+  "title": "Cost of Living Relief Act, No. 3",
+  "assented": "2023-05-11"
+ },
+ "S.C. 2023, c. 12": {
+  "title": "Strengthening Environmental Protection for a Healthier Canada Act",
+  "assented": "2023-06-13"
+ },
  "S.C. 2023, c. 14": {
   "title": "An Act to amend the Criminal Code and to make consequential amendments to other Acts",
   "assented": "2023-06-20"
+ },
+ "S.C. 2023, c. 15": {
+  "title": "An Act for the Substantive Equality of Canada’s Official Languages",
+  "assented": "2023-06-20"
+ },
+ "S.C. 2023, c. 17": {
+  "title": "Canada Disability Benefit Act",
+  "assented": "2023-06-22"
+ },
+ "S.C. 2023, c. 18": {
+  "title": "An Act to amend the Judges Act",
+  "assented": "2023-06-22"
+ },
+ "S.C. 2023, c. 19": {
+  "title": "An Act to amend the Immigration and Refugee Protection Act, to make consequential amendments to other Acts and to amend the Immigration and Refugee Protection Regulations",
+  "assented": "2023-06-22"
+ },
+ "S.C. 2023, c. 21": {
+  "title": "Reuniting Families Act",
+  "assented": "2023-06-22"
  },
  "S.C. 2023, c. 26": {
   "title": "Budget Implementation Act, 2023, No. 1",
@@ -79,9 +255,33 @@
   "title": "An Act to amend the Criminal Code (bail reform)",
   "assented": "2023-12-05"
  },
+ "S.C. 2023, c. 31": {
+  "title": "Affordable Housing and Groceries Act",
+  "assented": "2023-12-15"
+ },
  "S.C. 2023, c. 32": {
   "title": "An Act to amend certain Acts and to make certain consequential amendments (firearms)",
   "assented": "2023-12-15"
+ },
+ "S.C. 2024, c. 3": {
+  "title": "Canada–Ukraine Free Trade Agreement Implementation Act, 2023",
+  "assented": "2024-03-19"
+ },
+ "S.C. 2024, c. 4": {
+  "title": "An Act to amend the Investment Canada Act",
+  "assented": "2024-03-22"
+ },
+ "S.C. 2024, c. 9": {
+  "title": "An Act to amend the Parliament of Canada Act (Parliamentary Visual Artist Laureate)",
+  "assented": "2024-06-20"
+ },
+ "S.C. 2024, c. 14": {
+  "title": "An Act to amend the Chemical Weapons Convention Implementation Act",
+  "assented": "2024-06-20"
+ },
+ "S.C. 2024, c. 21": {
+  "title": "An Act to amend the Canada National Parks Act",
+  "assented": "2024-10-03"
  },
  "S.C. 2024, c. 22": {
   "title": "An Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)",
@@ -90,6 +290,50 @@
  "S.C. 2024, c. 23": {
   "title": "An Act to amend the Criminal Code and to make consequential amendments to other Acts (child sexual abuse and exploitation material)",
   "assented": "2024-10-10"
+ },
+ "S.C. 2024, c. 26": {
+  "title": "An Act to amend the Copyright Act (diagnosis, maintenance and repair)",
+  "assented": "2024-11-07"
+ },
+ "S.C. 2024, c. 27": {
+  "title": "An Act to amend the Copyright Act (interoperability)",
+  "assented": "2024-11-07"
+ },
+ "S.C. 2024, c. 30": {
+  "title": "An Act to amend the Interpretation Act and to make related amendments to other Acts",
+  "assented": "2024-11-27"
+ },
+ "S.C. 2024, c. 31": {
+  "title": "Financial Protection for Fresh Fruit and Vegetable Farmers Act",
+  "assented": "2024-12-12"
+ },
+ "S.C. 2025, c. 1": {
+  "title": "An Act to amend the Department of Foreign Affairs, Trade and Development Act (supply management)",
+  "assented": "2025-06-26"
+ },
+ "S.C. 2025, c. 2": {
+  "title": "One Canadian Economy Act",
+  "assented": "2025-06-26"
+ },
+ "S.C. 2025, c. 5": {
+  "title": "An Act to amend the Citizenship Act (2025)",
+  "assented": "2025-11-20"
+ },
+ "S.C. 2026, c. 1": {
+  "title": "Canada Groceries and Essentials Benefit Act",
+  "assented": "2026-02-12"
+ },
+ "S.C. 2026, c. 2": {
+  "title": "Making Life More Affordable for Canadians Act",
+  "assented": "2026-03-12"
+ },
+ "S.C. 2026, c. 4": {
+  "title": "Strengthening Canada’s Immigration System and Borders Act",
+  "assented": "2026-03-26"
+ },
+ "S.C. 2026, c. 7": {
+  "title": "An Act to implement the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+  "assented": "2026-05-06"
  },
  "S.C. 2026, c. 10": {
   "title": "An Act to amend the Criminal Code (sterilization procedures)",
@@ -107,8 +351,20 @@
   "title": "Combatting Hate Act",
   "assented": "2026-06-18"
  },
+ "S.C. 2026, c. 16": {
+  "title": "An Act to amend the National Defence Act and other Acts",
+  "assented": "2026-06-18"
+ },
  "S.C. 2026, c. 19": {
   "title": "Protecting Victims Act",
+  "assented": "2026-06-18"
+ },
+ "S.C. 2026, c. 20": {
+  "title": "Strong and Free Elections Act",
+  "assented": "2026-06-18"
+ },
+ "S.C. 2026, c. 22": {
+  "title": "Spring Economic Update 2026 Implementation Act",
   "assented": "2026-06-18"
  }
 }

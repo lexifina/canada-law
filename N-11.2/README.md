@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/N-11.2/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-06-20: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-07-09 (the latest from 2026-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,7 +18,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
-| s. 12 | [s-012.md](s-012.md) | 0 |  |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2026-06-20 |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 13.1 | [s-013.1.md](s-013.1.md) | 0 |  |
 | s. 13.2 | [s-013.2.md](s-013.2.md) | 0 |  |

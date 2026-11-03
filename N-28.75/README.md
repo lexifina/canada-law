@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/N-28.75/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-05-27: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2019-08-28 (the latest from 2022-05-27).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -244,4 +244,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 235 | [s-235.md](s-235.md) | 0 |  |
 | Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
 | Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
-| Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |
+| Schedule 3 | [schedule-3.md](schedule-3.md) | 1 | 2022-05-27 |

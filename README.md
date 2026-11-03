@@ -11,7 +11,12 @@ Canada. The record grows Act by Act; the Acts it holds and the period each cover
   in February 2021.
 - **Every other Act, then every regulation**: first its current consolidation alone, from the same repository, dated
   the day of its last amendment in force (its `lastAmendedDate`), committed by the publisher and labelled "oldest
-  version available" (`Record:` trailer). Earlier versions are to be added behind it later, as labelled commits. An
+  version available" (`Record:` trailer). Its earlier versions, from the XML repository's history (2021 on), then
+  follow behind it as labelled correction commits (`Kind: correction`, `Corrects: <act> <from>..<to>`, one per
+  version, oldest first, each holding that version's whole act), and one more correction restores the text in force
+  now at the tip (`Supersedes:` the current-text commit). `tools/on_date.py` and the shared correction reader both
+  read each version on its days. A version is credited to the amending law its historical notes name, where one law
+  explains every file it changed; otherwise to the publisher, with `Candidate:` trailers. An
   Act whose text the reader cannot split into sections is one file, `text.md`, holding the whole text in the same
   line format (`Layout: one file for the whole text`). [`ACTS.md`](ACTS.md) says which is which.
 

@@ -2,13 +2,13 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/H-2.7/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2025-06-02: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2020-03-18 (the latest from 2025-06-02).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Title and long title | [intro.md](intro.md) | 0 |  |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
-| s. 10 | [s-010.md](s-010.md) | 0 |  |
+| s. 10 | [s-010.md](s-010.md) | 2 | 2025-06-02 |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |

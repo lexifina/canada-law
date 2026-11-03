@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-3.7/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2022-06-23: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2020-03-25 (the latest from 2022-06-23).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,7 +12,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 3 | [s-003.md](s-003.md) | 0 |  |
 | s. 4 | [s-004.md](s-004.md) | 0 |  |
 | s. 5 | [s-005.md](s-005.md) | 0 |  |
-| s. 6 | [s-006.md](s-006.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2022-06-23 |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
@@ -21,4 +21,4 @@ The current consolidation in Justice Canada's XML repository, in force from 2022
 | s. 12 | [s-012.md](s-012.md) | 0 |  |
 | s. 13 | [s-013.md](s-013.md) | 0 |  |
 | s. 14 | [s-014.md](s-014.md) | 0 |  |
-| s. 15 | [s-015.md](s-015.md) | 0 |  |
+| s. 15 | [s-015.md](s-015.md) | 1 | 2022-06-23 |

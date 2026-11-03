@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/C-36.4/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2024-06-20: the oldest version available in this record for now.
+2 consolidated versions in Justice Canada's XML repository, from 2014-11-01 (the latest from 2024-06-20).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,7 +15,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2024
 | s. 6 | [s-006.md](s-006.md) | 0 |  |
 | s. 7 | [s-007.md](s-007.md) | 0 |  |
 | s. 8 | [s-008.md](s-008.md) | 0 |  |
-| s. 8.1 | [s-008.1.md](s-008.1.md) | 0 |  |
+| s. 8.1 | [s-008.1.md](s-008.1.md) | 1 | 2024-06-20 |
 | s. 9 | [s-009.md](s-009.md) | 0 |  |
 | s. 10 | [s-010.md](s-010.md) | 0 |  |
 | s. 11 | [s-011.md](s-011.md) | 0 |  |

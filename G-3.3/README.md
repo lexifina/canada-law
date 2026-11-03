@@ -2,7 +2,7 @@
 
 <https://laws-lois.justice.gc.ca/eng/acts/G-3.3/>
 
-The current consolidation in Justice Canada's XML repository, in force from 2026-03-26: the oldest version available in this record for now.
+3 consolidated versions in Justice Canada's XML repository, from 2024-06-20 (the latest from 2026-03-26).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -73,7 +73,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 64 | [s-064.md](s-064.md) | 0 |  |
 | s. 65 | [s-065.md](s-065.md) | 0 |  |
 | s. 66 | [s-066.md](s-066.md) | 0 |  |
-| s. 67 | [s-067.md](s-067.md) | 0 |  |
+| s. 67 | [s-067.md](s-067.md) | 2 | 2026-03-26 |
 | s. 68 | [s-068.md](s-068.md) | 0 |  |
 | s. 69 | [s-069.md](s-069.md) | 0 |  |
 | s. 70 | [s-070.md](s-070.md) | 0 |  |
@@ -83,7 +83,7 @@ The current consolidation in Justice Canada's XML repository, in force from 2026
 | s. 74 | [s-074.md](s-074.md) | 0 |  |
 | s. 75 | [s-075.md](s-075.md) | 0 |  |
 | s. 76 | [s-076.md](s-076.md) | 0 |  |
-| s. 77 | [s-077.md](s-077.md) | 0 |  |
+| s. 77 | [s-077.md](s-077.md) | 2 | 2026-03-26 |
 | s. 78 | [s-078.md](s-078.md) | 0 |  |
 | s. 79 | [s-079.md](s-079.md) | 0 |  |
 | s. 80 | [s-080.md](s-080.md) | 0 |  |
