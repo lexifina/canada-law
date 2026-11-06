@@ -1,5 +1,7 @@
 # Canadian federal law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Canada's federal law, which global-law reads at `canada/federal/acts/`.
+
 Federal Acts of Canada as a git repository: each amending law is one commit, credited to that law and dated the day its
 change took effect, at noon in Ottawa. The text is the English consolidated text published by the Department of Justice
 Canada. The record grows Act by Act; the Acts it holds and the period each covers are in [`ACTS.md`](ACTS.md).
